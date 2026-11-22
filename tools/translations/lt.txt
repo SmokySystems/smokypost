@@ -1,0 +1,330 @@
+3b6e56|Prijunkite savo puslapius, kad galėtumėte bendrinti šį turinį.
+c27b34|Atidaryti „SmokyPost“
+bc871d|Siunčiama dar vyksta. Po kelių minučių patikrinkite skirtuką „Istorija“.
+118c47|Nepavyko susisiekti su „SmokyPost“. Bandykite dar kartą po kelių minučių.
+b090f4|Bendrinti dabar:
+d5c6d5|Bendrinti paskelbus:
+b82400|reikia prijungti iš naujo
+016408|Sava žinutė (neprivaloma)
+06651c|Palikite tuščią, jei norite naudoti savo šabloną.
+1d6da0|Paskelbus bus bendrinama pažymėtose platformose.
+5b18fc|Paskelbus bendrinta automatiškai.
+04b478|Bendrinti dabar
+f4f707|Nustatymai
+4d01e8|Siunčiama…
+834915|Trinama…
+34b1ef|Reikia naujesnės „SmokyPost“ versijos. Atnaujinkite papildinį.
+ed49a3|Platformos
+16d2b3|Istorija
+08bd40|Paskyra
+3b6c2b|Naudojimo sąlygos
+fa2ead|Privatumo politika
+777353|Automatiškai bendrinkite savo įrašus ir puslapius socialiniuose tinkluose. Susikurkite nemokamą paskyrą arba prisijunkite, kad prijungtumėte šią svetainę.
+e05afd|Prijungiant ši svetainė „SmokyPost“ paslaugai (www.smokypost.com) nusiunčia savo adresą, „WordPress“ ir PHP versijas, kalbą bei laiko juostą. Kiekvieno bendrinamo elemento turinys nusiunčiamas bendrinimo metu.
+8ea211|Sukurti nemokamą paskyrą
+1e884e|El. paštas
+6c2c15|Slaptažodis (bent 8 simboliai)
+9ec73e|Sutinku su šiais dokumentais: %1$s ir %2$s.
+5853d4|Sukurti paskyrą ir prijungti
+3b2aee|Jau turiu paskyrą
+dc647e|Slaptažodis
+ac6560|Prisijungti ir prijungti
+422172|Vietoj to naudoti licencijos raktą
+52f88a|Prijungti licencijos raktu
+01a569|Pamiršote slaptažodį?
+733ae3|Siųsti atstatymo nuorodą
+0efe04|Prijunkite kiekvieną platformą ir pasirinkite puslapį ar paskyrą, kurioje ši svetainė bendrins.
+43b540|Neįtraukta į jūsų planą.
+4e7193|Laikinai nepasiekiama. Bandykite vėliau.
+b9ba1a|Ryšys nebegalioja. Prisijunkite iš naujo, kad galėtumėte toliau bendrinti.
+cf0b67|Prijungti iš naujo
+f4ec5f|Keisti
+1063e3|Pašalinti
+7dcd97|Neprijungta.
+49ab28|Prijungti
+2bf7da|Pasirinkite iš savo „Facebook“ prisijungimo
+6330d1|Paskelbia jūsų tekstą ir nuorodą viename iš jūsų „Facebook“ puslapių. Prisijungiate per „Facebook“.
+e33490|Reikalinga profesionali „Instagram“ paskyra, susieta su „Facebook“ puslapiu. Prisijungiate per „Facebook“.
+1abbcd|Paskelbia jūsų tekstą ir nuorodą viename iš jūsų „LinkedIn“ įmonės puslapių. Prisijungiate per „LinkedIn“.
+328737|Paskelbia jūsų tekstą, žymes ir nuorodos kortelę su paveikslėliu jūsų „Bluesky“ paskyroje. Prisijungiate naudotojo vardu ir programos slaptažodžiu.
+9d078b|Paskelbia jūsų tekstą, žymes ir nuorodą jūsų „Mastodon“ paskyroje bet kuriame „Mastodon“ serveryje. „SmokyPost“ patvirtinate savo serveryje.
+b2d2d7|Paskelbia jūsų tekstą ir nuorodos kortelę jūsų „Threads“ profilyje. Prisijungiate per „Threads“.
+5f2e71|Paskelbia jūsų tekstą, žymas ir nuorodos kortelę su paveikslėliu viename iš jūsų „Tumblr“ tinklaraščių. Prisijungiate per „Tumblr“.
+b4f827|Automatinis bendrinimas:
+521c36|Įjungta
+d15305|Išjungta
+8e61d9|Išjungti
+d154a5|Įjungti
+647bd1|Nauji elementai čia bendrinami paskelbus.
+7f9833|Bendrinama tik spustelėjus „Bendrinti dabar“.
+bb7926|Esate prisijungę, tačiau nepavyko parodyti jūsų paskyrų: %s
+f915a9|Bandyti dar kartą
+ea4788|Atšaukti
+0bfd8d|Pirmiausia prijunkite savo paskyrą.
+f85f84|Pirmiausia prisijunkite, kad matytumėte savo puslapius.
+f595ba|Šiam prisijungimui nerasta puslapio ar paskyros, kurioje galite skelbti.
+19c3d3|Įsitikinkite, kad jūsų „Instagram“ paskyra yra profesionali ir susieta su vienu iš jūsų „Facebook“ puslapių.
+5e5f56|(per %s)
+f64a44|Naudoti šią paskyrą
+6c803a|Nematote reikiamo puslapio?
+09a44d|Prisijungti kita paskyra
+04d144|Turinio tipai
+725f6c|Automatiškai bendrinami tik šie tipai, ir tik jiems redaktoriuje rodomas „SmokyPost“ laukas.
+6b0402|Automatinis bendrinimas
+280dc2|Automatiškai bendrinti naujus elementus paskelbus:
+b3b6ce|neprijungta
+daf9e6|Nuimkite platformos žymėjimą, kad joje nebebūtų bendrinama automatiškai. Nuimkite visus žymėjimus, kad išjungtumėte automatinį bendrinimą. Bet kurį elementą visada galite bendrinti patys mygtuku „Bendrinti dabar“ redaktoriuje ar įrašų sąraše, o redaktoriuje galite nuimti platformos žymėjimą atskiram elementui.
+be518a|Automatiškai sukurti elementai
+766287|Bendrinti ir elementus, kuriuos paskelbia kiti papildiniai, importavimo įrankiai, REST API ar WP-CLI
+f5c261|Pagal numatytuosius nustatymus įjungta. Kodo sukurti elementai (pavyzdžiui, automatinis tinklaraštis ar srautų importuotojas) bendrinami pirmiau nurodytose platformose. Išjunkite, jei norite bendrinti tik tai, ką skelbiate redaktoriuje.
+1aaf15|Praleisti importuotus elementus, senesnius nei
+73cddd|val.
+29327b|Elementų trynimas
+295b79|Trinti bendrintus įrašus, kai ištrinamas elementas
+0d9342|Pagal numatytuosius nustatymus išjungta. Kai elementą perkeliate į šiukšlinę arba ištrinate, „SmokyPost“ ištrina ir jo įrašus „Facebook“, „LinkedIn“, „Bluesky“, „Mastodon“, „Threads“ ir „Tumblr“. „Instagram“ neleidžia kitoms programoms trinti įrašų, todėl juos reikia ištrinti „Instagram“ programoje. Atkūrus elementą iš šiukšlinės socialinių tinklų įrašai neatkuriami.
+cb393c|Žinutės šablonas
+6c08da|Vietos žymekliai:
+ffe7a1|Nuorodą kiekviena platforma prideda kaip peržiūros kortelę; „Instagram“ ji pridedama teksto pabaigoje.
+caebe1|Paversti įrašo žymas grotažymėmis platformoms {hashtags}
+f784d5|Numatytasis paveikslėlis
+b89f80|Naudojamas, kai elementas neturi pagrindinio paveikslėlio ir paveikslėlio turinyje. „Instagram“ visada reikalauja paveikslėlio.
+ef1486|Bendrinimai per paskutinę %d dieną. ¦ Bendrinimai per paskutines %d dienas. ¦ Bendrinimai per paskutines %d dienų.
+447497|Data
+7d74f3|Elementas
+8eea62|Rezultatas
+902952|Kol kas nieko nebendrinta.
+5da05b|Išvalyti istoriją
+5ca182|Išvalyti istoriją tam tikroms datoms ar visą? Tai, kas jau bendrinta, lieka jūsų socialiniuose tinkluose. Išvalyti įrašai šiame sąraše nebebus rodomi.
+5da618|Nuo
+e12167|Iki
+95b928|Palikite datą tuščią, jei norite pradėti nuo pirmo įrašo arba baigti šiandiena.
+17cddf|Išvalyti šias datas
+808768|Išvalyti visą istoriją
+03727a|Diena
+7cbb88|Mėnuo
+537c66|Metai
+0b6cbd|Planas
+a77d15|Licencijos raktas
+6db829|Šiandien bendrinta
+b362bb|%1$d iš %2$d elementų
+494eb5|Ši svetainė
+efb548|Atjungti šią svetainę
+4fdc17|Atjungti šią svetainę nuo „SmokyPost“? Bendrinimas sustos, kol vėl prisijungsite.
+e54633|Taip, atjungti
+e2e646|Kaip veikia „Pro“
+377a68|Saugiai sumokėkite per „Paddle“.
+fbc905|Atsisiųskite „SmokyPost Pro“ mygtuku žemiau.
+7f189b|Grįžkite į šį puslapį. Pasirodys mygtukas „Atsisiųsti SmokyPost Pro“, o tą pačią nuorodą atsiųsime ir el. paštu.
+53f719|Įdiekite jį skiltyje Papildiniai > Pridėti naują > Įkelti papildinį ir aktyvinkite. Jūsų licencija aptinkama automatiškai, rakto įvesti nereikia.
+eb475d|„SmokyPost Pro“ yra antrasis papildinys, veikiantis kartu su „SmokyPost“: palikite aktyvius abu. Tai užtrunka maždaug minutę. Visiškas pinigų grąžinimas per 14 dienų nuo pirmojo mokėjimo.
+9fa65e|Jūsų mokėjimas čia rodomas ilgiau nei įprastai. Po kelių minučių perkraukite puslapį. Jei po valandos jūsų planas vis dar „Free“, rašykite adresu info@smokypost.com.
+bec297|Mokėjimas gautas. Jūsų planas netrukus taps aktyvus, šis puslapis tai patikrins pats.
+2c80f9|SmokyPost Pro
+b81f3c|„SmokyPost Pro“ %s įdiegtas ir aktyvus.
+d25d87|Jo nustatymai yra skiltyje SmokyPost > Pro, o kalendorius – SmokyPost > Kalendorius. Jis atnaujinamas pats.
+85e962|„SmokyPost Pro“ įdiegtas, bet neaktyvus. Aktyvinkite jį puslapyje Papildiniai.
+a3bd33|Atidaryti Papildinius
+386940|Atsisiųsti „SmokyPost Pro“
+500b65|Nuoroda galioja vieną valandą. Visada galite grįžti čia naujos.
+e9f36d|Kažkas nepavyko. Bandykite dar kartą.
+6956cc|Planai
+3faa64|Svetainės
+a97de4|Elementų per dieną
+360114|Kaina
+124864|%s per metus
+441f54|Dabartinis planas
+690969|Pereiti prie šio plano
+f68358|Pereiti prie aukštesnio plano
+5d6316|Mokėjimus saugiai apdoroja „Paddle“. Kainos nurodytos JAV doleriais, o mokesčiai pridedami atsiskaitant ten, kur taikomi.
+be0482|Plano keitimas įsigalioja iškart. Tikslią sumą pamatysite ir patvirtinsite prieš nuskaitant bet kokias lėšas.
+97788c|Tvarkyti prenumeratą
+1a7066|Atšaukti ir susigrąžinti pinigus
+b2c3ec|Pinigus galima susigrąžinti per 14 dienų nuo pirmojo mokėjimo. Pratęsimą bet kada galite sustabdyti skiltyje „Tvarkyti prenumeratą“.
+b1c55c|Klausimų dėl mokėjimo? Rašykite adresu info@smokypost.com.
+a0d458|Galite atšaukti prenumeratą ir gauti visą pinigų grąžinimą iki %s.
+361f28|Atšaukti ir gauti pinigus atgal
+9b3448|Atšaukti prenumeratą ir gauti visą pinigų grąžinimą? Viskas, ką sumokėjote, bus grąžinta į kortelę, kuria mokėjote. Už panaudotas dienas niekas nepasilieka. Jūsų planas baigiasi iškart, o ši svetainė grįžta prie „Free“.
+1e81d7|Taip, atšaukti ir grąžinti pinigus
+ee6085|Starter
+abd900|Pro
+75ec3e|Agency
+0222db|Pereiti prie %s
+71d986|Šiandien iš kortelės, kuria mokėjote, bus nuskaityta %1$s (%2$s).
+a503a7|Šiandien iš kortelės, kuria mokėjote, bus nuskaityta %s.
+237ece|Kitas pratęsimas lieka %s.
+cb540f|Šiandien nieko nenuskaitoma.
+1d46af|Kainos skirtumas bus įskaitytas kito pratęsimo metu, %s.
+937bcf|Kainos skirtumas bus įskaitytas kito pratęsimo metu.
+bd4a14|Tęsti?
+cd1df7|Taip, nuskaityti %s
+6abb41|Taip, pakeisti planą
+17129e|Norite mokėti kita kortele? Atidarykite „Tvarkyti prenumeratą“, atnaujinkite mokėjimo būdą ir dar kartą pakeiskite planą.
+d4192d|kuri baigiasi %s
+d4fbfe|%1$s, kuri baigiasi %2$s
+b24ce0|Free
+9086fc|Bendrinimas sustabdytas, kol nepatvirtinsite savo el. pašto adreso.
+dbf504|Patvirtinkite savo el. pašto adresą. Jei to nepadarysite, bendrinimas bus sustabdytas po %d dienos. ¦ Patvirtinkite savo el. pašto adresą. Jei to nepadarysite, bendrinimas bus sustabdytas po %d dienų. ¦ Patvirtinkite savo el. pašto adresą. Jei to nepadarysite, bendrinimas bus sustabdytas po %d dienų.
+933999|Siųsti nuorodą dar kartą
+feb3a3|„Bluesky“ naudotojo vardas
+65255b|Programos slaptažodis
+63d12d|Naudokite programos slaptažodį, o ne pagrindinį „Bluesky“ slaptažodį. Jį gali naudoti tik tokios programos kaip ši, o „Bluesky“ jį bet kada galite ištrinti.
+4adaf4|Kaip gauti programos slaptažodį?
+5c312e|Atidarykite %s (arba „Bluesky“: Nustatymai > Privatumas ir sauga > Programų slaptažodžiai).
+9a01be|Spustelėkite „Add App Password“ ir pavadinkite jį SmokyPost.
+61e507|Nukopijuokite „Bluesky“ parodytą slaptažodį ir įklijuokite jį čia.
+bd4bac|Jūsų „Mastodon“ serveris
+9279eb|Serverio, kuriame yra jūsų paskyra, adresas, pavyzdžiui, mastodon.social, arba jūsų pilnas vardas formatu @vardas@mastodon.social. „SmokyPost“ patvirtinsite tame serveryje.
+f8b4c2|Prisijungta. Dabar pasirinkite paskyrą, kurioje ši svetainė bendrins.
+5bb110|Prisijungimas atšauktas.
+262cb9|Prisijungti nepavyko. Bandykite dar kartą.
+bcbbc8|Verta žinoti:
+914602|„SmokyPost“ automatiškai bendrina naujus įrašus paskelbus, įskaitant kitų papildinių, importavimo įrankių ar REST API sukurtus įrašus. Automatinį bendrinimą kiekvienai platformai galite įjungti arba išjungti jos kortelėje žemiau arba Nustatymuose.
+78e981|Supratau
+bae082|Atidaryti nustatymus
+8beb61|„SmokyPost“ beveik paruoštas.
+4f4267|Prijungti šią svetainę
+2835b7|Neturite teisės to daryti.
+811723|Įveskite tinkamą el. pašto adresą.
+4b52c9|Įveskite slaptažodį.
+cacd72|Naudokite bent 8 simbolių slaptažodį.
+270228|Sutikite su Naudojimo sąlygomis ir Privatumo politika.
+c570e4|Jūsų paskyra paruošta, o ši svetainė prijungta. Išsiuntėme jums el. laišką adresui patvirtinti.
+e4912d|Prisijungta. Ši svetainė prijungta.
+a41cc2|Įveskite licencijos raktą.
+1448bb|Licencija aktyvinta. Ši svetainė prijungta.
+025e69|Jei šiam adresui yra paskyra, išsiuntėme slaptažodžio atstatymo nuorodą.
+19d2aa|Ši svetainė atjungta nuo „SmokyPost“.
+ee3077|Pasirinkite tinkamas datas.
+12381e|Pirmoji data turi būti ankstesnė už paskutinę.
+fd4f8f|Iš istorijos išvalytas %d elementas. ¦ Iš istorijos išvalyti %d elementai. ¦ Iš istorijos išvalyta %d elementų.
+26d353|Nebuvo ką valyti. Įrašai, kurie dar siunčiami, lieka sąraše.
+b9a702|Patvirtinimo nuorodą išsiuntėme dar kartą.
+12bb90|Prijungta. Dabar pasirinkite paskyrą, kurioje ši svetainė bendrins.
+c4effa|Šis plano keitimas nebegalioja. Pasirinkite planą iš naujo.
+5e77be|Jūsų planas keičiamas. Gali užtrukti minutę, kol tai pasirodys čia.
+d8d639|Pinigų grąžinimas užsakytas, prenumerata atšaukta. „Paddle“ grąžina pinigus į kortelę, kuria mokėjote; tai gali užtrukti kelias dienas.
+82bf3a|%1$s dabar prijungta prie %2$s.
+9a7e58|Nustatymai išsaugoti.
+5677c1|Automatinis bendrinimas platformoje %s įjungtas.
+fa4524|Automatinis bendrinimas platformoje %s išjungtas.
+0a2f60|Nebendrinta
+498cc4|Bendrinti per „SmokyPost“
+90929c|%d elementas įtrauktas į bendrinimo eilę. ¦ %d elementai įtraukti į bendrinimo eilę. ¦ %d elementų įtraukta į bendrinimo eilę.
+81b7e8|%d elemento nepavyko bendrinti; žr. „SmokyPost“ stulpelį. ¦ %d elementų nepavyko bendrinti; žr. „SmokyPost“ stulpelį. ¦ %d elementų nepavyko bendrinti; žr. „SmokyPost“ stulpelį.
+f75f84|Ši svetainė dar neprijungta prie „SmokyPost“.
+10112f|Bendrinamas paveikslėlis
+e57b53|Pasirinkta bendrinti
+85eb5a|Pasirinkti kitą paveikslėlį
+7cd243|Pasirinkti paveikslėlį
+f6b9f8|Naudoti automatinį pasirinkimą
+4c8d06|Šio elemento paveikslėliai:
+4f63a3|Naudoti šį paveikslėlį
+e6fce5|Atnaujinus elementą jis nebendrinamas iš naujo. Spustelėkite „Bendrinti dabar“, kad jį bendrintumėte.
+52beb6|Įrašo pagrindinis paveikslėlis
+860133|Pirmasis paveikslėlis turinyje (šis elementas neturi pagrindinio paveikslėlio)
+662aa1|Numatytasis paveikslėlis iš „SmokyPost“ nustatymų (šis elementas neturi paveikslėlio)
+c28cf8|„Instagram“ reikalauja paveikslėlio, o šis elementas jo neturi. Pridėkite pagrindinį paveikslėlį arba paveikslėlį turinyje, kitaip jis nebus bendrinamas „Instagram“.
+1b1025|Bendrinti (neprivaloma)
+d9c5f4|Formatas: %1$s, pagal jūsų svetainės laiką (%2$s). Palikite tuščią, jei norite bendrinti iškart.
+03f222|Tai nepanašu į datą ir laiką. Naudokite formatą MMMM-MM-DD VV:MM, pavyzdžiui, 2026-12-31 18:30.
+25f734|Suplanuoti
+fe3b13|Atšaukti suplanuotą bendrinimą
+87b913|Ištrinti bendrintus įrašus
+b21c60|Taip, ištrinti
+165825|Išsaugokite elementą, kad pakeitimas įsigaliotų.
+9fb721|Neturite teisės bendrinti šio elemento.
+d0bfeb|Nėra ką bendrinti: pasirinkite bent vieną prijungtą platformą.
+9b3811|Siunčiama… Galite išeiti iš šio puslapio, bendrinimas tęsiamas fone.
+6a5c54|Suplanuota %s. Galite išeiti iš šio puslapio.
+97c806|Šiam elementui nieko nesuplanuota.
+4e96d7|Suplanuotas bendrinimas atšauktas.
+2b0bb4|Nėra ko atšaukti: jau išsiųsta.
+e4c50f|Ištrinti bendrintus įrašus iš %s? Pats elementas lieka jūsų svetainėje.
+fe2165|Įrašų platformoje %s iš čia ištrinti negalima. Ištrinkite juos patys programoje.
+0f2121|Neturite teisės keisti šio elemento.
+605da5|Šiam elementui nėra ką trinti.
+46dc65|Trinama… Galite išeiti iš šio puslapio, trynimas tęsiamas fone.
+a3787e|Baigta, bet kažkas nepavyko. Žr. žemiau.
+f59405|Atlikta.
+50321d|Kas 5 minutes („SmokyPost“)
+67cfe6|Nebendrinta „Instagram“: „Instagram“ reikalauja paveikslėlio, o šis elementas jo neturi. Pridėkite pagrindinį paveikslėlį arba paveikslėlį turinyje.
+398d9f|Nebendrinta: reikia paveikslėlio
+e44fa2|Bendrinta (ištrinkite patys programoje)
+a6156e|Bendrinta
+d98139|Klaida: %s
+d7c8c8|Klaida
+a149e8|Atšaukta
+e3f04d|Trinama…
+93f07b|Ištrinta
+1c5338|Ištrinti nepavyko: %s
+d581ce|Ištrinti nepavyko
+6c7650|Laukiama: pasiektas dienos limitas, bus bendrinama po vidurnakčio
+ccef9c|Laukiama: patvirtinkite savo el. pašto adresą
+a97547|Suplanuota %s
+923d48|Netrukus bus bandoma dar kartą
+7b2f31|Eilėje
+bc1f89|Ryšys nebegalioja. Prisijunkite iš naujo „SmokyPost“.
+a608e9|Šiai platformai nepasirinktas puslapis ar paskyra.
+347591|Ši svetainė nebeprijungta prie „SmokyPost“.
+ecd22a|Jūsų „SmokyPost“ paskyra ar licencija neaktyvi.
+4b472d|Ši platforma neįtraukta į jūsų planą.
+852d39|Platforma neleido paskelbti. Įsitikinkite, kad vis dar esate puslapio administratorius, ir prisijunkite iš naujo.
+5e0173|Platforma užblokavo šį įrašą.
+c939dc|Platforma atmetė šį įrašą kaip dublikatą.
+b96b3f|„Instagram“ reikalauja paveikslėlio. Pridėkite įrašui pagrindinį paveikslėlį.
+191240|Platforma negalėjo naudoti paveikslėlio. Išbandykite JPEG arba PNG paveikslėlį, kurio plotis bent 600 pikselių.
+28b253|Paveikslėlio nepavyko nuskaityti. Naudokite JPEG, PNG arba WebP.
+08c673|Paveikslėlis per mažas. Naudokite paveikslėlį, kurio plotis bent 600 pikselių.
+e99a00|„SmokyPost“ nepavyko atsisiųsti paveikslėlio iš jūsų svetainės.
+7f8957|Paveikslėlio nepavyko paruošti.
+7fa12c|Platforma buvo nepasiekiama. „SmokyPost“ bandė kelis kartus.
+bd9611|Nepavyko susisiekti su platforma. „SmokyPost“ bandė kelis kartus.
+582ab1|„Instagram“ laiku nepriėmė paveikslėlio.
+c19c4c|Platforma atmetė įrašą.
+8a0741|Paskyra, paskelbusi šį įrašą, nebeprijungta. Ištrinkite įrašą patys platformoje.
+ad0394|Šio įrašo negalima ištrinti automatiškai. Ištrinkite jį patys platformoje.
+eb851e|SmokyPost – Automatinis dalijimasis socialiniuose tinkluose įrašams ir puslapiams
+6b6724|Automatiškai dalinkitės naujais ir senais įrašais bei puslapiais savo socialinių tinklų paskyrose. Kūrėjo paskyrų ar API raktų nereikia.
+a274f4|Pranešimai
+777ca2|Siųsti man el. laišką, kai
+28c682|bendrinimas nepavyksta
+ecb9b9|turinys bendrinamas
+8daff7|Gaunate vieną el. laišką už turinį. Apie nepavykusį bendrinimą pranešama, kai SmokyPost pabando kelis kartus, o apie tą pačią problemą toje pačioje platformoje — kartą per dieną. El. laiškas apie pasibaigusį ryšį siunčiamas visada.
+ec7339|Siųsti el. laiškus adresais
+939f28|Kelis adresus atskirkite kableliais. Palikite tuščią, kad būtų naudojamas svetainės administratoriaus adresas (%s).
+c2239a|SMTP
+00c7c2|Siųsti „SmokyPost“ el. laiškus per SMTP paskyrą
+5efbcc|Naudokite, jei jūsų svetainės el. laiškai nepasiekia gavėjų. Šią paskyrą naudoja tik „SmokyPost“ el. laiškai, kiti svetainės el. laiškai nekeičiami. „SmokyPost“ nereikia atskiro SMTP papildinio.
+bdd48f|SMTP serveris
+60aaf4|Prievadas
+d7f261|Šifravimas
+413acc|TLS (dažniausiai 587 prievadas)
+68b181|SSL (dažniausiai 465 prievadas)
+151adf|Be šifravimo
+f6039d|Naudotojo vardas
+c6e6fb|Slaptažodis nustatytas faile wp-config.php.
+0b5899|Slaptažodis išsaugotas. Palikite tuščią, jei norite jį išlaikyti.
+d7381f|Pašalinti išsaugotą slaptažodį
+7b710d|Slaptažodis saugomas užšifruotas ir daugiau niekada nerodomas. „Gmail“ ir „Outlook“ naudokite programėlės slaptažodį.
+491147|Siuntėjo el. paštas
+7508f2|Dauguma teikėjų priima tik paskyrai priklausantį adresą.
+c3a7ea|Siuntėjo vardas
+f5d604|Išsaugoti pakeitimus
+f970b9|Siųsti bandomąjį el. laišką
+81f545|Bandomasis el. laiškas pirmiausia išsaugo aukščiau esančias reikšmes, o tada jas naudoja.
+1f2def|„SmokyPost“ bandomasis el. laiškas
+2738c4|Tai bandomasis „SmokyPost“ el. laiškas. Jei galite jį perskaityti, „SmokyPost“ el. laiškai jus pasiekia.
+170c1a|Bandomasis el. laiškas išsiųstas adresu %s. Patikrinkite gautuosius ir šlamšto aplanką.
+15a320|Bandomojo el. laiško nepavyko išsiųsti: %s Patikrinkite serverį, prievadą ir šifravimą.
+11d6a3|Bandomojo el. laiško nepavyko išsiųsti. Patikrinkite serverį, prievadą ir šifravimą.
+eb4da2|Iš naujo prijunkite %s
+97ec08|Ryšys su %1$s pasibaigė, todėl naujo turinio ten bendrinti negalima. Prijunkite iš naujo: %2$s
+e6a17f|Nepavyko bendrinti: %s
+4bde81|„%s“ nepavyko bendrinti visur:
+f7ca6b|Bendrinta: %s
+1c747d|„%s“ bendrinta:
+89ae90|„SmokyPost“: pasiektas dienos limitas
+8b9f2b|Pasiektas jūsų plano dienos limitas. Likęs turinys bendrinamas po vidurnakčio.
+591804|Atidaryti turinį: %s
+f4f486|Istorija: %s
+2396c6|Gaunate šį el. laišką, nes „SmokyPost“ pranešimai įjungti svetainei %1$s. Čia galite pakeisti, kas juos gauna, arba juos išjungti: %2$s

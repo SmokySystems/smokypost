@@ -1,0 +1,1434 @@
+# Copyright (C) 2026 SmokySystems
+# This file is distributed under the GPL-2.0-or-later.
+msgid ""
+msgstr ""
+"Project-Id-Version: SmokyPost\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Domain: smokypost\n"
+"Language: lv\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : 2);\n"
+
+#: assets/js/editor.js:159 includes/Editor.php:199
+msgid "Connect your pages to share this item."
+msgstr "Pievienojiet savas lapas, lai kopīgotu šo saturu."
+
+#: assets/js/editor.js:160 includes/Editor.php:199
+msgid "Open SmokyPost"
+msgstr "Atvērt SmokyPost"
+
+#: assets/js/editor.js:178 includes/Admin/Page.php:76
+msgid "Still sending. Check the History tab in a few minutes."
+msgstr "Sūtīšana vēl notiek. Pēc dažām minūtēm pārbaudiet cilni Vēsture."
+
+#: assets/js/editor.js:238 assets/js/editor.js:261 assets/js/editor.js:288 includes/Api.php:106
+msgid "SmokyPost could not be reached. Please try again in a few minutes."
+msgstr "Neizdevās sazināties ar SmokyPost. Mēģiniet vēlreiz pēc dažām minūtēm."
+
+#: assets/js/editor.js:298 includes/Editor.php:208
+msgid "Share now to:"
+msgstr "Kopīgot tūlīt:"
+
+#: assets/js/editor.js:298 includes/Editor.php:208
+msgid "Share when published to:"
+msgstr "Kopīgot publicējot:"
+
+#: assets/js/editor.js:300
+msgid "reconnect needed"
+msgstr "nepieciešama atkārtota savienošana"
+
+#: assets/js/editor.js:313 includes/Editor.php:214
+msgid "Custom message (optional)"
+msgstr "Pašu ziņa (neobligāti)"
+
+#: assets/js/editor.js:314
+msgid "Leave empty to use your template."
+msgstr "Atstājiet tukšu, lai izmantotu savu veidni."
+
+#: assets/js/editor.js:333
+msgid "Shared to the ticked platforms when you publish."
+msgstr "Publicējot tiks kopīgots atzīmētajās platformās."
+
+#: assets/js/editor.js:336
+msgid "Shared automatically when it was published."
+msgstr "Publicējot kopīgots automātiski."
+
+#: assets/js/editor.js:339 includes/Editor.php:232
+msgid "Share now"
+msgstr "Kopīgot tūlīt"
+
+#: includes/Admin/Page.php:43 includes/Admin/Page.php:122
+msgid "Settings"
+msgstr "Iestatījumi"
+
+#: includes/Admin/Page.php:74 includes/Status.php:87
+msgid "Sending…"
+msgstr "Sūta…"
+
+#: includes/Admin/Page.php:75 includes/Editor.php:150
+msgid "Deleting…"
+msgstr "Dzēš…"
+
+#: includes/Admin/Page.php:113
+msgid "A newer version of SmokyPost is required. Please update the plugin."
+msgstr "Nepieciešama jaunāka SmokyPost versija. Atjauniniet spraudni."
+
+#: includes/Admin/Page.php:121
+msgid "Platforms"
+msgstr "Platformas"
+
+#: includes/Admin/Page.php:123
+msgid "History"
+msgstr "Vēsture"
+
+#: includes/Admin/Page.php:124
+msgid "Notifications"
+msgstr "Paziņojumi"
+
+#: includes/Admin/Page.php:125 includes/Admin/Page.php:558
+msgid "Account"
+msgstr "Konts"
+
+#: includes/Admin/Page.php:156
+msgid "Terms of Service"
+msgstr "Lietošanas noteikumi"
+
+#: includes/Admin/Page.php:157
+msgid "Privacy Policy"
+msgstr "Privātuma politika"
+
+#: includes/Admin/Page.php:158
+msgid "Share your posts and pages to your social media accounts automatically. Create a free account or sign in to connect this site."
+msgstr "Automātiski kopīgojiet savus rakstus un lapas sociālajos tīklos. Izveidojiet bezmaksas kontu vai pierakstieties, lai savienotu šo vietni."
+
+#: includes/Admin/Page.php:159
+msgid "When you connect, this site sends its address, WordPress and PHP versions, language and time zone to the SmokyPost service (www.smokypost.com). The content of each item you share is sent when it is shared."
+msgstr "Savienojot šī vietne nosūta SmokyPost pakalpojumam (www.smokypost.com) savu adresi, WordPress un PHP versijas, valodu un laika joslu. Katra kopīgotā vienuma saturs tiek nosūtīts kopīgošanas brīdī."
+
+#: includes/Admin/Page.php:163
+msgid "Create a free account"
+msgstr "Izveidot bezmaksas kontu"
+
+#: includes/Admin/Page.php:165 includes/Admin/Page.php:174 includes/Admin/Page.php:187
+msgid "E-mail"
+msgstr "E-pasts"
+
+#: includes/Admin/Page.php:166
+msgid "Password (at least 8 characters)"
+msgstr "Parole (vismaz 8 rakstzīmes)"
+
+#. translators: 1: Terms of Service link, 2: Privacy Policy link
+#: includes/Admin/Page.php:168
+#, php-format
+msgid "I accept the %1$s and the %2$s."
+msgstr "Piekrītu šiem dokumentiem: %1$s un %2$s."
+
+#: includes/Admin/Page.php:169
+msgid "Create account and connect"
+msgstr "Izveidot kontu un savienot"
+
+#: includes/Admin/Page.php:172
+msgid "I already have an account"
+msgstr "Man jau ir konts"
+
+#: includes/Admin/Page.php:175 includes/Admin/Page.php:445
+msgid "Password"
+msgstr "Parole"
+
+#: includes/Admin/Page.php:176
+msgid "Sign in and connect"
+msgstr "Pierakstīties un savienot"
+
+#: includes/Admin/Page.php:179
+msgid "Use a license key instead"
+msgstr "Tā vietā izmantot licences atslēgu"
+
+#: includes/Admin/Page.php:182
+msgid "Connect with license key"
+msgstr "Savienot ar licences atslēgu"
+
+#: includes/Admin/Page.php:185
+msgid "Forgot your password?"
+msgstr "Aizmirsāt paroli?"
+
+#: includes/Admin/Page.php:188
+msgid "Send reset link"
+msgstr "Sūtīt atiestatīšanas saiti"
+
+#: includes/Admin/Page.php:207
+msgid "Connect each platform and choose the page or account this site shares to."
+msgstr "Savienojiet katru platformu un izvēlieties lapu vai kontu, kurā šī vietne kopīgos."
+
+#: includes/Admin/Page.php:222
+msgid "Not included in your plan."
+msgstr "Nav iekļauts jūsu plānā."
+
+#: includes/Admin/Page.php:226
+msgid "Temporarily unavailable. Please try again later."
+msgstr "Īslaicīgi nav pieejams. Mēģiniet vēlāk."
+
+#: includes/Admin/Page.php:237
+msgid "The connection has expired. Connect again to keep sharing."
+msgstr "Savienojuma derīgums beidzies. Savienojiet vēlreiz, lai turpinātu kopīgot."
+
+#: includes/Admin/Page.php:238
+msgid "Connect again"
+msgstr "Savienot vēlreiz"
+
+#: includes/Admin/Page.php:241
+msgid "Change"
+msgstr "Mainīt"
+
+#: includes/Admin/Page.php:243
+msgid "Remove"
+msgstr "Noņemt"
+
+#: includes/Admin/Page.php:247
+msgid "Not connected."
+msgstr "Nav savienots."
+
+#: includes/Admin/Page.php:249 includes/Admin/Page.php:341
+msgid "Connect"
+msgstr "Savienot"
+
+#: includes/Admin/Page.php:253
+msgid "Choose from your Facebook login"
+msgstr "Izvēlēties no jūsu Facebook pierakstīšanās"
+
+#: includes/Admin/Page.php:277
+msgid "Posts your text and a link to one of your Facebook Pages. You sign in with Facebook."
+msgstr "Publicē jūsu tekstu un saiti vienā no jūsu Facebook lapām. Jūs pierakstāties, izmantojot Facebook."
+
+#: includes/Admin/Page.php:279
+msgid "Needs an Instagram professional account linked to a Facebook Page. You sign in with Facebook."
+msgstr "Nepieciešams profesionāls Instagram konts, kas saistīts ar Facebook lapu. Jūs pierakstāties, izmantojot Facebook."
+
+#: includes/Admin/Page.php:281
+msgid "Posts your text and a link to one of your LinkedIn company pages. You sign in with LinkedIn."
+msgstr "Publicē jūsu tekstu un saiti vienā no jūsu LinkedIn uzņēmuma lapām. Jūs pierakstāties, izmantojot LinkedIn."
+
+#: includes/Admin/Page.php:283
+msgid "Posts your text, hashtags and a link card with the picture to your Bluesky account. You connect with your handle and an app password."
+msgstr "Publicē jūsu tekstu, tēmturus un saites karti ar attēlu jūsu Bluesky kontā. Jūs savienojaties ar lietotājvārdu un lietotnes paroli."
+
+#: includes/Admin/Page.php:285
+msgid "Posts your text, hashtags and a link to your Mastodon account on any Mastodon server. You approve SmokyPost on your own server."
+msgstr "Publicē jūsu tekstu, tēmturus un saiti jūsu Mastodon kontā jebkurā Mastodon serverī. SmokyPost apstiprināt savā serverī."
+
+#: includes/Admin/Page.php:287
+msgid "Posts your text and a link card to your Threads profile. You sign in with Threads."
+msgstr "Publicē jūsu tekstu un saites karti jūsu Threads profilā. Jūs pierakstāties, izmantojot Threads."
+
+#: includes/Admin/Page.php:289
+msgid "Posts your text, tags and a link card with the picture to one of your Tumblr blogs. You sign in with Tumblr."
+msgstr "Publicē jūsu tekstu, atzīmes un saites karti ar attēlu vienā no jūsu Tumblr emuāriem. Jūs pierakstāties, izmantojot Tumblr."
+
+#: includes/Admin/Page.php:304
+msgid "Automatic sharing:"
+msgstr "Automātiska kopīgošana:"
+
+#: includes/Admin/Page.php:304
+msgid "On"
+msgstr "Ieslēgta"
+
+#: includes/Admin/Page.php:304
+msgid "Off"
+msgstr "Izslēgta"
+
+#: includes/Admin/Page.php:305
+msgid "Turn off"
+msgstr "Izslēgt"
+
+#: includes/Admin/Page.php:305
+msgid "Turn on"
+msgstr "Ieslēgt"
+
+#: includes/Admin/Page.php:306
+msgid "New items are shared here when they are published."
+msgstr "Jaunie vienumi šeit tiek kopīgoti publicējot."
+
+#: includes/Admin/Page.php:306
+msgid "Only shared when you click \"Share now\"."
+msgstr "Kopīgo tikai tad, kad noklikšķināt uz “Kopīgot tūlīt”."
+
+#. translators: %s: reason
+#: includes/Admin/Page.php:322
+#, php-format
+msgid "You are signed in, but your accounts could not be listed: %s"
+msgstr "Jūs esat pierakstījies, taču jūsu kontus neizdevās parādīt: %s"
+
+#: includes/Admin/Page.php:323
+msgid "Try again"
+msgstr "Mēģināt vēlreiz"
+
+#: includes/Admin/Page.php:323 includes/Admin/Page.php:361 includes/Admin/Page.php:524 includes/Admin/Page.php:576 includes/Admin/Page.php:716 includes/Admin/Page.php:772 includes/Editor.php:149 includes/Editor.php:481
+msgid "Cancel"
+msgstr "Atcelt"
+
+#: includes/Admin/Page.php:328
+msgid "Connect your account first."
+msgstr "Vispirms savienojiet savu kontu."
+
+#: includes/Admin/Page.php:328
+msgid "Sign in first to see your pages."
+msgstr "Vispirms pierakstieties, lai redzētu savas lapas."
+
+#: includes/Admin/Page.php:329
+msgid "No page or account with posting rights was found for this login."
+msgstr "Šai pierakstīšanās reizei nav atrasta lapa vai konts, kurā varat publicēt."
+
+#: includes/Admin/Page.php:331
+msgid "Check that your Instagram account is a professional account and is linked to one of your Facebook Pages."
+msgstr "Pārliecinieties, ka jūsu Instagram konts ir profesionāls un saistīts ar vienu no jūsu Facebook lapām."
+
+#. translators: %s: name of the person who signed in
+#: includes/Admin/Page.php:355
+#, php-format
+msgid "(via %s)"
+msgstr "(izmantojot %s)"
+
+#: includes/Admin/Page.php:360
+msgid "Use this account"
+msgstr "Izmantot šo kontu"
+
+#: includes/Admin/Page.php:363
+msgid "Missing a page?"
+msgstr "Neredzat īsto lapu?"
+
+#: includes/Admin/Page.php:364
+msgid "Sign in with another account"
+msgstr "Pierakstīties ar citu kontu"
+
+#: includes/Admin/Page.php:377
+msgid "Content types"
+msgstr "Satura veidi"
+
+#: includes/Admin/Page.php:381
+msgid "Only these types are shared automatically and get the SmokyPost box in the editor."
+msgstr "Automātiski tiek kopīgoti tikai šie veidi, un tikai tiem redaktorā ir SmokyPost lodziņš."
+
+#: includes/Admin/Page.php:383
+msgid "Automatic sharing"
+msgstr "Automātiska kopīgošana"
+
+#: includes/Admin/Page.php:384
+msgid "Share new items automatically when they are published to:"
+msgstr "Automātiski kopīgot jaunos vienumus, tos publicējot:"
+
+#: includes/Admin/Page.php:386
+msgid "not connected"
+msgstr "nav savienots"
+
+#: includes/Admin/Page.php:389
+msgid "Untick a platform to stop automatic sharing to it. Untick all to turn automatic sharing off. You can still share any item yourself with \"Share now\" in the editor or the post list, and untick a platform for a single item in the editor."
+msgstr "Noņemiet atzīmi platformai, lai tajā pārtrauktu automātisku kopīgošanu. Noņemiet visas atzīmes, lai izslēgtu automātisko kopīgošanu. Jebkuru vienumu vienmēr varat kopīgot pats ar pogu “Kopīgot tūlīt” redaktorā vai ierakstu sarakstā, un redaktorā varat noņemt platformas atzīmi atsevišķam vienumam."
+
+#: includes/Admin/Page.php:391
+msgid "Automatically created items"
+msgstr "Automātiski izveidoti vienumi"
+
+#: includes/Admin/Page.php:391
+msgid "Also share items published by other plugins, importers, the REST API or WP-CLI"
+msgstr "Kopīgot arī vienumus, ko publicē citi spraudņi, importētāji, REST API vai WP-CLI"
+
+#: includes/Admin/Page.php:392
+msgid "On by default. Items created by code (for example an autoblog or a feed importer) are shared to the platforms above. Turn this off if you only want to share what you publish in the editor."
+msgstr "Pēc noklusējuma ieslēgts. Koda izveidotie vienumi (piemēram, automātiskais emuārs vai plūsmu importētājs) tiek kopīgoti iepriekš norādītajās platformās. Izslēdziet, ja vēlaties kopīgot tikai to, ko publicējat redaktorā."
+
+#: includes/Admin/Page.php:393
+msgid "Skip imported items older than"
+msgstr "Izlaist importētos vienumus, kas vecāki par"
+
+#: includes/Admin/Page.php:393
+msgid "hours"
+msgstr "st."
+
+#: includes/Admin/Page.php:395
+msgid "Deleting items"
+msgstr "Vienumu dzēšana"
+
+#: includes/Admin/Page.php:395
+msgid "Delete the shared posts when the item is deleted"
+msgstr "Dzēst kopīgotos ierakstus, kad vienums tiek dzēsts"
+
+#: includes/Admin/Page.php:396
+msgid "Off by default. When you move an item to the trash or delete it, SmokyPost also removes its posts from Facebook, LinkedIn, Bluesky, Mastodon, Threads and Tumblr. Instagram does not allow other apps to delete posts, so those have to be deleted in the Instagram app. Restoring an item from the trash does not bring the social posts back."
+msgstr "Pēc noklusējuma izslēgts. Kad vienumu pārvietojat uz atkritni vai izdzēšat, SmokyPost izdzēš arī tā ierakstus Facebook, LinkedIn, Bluesky, Mastodon, Threads un Tumblr. Instagram neatļauj citām lietotnēm dzēst ierakstus, tāpēc tie jāizdzēš Instagram lietotnē. Vienuma atjaunošana no atkritnes neatjauno ierakstus sociālajos tīklos."
+
+#: includes/Admin/Page.php:398
+msgid "Message template"
+msgstr "Ziņas veidne"
+
+#: includes/Admin/Page.php:400
+msgid "Placeholders:"
+msgstr "Vietturi:"
+
+#: includes/Admin/Page.php:400
+msgid "The link is added by each platform as a preview card; on Instagram it is added to the end of the text."
+msgstr "Saiti katra platforma pievieno kā priekšskatījuma karti; Instagram tā tiek pievienota teksta beigās."
+
+#: includes/Admin/Page.php:401
+msgid "Turn post tags into hashtags for {hashtags}"
+msgstr "Pārvērst ieraksta atzīmes tēmturos platformām {hashtags}"
+
+#: includes/Admin/Page.php:403
+msgid "Default image"
+msgstr "Noklusējuma attēls"
+
+#: includes/Admin/Page.php:404
+msgid "Used when an item has no featured image and no image in its content. Instagram always needs an image."
+msgstr "Izmanto, ja vienumam nav izceltā attēla un attēla saturā. Instagram vienmēr nepieciešams attēls."
+
+#: includes/Admin/Page.php:418
+msgid "E-mail me when"
+msgstr "Sūtīt man e-pastu, kad"
+
+#: includes/Admin/Page.php:419
+msgid "a share fails"
+msgstr "kopīgošana neizdodas"
+
+#: includes/Admin/Page.php:420
+msgid "an item was shared"
+msgstr "saturs ir kopīgots"
+
+#: includes/Admin/Page.php:421
+msgid "You get one e-mail per item. A failed share is reported after SmokyPost has tried several times, and the same problem on the same platform is reported once a day. An e-mail that a connection has expired is always sent."
+msgstr "Jūs saņemat vienu e-pastu par saturu. Par neizdevušos kopīgošanu paziņo pēc tam, kad SmokyPost ir mēģinājis vairākas reizes, bet par to pašu problēmu tajā pašā platformā — reizi dienā. E-pasts par savienojuma derīguma beigām tiek sūtīts vienmēr."
+
+#: includes/Admin/Page.php:423
+msgid "Send e-mails to"
+msgstr "Sūtīt e-pastus uz"
+
+#. translators: %s: e-mail address
+#: includes/Admin/Page.php:426
+#, php-format
+msgid "Separate several addresses with commas. Leave empty to use the administrator address of this site (%s)."
+msgstr "Vairākas adreses atdaliet ar komatiem. Atstājiet tukšu, lai izmantotu vietnes administratora adresi (%s)."
+
+#: includes/Admin/Page.php:428
+msgid "SMTP"
+msgstr "SMTP"
+
+#: includes/Admin/Page.php:429
+msgid "Send SmokyPost e-mails through an SMTP account"
+msgstr "Sūtīt SmokyPost e-pastus, izmantojot SMTP kontu"
+
+#: includes/Admin/Page.php:430
+msgid "Use this when e-mails from your site do not arrive. Only the e-mails of SmokyPost use this account, other e-mails of your site stay as they are. You do not need a separate SMTP plugin for SmokyPost."
+msgstr "Izmantojiet, ja jūsu vietnes e-pasti nenonāk līdz adresātam. Šo kontu izmanto tikai SmokyPost e-pasti, citi vietnes e-pasti netiek mainīti. SmokyPost nav nepieciešams atsevišķs SMTP spraudnis."
+
+#: includes/Admin/Page.php:432
+msgid "SMTP server"
+msgstr "SMTP serveris"
+
+#: includes/Admin/Page.php:433
+msgid "Port"
+msgstr "Ports"
+
+#: includes/Admin/Page.php:434
+msgid "Encryption"
+msgstr "Šifrēšana"
+
+#: includes/Admin/Page.php:436
+msgid "TLS (usually port 587)"
+msgstr "TLS (parasti ports 587)"
+
+#: includes/Admin/Page.php:437
+msgid "SSL (usually port 465)"
+msgstr "SSL (parasti ports 465)"
+
+#: includes/Admin/Page.php:438
+msgid "No encryption"
+msgstr "Bez šifrēšanas"
+
+#: includes/Admin/Page.php:443
+msgid "Username"
+msgstr "Lietotājvārds"
+
+#: includes/Admin/Page.php:447
+msgid "The password is set in wp-config.php."
+msgstr "Parole ir iestatīta failā wp-config.php."
+
+#: includes/Admin/Page.php:451
+msgid "A password is saved. Leave this empty to keep it."
+msgstr "Parole ir saglabāta. Atstājiet lauku tukšu, lai to paturētu."
+
+#: includes/Admin/Page.php:451
+msgid "Remove the saved password"
+msgstr "Noņemt saglabāto paroli"
+
+#: includes/Admin/Page.php:453
+msgid "The password is stored encrypted and never shown again. For Gmail and Outlook use an app password."
+msgstr "Parole tiek glabāta šifrētā veidā un vairs nekad netiek rādīta. Gmail un Outlook izmantojiet lietotnes paroli."
+
+#: includes/Admin/Page.php:457
+msgid "From e-mail"
+msgstr "Sūtītāja e-pasts"
+
+#: includes/Admin/Page.php:458
+msgid "Most providers only accept an address that belongs to the account."
+msgstr "Lielākā daļa pakalpojumu sniedzēju pieņem tikai kontam piederošu adresi."
+
+#: includes/Admin/Page.php:459
+msgid "From name"
+msgstr "Sūtītāja vārds"
+
+#: includes/Admin/Page.php:462
+msgid "Save Changes"
+msgstr "Saglabāt izmaiņas"
+
+#: includes/Admin/Page.php:463
+msgid "Send a test e-mail"
+msgstr "Sūtīt testa e-pastu"
+
+#: includes/Admin/Page.php:464
+msgid "The test e-mail saves the values above first and then uses them."
+msgstr "Testa e-pasts vispirms saglabā iepriekš norādītās vērtības un pēc tam tās izmanto."
+
+#. translators: %d: number of days
+#: includes/Admin/Page.php:479
+#, php-format
+msgid "Shares of the last %d day."
+msgid_plural "Shares of the last %d days."
+msgstr[0] "Kopīgojumi pēdējā %d dienā."
+msgstr[1] "Kopīgojumi pēdējās %d dienās."
+msgstr[2] "Kopīgojumi pēdējās %d dienās."
+
+#: includes/Admin/Page.php:491
+msgid "Date"
+msgstr "Datums"
+
+#: includes/Admin/Page.php:491
+msgid "Item"
+msgstr "Vienums"
+
+#: includes/Admin/Page.php:491
+msgid "Result"
+msgstr "Rezultāts"
+
+#: includes/Admin/Page.php:507
+msgid "Nothing shared yet."
+msgstr "Vēl nekas nav kopīgots."
+
+#: includes/Admin/Page.php:516
+msgid "Clear history"
+msgstr "Notīrīt vēsturi"
+
+#: includes/Admin/Page.php:516
+msgid "Clear the history for the dates you choose, or all of it? What was already shared stays on your social accounts. Cleared items no longer show in this list."
+msgstr "Vai notīrīt vēsturi noteiktiem datumiem vai visu? Tas, kas jau kopīgots, paliek jūsu sociālajos tīklos. Notīrītie ieraksti šajā sarakstā vairs netiek rādīti."
+
+#: includes/Admin/Page.php:518
+msgid "From"
+msgstr "No"
+
+#: includes/Admin/Page.php:520
+msgid "To"
+msgstr "Līdz"
+
+#: includes/Admin/Page.php:523
+msgid "Leave the date empty to start at the first item or end today."
+msgstr "Atstājiet datumu tukšu, lai sāktu ar pirmo ierakstu vai beigtu ar šodienu."
+
+#: includes/Admin/Page.php:524
+msgid "Clear these dates"
+msgstr "Notīrīt šos datumus"
+
+#: includes/Admin/Page.php:524
+msgid "Clear all history"
+msgstr "Notīrīt visu vēsturi"
+
+#: includes/Admin/Page.php:534 includes/Admin/Page.php:534
+msgid "Day"
+msgstr "Diena"
+
+#: includes/Admin/Page.php:538 includes/Admin/Page.php:538
+msgid "Month"
+msgstr "Mēnesis"
+
+#: includes/Admin/Page.php:542 includes/Admin/Page.php:542
+msgid "Year"
+msgstr "Gads"
+
+#: includes/Admin/Page.php:559 includes/Admin/Page.php:670
+msgid "Plan"
+msgstr "Plāns"
+
+#: includes/Admin/Page.php:560
+msgid "License key"
+msgstr "Licences atslēga"
+
+#: includes/Admin/Page.php:561
+msgid "Shared today"
+msgstr "Šodien kopīgots"
+
+#. translators: 1: items used, 2: daily limit
+#: includes/Admin/Page.php:564 includes/Admin/Page.php:566
+#, php-format
+msgid "%1$d of %2$d items"
+msgstr "%1$d no %2$d vienumiem"
+
+#: includes/Admin/Page.php:569
+msgid "This site"
+msgstr "Šī vietne"
+
+#: includes/Admin/Page.php:574
+msgid "Disconnect this site"
+msgstr "Atvienot šo vietni"
+
+#: includes/Admin/Page.php:574
+msgid "Disconnect this site from SmokyPost? Sharing stops until you sign in again."
+msgstr "Vai atvienot šo vietni no SmokyPost? Kopīgošana apstāsies, līdz pierakstīsities vēlreiz."
+
+#: includes/Admin/Page.php:576
+msgid "Yes, disconnect"
+msgstr "Jā, atvienot"
+
+#: includes/Admin/Page.php:585
+msgid "How Pro works"
+msgstr "Kā darbojas Pro"
+
+#: includes/Admin/Page.php:586
+msgid "Pay securely through Paddle."
+msgstr "Maksājiet droši, izmantojot Paddle."
+
+#: includes/Admin/Page.php:587
+msgid "Download SmokyPost Pro with the button below."
+msgstr "Lejupielādējiet SmokyPost Pro ar pogu zemāk."
+
+#: includes/Admin/Page.php:587
+msgid "Come back to this page. A \"Download SmokyPost Pro\" button appears, and we e-mail you the same link."
+msgstr "Atgriezieties šajā lapā. Parādīsies poga “Lejupielādēt SmokyPost Pro”, un to pašu saiti mēs nosūtīsim arī e-pastā."
+
+#: includes/Admin/Page.php:588
+msgid "Install it under Plugins > Add New > Upload Plugin and activate it. Your license is picked up automatically, there is no key to enter."
+msgstr "Instalējiet to sadaļā Spraudņi > Pievienot jaunu > Augšupielādēt spraudni un aktivizējiet. Jūsu licence tiek atpazīta automātiski, atslēga nav jāievada."
+
+#: includes/Admin/Page.php:589
+msgid "SmokyPost Pro is a second plugin that works together with SmokyPost: keep both active. It takes about a minute. Full refund within 14 days of your first payment."
+msgstr "SmokyPost Pro ir otrs spraudnis, kas darbojas kopā ar SmokyPost: atstājiet aktīvus abus. Tas aizņem apmēram minūti. Pilna naudas atmaksa 14 dienu laikā pēc pirmā maksājuma."
+
+#: includes/Admin/Page.php:603
+msgid "Your payment is taking longer than usual to show here. Reload this page in a few minutes. If your plan is still Free after an hour, write to info@smokypost.com."
+msgstr "Jūsu maksājums šeit parādās ilgāk nekā parasti. Pēc dažām minūtēm pārlādējiet lapu. Ja pēc stundas jūsu plāns joprojām ir Free, rakstiet uz info@smokypost.com."
+
+#: includes/Admin/Page.php:607
+msgid "Payment received. Your plan will be active in a moment, this page checks again by itself."
+msgstr "Maksājums saņemts. Jūsu plāns drīz kļūs aktīvs, un šī lapa to pārbaudīs pati."
+
+#: includes/Admin/Page.php:619
+msgid "SmokyPost Pro"
+msgstr "SmokyPost Pro"
+
+#. translators: %s: version number
+#: includes/Admin/Page.php:622
+#, php-format
+msgid "SmokyPost Pro %s is installed and active."
+msgstr "SmokyPost Pro %s ir instalēts un aktīvs."
+
+#: includes/Admin/Page.php:623
+msgid "Its settings are under SmokyPost > Pro, the calendar under SmokyPost > Calendar. It updates itself."
+msgstr "Tā iestatījumi atrodas sadaļā SmokyPost > Pro, bet kalendārs sadaļā SmokyPost > Kalendārs. Tas atjaunojas pats."
+
+#: includes/Admin/Page.php:630
+msgid "SmokyPost Pro is installed but not active. Activate it on the Plugins page."
+msgstr "SmokyPost Pro ir instalēts, bet nav aktīvs. Aktivizējiet to lapā Spraudņi."
+
+#: includes/Admin/Page.php:630
+msgid "Open Plugins"
+msgstr "Atvērt Spraudņus"
+
+#: includes/Admin/Page.php:635
+msgid "Download SmokyPost Pro"
+msgstr "Lejupielādēt SmokyPost Pro"
+
+#: includes/Admin/Page.php:636
+msgid "The link works for an hour. You can come back here and get a new one any time."
+msgstr "Saite ir derīga vienu stundu. Vienmēr varat atgriezties šeit pēc jaunas."
+
+#: includes/Admin/Page.php:646 includes/Admin/Page.php:1266 includes/Api.php:127
+msgid "Something went wrong. Please try again."
+msgstr "Kaut kas nogāja greizi. Mēģiniet vēlreiz."
+
+#: includes/Admin/Page.php:665
+msgid "Plans"
+msgstr "Plāni"
+
+#: includes/Admin/Page.php:670
+msgid "Sites"
+msgstr "Vietnes"
+
+#: includes/Admin/Page.php:670
+msgid "Items per day"
+msgstr "Vienumi dienā"
+
+#: includes/Admin/Page.php:670
+msgid "Price"
+msgstr "Cena"
+
+#. translators: %s: price, for example $39
+#: includes/Admin/Page.php:678
+#, php-format
+msgid "%s per year"
+msgstr "%s gadā"
+
+#: includes/Admin/Page.php:680
+msgid "Current plan"
+msgstr "Pašreizējais plāns"
+
+#: includes/Admin/Page.php:683
+msgid "Switch to this plan"
+msgstr "Pāriet uz šo plānu"
+
+#: includes/Admin/Page.php:683
+msgid "Upgrade"
+msgstr "Uzlabot"
+
+#: includes/Admin/Page.php:688
+msgid "Payments are handled securely by Paddle. Prices are in US dollars, taxes are added at checkout where they apply."
+msgstr "Maksājumus droši apstrādā Paddle. Cenas ir ASV dolāros, un nodokļi tiek pievienoti apmaksas brīdī, kur tie ir piemērojami."
+
+#: includes/Admin/Page.php:690
+msgid "A plan change applies right away. You will see the exact amount and confirm it before anything is charged."
+msgstr "Plāna maiņa stājas spēkā uzreiz. Precīzo summu jūs redzēsiet un apstiprināsiet, pirms tiek norakstīts jebkas."
+
+#: includes/Admin/Page.php:692 includes/Admin/Page.php:776
+msgid "Manage subscription"
+msgstr "Pārvaldīt abonementu"
+
+#: includes/Admin/Page.php:703
+msgid "Cancel and refund"
+msgstr "Atcelt un saņemt naudu atpakaļ"
+
+#: includes/Admin/Page.php:705
+msgid "Refunds are available within 14 days of your first payment. You can stop the renewal at any time from Manage subscription."
+msgstr "Naudas atmaksa ir iespējama 14 dienu laikā pēc pirmā maksājuma. Atjaunošanu varat jebkurā brīdī apturēt sadaļā “Pārvaldīt abonementu”."
+
+#: includes/Admin/Page.php:706 includes/Admin/Page.php:717
+msgid "Questions about a payment? Write to info@smokypost.com."
+msgstr "Jautājumi par maksājumu? Rakstiet uz info@smokypost.com."
+
+#. translators: %s: date
+#: includes/Admin/Page.php:712
+#, php-format
+msgid "You can cancel and get a full refund until %s."
+msgstr "Jūs varat atcelt abonementu un saņemt pilnu naudas atmaksu līdz %s."
+
+#: includes/Admin/Page.php:714
+msgid "Cancel and get a refund"
+msgstr "Atcelt un saņemt atmaksu"
+
+#: includes/Admin/Page.php:714
+msgid "Cancel your subscription and get a full refund? Everything you paid is returned to the card you paid with. Nothing is deducted for the days you used. Your plan ends right away and this site goes back to Free."
+msgstr "Vai atcelt abonementu un saņemt pilnu naudas atmaksu? Viss, ko esat samaksājis, tiks atmaksāts uz karti, ar kuru maksājāt. Par izmantotajām dienām nekas netiek ieturēts. Jūsu plāns beidzas uzreiz, un šī vietne atgriežas pie Free."
+
+#: includes/Admin/Page.php:716
+msgid "Yes, cancel and refund"
+msgstr "Jā, atcelt un atmaksāt"
+
+#: includes/Admin/Page.php:730 includes/Admin/Page.php:814
+msgid "Starter"
+msgstr "Starter"
+
+#: includes/Admin/Page.php:731 includes/Admin/Page.php:815
+msgid "Pro"
+msgstr "Pro"
+
+#: includes/Admin/Page.php:732 includes/Admin/Page.php:816
+msgid "Agency"
+msgstr "Agency"
+
+#. translators: %s: plan name
+#: includes/Admin/Page.php:741
+#, php-format
+msgid "Switch to the %s plan"
+msgstr "Pāriet uz %s"
+
+#. translators: 1: amount, for example $30.00, 2: card, for example Visa ending in 4242
+#: includes/Admin/Page.php:747
+#, php-format
+msgid "You will be charged %1$s today on the card you paid with (%2$s)."
+msgstr "Šodien no kartes, ar kuru maksājāt, tiks norakstīti %1$s (%2$s)."
+
+#. translators: %s: amount, for example $30.00
+#: includes/Admin/Page.php:750
+#, php-format
+msgid "You will be charged %s today on the card you paid with."
+msgstr "Šodien no kartes, ar kuru maksājāt, tiks norakstīti %s."
+
+#. translators: %s: date
+#: includes/Admin/Page.php:755
+#, php-format
+msgid "Your next renewal stays on %s."
+msgstr "Nākamā atjaunošana paliek %s."
+
+#: includes/Admin/Page.php:758
+msgid "Nothing is charged today."
+msgstr "Šodien nekas netiek norakstīts."
+
+#. translators: %s: date
+#: includes/Admin/Page.php:762
+#, php-format
+msgid "The price difference is credited at your next renewal on %s."
+msgstr "Cenu starpība tiks ieskaitīta nākamajā atjaunošanā, %s."
+
+#: includes/Admin/Page.php:764
+msgid "The price difference is credited at your next renewal."
+msgstr "Cenu starpība tiks ieskaitīta nākamajā atjaunošanā."
+
+#: includes/Admin/Page.php:767
+msgid "Shall we continue?"
+msgstr "Vai turpināt?"
+
+#. translators: %s: amount, for example $30.00
+#: includes/Admin/Page.php:770
+#, php-format
+msgid "Yes, charge %s"
+msgstr "Jā, norakstīt %s"
+
+#: includes/Admin/Page.php:770
+msgid "Yes, switch plan"
+msgstr "Jā, mainīt plānu"
+
+#: includes/Admin/Page.php:774
+msgid "Want to pay with another card? Open Manage subscription, update your payment method, then switch plans again."
+msgstr "Vēlaties maksāt ar citu karti? Atveriet “Pārvaldīt abonementu”, atjauniniet maksājuma veidu un tad vēlreiz mainiet plānu."
+
+#. translators: %s: last four digits of a card
+#: includes/Admin/Page.php:802
+#, php-format
+msgid "ending in %s"
+msgstr "kas beidzas ar %s"
+
+#. translators: 1: card brand, for example Visa, 2: last four digits
+#: includes/Admin/Page.php:805
+#, php-format
+msgid "%1$s ending in %2$s"
+msgstr "%1$s, kas beidzas ar %2$s"
+
+#: includes/Admin/Page.php:813
+msgid "Free"
+msgstr "Free"
+
+#: includes/Admin/Page.php:831
+msgid "Sharing is paused until you confirm your e-mail address."
+msgstr "Kopīgošana ir apturēta, līdz apstiprināsiet savu e-pasta adresi."
+
+#. translators: %d: days left
+#: includes/Admin/Page.php:833
+#, php-format
+msgid "Please confirm your e-mail address. Sharing pauses in %d day if you do not."
+msgid_plural "Please confirm your e-mail address. Sharing pauses in %d days if you do not."
+msgstr[0] "Apstipriniet savu e-pasta adresi. Ja to nedarīsiet, kopīgošana tiks apturēta pēc %d dienas."
+msgstr[1] "Apstipriniet savu e-pasta adresi. Ja to nedarīsiet, kopīgošana tiks apturēta pēc %d dienām."
+msgstr[2] "Apstipriniet savu e-pasta adresi. Ja to nedarīsiet, kopīgošana tiks apturēta pēc %d dienām."
+
+#: includes/Admin/Page.php:836
+msgid "Send the link again"
+msgstr "Sūtīt saiti vēlreiz"
+
+#: includes/Admin/Page.php:869
+msgid "Bluesky handle"
+msgstr "Bluesky lietotājvārds"
+
+#: includes/Admin/Page.php:870
+msgid "App password"
+msgstr "Lietotnes parole"
+
+#: includes/Admin/Page.php:871
+msgid "Use an app password, not your main Bluesky password. It can only be used by apps like this one and you can delete it in Bluesky at any time."
+msgstr "Izmantojiet lietotnes paroli, nevis savu galveno Bluesky paroli. To var izmantot tikai tādas lietotnes kā šī, un jūs to jebkurā laikā varat izdzēst Bluesky."
+
+#: includes/Admin/Page.php:872
+msgid "How do I get an app password?"
+msgstr "Kā iegūt lietotnes paroli?"
+
+#. translators: %s: link to the Bluesky app password page
+#: includes/Admin/Page.php:873
+#, php-format
+msgid "Open %s (or Settings > Privacy and security > App passwords in Bluesky)."
+msgstr "Atveriet %s (vai Bluesky: Iestatījumi > Privātums un drošība > Lietotņu paroles)."
+
+#: includes/Admin/Page.php:874
+msgid "Click \"Add App Password\" and name it SmokyPost."
+msgstr "Noklikšķiniet uz “Add App Password” un nosauciet to SmokyPost."
+
+#: includes/Admin/Page.php:875
+msgid "Copy the password Bluesky shows and paste it here."
+msgstr "Nokopējiet paroli, ko parāda Bluesky, un ielīmējiet to šeit."
+
+#: includes/Admin/Page.php:881
+msgid "Your Mastodon server"
+msgstr "Jūsu Mastodon serveris"
+
+#: includes/Admin/Page.php:882
+msgid "The address of the server your account is on, for example mastodon.social, or your full name like @name@mastodon.social. You will approve SmokyPost on that server."
+msgstr "Servera adrese, kurā atrodas jūsu konts, piemēram, mastodon.social, vai jūsu pilnais vārds formā @vārds@mastodon.social. SmokyPost apstiprināsiet šajā serverī."
+
+#: includes/Admin/Page.php:921
+msgid "Signed in. Now choose the account this site shares to."
+msgstr "Pierakstīšanās veiksmīga. Tagad izvēlieties kontu, kurā šī vietne kopīgos."
+
+#: includes/Admin/Page.php:923
+msgid "The sign-in was cancelled."
+msgstr "Pierakstīšanās tika atcelta."
+
+#: includes/Admin/Page.php:924
+msgid "The sign-in did not work. Please try again."
+msgstr "Pierakstīties neizdevās. Mēģiniet vēlreiz."
+
+#: includes/Admin/Page.php:940
+msgid "Good to know:"
+msgstr "Labi zināt:"
+
+#: includes/Admin/Page.php:940
+msgid "SmokyPost shares new posts automatically when they are published, including posts created by other plugins, importers or the REST API. You can turn automatic sharing on or off for each platform on its card below or under Settings."
+msgstr "SmokyPost automātiski kopīgo jaunos ierakstus, tos publicējot, tostarp tos, ko izveido citi spraudņi, importētāji vai REST API. Automātisko kopīgošanu katrai platformai varat ieslēgt vai izslēgt tās kartē zemāk vai sadaļā Iestatījumi."
+
+#: includes/Admin/Page.php:942
+msgid "Got it"
+msgstr "Sapratu"
+
+#: includes/Admin/Page.php:942
+msgid "Open settings"
+msgstr "Atvērt iestatījumus"
+
+#: includes/Admin/Page.php:954
+msgid "SmokyPost is almost ready."
+msgstr "SmokyPost ir gandrīz gatavs."
+
+#: includes/Admin/Page.php:954
+msgid "Connect this site"
+msgstr "Savienot šo vietni"
+
+#: includes/Admin/Page.php:967
+msgid "You are not allowed to do this."
+msgstr "Jums nav atļaujas veikt šo darbību."
+
+#: includes/Admin/Page.php:1013 includes/Admin/Page.php:1081
+msgid "Please enter a valid e-mail address."
+msgstr "Ievadiet derīgu e-pasta adresi."
+
+#: includes/Admin/Page.php:1015
+msgid "Please enter your password."
+msgstr "Ievadiet paroli."
+
+#: includes/Admin/Page.php:1017
+msgid "Please use a password with at least 8 characters."
+msgstr "Izmantojiet paroli ar vismaz 8 rakstzīmēm."
+
+#: includes/Admin/Page.php:1019
+msgid "Please accept the Terms of Service and the Privacy Policy."
+msgstr "Piekrītiet Lietošanas noteikumiem un Privātuma politikai."
+
+#: includes/Admin/Page.php:1042
+msgid "Your account is ready and this site is connected. We sent you an e-mail to confirm your address."
+msgstr "Jūsu konts ir gatavs, un šī vietne ir savienota. Mēs nosūtījām jums e-pastu adreses apstiprināšanai."
+
+#: includes/Admin/Page.php:1058
+msgid "Signed in. This site is connected."
+msgstr "Pierakstīšanās veiksmīga. Šī vietne ir savienota."
+
+#: includes/Admin/Page.php:1064
+msgid "Please enter your license key."
+msgstr "Ievadiet licences atslēgu."
+
+#: includes/Admin/Page.php:1075
+msgid "License activated. This site is connected."
+msgstr "Licence aktivizēta. Šī vietne ir savienota."
+
+#: includes/Admin/Page.php:1084
+msgid "If an account exists for this address, we sent a link to reset the password."
+msgstr "Ja šai adresei ir konts, mēs nosūtījām paroles atiestatīšanas saiti."
+
+#: includes/Admin/Page.php:1092
+msgid "This site is disconnected from SmokyPost."
+msgstr "Šī vietne ir atvienota no SmokyPost."
+
+#: includes/Admin/Page.php:1117
+msgid "Please choose valid dates."
+msgstr "Izvēlieties derīgus datumus."
+
+#: includes/Admin/Page.php:1121
+msgid "The first date must be before the last date."
+msgstr "Pirmajam datumam jābūt pirms pēdējā."
+
+#. translators: %d: number of items
+#: includes/Admin/Page.php:1135
+#, php-format
+msgid "Cleared %d item from the history."
+msgid_plural "Cleared %d items from the history."
+msgstr[0] "No vēstures notīrīts %d vienums."
+msgstr[1] "No vēstures notīrīti %d vienumi."
+msgstr[2] "No vēstures notīrīti %d vienumi."
+
+#: includes/Admin/Page.php:1135
+msgid "There was nothing to clear. Items that are still being sent stay in the list."
+msgstr "Nebija ko tīrīt. Ieraksti, kas vēl tiek sūtīti, paliek sarakstā."
+
+#: includes/Admin/Page.php:1143
+msgid "We sent the confirmation link again."
+msgstr "Apstiprinājuma saiti nosūtījām vēlreiz."
+
+#: includes/Admin/Page.php:1193
+msgid "Connected. Now choose the account this site shares to."
+msgstr "Savienots. Tagad izvēlieties kontu, kurā šī vietne kopīgos."
+
+#: includes/Admin/Page.php:1228
+msgid "That plan change has expired. Please choose the plan again."
+msgstr "Šīs plāna maiņas derīgums beidzies. Izvēlieties plānu vēlreiz."
+
+#: includes/Admin/Page.php:1240
+msgid "Your plan is being changed. It can take a minute to show here."
+msgstr "Jūsu plāns tiek mainīts. Var paiet minūte, līdz tas parādīsies šeit."
+
+#: includes/Admin/Page.php:1257
+msgid "Your refund has been requested and your subscription is cancelled. Paddle returns the money to the card you paid with; it can take a few days to show."
+msgstr "Naudas atmaksa pieprasīta, abonements atcelts. Paddle atmaksā naudu uz karti, ar kuru maksājāt; tas var aizņemt dažas dienas."
+
+#. translators: 1: page name, 2: platform name
+#: includes/Admin/Page.php:1279
+#, php-format
+msgid "%1$s is now connected to %2$s."
+msgstr "%1$s tagad ir savienots ar %2$s."
+
+#: includes/Admin/Page.php:1295 includes/Admin/Page.php:1305
+msgid "Settings saved."
+msgstr "Iestatījumi saglabāti."
+
+#: includes/Admin/Page.php:1313
+msgid "SmokyPost test e-mail"
+msgstr "SmokyPost testa e-pasts"
+
+#: includes/Admin/Page.php:1314
+msgid "This is a test e-mail from SmokyPost. If you can read it, e-mails from SmokyPost reach you."
+msgstr "Šis ir SmokyPost testa e-pasts. Ja varat to izlasīt, SmokyPost e-pasti jūs sasniedz."
+
+#. translators: %s: e-mail addresses
+#: includes/Admin/Page.php:1318
+#, php-format
+msgid "The test e-mail was sent to %s. Check your inbox and spam folder."
+msgstr "Testa e-pasts nosūtīts uz %s. Pārbaudiet iesūtni un surogātpasta mapi."
+
+#. translators: %s: error from the mail server
+#: includes/Admin/Page.php:1325
+#, php-format
+msgid "The test e-mail could not be sent: %s Check the server, port and encryption."
+msgstr "Testa e-pastu neizdevās nosūtīt: %s Pārbaudiet serveri, portu un šifrēšanu."
+
+#: includes/Admin/Page.php:1326
+msgid "The test e-mail could not be sent. Check the server, port and encryption."
+msgstr "Testa e-pastu neizdevās nosūtīt. Pārbaudiet serveri, portu un šifrēšanu."
+
+#. translators: %s: platform name
+#: includes/Admin/Page.php:1341
+#, php-format
+msgid "Automatic sharing to %s is on."
+msgstr "Automātiska kopīgošana platformā %s ir ieslēgta."
+
+#. translators: %s: platform name
+#: includes/Admin/Page.php:1343
+#, php-format
+msgid "Automatic sharing to %s is off."
+msgstr "Automātiska kopīgošana platformā %s ir izslēgta."
+
+#: includes/Admin/PostList.php:59 includes/Status.php:60
+msgid "Not shared"
+msgstr "Nav kopīgots"
+
+#: includes/Admin/PostList.php:100 includes/Admin/PostList.php:113
+msgid "Share with SmokyPost"
+msgstr "Kopīgot ar SmokyPost"
+
+#. translators: %d: number of items
+#: includes/Admin/PostList.php:154
+#, php-format
+msgid "%d item queued for sharing."
+msgid_plural "%d items queued for sharing."
+msgstr[0] "%d vienums ievietots kopīgošanas rindā."
+msgstr[1] "%d vienumi ievietoti kopīgošanas rindā."
+msgstr[2] "%d vienumi ievietoti kopīgošanas rindā."
+
+#. translators: %d: number of items
+#: includes/Admin/PostList.php:157
+#, php-format
+msgid "%d item could not be shared; see the SmokyPost column."
+msgid_plural "%d items could not be shared; see the SmokyPost column."
+msgstr[0] "%d vienumu neizdevās kopīgot; skatiet SmokyPost kolonnu."
+msgstr[1] "%d vienumus neizdevās kopīgot; skatiet SmokyPost kolonnu."
+msgstr[2] "%d vienumus neizdevās kopīgot; skatiet SmokyPost kolonnu."
+
+#: includes/Api.php:85
+msgid "This site is not connected to SmokyPost yet."
+msgstr "Šī vietne vēl nav savienota ar SmokyPost."
+
+#: includes/Editor.php:117 includes/Editor.php:124
+msgid "Image to share"
+msgstr "Kopīgojamais attēls"
+
+#: includes/Editor.php:118
+msgid "Chosen for sharing"
+msgstr "Izvēlēts kopīgošanai"
+
+#: includes/Editor.php:119
+msgid "Choose another image"
+msgstr "Izvēlēties citu attēlu"
+
+#: includes/Editor.php:120
+msgid "Choose an image"
+msgstr "Izvēlēties attēlu"
+
+#: includes/Editor.php:121
+msgid "Use the automatic choice"
+msgstr "Izmantot automātisko izvēli"
+
+#: includes/Editor.php:122
+msgid "Images in this item:"
+msgstr "Attēli šajā vienumā:"
+
+#: includes/Editor.php:123
+msgid "Use this image"
+msgstr "Izmantot šo attēlu"
+
+#: includes/Editor.php:125
+msgid "Updating this item does not share it again. Click \"Share now\" to share it."
+msgstr "Vienuma atjaunināšana to atkārtoti nekopīgo. Noklikšķiniet uz “Kopīgot tūlīt”, lai to kopīgotu."
+
+#: includes/Editor.php:126
+msgid "Featured image"
+msgstr "Ieraksta izceltais attēls"
+
+#: includes/Editor.php:127
+msgid "First image in the content (this item has no featured image)"
+msgstr "Pirmais attēls saturā (šim vienumam nav izceltā attēla)"
+
+#: includes/Editor.php:128
+msgid "Default image from the SmokyPost settings (this item has no image)"
+msgstr "Noklusējuma attēls no SmokyPost iestatījumiem (šim vienumam nav attēla)"
+
+#: includes/Editor.php:130
+msgid "Instagram needs an image, and this item has none. Add a featured image or an image in the content, otherwise it is not shared to Instagram."
+msgstr "Instagram nepieciešams attēls, bet šim vienumam tā nav. Pievienojiet izcelto attēlu vai attēlu saturā, citādi tas netiks kopīgots Instagram."
+
+#: includes/Editor.php:135
+msgid "Share at (optional)"
+msgstr "Kopīgot plkst. (neobligāti)"
+
+#. translators: 1: example date and time, 2: time zone name
+#: includes/Editor.php:137
+#, php-format
+msgid "Format: %1$s, in your site time (%2$s). Leave empty to share right away."
+msgstr "Formāts: %1$s, pēc jūsu vietnes laika (%2$s). Atstājiet tukšu, lai kopīgotu uzreiz."
+
+#: includes/Editor.php:138
+msgid "This is not a valid date and time. Use the format YYYY-MM-DD HH:MM, for example 2026-12-31 18:30."
+msgstr "Tas neizskatās pēc datuma un laika. Izmantojiet formātu GGGG-MM-DD SS:MM, piemēram, 2026-12-31 18:30."
+
+#: includes/Editor.php:139
+msgid "Schedule"
+msgstr "Ieplānot"
+
+#: includes/Editor.php:140
+msgid "Cancel the scheduled share"
+msgstr "Atcelt ieplānoto kopīgošanu"
+
+#: includes/Editor.php:147 includes/Editor.php:478
+msgid "Delete shared posts"
+msgstr "Dzēst kopīgotos ierakstus"
+
+#: includes/Editor.php:148 includes/Editor.php:480
+msgid "Yes, delete"
+msgstr "Jā, dzēst"
+
+#: includes/Editor.php:266
+msgid "Save the item to apply the change."
+msgstr "Saglabājiet vienumu, lai izmaiņas stātos spēkā."
+
+#: includes/Editor.php:352 includes/Editor.php:415 includes/Editor.php:530
+msgid "You are not allowed to share this item."
+msgstr "Jums nav atļaujas kopīgot šo vienumu."
+
+#: includes/Editor.php:378
+msgid "Nothing to share: choose at least one connected platform."
+msgstr "Nav ko kopīgot: izvēlieties vismaz vienu savienotu platformu."
+
+#: includes/Editor.php:383
+msgid "Sending… You can leave this page, sharing continues in the background."
+msgstr "Sūta… Varat pamest šo lapu, kopīgošana turpinās fonā."
+
+#. translators: %s: date and time
+#: includes/Editor.php:388
+#, php-format
+msgid "Scheduled for %s. You can leave this page."
+msgstr "Ieplānots uz %s. Varat pamest šo lapu."
+
+#: includes/Editor.php:419
+msgid "Nothing is scheduled for this item."
+msgstr "Šim vienumam nekas nav ieplānots."
+
+#: includes/Editor.php:437
+msgid "The scheduled share is cancelled."
+msgstr "Ieplānotā kopīgošana tika atcelta."
+
+#: includes/Editor.php:437
+msgid "Nothing to cancel: it was already sent."
+msgstr "Nav ko atcelt: tas jau ir nosūtīts."
+
+#. translators: %s: platform names, for example "Facebook, Bluesky"
+#: includes/Editor.php:456
+#, php-format
+msgid "Delete the shared posts from %s? The item itself stays on your site."
+msgstr "Vai dzēst kopīgotos ierakstus no %s? Pats vienums paliek jūsu vietnē."
+
+#. translators: %s: platform names, for example "Instagram"
+#: includes/Editor.php:459 includes/Editor.php:511
+#, php-format
+msgid "Posts on %s cannot be deleted from here. Delete them in the app yourself."
+msgstr "Ierakstus platformā %s no šejienes dzēst nevar. Izdzēsiet tos paši lietotnē."
+
+#: includes/Editor.php:493
+msgid "You are not allowed to change this item."
+msgstr "Jums nav atļaujas mainīt šo vienumu."
+
+#: includes/Editor.php:499
+msgid "There is nothing to delete for this item."
+msgstr "Šim vienumam nav ko dzēst."
+
+#: includes/Editor.php:508
+msgid "Deleting… You can leave this page, it continues in the background."
+msgstr "Dzēš… Varat pamest šo lapu, dzēšana turpinās fonā."
+
+#: includes/Editor.php:550
+msgid "Finished, but something failed. See below."
+msgstr "Pabeigts, taču kaut kas neizdevās. Skatiet zemāk."
+
+#: includes/Editor.php:550
+msgid "Done."
+msgstr "Gatavs."
+
+#. translators: %s: platform name
+#: includes/Notifier.php:87
+#, php-format
+msgid "Connect %s again"
+msgstr "Savienojiet %s vēlreiz"
+
+#. translators: 1: platform name, 2: link
+#: includes/Notifier.php:89
+#, php-format
+msgid "The connection to %1$s has expired, so new items cannot be shared there. Connect it again: %2$s"
+msgstr "Savienojuma ar %1$s derīgums ir beidzies, tāpēc jaunu saturu tur kopīgot nevar. Savienojiet vēlreiz: %2$s"
+
+#. translators: %s: item title
+#: includes/Notifier.php:102
+#, php-format
+msgid "Could not share: %s"
+msgstr "Neizdevās kopīgot: %s"
+
+#. translators: %s: item title
+#: includes/Notifier.php:104
+#, php-format
+msgid "\"%s\" could not be shared everywhere:"
+msgstr "„%s” neizdevās kopīgot visur:"
+
+#. translators: %s: item title
+#: includes/Notifier.php:108
+#, php-format
+msgid "Shared: %s"
+msgstr "Kopīgots: %s"
+
+#. translators: %s: item title
+#: includes/Notifier.php:110
+#, php-format
+msgid "\"%s\" was shared:"
+msgstr "„%s” tika kopīgots:"
+
+#: includes/Notifier.php:124
+msgid "SmokyPost: daily limit reached"
+msgstr "SmokyPost: sasniegts dienas ierobežojums"
+
+#: includes/Notifier.php:125
+msgid "The daily limit of your plan is reached. The remaining items are shared after midnight."
+msgstr "Jūsu plāna dienas ierobežojums ir sasniegts. Atlikušais saturs tiek kopīgots pēc pusnakts."
+
+#. translators: %s: link
+#: includes/Notifier.php:175
+#, php-format
+msgid "Open the item: %s"
+msgstr "Atvērt saturu: %s"
+
+#. translators: %s: link
+#: includes/Notifier.php:177
+#, php-format
+msgid "History: %s"
+msgstr "Vēsture: %s"
+
+#. translators: 1: site name, 2: link
+#: includes/Notifier.php:224
+#, php-format
+msgid "You get this e-mail because SmokyPost notifications are on for %1$s. Change who gets them, or turn them off, here: %2$s"
+msgstr "Jūs saņemat šo e-pastu, jo SmokyPost paziņojumi ir ieslēgti vietnei %1$s. Šeit varat mainīt, kas tos saņem, vai izslēgt tos: %2$s"
+
+#: includes/Sharer.php:55
+msgid "Every 5 minutes (SmokyPost)"
+msgstr "Ik pēc 5 minūtēm (SmokyPost)"
+
+#: includes/Sharer.php:494
+msgid "Not shared to Instagram: Instagram needs an image, and this item has none. Add a featured image or an image in the content."
+msgstr "Nav kopīgots Instagram: Instagram nepieciešams attēls, bet šim vienumam tā nav. Pievienojiet izcelto attēlu vai attēlu saturā."
+
+#: includes/Status.php:60
+msgid "Not shared: needs an image"
+msgstr "Nav kopīgots: nepieciešams attēls"
+
+#: includes/Status.php:74
+msgid "Shared (delete it in the app yourself)"
+msgstr "Kopīgots (izdzēsiet paši lietotnē)"
+
+#: includes/Status.php:74
+msgid "Shared"
+msgstr "Kopīgots"
+
+#. translators: %s: reason
+#: includes/Status.php:76
+#, php-format
+msgid "Failed: %s"
+msgstr "Kļūda: %s"
+
+#: includes/Status.php:76
+msgid "Failed"
+msgstr "Kļūda"
+
+#: includes/Status.php:78
+msgid "Cancelled"
+msgstr "Atcelts"
+
+#: includes/Status.php:81
+msgid "Removing…"
+msgstr "Dzēš…"
+
+#: includes/Status.php:83
+msgid "Removed"
+msgstr "Izdzēsts"
+
+#. translators: %s: reason
+#: includes/Status.php:85
+#, php-format
+msgid "Could not be removed: %s"
+msgstr "Dzēšana neizdevās: %s"
+
+#: includes/Status.php:85
+msgid "Could not be removed"
+msgstr "Dzēšana neizdevās"
+
+#: includes/Status.php:90
+msgid "Waiting: daily limit reached, shares after midnight"
+msgstr "Gaida: sasniegts dienas ierobežojums, kopīgos pēc pusnakts"
+
+#: includes/Status.php:93
+msgid "Waiting: please confirm your e-mail address"
+msgstr "Gaida: apstipriniet savu e-pasta adresi"
+
+#. translators: %s: date and time
+#: includes/Status.php:98
+#, php-format
+msgid "Scheduled for %s"
+msgstr "Ieplānots uz %s"
+
+#: includes/Status.php:102
+msgid "Retrying soon"
+msgstr "Drīz mēģinās vēlreiz"
+
+#: includes/Status.php:102
+msgid "Queued"
+msgstr "Rindā"
+
+#: includes/Status.php:114 includes/Status.php:115 includes/Status.php:116
+msgid "The connection has expired. Connect again in SmokyPost."
+msgstr "Savienojuma derīgums beidzies. Savienojiet vēlreiz SmokyPost."
+
+#: includes/Status.php:117
+msgid "No page or account is selected for this platform."
+msgstr "Šai platformai nav izvēlēta lapa vai konts."
+
+#: includes/Status.php:118
+msgid "This site is no longer connected to SmokyPost."
+msgstr "Šī vietne vairs nav savienota ar SmokyPost."
+
+#: includes/Status.php:119
+msgid "Your SmokyPost account or license is not active."
+msgstr "Jūsu SmokyPost konts vai licence nav aktīva."
+
+#: includes/Status.php:120
+msgid "This platform is not included in your plan."
+msgstr "Šī platforma nav iekļauta jūsu plānā."
+
+#: includes/Status.php:121
+msgid "The platform did not allow the post. Check that you are still an admin of the page and connect again."
+msgstr "Platforma publicēšanu neatļāva. Pārliecinieties, ka joprojām esat lapas administrators, un savienojiet vēlreiz."
+
+#: includes/Status.php:122
+msgid "The platform blocked this post."
+msgstr "Platforma šo ierakstu bloķēja."
+
+#: includes/Status.php:123
+msgid "The platform rejected this post as a duplicate."
+msgstr "Platforma šo ierakstu noraidīja kā dublikātu."
+
+#: includes/Status.php:124
+msgid "Instagram needs an image. Add a featured image."
+msgstr "Instagram nepieciešams attēls. Pievienojiet ierakstam izcelto attēlu."
+
+#: includes/Status.php:125
+msgid "The platform could not use the image. Try a JPEG or PNG image at least 600 pixels wide."
+msgstr "Platforma nevarēja izmantot attēlu. Izmēģiniet JPEG vai PNG attēlu, kura platums ir vismaz 600 pikseļu."
+
+#: includes/Status.php:126
+msgid "The image could not be read. Use a JPEG, PNG or WebP image."
+msgstr "Attēlu neizdevās nolasīt. Izmantojiet JPEG, PNG vai WebP."
+
+#: includes/Status.php:127
+msgid "The image is too small. Use an image at least 600 pixels wide."
+msgstr "Attēls ir pārāk mazs. Izmantojiet attēlu, kura platums ir vismaz 600 pikseļu."
+
+#: includes/Status.php:128
+msgid "SmokyPost could not download the image from your site."
+msgstr "SmokyPost nevarēja lejupielādēt attēlu no jūsu vietnes."
+
+#: includes/Status.php:129
+msgid "The image could not be prepared."
+msgstr "Attēlu neizdevās sagatavot."
+
+#: includes/Status.php:130
+msgid "The platform was not available. SmokyPost tried several times."
+msgstr "Platforma nebija pieejama. SmokyPost mēģināja vairākas reizes."
+
+#: includes/Status.php:131
+msgid "The platform could not be reached. SmokyPost tried several times."
+msgstr "Neizdevās sazināties ar platformu. SmokyPost mēģināja vairākas reizes."
+
+#: includes/Status.php:132
+msgid "Instagram did not accept the image in time."
+msgstr "Instagram laikus nepieņēma attēlu."
+
+#: includes/Status.php:133
+msgid "The platform rejected the post."
+msgstr "Platforma noraidīja ierakstu."
+
+#: includes/Status.php:134
+msgid "The account that published this post is no longer connected. Delete the post on the platform yourself."
+msgstr "Konts, kas publicēja šo ierakstu, vairs nav savienots. Izdzēsiet ierakstu paši platformā."
+
+#: includes/Status.php:135
+msgid "This post cannot be deleted automatically. Delete it on the platform yourself."
+msgstr "Šo ierakstu nevar izdzēst automātiski. Izdzēsiet to paši platformā."
+
+#. Name of the plugin
+#: smokypost.php:3
+msgid "SmokyPost – Social Auto Share for Posts and Pages"
+msgstr "SmokyPost – Automātiska kopīgošana sociālajos tīklos ierakstiem un lapām"
+
+#. Description of the plugin
+#: smokypost.php:5
+msgid "Automatically share new and old posts and pages to your social media accounts. No developer accounts or API keys needed."
+msgstr "Automātiski kopīgojiet jaunus un vecus ierakstus un lapas savos sociālo tīklu kontos. Izstrādātāju kontu vai API atslēgu nav nepieciešams."

@@ -1,0 +1,330 @@
+3b6e56|Yhdistä sivusi jakaaksesi tämän sisällön.
+c27b34|Avaa SmokyPost
+bc871d|Lähetys on yhä käynnissä. Tarkista Historia-välilehti muutaman minuutin kuluttua.
+118c47|SmokyPostiin ei saatu yhteyttä. Yritä uudelleen muutaman minuutin kuluttua.
+b090f4|Jaa nyt palveluun:
+d5c6d5|Jaa julkaistaessa palveluun:
+b82400|vaatii uudelleenyhdistämisen
+016408|Oma viesti (valinnainen)
+06651c|Jätä tyhjäksi, jos haluat käyttää omaa pohjaasi.
+1d6da0|Jaetaan valittuihin palveluihin julkaistaessa.
+5b18fc|Jaettu automaattisesti julkaistaessa.
+04b478|Jaa nyt
+f4f707|Asetukset
+4d01e8|Lähetetään…
+834915|Poistetaan…
+34b1ef|SmokyPostista tarvitaan uudempi versio. Päivitä lisäosa.
+ed49a3|Palvelut
+16d2b3|Historia
+08bd40|Tili
+3b6c2b|Käyttöehdot
+fa2ead|Tietosuojakäytäntö
+777353|Jaa kirjoituksesi ja sivusi automaattisesti sosiaalisiin verkostoihisi. Luo ilmainen tili tai kirjaudu sisään yhdistääksesi tämän sivuston.
+e05afd|Yhdistettäessä tämä sivusto lähettää SmokyPost-palvelulle (www.smokypost.com) osoitteensa, WordPress- ja PHP-versionsa, kielensä ja aikavyöhykkeensä. Jokaisen jakamasi sisällön sisältö lähetetään jaettaessa.
+8ea211|Luo ilmainen tili
+1e884e|Sähköposti
+6c2c15|Salasana (vähintään 8 merkkiä)
+9ec73e|Hyväksyn seuraavat: %1$s ja %2$s.
+5853d4|Luo tili ja yhdistä
+3b2aee|Minulla on jo tili
+dc647e|Salasana
+ac6560|Kirjaudu ja yhdistä
+422172|Käytä sen sijaan lisenssiavainta
+52f88a|Yhdistä lisenssiavaimella
+01a569|Unohditko salasanan?
+733ae3|Lähetä palautuslinkki
+0efe04|Yhdistä jokainen palvelu ja valitse sivu tai tili, jolle tämä sivusto jakaa.
+43b540|Ei sisälly tilaukseesi.
+4e7193|Tilapäisesti poissa käytöstä. Yritä myöhemmin uudelleen.
+b9ba1a|Yhteys on vanhentunut. Yhdistä uudelleen jatkaaksesi jakamista.
+cf0b67|Yhdistä uudelleen
+f4ec5f|Vaihda
+1063e3|Poista
+7dcd97|Ei yhdistetty.
+49ab28|Yhdistä
+2bf7da|Valitse Facebook-kirjautumisestasi
+6330d1|Julkaisee tekstisi ja linkkisi yhdelle Facebook-sivuistasi. Kirjaudut Facebookin kautta.
+e33490|Vaatii ammattilaisen Instagram-tilin, joka on liitetty Facebook-sivuun. Kirjaudut Facebookin kautta.
+1abbcd|Julkaisee tekstisi ja linkkisi yhdelle LinkedIn-yrityssivuistasi. Kirjaudut LinkedInin kautta.
+328737|Julkaisee tekstisi, aihetunnisteesi ja kuvallisen linkkikortin Bluesky-tilillesi. Yhdistät käyttäjätunnuksella ja sovellussalasanalla.
+9d078b|Julkaisee tekstisi, aihetunnisteesi ja linkkisi Mastodon-tilillesi miltä tahansa Mastodon-palvelimelta. Hyväksyt SmokyPostin omalla palvelimellasi.
+b2d2d7|Julkaisee tekstisi ja linkkikortin Threads-profiiliisi. Kirjaudut Threadsin kautta.
+5f2e71|Julkaisee tekstisi, tunnisteesi ja kuvallisen linkkikortin yhteen Tumblr-blogeistasi. Kirjaudut Tumblrin kautta.
+b4f827|Automaattinen jakaminen:
+521c36|Päällä
+d15305|Pois
+8e61d9|Poista käytöstä
+d154a5|Ota käyttöön
+647bd1|Uudet sisällöt jaetaan tänne julkaistaessa.
+7f9833|Jaetaan vain, kun napsautat ”Jaa nyt”.
+bb7926|Olet kirjautunut sisään, mutta tilejäsi ei voitu listata: %s
+f915a9|Yritä uudelleen
+ea4788|Peruuta
+0bfd8d|Yhdistä ensin tilisi.
+f85f84|Kirjaudu ensin sisään nähdäksesi sivusi.
+f595ba|Tälle kirjautumiselle ei löytynyt sivua tai tiliä, jolle voisit julkaista.
+19c3d3|Varmista, että Instagram-tilisi on ammattilaistili ja liitetty johonkin Facebook-sivuistasi.
+5e5f56|(%s kautta)
+f64a44|Käytä tätä tiliä
+6c803a|Etkö näe oikeaa sivua?
+09a44d|Kirjaudu toisella tilillä
+04d144|Sisältötyypit
+725f6c|Vain nämä tyypit jaetaan automaattisesti, ja vain niille tulee SmokyPost-ruutu editoriin.
+6b0402|Automaattinen jakaminen
+280dc2|Jaa uudet sisällöt automaattisesti julkaistaessa palveluun:
+b3b6ce|ei yhdistetty
+daf9e6|Poista valinta palvelusta lopettaaksesi automaattisen jakamisen siihen. Poista kaikki valinnat poistaaksesi automaattisen jakamisen käytöstä. Voit aina jakaa sisällön itse editorin tai kirjoituslistan ”Jaa nyt” -painikkeella ja poistaa palvelun valinnan yksittäiseltä sisällöltä editorissa.
+be518a|Automaattisesti luodut sisällöt
+766287|Jaa myös muiden lisäosien, tuontityökalujen, REST API:n tai WP-CLI:n julkaisemat sisällöt
+f5c261|Oletuksena päällä. Koodin luomat sisällöt (esimerkiksi automaattiblogi tai syötteiden tuoja) jaetaan yllä oleviin palveluihin. Poista käytöstä, jos haluat jakaa vain sen, minkä julkaiset editorissa.
+1aaf15|Ohita tuodut sisällöt, jotka ovat vanhempia kuin
+73cddd|t
+29327b|Sisältöjen poistaminen
+295b79|Poista jaetut julkaisut, kun sisältö poistetaan
+0d9342|Oletuksena pois päältä. Kun siirrät sisällön roskakoriin tai poistat sen, SmokyPost poistaa myös sen julkaisut Facebookista, LinkedInistä, Blueskystä, Mastodonista, Threadsista ja Tumblrista. Instagram ei salli muiden sovellusten poistaa julkaisuja, joten ne täytyy poistaa Instagram-sovelluksessa. Sisällön palauttaminen roskakorista ei palauta julkaisuja sosiaaliseen mediaan.
+cb393c|Viestipohja
+6c08da|Paikkamerkit:
+ffe7a1|Jokainen palvelu lisää linkin esikatselukorttina; Instagramissa se lisätään tekstin loppuun.
+caebe1|Muuta kirjoituksen avainsanat aihetunnisteiksi palveluille {hashtags}
+f784d5|Oletuskuva
+b89f80|Käytetään, kun sisällöllä ei ole artikkelikuvaa eikä kuvaa sisällössä. Instagram vaatii aina kuvan.
+ef1486|Jaot viimeisen %d päivän ajalta. ¦ Jaot viimeisten %d päivän ajalta.
+447497|Päivämäärä
+7d74f3|Sisältö
+8eea62|Tulos
+902952|Mitään ei ole vielä jaettu.
+5da05b|Tyhjennä historia
+5ca182|Tyhjennetäänkö historia tietyiltä päiviltä vai kokonaan? Se, mikä on jo jaettu, jää sosiaalisiin verkostoihisi. Tyhjennetyt merkinnät eivät enää näy tässä luettelossa.
+5da618|Alkaen
+e12167|Päättyen
+95b928|Jätä päivämäärä tyhjäksi, jos haluat alkaa ensimmäisestä merkinnästä tai päättyä tähän päivään.
+17cddf|Tyhjennä nämä päivät
+808768|Tyhjennä koko historia
+03727a|Päivä
+7cbb88|Kuukausi
+537c66|Vuosi
+0b6cbd|Tilaus
+a77d15|Lisenssiavain
+6db829|Jaettu tänään
+b362bb|%1$d / %2$d sisältöä
+494eb5|Tämä sivusto
+efb548|Katkaise tämän sivuston yhteys
+4fdc17|Katkaistaanko tämän sivuston yhteys SmokyPostiin? Jakaminen loppuu, kunnes kirjaudut uudelleen.
+e54633|Kyllä, katkaise yhteys
+e2e646|Näin Pro toimii
+377a68|Maksa turvallisesti Paddlen kautta.
+fbc905|Lataa SmokyPost Pro alla olevalla painikkeella.
+7f189b|Palaa tälle sivulle. Näkyviin tulee ”Lataa SmokyPost Pro” -painike, ja lähetämme saman linkin sinulle sähköpostitse.
+53f719|Asenna se kohdassa Lisäosat > Lisää uusi > Lähetä lisäosa ja ota se käyttöön. Lisenssisi tunnistetaan automaattisesti, avainta ei tarvitse syöttää.
+eb475d|SmokyPost Pro on toinen lisäosa, joka toimii SmokyPostin rinnalla: pidä molemmat käytössä. Se vie noin minuutin. Täysi hyvitys 14 päivän kuluessa ensimmäisestä maksusta.
+9fa65e|Maksusi näkyminen tässä kestää tavallista pidempään. Lataa sivu uudelleen muutaman minuutin kuluttua. Jos tilauksesi on tunnin kuluttua yhä Free, kirjoita osoitteeseen info@smokypost.com.
+bec297|Maksu on vastaanotettu. Tilauksesi aktivoituu pian, ja tämä sivu tarkistaa sen itse.
+2c80f9|SmokyPost Pro
+b81f3c|SmokyPost Pro %s on asennettu ja käytössä.
+d25d87|Sen asetukset löytyvät kohdasta SmokyPost > Pro ja kalenteri kohdasta SmokyPost > Kalenteri. Se päivittyy itse.
+85e962|SmokyPost Pro on asennettu mutta ei käytössä. Ota se käyttöön Lisäosat-sivulla.
+a3bd33|Avaa Lisäosat
+386940|Lataa SmokyPost Pro
+500b65|Linkki toimii tunnin. Voit aina palata tänne hakemaan uuden.
+e9f36d|Jokin meni pieleen. Yritä uudelleen.
+6956cc|Tilaukset
+3faa64|Sivustot
+a97de4|Sisältöjä päivässä
+360114|Hinta
+124864|%s vuodessa
+441f54|Nykyinen tilaus
+690969|Vaihda tähän tilaukseen
+f68358|Päivitä
+5d6316|Paddle käsittelee maksut turvallisesti. Hinnat ovat Yhdysvaltain dollareina, ja verot lisätään kassalla siellä, missä niitä sovelletaan.
+be0482|Tilauksen vaihto tulee voimaan heti. Näet tarkan summan ja vahvistat sen, ennen kuin mitään veloitetaan.
+97788c|Hallinnoi tilausta
+1a7066|Peruuta ja palauta rahat
+b2c3ec|Hyvitys on mahdollinen 14 päivän kuluessa ensimmäisestä maksusta. Voit milloin tahansa lopettaa uusiutumisen kohdassa ”Hallinnoi tilausta”.
+b1c55c|Kysyttävää maksusta? Kirjoita osoitteeseen info@smokypost.com.
+a0d458|Voit peruuttaa ja saada täyden hyvityksen %s asti.
+361f28|Peruuta ja hanki hyvitys
+9b3448|Peruutetaanko tilaus ja saadaanko täysi hyvitys? Kaikki maksamasi palautetaan kortille, jolla maksoit. Käytetyistä päivistä ei pidätetä mitään. Tilauksesi päättyy heti, ja tämä sivusto palaa Free-tilaukseen.
+1e81d7|Kyllä, peruuta ja hyvitä
+ee6085|Starter
+abd900|Pro
+75ec3e|Agency
+0222db|Vaihda tilaukseen %s
+71d986|Tänään kortiltasi, jolla maksoit, veloitetaan %1$s (%2$s).
+a503a7|Tänään kortiltasi, jolla maksoit, veloitetaan %s.
+237ece|Seuraava uusiutuminen pysyy ajankohdassa %s.
+cb540f|Tänään ei veloiteta mitään.
+1d46af|Hintaero hyvitetään seuraavassa uusiutumisessa, %s.
+937bcf|Hintaero hyvitetään seuraavassa uusiutumisessa.
+bd4a14|Jatketaanko?
+cd1df7|Kyllä, veloita %s
+6abb41|Kyllä, vaihda tilaus
+17129e|Haluatko maksaa toisella kortilla? Avaa ”Hallinnoi tilausta”, päivitä maksutapa ja vaihda sitten tilaus uudelleen.
+d4192d|päättyy numeroihin %s
+d4fbfe|%1$s, päättyy numeroihin %2$s
+b24ce0|Free
+9086fc|Jakaminen on keskeytetty, kunnes vahvistat sähköpostiosoitteesi.
+dbf504|Vahvista sähköpostiosoitteesi. Jakaminen keskeytetään %d päivän kuluttua, jos et tee sitä. ¦ Vahvista sähköpostiosoitteesi. Jakaminen keskeytetään %d päivän kuluttua, jos et tee sitä.
+933999|Lähetä linkki uudelleen
+feb3a3|Bluesky-käyttäjätunnus
+65255b|Sovellussalasana
+63d12d|Käytä sovellussalasanaa, älä Bluesky-pääsalasanaasi. Sitä voivat käyttää vain tämänkaltaiset sovellukset, ja voit poistaa sen Blueskyssä milloin tahansa.
+4adaf4|Miten saan sovellussalasanan?
+5c312e|Avaa %s (tai Blueskyssä: Asetukset > Yksityisyys ja turvallisuus > Sovellussalasanat).
+9a01be|Napsauta ”Add App Password” ja nimeä se SmokyPostiksi.
+61e507|Kopioi Blueskyn näyttämä salasana ja liitä se tähän.
+bd4bac|Mastodon-palvelimesi
+9279eb|Palvelimen osoite, jolla tilisi on, esimerkiksi mastodon.social, tai koko nimesi muodossa @nimi@mastodon.social. Hyväksyt SmokyPostin kyseisellä palvelimella.
+f8b4c2|Kirjautunut sisään. Valitse nyt tili, jolle tämä sivusto jakaa.
+5bb110|Kirjautuminen peruutettiin.
+262cb9|Kirjautuminen epäonnistui. Yritä uudelleen.
+bcbbc8|Hyvä tietää:
+914602|SmokyPost jakaa uudet kirjoitukset automaattisesti julkaistaessa, myös muiden lisäosien, tuontityökalujen tai REST API:n luomat. Voit ottaa automaattisen jakamisen käyttöön tai poistaa sen käytöstä kullekin palvelulle sen kortissa alla tai Asetuksissa.
+78e981|Selvä
+bae082|Avaa asetukset
+8beb61|SmokyPost on melkein valmis.
+4f4267|Yhdistä tämä sivusto
+2835b7|Sinulla ei ole oikeutta tähän.
+811723|Anna kelvollinen sähköpostiosoite.
+4b52c9|Anna salasana.
+cacd72|Käytä vähintään 8 merkin salasanaa.
+270228|Hyväksy käyttöehdot ja tietosuojakäytäntö.
+c570e4|Tilisi on valmis ja tämä sivusto on yhdistetty. Lähetimme sinulle sähköpostin osoitteesi vahvistamiseksi.
+e4912d|Kirjautunut sisään. Tämä sivusto on yhdistetty.
+a41cc2|Anna lisenssiavain.
+1448bb|Lisenssi on aktivoitu. Tämä sivusto on yhdistetty.
+025e69|Jos tälle osoitteelle on tili, lähetimme salasanan palautuslinkin.
+19d2aa|Tämän sivuston yhteys SmokyPostiin on katkaistu.
+ee3077|Valitse kelvolliset päivämäärät.
+12381e|Ensimmäisen päivämäärän täytyy olla ennen viimeistä.
+fd4f8f|Historiasta tyhjennettiin %d merkintä. ¦ Historiasta tyhjennettiin %d merkintää.
+26d353|Tyhjennettävää ei ollut. Yhä lähetettävät merkinnät jäävät luetteloon.
+b9a702|Lähetimme vahvistuslinkin uudelleen.
+12bb90|Yhdistetty. Valitse nyt tili, jolle tämä sivusto jakaa.
+c4effa|Tämä tilauksen vaihto on vanhentunut. Valitse tilaus uudelleen.
+5e77be|Tilaustasi vaihdetaan. Voi kestää minuutin, ennen kuin se näkyy tässä.
+d8d639|Hyvitystä on pyydetty ja tilaus peruttu. Paddle palauttaa rahat kortille, jolla maksoit; se voi kestää muutaman päivän.
+82bf3a|%1$s on nyt yhdistetty palveluun %2$s.
+9a7e58|Asetukset tallennettu.
+5677c1|Automaattinen jakaminen palveluun %s on päällä.
+fa4524|Automaattinen jakaminen palveluun %s on pois päältä.
+0a2f60|Ei jaettu
+498cc4|Jaa SmokyPostilla
+90929c|%d sisältö asetettiin jonoon jaettavaksi. ¦ %d sisältöä asetettiin jonoon jaettavaksi.
+81b7e8|%d sisältöä ei voitu jakaa; katso SmokyPost-sarake. ¦ %d sisältöä ei voitu jakaa; katso SmokyPost-sarake.
+f75f84|Tätä sivustoa ei ole vielä yhdistetty SmokyPostiin.
+10112f|Jaettava kuva
+e57b53|Valittu jaettavaksi
+85eb5a|Valitse toinen kuva
+7cd243|Valitse kuva
+f6b9f8|Käytä automaattista valintaa
+4c8d06|Tämän sisällön kuvat:
+4f63a3|Käytä tätä kuvaa
+e6fce5|Sisällön päivittäminen ei jaa sitä uudelleen. Jaa se napsauttamalla ”Jaa nyt”.
+52beb6|Kirjoituksen artikkelikuva
+860133|Sisällön ensimmäinen kuva (tällä sisällöllä ei ole artikkelikuvaa)
+662aa1|SmokyPostin asetusten oletuskuva (tällä sisällöllä ei ole kuvaa)
+c28cf8|Instagram vaatii kuvan, eikä tällä sisällöllä ole sellaista. Lisää artikkelikuva tai kuva sisältöön, muuten sitä ei jaeta Instagramiin.
+1b1025|Jaa ajankohtana (valinnainen)
+d9c5f4|Muoto: %1$s, sivustosi aikaa (%2$s). Jätä tyhjäksi, jos haluat jakaa heti.
+03f222|Tämä ei näytä päivämäärältä ja kellonajalta. Käytä muotoa VVVV-KK-PP TT:MM, esimerkiksi 2026-12-31 18:30.
+25f734|Ajasta
+fe3b13|Peruuta ajastettu jako
+87b913|Poista jaetut julkaisut
+b21c60|Kyllä, poista
+165825|Tallenna sisältö ottaaksesi muutoksen käyttöön.
+9fb721|Sinulla ei ole oikeutta jakaa tätä sisältöä.
+d0bfeb|Ei jaettavaa: valitse vähintään yksi yhdistetty palvelu.
+9b3811|Lähetetään… Voit poistua tältä sivulta, jakaminen jatkuu taustalla.
+6a5c54|Ajastettu ajankohtaan %s. Voit poistua tältä sivulta.
+97c806|Tälle sisällölle ei ole ajastettu mitään.
+4e96d7|Ajastettu jako peruutettiin.
+2b0bb4|Peruttavaa ei ole: se on jo lähetetty.
+e4c50f|Poistetaanko jaetut julkaisut palvelusta %s? Itse sisältö jää sivustollesi.
+fe2165|Palvelun %s julkaisuja ei voi poistaa täältä. Poista ne itse sovelluksessa.
+0f2121|Sinulla ei ole oikeutta muuttaa tätä sisältöä.
+605da5|Tälle sisällölle ei ole mitään poistettavaa.
+46dc65|Poistetaan… Voit poistua tältä sivulta, poistaminen jatkuu taustalla.
+a3787e|Valmis, mutta jokin epäonnistui. Katso alta.
+f59405|Valmis.
+50321d|Joka 5. minuutti (SmokyPost)
+67cfe6|Ei jaettu Instagramiin: Instagram vaatii kuvan, eikä tällä sisällöllä ole sellaista. Lisää artikkelikuva tai kuva sisältöön.
+398d9f|Ei jaettu: vaatii kuvan
+e44fa2|Jaettu (poista itse sovelluksessa)
+a6156e|Jaettu
+d98139|Virhe: %s
+d7c8c8|Virhe
+a149e8|Peruutettu
+e3f04d|Poistetaan…
+93f07b|Poistettu
+1c5338|Poisto epäonnistui: %s
+d581ce|Poisto epäonnistui
+6c7650|Odottaa: päiväraja täyttyi, jaetaan keskiyön jälkeen
+ccef9c|Odottaa: vahvista sähköpostiosoitteesi
+a97547|Ajastettu ajankohtaan %s
+923d48|Yritetään pian uudelleen
+7b2f31|Jonossa
+bc1f89|Yhteys on vanhentunut. Yhdistä uudelleen SmokyPostissa.
+a608e9|Tälle palvelulle ei ole valittu sivua tai tiliä.
+347591|Tätä sivustoa ei ole enää yhdistetty SmokyPostiin.
+ecd22a|SmokyPost-tilisi tai -lisenssisi ei ole aktiivinen.
+4b472d|Tämä palvelu ei sisälly tilaukseesi.
+852d39|Palvelu ei sallinut julkaisua. Varmista, että olet yhä sivun ylläpitäjä, ja yhdistä uudelleen.
+5e0173|Palvelu esti tämän julkaisun.
+c939dc|Palvelu hylkäsi tämän julkaisun kaksoiskappaleena.
+b96b3f|Instagram vaatii kuvan. Lisää kirjoitukseen artikkelikuva.
+191240|Palvelu ei voinut käyttää kuvaa. Kokeile JPEG- tai PNG-kuvaa, jonka leveys on vähintään 600 pikseliä.
+28b253|Kuvaa ei voitu lukea. Käytä JPEG-, PNG- tai WebP-kuvaa.
+08c673|Kuva on liian pieni. Käytä kuvaa, jonka leveys on vähintään 600 pikseliä.
+e99a00|SmokyPost ei voinut ladata kuvaa sivustoltasi.
+7f8957|Kuvaa ei voitu valmistella.
+7fa12c|Palvelu ei ollut käytettävissä. SmokyPost yritti useita kertoja.
+bd9611|Palveluun ei saatu yhteyttä. SmokyPost yritti useita kertoja.
+582ab1|Instagram ei hyväksynyt kuvaa ajoissa.
+c19c4c|Palvelu hylkäsi julkaisun.
+8a0741|Tämän julkaisun tehnyt tili ei ole enää yhdistettynä. Poista julkaisu itse palvelussa.
+ad0394|Tätä julkaisua ei voi poistaa automaattisesti. Poista se itse palvelussa.
+eb851e|SmokyPost – Automaattinen jakaminen sosiaaliseen mediaan julkaisuille ja sivuille
+6b6724|Jaa uudet ja vanhat julkaisut ja sivut automaattisesti sosiaalisen median tileillesi. Kehittäjätilejä tai API-avaimia ei tarvita.
+a274f4|Ilmoitukset
+777ca2|Lähetä minulle sähköposti, kun
+28c682|jako epäonnistuu
+ecb9b9|sisältö on jaettu
+8daff7|Saat yhden sähköpostin sisältöä kohden. Epäonnistunut jako ilmoitetaan, kun SmokyPost on yrittänyt useita kertoja, ja sama ongelma samalla alustalla ilmoitetaan kerran päivässä. Sähköposti yhteyden vanhenemisesta lähetetään aina.
+ec7339|Lähetä sähköpostit osoitteisiin
+939f28|Erota useat osoitteet pilkuilla. Jätä tyhjäksi, jos haluat käyttää sivuston ylläpitäjän osoitetta (%s).
+c2239a|SMTP
+00c7c2|Lähetä SmokyPostin sähköpostit SMTP-tilin kautta
+5efbcc|Käytä tätä, jos sivustosi sähköpostit eivät saavu perille. Vain SmokyPostin sähköpostit käyttävät tätä tiliä, sivustosi muut sähköpostit pysyvät ennallaan. SmokyPostia varten et tarvitse erillistä SMTP-lisäosaa.
+bdd48f|SMTP-palvelin
+60aaf4|Portti
+d7f261|Salaus
+413acc|TLS (yleensä portti 587)
+68b181|SSL (yleensä portti 465)
+151adf|Ei salausta
+f6039d|Käyttäjätunnus
+c6e6fb|Salasana on määritetty tiedostossa wp-config.php.
+0b5899|Salasana on tallennettu. Jätä kenttä tyhjäksi, jos haluat säilyttää sen.
+d7381f|Poista tallennettu salasana
+7b710d|Salasana tallennetaan salattuna eikä sitä näytetä enää koskaan. Gmailia ja Outlookia varten käytä sovellussalasanaa.
+491147|Lähettäjän sähköposti
+7508f2|Useimmat palveluntarjoajat hyväksyvät vain tiliin kuuluvan osoitteen.
+c3a7ea|Lähettäjän nimi
+f5d604|Tallenna muutokset
+f970b9|Lähetä testisähköposti
+81f545|Testisähköposti tallentaa ensin yllä olevat arvot ja käyttää niitä sitten.
+1f2def|SmokyPostin testisähköposti
+2738c4|Tämä on SmokyPostin testisähköposti. Jos voit lukea sen, SmokyPostin sähköpostit tavoittavat sinut.
+170c1a|Testisähköposti lähetettiin osoitteeseen %s. Tarkista saapuneet ja roskaposti.
+15a320|Testisähköpostia ei voitu lähettää: %s Tarkista palvelin, portti ja salaus.
+11d6a3|Testisähköpostia ei voitu lähettää. Tarkista palvelin, portti ja salaus.
+eb4da2|Yhdistä %s uudelleen
+97ec08|Yhteys palveluun %1$s on vanhentunut, joten uusia sisältöjä ei voi jakaa sinne. Yhdistä uudelleen: %2$s
+e6a17f|Jakaminen epäonnistui: %s
+4bde81|”%s” ei voitu jakaa kaikkialle:
+f7ca6b|Jaettu: %s
+1c747d|”%s” jaettiin:
+89ae90|SmokyPost: päivittäinen raja saavutettu
+8b9f2b|Tilauksesi päivittäinen raja on saavutettu. Loput sisällöt jaetaan keskiyön jälkeen.
+591804|Avaa sisältö: %s
+f4f486|Historia: %s
+2396c6|Saat tämän sähköpostin, koska SmokyPostin ilmoitukset ovat käytössä sivustolla %1$s. Muuta tästä, kuka niitä saa, tai poista ne käytöstä: %2$s

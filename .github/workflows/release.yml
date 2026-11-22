@@ -1,0 +1,64 @@
+name: Release
+
+# Builds the install zip on every push to main. When the version in smokypost.php
+# has no GitHub release yet, it creates the tag and the release with the zip attached.
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          path: smokypost
+
+      - name: Read version
+        id: v
+        run: |
+          VERSION=$(grep -m1 -E '^[[:space:]]*\*?[[:space:]]*Version:' smokypost/smokypost.php | sed -E 's/.*Version:[[:space:]]*//' | tr -d '[:space:]')
+          test -n "$VERSION"
+          echo "version=$VERSION" >> "$GITHUB_OUTPUT"
+
+      - name: Build zip
+        run: |
+          zip -qr "smokypost-${{ steps.v.outputs.version }}.zip" smokypost -x 'smokypost/tools/*' 'smokypost/.git*' 'smokypost/README.md' 'smokypost/.github/*' 'smokypost/.wordpress-org/*' '*/__pycache__/*'
+          unzip -l "smokypost-${{ steps.v.outputs.version }}.zip" | tail -1
+
+      - name: Create release if this version has none
+        id: rel
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          TAG="v${{ steps.v.outputs.version }}"
+          if gh release view "$TAG" --repo "$GITHUB_REPOSITORY" >/dev/null 2>&1; then
+            echo "Release $TAG already exists, nothing to do."
+            echo "created=false" >> "$GITHUB_OUTPUT"
+          else
+            gh release create "$TAG" "smokypost-${{ steps.v.outputs.version }}.zip" --repo "$GITHUB_REPOSITORY" --target "$GITHUB_SHA" --title "${{ steps.v.outputs.version }}" --generate-notes
+            echo "created=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      # Publishes a new version to WordPress.org (trunk and tags/<version>) right after
+      # its GitHub release is created. Needs the repository secrets SVN_USERNAME and
+      # SVN_PASSWORD. Without them this step fails, but the GitHub release above is unaffected.
+      - name: Prepare files for WordPress.org
+        if: steps.rel.outputs.created == 'true'
+        run: |
+          mkdir -p dist/smokypost
+          rsync -a --exclude='tools' --exclude='.git*' --exclude='.github' --exclude='.wordpress-org' --exclude='README.md' --exclude='__pycache__' smokypost/ dist/smokypost/
+
+      - name: Deploy to WordPress.org
+        if: steps.rel.outputs.created == 'true'
+        uses: 10up/action-wordpress-plugin-deploy@stable
+        env:
+          SVN_USERNAME: ${{ secrets.SVN_USERNAME }}
+          SVN_PASSWORD: ${{ secrets.SVN_PASSWORD }}
+          SLUG: smokypost
+          VERSION: ${{ steps.v.outputs.version }}
+          BUILD_DIR: ${{ github.workspace }}/dist/smokypost

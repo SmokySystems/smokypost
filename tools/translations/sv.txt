@@ -1,0 +1,330 @@
+3b6e56|Anslut dina sidor för att dela det här inlägget.
+c27b34|Öppna SmokyPost
+bc871d|Det skickas fortfarande. Kontrollera fliken Historik om några minuter.
+118c47|Det gick inte att nå SmokyPost. Försök igen om några minuter.
+b090f4|Dela nu på:
+d5c6d5|Dela vid publicering på:
+b82400|behöver anslutas igen
+016408|Eget meddelande (valfritt)
+06651c|Lämna tomt för att använda din mall.
+1d6da0|Delas på de markerade plattformarna när det publiceras.
+5b18fc|Delades automatiskt vid publicering.
+04b478|Dela nu
+f4f707|Inställningar
+4d01e8|Skickar …
+834915|Tar bort …
+34b1ef|En nyare version av SmokyPost behövs. Uppdatera tillägget.
+ed49a3|Plattformar
+16d2b3|Historik
+08bd40|Konto
+3b6c2b|Användarvillkor
+fa2ead|Integritetspolicy
+777353|Dela dina inlägg och sidor automatiskt på dina sociala nätverk. Skapa ett gratis konto eller logga in för att ansluta den här webbplatsen.
+e05afd|När du ansluter skickar den här webbplatsen sin adress, WordPress- och PHP-version, språk och tidszon till SmokyPost-tjänsten (www.smokypost.com). Innehållet i varje inlägg du delar skickas när du delar det.
+8ea211|Skapa ett gratis konto
+1e884e|E-post
+6c2c15|Lösenord (minst 8 tecken)
+9ec73e|Jag godkänner %1$s och %2$s.
+5853d4|Skapa konto och anslut
+3b2aee|Jag har redan ett konto
+dc647e|Lösenord
+ac6560|Logga in och anslut
+422172|Använd en licensnyckel i stället
+52f88a|Anslut med licensnyckel
+01a569|Har du glömt lösenordet?
+733ae3|Skicka återställningslänk
+0efe04|Anslut varje plattform och välj sidan eller kontot som den här webbplatsen ska dela på.
+43b540|Ingår inte i din plan.
+4e7193|Tillfälligt otillgängligt. Försök igen senare.
+b9ba1a|Anslutningen har gått ut. Anslut igen för att fortsätta dela.
+cf0b67|Anslut igen
+f4ec5f|Ändra
+1063e3|Ta bort
+7dcd97|Inte ansluten.
+49ab28|Anslut
+2bf7da|Välj från din Facebook-inloggning
+6330d1|Publicerar din text och länk på en av dina Facebook-sidor. Du loggar in via Facebook.
+e33490|Kräver ett professionellt Instagram-konto kopplat till en Facebook-sida. Du loggar in via Facebook.
+1abbcd|Publicerar din text och länk på en av dina företagssidor på LinkedIn. Du loggar in via LinkedIn.
+328737|Publicerar din text, dina hashtaggar och ett länkkort med bild på ditt Bluesky-konto. Du ansluter med ditt användarnamn och ett applösenord.
+9d078b|Publicerar din text, dina hashtaggar och din länk på ditt Mastodon-konto på valfri Mastodon-server. Du godkänner SmokyPost på din egen server.
+b2d2d7|Publicerar din text och ett länkkort på din Threads-profil. Du loggar in via Threads.
+5f2e71|Publicerar din text, dina taggar och ett länkkort med bild på en av dina Tumblr-bloggar. Du loggar in via Tumblr.
+b4f827|Automatisk delning:
+521c36|På
+d15305|Av
+8e61d9|Stäng av
+d154a5|Slå på
+647bd1|Nya inlägg delas här när de publiceras.
+7f9833|Delas bara när du klickar på ”Dela nu”.
+bb7926|Du är inloggad, men det gick inte att lista dina konton: %s
+f915a9|Försök igen
+ea4788|Avbryt
+0bfd8d|Anslut ditt konto först.
+f85f84|Logga in först för att se dina sidor.
+f595ba|Hittade ingen sida eller inget konto som du kan publicera på för den här inloggningen.
+19c3d3|Kontrollera att ditt Instagram-konto är ett professionellt konto och är kopplat till en av dina Facebook-sidor.
+5e5f56|(via %s)
+f64a44|Använd det här kontot
+6c803a|Ser du inte rätt sida?
+09a44d|Logga in med ett annat konto
+04d144|Innehållstyper
+725f6c|Bara dessa typer delas automatiskt, och bara de får SmokyPost-rutan i redigeraren.
+6b0402|Automatisk delning
+280dc2|Dela nya inlägg automatiskt vid publicering på:
+b3b6ce|inte ansluten
+daf9e6|Avmarkera en plattform för att sluta dela automatiskt på den. Avmarkera alla för att stänga av automatisk delning. Du kan alltid dela ett inlägg själv med knappen ”Dela nu” i redigeraren eller i inläggslistan, och avmarkera en plattform för ett enskilt inlägg i redigeraren.
+be518a|Automatiskt skapade inlägg
+766287|Dela även inlägg som publiceras av andra tillägg, importverktyg, REST API eller WP-CLI
+f5c261|På som standard. Inlägg som skapas av kod (till exempel en autoblogg eller en flödesimportör) delas på plattformarna ovan. Stäng av om du bara vill dela det du publicerar i redigeraren.
+1aaf15|Hoppa över importerade inlägg som är äldre än
+73cddd|tim
+29327b|Borttagning av inlägg
+295b79|Ta bort delade inlägg när inlägget tas bort
+0d9342|Av som standard. När du flyttar ett inlägg till papperskorgen eller tar bort det tar SmokyPost även bort dess inlägg på Facebook, LinkedIn, Bluesky, Mastodon, Threads och Tumblr. Instagram tillåter inte att andra appar tar bort inlägg, så de måste tas bort i Instagram-appen. Att återställa ett inlägg från papperskorgen återställer inte inläggen på sociala nätverk.
+cb393c|Meddelandemall
+6c08da|Platshållare:
+ffe7a1|Länken läggs till av varje plattform som ett förhandsvisningskort; på Instagram läggs den till i slutet av texten.
+caebe1|Gör om inläggets taggar till hashtaggar för {hashtags}
+f784d5|Standardbild
+b89f80|Används när ett inlägg saknar utvald bild och bild i innehållet. Instagram kräver alltid en bild.
+ef1486|Delningar de senaste %d dygnet. ¦ Delningar de senaste %d dygnen.
+447497|Datum
+7d74f3|Inlägg
+8eea62|Resultat
+902952|Inget har delats ännu.
+5da05b|Rensa historik
+5ca182|Rensa historiken för vissa datum eller allt? Det som redan har delats finns kvar på dina sociala nätverk. Rensade poster visas inte längre i den här listan.
+5da618|Från
+e12167|Till
+95b928|Lämna ett datum tomt för att börja vid första posten eller sluta i dag.
+17cddf|Rensa de här datumen
+808768|Rensa all historik
+03727a|Dag
+7cbb88|Månad
+537c66|År
+0b6cbd|Plan
+a77d15|Licensnyckel
+6db829|Delade i dag
+b362bb|%1$d av %2$d inlägg
+494eb5|Den här webbplatsen
+efb548|Koppla från den här webbplatsen
+4fdc17|Koppla från den här webbplatsen från SmokyPost? Delningen upphör tills du loggar in igen.
+e54633|Ja, koppla från
+e2e646|Så fungerar Pro
+377a68|Betala säkert via Paddle.
+fbc905|Ladda ner SmokyPost Pro med knappen nedan.
+7f189b|Kom tillbaka till den här sidan. Knappen ”Ladda ner SmokyPost Pro” visas, och vi mejlar dig samma länk.
+53f719|Installera det under Tillägg > Lägg till nytt > Ladda upp tillägg och aktivera det. Din licens hittas automatiskt, du behöver inte ange någon nyckel.
+eb475d|SmokyPost Pro är ett andra tillägg som fungerar tillsammans med SmokyPost: låt båda vara aktiva. Det tar ungefär en minut. Full återbetalning inom 14 dagar efter din första betalning.
+9fa65e|Din betalning tar längre tid än vanligt att visas här. Ladda om sidan om några minuter. Om din plan fortfarande är Free efter en timme, mejla info@smokypost.com.
+bec297|Betalningen har tagits emot. Din plan blir aktiv inom kort, och den här sidan kontrollerar det själv.
+2c80f9|SmokyPost Pro
+b81f3c|SmokyPost Pro %s är installerat och aktivt.
+d25d87|Dess inställningar finns under SmokyPost > Pro och kalendern under SmokyPost > Kalender. Det uppdaterar sig självt.
+85e962|SmokyPost Pro är installerat men inte aktivt. Aktivera det på sidan Tillägg.
+a3bd33|Öppna Tillägg
+386940|Ladda ner SmokyPost Pro
+500b65|Länken fungerar i en timme. Du kan alltid komma tillbaka hit för en ny.
+e9f36d|Något gick fel. Försök igen.
+6956cc|Planer
+3faa64|Webbplatser
+a97de4|Inlägg per dag
+360114|Pris
+124864|%s per år
+441f54|Nuvarande plan
+690969|Byt till den här planen
+f68358|Uppgradera
+5d6316|Betalningar hanteras säkert av Paddle. Priserna är i amerikanska dollar, och skatt läggs till i kassan där den gäller.
+be0482|Planbyte gäller direkt. Du ser det exakta beloppet och bekräftar det innan något dras.
+97788c|Hantera prenumeration
+1a7066|Avbryt och få pengarna tillbaka
+b2c3ec|Återbetalning är möjlig inom 14 dagar efter första betalningen. Du kan när som helst stoppa förnyelsen under ”Hantera prenumeration”.
+b1c55c|Frågor om betalningen? Mejla info@smokypost.com.
+a0d458|Du kan avbryta och få full återbetalning till och med %s.
+361f28|Avbryt och få återbetalning
+9b3448|Avbryta prenumerationen och få full återbetalning? Allt du har betalat återbetalas till kortet du betalade med. Inget dras för de dagar du har använt. Din plan upphör direkt och den här webbplatsen går tillbaka till Free.
+1e81d7|Ja, avbryt och återbetala
+ee6085|Starter
+abd900|Pro
+75ec3e|Agency
+0222db|Byt till %s
+71d986|Idag dras %1$s (%2$s) från kortet du betalade med.
+a503a7|Idag dras %s från kortet du betalade med.
+237ece|Nästa förnyelse är kvar på %s.
+cb540f|Inget dras i dag.
+1d46af|Prisskillnaden tillgodoräknas vid nästa förnyelse, den %s.
+937bcf|Prisskillnaden tillgodoräknas vid nästa förnyelse.
+bd4a14|Fortsätta?
+cd1df7|Ja, dra %s
+6abb41|Ja, byt plan
+17129e|Vill du betala med ett annat kort? Öppna ”Hantera prenumeration”, uppdatera betalningssättet och byt sedan plan igen.
+d4192d|som slutar på %s
+d4fbfe|%1$s som slutar på %2$s
+b24ce0|Free
+9086fc|Delningen är pausad tills du bekräftar din e-postadress.
+dbf504|Bekräfta din e-postadress. Delningen pausas om %d dag om du inte gör det. ¦ Bekräfta din e-postadress. Delningen pausas om %d dagar om du inte gör det.
+933999|Skicka länken igen
+feb3a3|Bluesky-användarnamn
+65255b|Applösenord
+63d12d|Använd ett applösenord, inte ditt vanliga Bluesky-lösenord. Det kan bara användas av appar som den här, och du kan ta bort det i Bluesky när som helst.
+4adaf4|Hur får jag ett applösenord?
+5c312e|Öppna %s (eller i Bluesky: Inställningar > Integritet och säkerhet > Applösenord).
+9a01be|Klicka på ”Add App Password” och döp det till SmokyPost.
+61e507|Kopiera lösenordet som Bluesky visar och klistra in det här.
+bd4bac|Din Mastodon-server
+9279eb|Adressen till servern där ditt konto finns, till exempel mastodon.social, eller ditt fullständiga namn, som @namn@mastodon.social. Du godkänner SmokyPost på den servern.
+f8b4c2|Du är inloggad. Välj nu kontot som den här webbplatsen ska dela på.
+5bb110|Inloggningen avbröts.
+262cb9|Inloggningen misslyckades. Försök igen.
+bcbbc8|Bra att veta:
+914602|SmokyPost delar nya inlägg automatiskt när de publiceras, även inlägg som skapas av andra tillägg, importverktyg eller REST API. Du kan slå på eller av automatisk delning för varje plattform på dess kort nedan eller under Inställningar.
+78e981|Jag förstår
+bae082|Öppna inställningar
+8beb61|SmokyPost är nästan klart.
+4f4267|Anslut den här webbplatsen
+2835b7|Du har inte behörighet att göra det här.
+811723|Ange en giltig e-postadress.
+4b52c9|Ange ett lösenord.
+cacd72|Använd ett lösenord på minst 8 tecken.
+270228|Godkänn användarvillkoren och integritetspolicyn.
+c570e4|Ditt konto är klart och den här webbplatsen är ansluten. Vi har mejlat dig för att bekräfta din adress.
+e4912d|Du är inloggad. Den här webbplatsen är ansluten.
+a41cc2|Ange en licensnyckel.
+1448bb|Licensen är aktiverad. Den här webbplatsen är ansluten.
+025e69|Om det finns ett konto för den här adressen har vi skickat en länk för att återställa lösenordet.
+19d2aa|Den här webbplatsen har kopplats från SmokyPost.
+ee3077|Välj giltiga datum.
+12381e|Det första datumet måste vara före det sista.
+fd4f8f|%d post rensades från historiken. ¦ %d poster rensades från historiken.
+26d353|Det fanns inget att rensa. Poster som fortfarande skickas finns kvar i listan.
+b9a702|Vi har skickat bekräftelselänken igen.
+12bb90|Ansluten. Välj nu kontot som den här webbplatsen ska dela på.
+c4effa|Det här planbytet har gått ut. Välj plan igen.
+5e77be|Din plan byts. Det kan ta en minut innan det syns här.
+d8d639|Återbetalning har begärts och prenumerationen är avbruten. Paddle återbetalar till kortet du betalade med; det kan ta några dagar.
+82bf3a|%1$s är nu anslutet till %2$s.
+9a7e58|Inställningarna sparades.
+5677c1|Automatisk delning på %s är på.
+fa4524|Automatisk delning på %s är av.
+0a2f60|Inte delat
+498cc4|Dela med SmokyPost
+90929c|%d inlägg köades för delning. ¦ %d inlägg köades för delning.
+81b7e8|%d inlägg kunde inte delas; se kolumnen SmokyPost. ¦ %d inlägg kunde inte delas; se kolumnen SmokyPost.
+f75f84|Den här webbplatsen är inte ansluten till SmokyPost ännu.
+10112f|Bild att dela
+e57b53|Vald för delning
+85eb5a|Välj en annan bild
+7cd243|Välj en bild
+f6b9f8|Använd automatiskt val
+4c8d06|Bilder i det här inlägget:
+4f63a3|Använd den här bilden
+e6fce5|Att uppdatera ett inlägg delar det inte igen. Klicka på ”Dela nu” för att dela det.
+52beb6|Inläggets utvalda bild
+860133|Första bilden i innehållet (det här inlägget har ingen utvald bild)
+662aa1|Standardbilden från SmokyPosts inställningar (det här inlägget har ingen bild)
+c28cf8|Instagram kräver en bild och det här inlägget har ingen. Lägg till en utvald bild eller en bild i innehållet, annars delas det inte på Instagram.
+1b1025|Dela vid (valfritt)
+d9c5f4|Format: %1$s, i din webbplats tid (%2$s). Lämna tomt för att dela direkt.
+03f222|Det där ser inte ut som ett datum och en tid. Använd formatet ÅÅÅÅ-MM-DD TT:MM, till exempel 2026-12-31 18:30.
+25f734|Schemalägg
+fe3b13|Avbryt schemalagd delning
+87b913|Ta bort delade inlägg
+b21c60|Ja, ta bort
+165825|Spara inlägget för att tillämpa ändringen.
+9fb721|Du har inte behörighet att dela det här inlägget.
+d0bfeb|Inget att dela: välj minst en ansluten plattform.
+9b3811|Skickar … Du kan lämna den här sidan, delningen fortsätter i bakgrunden.
+6a5c54|Schemalagd till %s. Du kan lämna den här sidan.
+97c806|Inget är schemalagt för det här inlägget.
+4e96d7|Den schemalagda delningen avbröts.
+2b0bb4|Inget att avbryta: den har redan skickats.
+e4c50f|Ta bort de delade inläggen från %s? Själva inlägget finns kvar på din webbplats.
+fe2165|Inlägg på %s kan inte tas bort härifrån. Ta bort dem själv i appen.
+0f2121|Du har inte behörighet att ändra det här inlägget.
+605da5|Det finns inget att ta bort för det här inlägget.
+46dc65|Tar bort … Du kan lämna den här sidan, borttagningen fortsätter i bakgrunden.
+a3787e|Klart, men något misslyckades. Se nedan.
+f59405|Klart.
+50321d|Var 5:e minut (SmokyPost)
+67cfe6|Inte delat på Instagram: Instagram kräver en bild och det här inlägget har ingen. Lägg till en utvald bild eller en bild i innehållet.
+398d9f|Inte delat: kräver en bild
+e44fa2|Delat (ta bort själv i appen)
+a6156e|Delat
+d98139|Fel: %s
+d7c8c8|Fel
+a149e8|Avbrutet
+e3f04d|Tar bort …
+93f07b|Borttaget
+1c5338|Borttagningen misslyckades: %s
+d581ce|Borttagningen misslyckades
+6c7650|Väntar: dagsgränsen är nådd, delas efter midnatt
+ccef9c|Väntar: bekräfta din e-postadress
+a97547|Schemalagt till %s
+923d48|Försöker snart igen
+7b2f31|I kö
+bc1f89|Anslutningen har gått ut. Anslut igen i SmokyPost.
+a608e9|Ingen sida eller inget konto är valt för den här plattformen.
+347591|Den här webbplatsen är inte längre ansluten till SmokyPost.
+ecd22a|Ditt SmokyPost-konto eller din licens är inte aktiv.
+4b472d|Den här plattformen ingår inte i din plan.
+852d39|Plattformen tillät inte publiceringen. Kontrollera att du fortfarande är administratör för sidan och anslut igen.
+5e0173|Plattformen blockerade det här inlägget.
+c939dc|Plattformen avvisade det här inlägget som en dubblett.
+b96b3f|Instagram kräver en bild. Lägg till en utvald bild i inlägget.
+191240|Plattformen kunde inte använda bilden. Prova en JPEG- eller PNG-bild som är minst 600 pixlar bred.
+28b253|Bilden kunde inte läsas. Använd JPEG, PNG eller WebP.
+08c673|Bilden är för liten. Använd en bild som är minst 600 pixlar bred.
+e99a00|SmokyPost kunde inte hämta bilden från din webbplats.
+7f8957|Bilden kunde inte förberedas.
+7fa12c|Plattformen var otillgänglig. SmokyPost försökte flera gånger.
+bd9611|Det gick inte att nå plattformen. SmokyPost försökte flera gånger.
+582ab1|Instagram godtog inte bilden i tid.
+c19c4c|Plattformen avvisade inlägget.
+8a0741|Kontot som publicerade det här inlägget är inte längre anslutet. Ta bort inlägget själv på plattformen.
+ad0394|Det här inlägget kan inte tas bort automatiskt. Ta bort det själv på plattformen.
+eb851e|SmokyPost – Automatisk delning på sociala medier för inlägg och sidor
+6b6724|Dela nya och gamla inlägg och sidor automatiskt på dina konton i sociala medier. Inga utvecklarkonton eller API-nycklar behövs.
+a274f4|Aviseringar
+777ca2|Mejla mig när
+28c682|en delning misslyckas
+ecb9b9|ett inlägg har delats
+8daff7|Du får ett mejl per inlägg. En misslyckad delning rapporteras efter att SmokyPost har försökt flera gånger, och samma problem på samma plattform rapporteras en gång om dagen. Ett mejl om att en anslutning har gått ut skickas alltid.
+ec7339|Skicka mejl till
+939f28|Skilj flera adresser åt med kommatecken. Lämna tomt för att använda webbplatsens administratörsadress (%s).
+c2239a|SMTP
+00c7c2|Skicka SmokyPosts mejl via ett SMTP-konto
+5efbcc|Använd detta om mejl från din webbplats inte kommer fram. Bara SmokyPosts mejl använder det här kontot, webbplatsens övriga mejl förblir oförändrade. Du behöver ingen separat SMTP-plugin för SmokyPost.
+bdd48f|SMTP-server
+60aaf4|Port
+d7f261|Kryptering
+413acc|TLS (vanligtvis port 587)
+68b181|SSL (vanligtvis port 465)
+151adf|Ingen kryptering
+f6039d|Användarnamn
+c6e6fb|Lösenordet är angivet i wp-config.php.
+0b5899|Ett lösenord är sparat. Lämna tomt för att behålla det.
+d7381f|Ta bort det sparade lösenordet
+7b710d|Lösenordet lagras krypterat och visas aldrig igen. För Gmail och Outlook, använd ett applösenord.
+491147|Avsändarens e-postadress
+7508f2|De flesta leverantörer godtar bara en adress som tillhör kontot.
+c3a7ea|Avsändarens namn
+f5d604|Spara ändringar
+f970b9|Skicka ett testmejl
+81f545|Testmejlet sparar först värdena ovan och använder dem sedan.
+1f2def|SmokyPost-testmejl
+2738c4|Det här är ett testmejl från SmokyPost. Om du kan läsa det når SmokyPosts mejl fram till dig.
+170c1a|Testmejlet skickades till %s. Kontrollera din inkorg och skräppostmappen.
+15a320|Testmejlet kunde inte skickas: %s Kontrollera server, port och kryptering.
+11d6a3|Testmejlet kunde inte skickas. Kontrollera server, port och kryptering.
+eb4da2|Anslut %s igen
+97ec08|Anslutningen till %1$s har gått ut, så nya inlägg kan inte delas där. Anslut igen: %2$s
+e6a17f|Kunde inte dela: %s
+4bde81|”%s” kunde inte delas överallt:
+f7ca6b|Delat: %s
+1c747d|”%s” delades:
+89ae90|SmokyPost: dagsgränsen är nådd
+8b9f2b|Dagsgränsen för din plan är nådd. Resterande inlägg delas efter midnatt.
+591804|Öppna inlägget: %s
+f4f486|Historik: %s
+2396c6|Du får det här mejlet eftersom SmokyPosts aviseringar är aktiverade för %1$s. Ändra vem som får dem, eller stäng av dem, här: %2$s

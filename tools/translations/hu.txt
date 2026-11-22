@@ -1,0 +1,330 @@
+3b6e56|Kapcsold össze az oldalaidat a tartalom megosztásához.
+c27b34|SmokyPost megnyitása
+bc871d|A küldés még folyamatban van. Néhány perc múlva nézd meg az Előzmények lapot.
+118c47|Nem sikerült elérni a SmokyPostot. Próbáld újra néhány perc múlva.
+b090f4|Megosztás most ide:
+d5c6d5|Megosztás közzétételkor ide:
+b82400|újracsatlakozás szükséges
+016408|Egyéni üzenet (nem kötelező)
+06651c|Hagyd üresen, ha a saját sablonodat szeretnéd használni.
+1d6da0|Közzétételkor megosztásra kerül a bejelölt platformokon.
+5b18fc|Közzétételkor automatikusan megosztva.
+04b478|Megosztás most
+f4f707|Beállítások
+4d01e8|Küldés…
+834915|Törlés…
+34b1ef|A SmokyPost újabb verziójára van szükség. Frissítsd a bővítményt.
+ed49a3|Platformok
+16d2b3|Előzmények
+08bd40|Fiók
+3b6c2b|Felhasználási feltételek
+fa2ead|Adatvédelmi irányelvek
+777353|Oszd meg automatikusan a bejegyzéseidet és oldalaidat a közösségi hálózataidon. Hozz létre egy ingyenes fiókot, vagy jelentkezz be az oldal összekapcsolásához.
+e05afd|Az összekapcsoláskor ez az oldal elküldi a SmokyPost szolgáltatásnak (www.smokypost.com) a címét, a WordPress- és PHP-verzióját, a nyelvét és az időzónáját. Az általad megosztott tartalmak szövege a megosztás pillanatában kerül elküldésre.
+8ea211|Ingyenes fiók létrehozása
+1e884e|E-mail
+6c2c15|Jelszó (legalább 8 karakter)
+9ec73e|Elfogadom a következőket: %1$s és %2$s.
+5853d4|Fiók létrehozása és összekapcsolás
+3b2aee|Már van fiókom
+dc647e|Jelszó
+ac6560|Bejelentkezés és összekapcsolás
+422172|Inkább licenckulcsot használok
+52f88a|Összekapcsolás licenckulccsal
+01a569|Elfelejtetted a jelszavad?
+733ae3|Visszaállító link küldése
+0efe04|Kapcsold össze az egyes platformokat, és válaszd ki azt az oldalt vagy fiókot, amelyre ez az oldal megosztani fog.
+43b540|Nem része a csomagodnak.
+4e7193|Átmenetileg nem érhető el. Próbáld újra később.
+b9ba1a|A kapcsolat lejárt. Csatlakozz újra a megosztás folytatásához.
+cf0b67|Újracsatlakozás
+f4ec5f|Módosítás
+1063e3|Eltávolítás
+7dcd97|Nincs összekapcsolva.
+49ab28|Összekapcsolás
+2bf7da|Választás a Facebook-bejelentkezésedből
+6330d1|Közzéteszi a szövegedet és a linkedet az egyik Facebook-oldaladon. A Facebookon keresztül jelentkezel be.
+e33490|Facebook-oldalhoz kapcsolt professzionális Instagram-fiók szükséges. A Facebookon keresztül jelentkezel be.
+1abbcd|Közzéteszi a szövegedet és a linkedet az egyik LinkedIn-céges oldaladon. A LinkedInen keresztül jelentkezel be.
+328737|Közzéteszi a szövegedet, a hashtagjeidet és egy képes linkkártyát a Bluesky-fiókodban. A felhasználónevededdel és egy alkalmazásjelszóval csatlakozol.
+9d078b|Közzéteszi a szövegedet, a hashtagjeidet és a linkedet a Mastodon-fiókodban, bármelyik Mastodon-szerveren. A SmokyPostot a saját szervereden engedélyezed.
+b2d2d7|Közzéteszi a szövegedet és egy linkkártyát a Threads-profilodon. A Threadsen keresztül jelentkezel be.
+5f2e71|Közzéteszi a szövegedet, a címkéidet és egy képes linkkártyát az egyik Tumblr-blogodon. A Tumblren keresztül jelentkezel be.
+b4f827|Automatikus megosztás:
+521c36|Be
+d15305|Ki
+8e61d9|Kikapcsolás
+d154a5|Bekapcsolás
+647bd1|Az új tartalmak közzétételkor itt megosztásra kerülnek.
+7f9833|Csak akkor oszt meg, ha a „Megosztás most” gombra kattintasz.
+bb7926|Be vagy jelentkezve, de a fiókjaidat nem sikerült listázni: %s
+f915a9|Próbáld újra
+ea4788|Mégse
+0bfd8d|Először kapcsold össze a fiókodat.
+f85f84|Először jelentkezz be, hogy lásd az oldalaidat.
+f595ba|Ehhez a bejelentkezéshez nem található olyan oldal vagy fiók, amelyre közzétehetsz.
+19c3d3|Ellenőrizd, hogy az Instagram-fiókod professzionális fiók-e, és hozzá van-e kapcsolva az egyik Facebook-oldaladhoz.
+5e5f56|(%s által)
+f64a44|Ennek a fióknak a használata
+6c803a|Nem látod a megfelelő oldalt?
+09a44d|Bejelentkezés másik fiókkal
+04d144|Tartalomtípusok
+725f6c|Csak ezek a típusok kerülnek automatikusan megosztásra, és csak ezeknél jelenik meg a SmokyPost-doboz a szerkesztőben.
+6b0402|Automatikus megosztás
+280dc2|Az új tartalmak automatikus megosztása közzétételkor ide:
+b3b6ce|nincs összekapcsolva
+daf9e6|Egy platform bejelölésének törlésével leállítod az automatikus megosztást rá. Az összes jelölés törlésével kikapcsolod az automatikus megosztást. Bármikor magad is megoszthatsz egy tartalmat a szerkesztő vagy a bejegyzéslista „Megosztás most” gombjával, és egyetlen tartalomnál a szerkesztőben törölheted egy platform jelölését.
+be518a|Automatikusan létrehozott tartalmak
+766287|Más bővítmények, importálók, a REST API vagy a WP-CLI által közzétett tartalmak megosztása is
+f5c261|Alapértelmezés szerint be van kapcsolva. A kód által létrehozott tartalmak (például egy autoblog vagy egy hírcsatorna-importáló) megosztásra kerülnek a fenti platformokon. Kapcsold ki, ha csak azt szeretnéd megosztani, amit a szerkesztőben teszel közzé.
+1aaf15|Az ennél régebbi importált tartalmak kihagyása:
+73cddd|óra
+29327b|Tartalmak törlése
+295b79|A megosztott posztok törlése a tartalom törlésekor
+0d9342|Alapértelmezés szerint ki van kapcsolva. Amikor egy tartalmat a kukába helyezel vagy törölsz, a SmokyPost a hozzá tartozó posztokat is törli a Facebookon, a LinkedInen, a Blueskyn, a Mastodonon, a Threadsen és a Tumblren. Az Instagram nem engedi, hogy más alkalmazások töröljenek posztokat, ezért azokat az Instagram alkalmazásban kell törölnöd. A tartalom kukából való visszaállítása nem állítja vissza a közösségi hálózatokon lévő posztokat.
+cb393c|Üzenetsablon
+6c08da|Helyőrzők:
+ffe7a1|A linket minden platform előnézeti kártyaként adja hozzá; az Instagramon a szöveg végére kerül.
+caebe1|A bejegyzés címkéinek hashtaggé alakítása ezeknél: {hashtags}
+f784d5|Alapértelmezett kép
+b89f80|Akkor használjuk, ha a tartalomnak nincs kiemelt képe és nincs kép a tartalomban sem. Az Instagram mindig igényel képet.
+ef1486|Megosztások az elmúlt %d napból. ¦ Megosztások az elmúlt %d napból.
+447497|Dátum
+7d74f3|Tartalom
+8eea62|Eredmény
+902952|Még semmi sincs megosztva.
+5da05b|Előzmények törlése
+5ca182|Törlöd az előzményeket bizonyos dátumokra, vagy az egészet? Ami már meg lett osztva, az megmarad a közösségi hálózataidon. A törölt bejegyzések többé nem jelennek meg ebben a listában.
+5da618|Ettől
+e12167|Eddig
+95b928|Hagyd üresen a dátumot, ha az első bejegyzéstől szeretnéd kezdeni, vagy a mai napon szeretnéd befejezni.
+17cddf|Ezek a dátumok törlése
+808768|Az összes előzmény törlése
+03727a|Nap
+7cbb88|Hónap
+537c66|Év
+0b6cbd|Csomag
+a77d15|Licenckulcs
+6db829|Ma megosztva
+b362bb|%1$d / %2$d tartalom
+494eb5|Ez az oldal
+efb548|Az oldal leválasztása
+4fdc17|Leválasztod ezt az oldalt a SmokyPostról? A megosztás leáll, amíg újra be nem jelentkezel.
+e54633|Igen, leválasztom
+e2e646|Hogyan működik a Pro
+377a68|Fizess biztonságosan a Paddle-n keresztül.
+fbc905|Töltsd le a SmokyPost Prót az alábbi gombbal.
+7f189b|Térj vissza erre az oldalra. Megjelenik a „SmokyPost Pro letöltése” gomb, és ugyanazt a linket e-mailben is elküldjük neked.
+53f719|Telepítsd a Bővítmények > Új hozzáadása > Bővítmény feltöltése menüben, és aktiváld. A licenced automatikusan felismerésre kerül, nem kell kulcsot megadnod.
+eb475d|A SmokyPost Pro egy második bővítmény, amely a SmokyPost mellett működik: mindkettőt tartsd aktívan. Körülbelül egy percet vesz igénybe. Teljes visszatérítés az első fizetéstől számított 14 napon belül.
+9fa65e|A fizetésed a szokásosnál tovább tart, mire megjelenik itt. Néhány perc múlva töltsd újra az oldalt. Ha egy óra múlva a csomagod még mindig Free, írj a info@smokypost.com címre.
+bec297|A fizetés megérkezett. A csomagod hamarosan aktív lesz, ezt ez az oldal magától ellenőrzi.
+2c80f9|SmokyPost Pro
+b81f3c|A SmokyPost Pro %s telepítve és aktív.
+d25d87|A beállításai a SmokyPost > Pro, a naptár pedig a SmokyPost > Naptár menüben található. Magától frissül.
+85e962|A SmokyPost Pro telepítve van, de nem aktív. Aktiváld a Bővítmények oldalon.
+a3bd33|Bővítmények megnyitása
+386940|SmokyPost Pro letöltése
+500b65|A link egy óráig érvényes. Bármikor visszatérhetsz ide egy újért.
+e9f36d|Valami elromlott. Próbáld újra.
+6956cc|Csomagok
+3faa64|Oldalak
+a97de4|Tartalom naponta
+360114|Ár
+124864|%s évente
+441f54|Jelenlegi csomag
+690969|Váltás erre a csomagra
+f68358|Csomagváltás magasabbra
+5d6316|A fizetéseket biztonságosan a Paddle kezeli. Az árak amerikai dollárban értendők, az adók a pénztárnál kerülnek hozzáadásra, ahol alkalmazandók.
+be0482|A csomagváltás azonnal életbe lép. A pontos összeget a terhelés előtt látod és megerősíted.
+97788c|Előfizetés kezelése
+1a7066|Lemondás és visszatérítés
+b2c3ec|Az első fizetéstől számított 14 napon belül visszatérítés kérhető. Az „Előfizetés kezelése” menüben bármikor leállíthatod a megújítást.
+b1c55c|Kérdésed van a fizetéssel kapcsolatban? Írj a info@smokypost.com címre.
+a0d458|%s napjáig lemondhatod, és teljes visszatérítést kaphatsz.
+361f28|Lemondás és visszatérítés kérése
+9b3448|Lemondod az előfizetést, és teljes visszatérítést kérsz? Minden, amit fizettél, visszakerül arra a kártyára, amellyel fizettél. A felhasznált napokért nem vonunk le semmit. A csomagod azonnal véget ér, és ez az oldal visszaáll Free csomagra.
+1e81d7|Igen, lemondom és visszatérítést kérek
+ee6085|Starter
+abd900|Pro
+75ec3e|Agency
+0222db|Váltás: %s
+71d986|Ma %1$s (%2$s) kerül levonásra arról a kártyáról, amellyel fizettél.
+a503a7|Ma %s kerül levonásra arról a kártyáról, amellyel fizettél.
+237ece|A következő megújítás marad %s napján.
+cb540f|Ma nem kerül levonásra semmi.
+1d46af|Az árkülönbözet a következő megújításkor, %s napján kerül jóváírásra.
+937bcf|Az árkülönbözet a következő megújításkor kerül jóváírásra.
+bd4a14|Folytatod?
+cd1df7|Igen, %s levonása
+6abb41|Igen, csomagot váltok
+17129e|Másik kártyával szeretnél fizetni? Nyisd meg az „Előfizetés kezelése” oldalt, frissítsd a fizetési módot, majd válts újra csomagot.
+d4192d|%s végződésű
+d4fbfe|%1$s, %2$s végződésű
+b24ce0|Free
+9086fc|A megosztás szünetel, amíg meg nem erősíted az e-mail-címedet.
+dbf504|Erősítsd meg az e-mail-címedet. A megosztás %d nap múlva szünetelni fog, ha nem teszed meg. ¦ Erősítsd meg az e-mail-címedet. A megosztás %d nap múlva szünetelni fog, ha nem teszed meg.
+933999|Link újraküldése
+feb3a3|Bluesky felhasználónév
+65255b|Alkalmazásjelszó
+63d12d|Alkalmazásjelszót használj, ne a fő Bluesky-jelszavadat. Csak ilyen alkalmazások használhatják, és a Blueskyban bármikor törölheted.
+4adaf4|Hogyan szerezhetek alkalmazásjelszót?
+5c312e|Nyisd meg ezt: %s (vagy a Blueskyban: Beállítások > Adatvédelem és biztonság > Alkalmazásjelszavak).
+9a01be|Kattints az „Add App Password” gombra, és add neki a SmokyPost nevet.
+61e507|Másold ki a Bluesky által mutatott jelszót, és illeszd be ide.
+bd4bac|A Mastodon-szervered
+9279eb|Annak a szervernek a címe, amelyen a fiókod van, például mastodon.social, vagy a teljes neved @név@mastodon.social formában. A SmokyPostot ezen a szerveren engedélyezed.
+f8b4c2|Bejelentkeztél. Most válaszd ki azt a fiókot, amelyre ez az oldal megosztani fog.
+5bb110|A bejelentkezés megszakadt.
+262cb9|A bejelentkezés nem sikerült. Próbáld újra.
+bcbbc8|Jó tudni:
+914602|A SmokyPost automatikusan megosztja az új bejegyzéseket közzétételkor, beleértve a más bővítmények, importálók vagy a REST API által létrehozottakat is. Az automatikus megosztást platformonként be- vagy kikapcsolhatod az alábbi kártyán, illetve a Beállításokban.
+78e981|Értem
+bae082|Beállítások megnyitása
+8beb61|A SmokyPost majdnem kész.
+4f4267|Az oldal összekapcsolása
+2835b7|Ehhez nincs jogosultságod.
+811723|Adj meg érvényes e-mail-címet.
+4b52c9|Adj meg jelszót.
+cacd72|Legalább 8 karakteres jelszót használj.
+270228|Fogadd el a Felhasználási feltételeket és az Adatvédelmi irányelveket.
+c570e4|A fiókod elkészült, és az oldal össze van kapcsolva. E-mailt küldtünk a címed megerősítéséhez.
+e4912d|Bejelentkeztél. Az oldal össze van kapcsolva.
+a41cc2|Adj meg licenckulcsot.
+1448bb|A licenc aktiválva. Az oldal össze van kapcsolva.
+025e69|Ha létezik fiók ehhez a címhez, jelszó-visszaállító linket küldtünk.
+19d2aa|Az oldal le lett választva a SmokyPostról.
+ee3077|Válassz érvényes dátumokat.
+12381e|Az első dátumnak az utolsó előtt kell lennie.
+fd4f8f|%d bejegyzés törölve az előzményekből. ¦ %d bejegyzés törölve az előzményekből.
+26d353|Nem volt mit törölni. A még küldés alatt álló bejegyzések a listában maradnak.
+b9a702|Újra elküldtük a megerősítő linket.
+12bb90|Összekapcsolva. Most válaszd ki azt a fiókot, amelyre ez az oldal megosztani fog.
+c4effa|Ez a csomagváltás lejárt. Válassz újra csomagot.
+5e77be|A csomagod váltása folyamatban van. Eltarthat egy percig, mire megjelenik itt.
+d8d639|A visszatérítést kérted, az előfizetés lemondva. A Paddle visszautalja az összeget arra a kártyára, amellyel fizettél; ez eltarthat néhány napig.
+82bf3a|A(z) %1$s mostantól össze van kapcsolva ezzel: %2$s.
+9a7e58|A beállítások mentve.
+5677c1|Az automatikus megosztás ide: %s – be van kapcsolva.
+fa4524|Az automatikus megosztás ide: %s – ki van kapcsolva.
+0a2f60|Nincs megosztva
+498cc4|Megosztás a SmokyPosttal
+90929c|%d tartalom sorba került megosztásra. ¦ %d tartalom sorba került megosztásra.
+81b7e8|%d tartalmat nem sikerült megosztani; lásd a SmokyPost oszlopot. ¦ %d tartalmat nem sikerült megosztani; lásd a SmokyPost oszlopot.
+f75f84|Ez az oldal még nincs összekapcsolva a SmokyPosttal.
+10112f|Megosztandó kép
+e57b53|Megosztásra kiválasztva
+85eb5a|Másik kép választása
+7cd243|Kép választása
+f6b9f8|Automatikus választás használata
+4c8d06|A tartalom képei:
+4f63a3|Ennek a képnek a használata
+e6fce5|A tartalom frissítése nem osztja meg újra. Kattints a „Megosztás most” gombra a megosztáshoz.
+52beb6|A bejegyzés kiemelt képe
+860133|A tartalom első képe (ennek a tartalomnak nincs kiemelt képe)
+662aa1|A SmokyPost-beállítások alapértelmezett képe (ennek a tartalomnak nincs képe)
+c28cf8|Az Instagram képet igényel, és ennek a tartalomnak nincs. Adj hozzá kiemelt képet vagy képet a tartalomhoz, különben nem lesz megosztva az Instagramon.
+1b1025|Megosztás ekkor (nem kötelező)
+d9c5f4|Formátum: %1$s, az oldalad idejében (%2$s). Hagyd üresen az azonnali megosztáshoz.
+03f222|Ez nem tűnik dátumnak és időpontnak. Használd az ÉÉÉÉ-HH-NN ÓÓ:PP formátumot, például 2026-12-31 18:30.
+25f734|Ütemezés
+fe3b13|Ütemezett megosztás visszavonása
+87b913|Megosztott posztok törlése
+b21c60|Igen, törlés
+165825|Mentsd a tartalmat a módosítás alkalmazásához.
+9fb721|Nincs jogosultságod ennek a tartalomnak a megosztásához.
+d0bfeb|Nincs mit megosztani: válassz legalább egy összekapcsolt platformot.
+9b3811|Küldés… Elhagyhatod ezt az oldalt, a megosztás a háttérben folytatódik.
+6a5c54|Ütemezve: %s. Elhagyhatod ezt az oldalt.
+97c806|Ehhez a tartalomhoz nincs semmi ütemezve.
+4e96d7|Az ütemezett megosztás visszavonva.
+2b0bb4|Nincs mit visszavonni: már elküldtük.
+e4c50f|Törlöd a megosztott posztokat innen: %s? Maga a tartalom megmarad az oldaladon.
+fe2165|A(z) %s posztjait innen nem lehet törölni. Töröld őket magad az alkalmazásban.
+0f2121|Nincs jogosultságod ennek a tartalomnak a módosításához.
+605da5|Ehhez a tartalomhoz nincs mit törölni.
+46dc65|Törlés… Elhagyhatod ezt az oldalt, a törlés a háttérben folytatódik.
+a3787e|Kész, de valami nem sikerült. Lásd alább.
+f59405|Kész.
+50321d|5 percenként (SmokyPost)
+67cfe6|Nincs megosztva az Instagramon: az Instagram képet igényel, és ennek a tartalomnak nincs. Adj hozzá kiemelt képet vagy képet a tartalomhoz.
+398d9f|Nincs megosztva: képre van szükség
+e44fa2|Megosztva (töröld magad az alkalmazásban)
+a6156e|Megosztva
+d98139|Hiba: %s
+d7c8c8|Hiba
+a149e8|Visszavonva
+e3f04d|Törlés…
+93f07b|Törölve
+1c5338|A törlés nem sikerült: %s
+d581ce|A törlés nem sikerült
+6c7650|Várakozik: a napi korlát elfogyott, éjfél után lesz megosztva
+ccef9c|Várakozik: erősítsd meg az e-mail-címedet
+a97547|Ütemezve: %s
+923d48|Hamarosan újrapróbálkozás
+7b2f31|Sorban áll
+bc1f89|A kapcsolat lejárt. Csatlakozz újra a SmokyPostban.
+a608e9|Ehhez a platformhoz nincs kiválasztva oldal vagy fiók.
+347591|Ez az oldal már nincs összekapcsolva a SmokyPosttal.
+ecd22a|A SmokyPost-fiókod vagy -licenced nem aktív.
+4b472d|Ez a platform nem része a csomagodnak.
+852d39|A platform nem engedélyezte a közzétételt. Ellenőrizd, hogy még mindig az oldal adminisztrátora vagy-e, és csatlakozz újra.
+5e0173|A platform letiltotta ezt a posztot.
+c939dc|A platform duplikátumként elutasította ezt a posztot.
+b96b3f|Az Instagram képet igényel. Adj kiemelt képet a bejegyzéshez.
+191240|A platform nem tudta használni a képet. Próbálj legalább 600 képpont széles JPEG- vagy PNG-képet.
+28b253|A képet nem sikerült beolvasni. Használj JPEG-, PNG- vagy WebP-képet.
+08c673|A kép túl kicsi. Használj legalább 600 képpont széles képet.
+e99a00|A SmokyPost nem tudta letölteni a képet az oldaladról.
+7f8957|A képet nem sikerült előkészíteni.
+7fa12c|A platform nem volt elérhető. A SmokyPost többször próbálkozott.
+bd9611|Nem sikerült elérni a platformot. A SmokyPost többször próbálkozott.
+582ab1|Az Instagram nem fogadta el időben a képet.
+c19c4c|A platform elutasította a postot.
+8a0741|A fiók, amely ezt a postot közzétette, már nincs összekapcsolva. Töröld a postot magad a platformon.
+ad0394|Ezt a postot nem lehet automatikusan törölni. Töröld magad a platformon.
+eb851e|SmokyPost – Automatikus megosztás közösségi médiában bejegyzésekhez és oldalakhoz
+6b6724|Ossza meg automatikusan új és régi bejegyzéseit és oldalait közösségi média fiókjaiban. Nincs szükség fejlesztői fiókra vagy API-kulcsra.
+a274f4|Értesítések
+777ca2|E-mailt kérek, ha
+28c682|egy megosztás sikertelen
+ecb9b9|egy tartalom meg lett osztva
+8daff7|Tartalmanként egy e-mailt kap. A sikertelen megosztásról azután értesítjük, hogy a SmokyPost többször megpróbálta, ugyanarról a problémáról ugyanazon a platformon naponta egyszer. A kapcsolat lejártáról szóló e-mail mindig elmegy.
+ec7339|E-mailek címzettje
+939f28|Több címet vesszővel válasszon el. Hagyja üresen, ha a webhely adminisztrátori címét (%s) szeretné használni.
+c2239a|SMTP
+00c7c2|A SmokyPost e-mailjeinek küldése SMTP-fiókon keresztül
+5efbcc|Akkor használja, ha a webhelyéről küldött e-mailek nem érkeznek meg. Ezt a fiókot csak a SmokyPost e-mailjei használják, a webhely többi e-mailje változatlan marad. A SmokyPosthoz nincs szüksége külön SMTP-bővítményre.
+bdd48f|SMTP-kiszolgáló
+60aaf4|Port
+d7f261|Titkosítás
+413acc|TLS (általában a 587-es port)
+68b181|SSL (általában a 465-ös port)
+151adf|Nincs titkosítás
+f6039d|Felhasználónév
+c6e6fb|A jelszó a wp-config.php fájlban van megadva.
+0b5899|Van mentett jelszó. Hagyja üresen a megtartásához.
+d7381f|Mentett jelszó eltávolítása
+7b710d|A jelszót titkosítva tároljuk, és soha többé nem jelenítjük meg. Gmailhez és Outlookhoz alkalmazásjelszót használjon.
+491147|Feladó e-mail-címe
+7508f2|A legtöbb szolgáltató csak a fiókhoz tartozó címet fogadja el.
+c3a7ea|Feladó neve
+f5d604|Módosítások mentése
+f970b9|Tesztüzenet küldése
+81f545|A tesztüzenet először elmenti a fenti értékeket, majd használja őket.
+1f2def|SmokyPost tesztüzenet
+2738c4|Ez a SmokyPost tesztüzenete. Ha elolvashatja, a SmokyPost e-mailjei megérkeznek Önhöz.
+170c1a|A tesztüzenet elküldve ide: %s. Nézze meg a beérkező leveleket és a spam mappát.
+15a320|A tesztüzenetet nem sikerült elküldeni: %s Ellenőrizze a kiszolgálót, a portot és a titkosítást.
+11d6a3|A tesztüzenetet nem sikerült elküldeni. Ellenőrizze a kiszolgálót, a portot és a titkosítást.
+eb4da2|Kapcsolja újra: %s
+97ec08|A(z) %1$s kapcsolata lejárt, ezért az új tartalmak ott nem oszthatók meg. Kapcsolja újra: %2$s
+e6a17f|Nem sikerült megosztani: %s
+4bde81|A(z) „%s” nem osztható meg mindenhol:
+f7ca6b|Megosztva: %s
+1c747d|A(z) „%s” meg lett osztva:
+89ae90|SmokyPost: elérte a napi korlátot
+8b9f2b|Elérte a csomagja napi korlátját. A többi tartalmat éjfél után osztjuk meg.
+591804|Tartalom megnyitása: %s
+f4f486|Előzmények: %s
+2396c6|Azért kapja ezt az e-mailt, mert a SmokyPost-értesítések be vannak kapcsolva itt: %1$s. Itt módosíthatja, ki kapja őket, vagy kikapcsolhatja őket: %2$s

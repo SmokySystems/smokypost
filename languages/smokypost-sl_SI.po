@@ -1,0 +1,1439 @@
+# Copyright (C) 2026 SmokySystems
+# This file is distributed under the GPL-2.0-or-later.
+msgid ""
+msgstr ""
+"Project-Id-Version: SmokyPost\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Domain: smokypost\n"
+"Language: sl_SI\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3);\n"
+
+#: assets/js/editor.js:159 includes/Editor.php:199
+msgid "Connect your pages to share this item."
+msgstr "Povežite svoje strani, da boste lahko delili to vsebino."
+
+#: assets/js/editor.js:160 includes/Editor.php:199
+msgid "Open SmokyPost"
+msgstr "Odpri SmokyPost"
+
+#: assets/js/editor.js:178 includes/Admin/Page.php:76
+msgid "Still sending. Check the History tab in a few minutes."
+msgstr "Pošiljanje še poteka. Čez nekaj minut preverite zavihek Zgodovina."
+
+#: assets/js/editor.js:238 assets/js/editor.js:261 assets/js/editor.js:288 includes/Api.php:106
+msgid "SmokyPost could not be reached. Please try again in a few minutes."
+msgstr "S storitvijo SmokyPost se ni bilo mogoče povezati. Poskusite znova čez nekaj minut."
+
+#: assets/js/editor.js:298 includes/Editor.php:208
+msgid "Share now to:"
+msgstr "Deli zdaj na:"
+
+#: assets/js/editor.js:298 includes/Editor.php:208
+msgid "Share when published to:"
+msgstr "Deli ob objavi na:"
+
+#: assets/js/editor.js:300
+msgid "reconnect needed"
+msgstr "potrebna je ponovna povezava"
+
+#: assets/js/editor.js:313 includes/Editor.php:214
+msgid "Custom message (optional)"
+msgstr "Lastno sporočilo (neobvezno)"
+
+#: assets/js/editor.js:314
+msgid "Leave empty to use your template."
+msgstr "Pustite prazno, če želite uporabiti svojo predlogo."
+
+#: assets/js/editor.js:333
+msgid "Shared to the ticked platforms when you publish."
+msgstr "Ob objavi bo deljeno na označenih platformah."
+
+#: assets/js/editor.js:336
+msgid "Shared automatically when it was published."
+msgstr "Ob objavi samodejno deljeno."
+
+#: assets/js/editor.js:339 includes/Editor.php:232
+msgid "Share now"
+msgstr "Deli zdaj"
+
+#: includes/Admin/Page.php:43 includes/Admin/Page.php:122
+msgid "Settings"
+msgstr "Nastavitve"
+
+#: includes/Admin/Page.php:74 includes/Status.php:87
+msgid "Sending…"
+msgstr "Pošiljanje …"
+
+#: includes/Admin/Page.php:75 includes/Editor.php:150
+msgid "Deleting…"
+msgstr "Brisanje …"
+
+#: includes/Admin/Page.php:113
+msgid "A newer version of SmokyPost is required. Please update the plugin."
+msgstr "Potrebna je novejša različica vtičnika SmokyPost. Posodobite vtičnik."
+
+#: includes/Admin/Page.php:121
+msgid "Platforms"
+msgstr "Platforme"
+
+#: includes/Admin/Page.php:123
+msgid "History"
+msgstr "Zgodovina"
+
+#: includes/Admin/Page.php:124
+msgid "Notifications"
+msgstr "Obvestila"
+
+#: includes/Admin/Page.php:125 includes/Admin/Page.php:558
+msgid "Account"
+msgstr "Račun"
+
+#: includes/Admin/Page.php:156
+msgid "Terms of Service"
+msgstr "Pogoji uporabe"
+
+#: includes/Admin/Page.php:157
+msgid "Privacy Policy"
+msgstr "Pravilnik o zasebnosti"
+
+#: includes/Admin/Page.php:158
+msgid "Share your posts and pages to your social media accounts automatically. Create a free account or sign in to connect this site."
+msgstr "Samodejno delite svoje objave in strani na družbenih omrežjih. Ustvarite brezplačen račun ali se prijavite, da povežete to spletno mesto."
+
+#: includes/Admin/Page.php:159
+msgid "When you connect, this site sends its address, WordPress and PHP versions, language and time zone to the SmokyPost service (www.smokypost.com). The content of each item you share is sent when it is shared."
+msgstr "Ob povezavi to spletno mesto pošlje storitvi SmokyPost (www.smokypost.com) svoj naslov, različici WordPressa in PHP-ja, jezik in časovni pas. Vsebina vsakega elementa, ki ga delite, se pošlje ob deljenju."
+
+#: includes/Admin/Page.php:163
+msgid "Create a free account"
+msgstr "Ustvari brezplačen račun"
+
+#: includes/Admin/Page.php:165 includes/Admin/Page.php:174 includes/Admin/Page.php:187
+msgid "E-mail"
+msgstr "E-pošta"
+
+#: includes/Admin/Page.php:166
+msgid "Password (at least 8 characters)"
+msgstr "Geslo (vsaj 8 znakov)"
+
+#. translators: 1: Terms of Service link, 2: Privacy Policy link
+#: includes/Admin/Page.php:168
+#, php-format
+msgid "I accept the %1$s and the %2$s."
+msgstr "Sprejemam naslednja dokumenta: %1$s in %2$s."
+
+#: includes/Admin/Page.php:169
+msgid "Create account and connect"
+msgstr "Ustvari račun in poveži"
+
+#: includes/Admin/Page.php:172
+msgid "I already have an account"
+msgstr "Račun že imam"
+
+#: includes/Admin/Page.php:175 includes/Admin/Page.php:445
+msgid "Password"
+msgstr "Geslo"
+
+#: includes/Admin/Page.php:176
+msgid "Sign in and connect"
+msgstr "Prijava in povezava"
+
+#: includes/Admin/Page.php:179
+msgid "Use a license key instead"
+msgstr "Namesto tega uporabi licenčni ključ"
+
+#: includes/Admin/Page.php:182
+msgid "Connect with license key"
+msgstr "Poveži z licenčnim ključem"
+
+#: includes/Admin/Page.php:185
+msgid "Forgot your password?"
+msgstr "Ste pozabili geslo?"
+
+#: includes/Admin/Page.php:188
+msgid "Send reset link"
+msgstr "Pošlji povezavo za ponastavitev"
+
+#: includes/Admin/Page.php:207
+msgid "Connect each platform and choose the page or account this site shares to."
+msgstr "Povežite vsako platformo in izberite stran ali račun, na katerem bo to spletno mesto delilo."
+
+#: includes/Admin/Page.php:222
+msgid "Not included in your plan."
+msgstr "Ni vključeno v vaš paket."
+
+#: includes/Admin/Page.php:226
+msgid "Temporarily unavailable. Please try again later."
+msgstr "Začasno nedosegljivo. Poskusite znova pozneje."
+
+#: includes/Admin/Page.php:237
+msgid "The connection has expired. Connect again to keep sharing."
+msgstr "Povezava je potekla. Povežite se znova, če želite nadaljevati z deljenjem."
+
+#: includes/Admin/Page.php:238
+msgid "Connect again"
+msgstr "Poveži znova"
+
+#: includes/Admin/Page.php:241
+msgid "Change"
+msgstr "Spremeni"
+
+#: includes/Admin/Page.php:243
+msgid "Remove"
+msgstr "Odstrani"
+
+#: includes/Admin/Page.php:247
+msgid "Not connected."
+msgstr "Ni povezano."
+
+#: includes/Admin/Page.php:249 includes/Admin/Page.php:341
+msgid "Connect"
+msgstr "Poveži"
+
+#: includes/Admin/Page.php:253
+msgid "Choose from your Facebook login"
+msgstr "Izberite iz svoje prijave v Facebook"
+
+#: includes/Admin/Page.php:277
+msgid "Posts your text and a link to one of your Facebook Pages. You sign in with Facebook."
+msgstr "Objavi vaše besedilo in povezavo na eni od vaših strani na Facebooku. Prijavite se prek Facebooka."
+
+#: includes/Admin/Page.php:279
+msgid "Needs an Instagram professional account linked to a Facebook Page. You sign in with Facebook."
+msgstr "Zahteva profesionalni račun na Instagramu, povezan s stranjo na Facebooku. Prijavite se prek Facebooka."
+
+#: includes/Admin/Page.php:281
+msgid "Posts your text and a link to one of your LinkedIn company pages. You sign in with LinkedIn."
+msgstr "Objavi vaše besedilo in povezavo na eni od vaših podjetniških strani na LinkedInu. Prijavite se prek LinkedIna."
+
+#: includes/Admin/Page.php:283
+msgid "Posts your text, hashtags and a link card with the picture to your Bluesky account. You connect with your handle and an app password."
+msgstr "Objavi vaše besedilo, ključnike in kartico s povezavo in sliko na vašem računu na Blueskyju. Povežete se z uporabniškim imenom in geslom aplikacije."
+
+#: includes/Admin/Page.php:285
+msgid "Posts your text, hashtags and a link to your Mastodon account on any Mastodon server. You approve SmokyPost on your own server."
+msgstr "Objavi vaše besedilo, ključnike in povezavo na vašem računu na Mastodonu na kateremkoli strežniku Mastodon. SmokyPost odobrite na lastnem strežniku."
+
+#: includes/Admin/Page.php:287
+msgid "Posts your text and a link card to your Threads profile. You sign in with Threads."
+msgstr "Objavi vaše besedilo in kartico s povezavo na vašem profilu na Threadsu. Prijavite se prek Threadsa."
+
+#: includes/Admin/Page.php:289
+msgid "Posts your text, tags and a link card with the picture to one of your Tumblr blogs. You sign in with Tumblr."
+msgstr "Objavi vaše besedilo, oznake in kartico s povezavo in sliko na enem od vaših blogov na Tumblrju. Prijavite se prek Tumblrja."
+
+#: includes/Admin/Page.php:304
+msgid "Automatic sharing:"
+msgstr "Samodejno deljenje:"
+
+#: includes/Admin/Page.php:304
+msgid "On"
+msgstr "Vklopljeno"
+
+#: includes/Admin/Page.php:304
+msgid "Off"
+msgstr "Izklopljeno"
+
+#: includes/Admin/Page.php:305
+msgid "Turn off"
+msgstr "Izklopi"
+
+#: includes/Admin/Page.php:305
+msgid "Turn on"
+msgstr "Vklopi"
+
+#: includes/Admin/Page.php:306
+msgid "New items are shared here when they are published."
+msgstr "Novi elementi se tukaj delijo ob objavi."
+
+#: includes/Admin/Page.php:306
+msgid "Only shared when you click \"Share now\"."
+msgstr "Deli se samo, ko kliknete »Deli zdaj«."
+
+#. translators: %s: reason
+#: includes/Admin/Page.php:322
+#, php-format
+msgid "You are signed in, but your accounts could not be listed: %s"
+msgstr "Prijavljeni ste, vendar vaših računov ni bilo mogoče prikazati: %s"
+
+#: includes/Admin/Page.php:323
+msgid "Try again"
+msgstr "Poskusi znova"
+
+#: includes/Admin/Page.php:323 includes/Admin/Page.php:361 includes/Admin/Page.php:524 includes/Admin/Page.php:576 includes/Admin/Page.php:716 includes/Admin/Page.php:772 includes/Editor.php:149 includes/Editor.php:481
+msgid "Cancel"
+msgstr "Prekliči"
+
+#: includes/Admin/Page.php:328
+msgid "Connect your account first."
+msgstr "Najprej povežite svoj račun."
+
+#: includes/Admin/Page.php:328
+msgid "Sign in first to see your pages."
+msgstr "Najprej se prijavite, da boste videli svoje strani."
+
+#: includes/Admin/Page.php:329
+msgid "No page or account with posting rights was found for this login."
+msgstr "Za to prijavo ni bilo najdene strani ali računa, na katerega lahko objavljate."
+
+#: includes/Admin/Page.php:331
+msgid "Check that your Instagram account is a professional account and is linked to one of your Facebook Pages."
+msgstr "Preverite, ali je vaš račun na Instagramu profesionalni in povezan z eno od vaših strani na Facebooku."
+
+#. translators: %s: name of the person who signed in
+#: includes/Admin/Page.php:355
+#, php-format
+msgid "(via %s)"
+msgstr "(prek %s)"
+
+#: includes/Admin/Page.php:360
+msgid "Use this account"
+msgstr "Uporabi ta račun"
+
+#: includes/Admin/Page.php:363
+msgid "Missing a page?"
+msgstr "Ne vidite prave strani?"
+
+#: includes/Admin/Page.php:364
+msgid "Sign in with another account"
+msgstr "Prijava z drugim računom"
+
+#: includes/Admin/Page.php:377
+msgid "Content types"
+msgstr "Vrste vsebine"
+
+#: includes/Admin/Page.php:381
+msgid "Only these types are shared automatically and get the SmokyPost box in the editor."
+msgstr "Samodejno se delijo samo te vrste in samo te imajo v urejevalniku polje SmokyPost."
+
+#: includes/Admin/Page.php:383
+msgid "Automatic sharing"
+msgstr "Samodejno deljenje"
+
+#: includes/Admin/Page.php:384
+msgid "Share new items automatically when they are published to:"
+msgstr "Samodejno deli nove elemente ob objavi na:"
+
+#: includes/Admin/Page.php:386
+msgid "not connected"
+msgstr "ni povezano"
+
+#: includes/Admin/Page.php:389
+msgid "Untick a platform to stop automatic sharing to it. Untick all to turn automatic sharing off. You can still share any item yourself with \"Share now\" in the editor or the post list, and untick a platform for a single item in the editor."
+msgstr "Odznačite platformo, da prenehate samodejno deliti nanjo. Odznačite vse, da izklopite samodejno deljenje. Vsak element lahko vedno sami delite z gumbom »Deli zdaj« v urejevalniku ali na seznamu objav, v urejevalniku pa lahko za posamezen element odznačite platformo."
+
+#: includes/Admin/Page.php:391
+msgid "Automatically created items"
+msgstr "Samodejno ustvarjeni elementi"
+
+#: includes/Admin/Page.php:391
+msgid "Also share items published by other plugins, importers, the REST API or WP-CLI"
+msgstr "Deli tudi elemente, ki jih objavijo drugi vtičniki, uvozniki, REST API ali WP-CLI"
+
+#: includes/Admin/Page.php:392
+msgid "On by default. Items created by code (for example an autoblog or a feed importer) are shared to the platforms above. Turn this off if you only want to share what you publish in the editor."
+msgstr "Privzeto vklopljeno. Elementi, ki jih ustvari koda (na primer samodejni blog ali uvoznik virov), se delijo na zgornjih platformah. Izklopite, če želite deliti samo tisto, kar objavite v urejevalniku."
+
+#: includes/Admin/Page.php:393
+msgid "Skip imported items older than"
+msgstr "Preskoči uvožene elemente, starejše od"
+
+#: includes/Admin/Page.php:393
+msgid "hours"
+msgstr "h"
+
+#: includes/Admin/Page.php:395
+msgid "Deleting items"
+msgstr "Brisanje elementov"
+
+#: includes/Admin/Page.php:395
+msgid "Delete the shared posts when the item is deleted"
+msgstr "Izbriši deljene objave, ko je element izbrisan"
+
+#: includes/Admin/Page.php:396
+msgid "Off by default. When you move an item to the trash or delete it, SmokyPost also removes its posts from Facebook, LinkedIn, Bluesky, Mastodon, Threads and Tumblr. Instagram does not allow other apps to delete posts, so those have to be deleted in the Instagram app. Restoring an item from the trash does not bring the social posts back."
+msgstr "Privzeto izklopljeno. Ko element premaknete v koš ali ga izbrišete, SmokyPost izbriše tudi njegove objave na Facebooku, LinkedInu, Blueskyju, Mastodonu, Threadsu in Tumblrju. Instagram drugim aplikacijam ne dovoli brisanja objav, zato jih morate izbrisati v aplikaciji Instagram. Obnovitev elementa iz koša objav na družbenih omrežjih ne obnovi."
+
+#: includes/Admin/Page.php:398
+msgid "Message template"
+msgstr "Predloga sporočila"
+
+#: includes/Admin/Page.php:400
+msgid "Placeholders:"
+msgstr "Nadomestni znaki:"
+
+#: includes/Admin/Page.php:400
+msgid "The link is added by each platform as a preview card; on Instagram it is added to the end of the text."
+msgstr "Povezavo vsaka platforma doda kot kartico predogleda; na Instagramu se doda na konec besedila."
+
+#: includes/Admin/Page.php:401
+msgid "Turn post tags into hashtags for {hashtags}"
+msgstr "Pretvori oznake objave v ključnike za {hashtags}"
+
+#: includes/Admin/Page.php:403
+msgid "Default image"
+msgstr "Privzeta slika"
+
+#: includes/Admin/Page.php:404
+msgid "Used when an item has no featured image and no image in its content. Instagram always needs an image."
+msgstr "Uporabi se, kadar element nima izpostavljene slike ali slike v vsebini. Instagram vedno zahteva sliko."
+
+#: includes/Admin/Page.php:418
+msgid "E-mail me when"
+msgstr "Pošlji mi e-pošto, ko"
+
+#: includes/Admin/Page.php:419
+msgid "a share fails"
+msgstr "skupna raba ne uspe"
+
+#: includes/Admin/Page.php:420
+msgid "an item was shared"
+msgstr "je vsebina objavljena"
+
+#: includes/Admin/Page.php:421
+msgid "You get one e-mail per item. A failed share is reported after SmokyPost has tried several times, and the same problem on the same platform is reported once a day. An e-mail that a connection has expired is always sent."
+msgstr "Prejmete eno e-pošto na vsebino. O neuspeli objavi vas obvestimo, ko SmokyPost poskusi večkrat, o isti težavi na isti platformi pa enkrat na dan. E-pošta o poteku povezave se vedno pošlje."
+
+#: includes/Admin/Page.php:423
+msgid "Send e-mails to"
+msgstr "Pošlji e-pošto na"
+
+#. translators: %s: e-mail address
+#: includes/Admin/Page.php:426
+#, php-format
+msgid "Separate several addresses with commas. Leave empty to use the administrator address of this site (%s)."
+msgstr "Več naslovov ločite z vejicami. Pustite prazno za uporabo skrbniškega naslova tega spletnega mesta (%s)."
+
+#: includes/Admin/Page.php:428
+msgid "SMTP"
+msgstr "SMTP"
+
+#: includes/Admin/Page.php:429
+msgid "Send SmokyPost e-mails through an SMTP account"
+msgstr "Pošiljaj e-pošto SmokyPost prek računa SMTP"
+
+#: includes/Admin/Page.php:430
+msgid "Use this when e-mails from your site do not arrive. Only the e-mails of SmokyPost use this account, other e-mails of your site stay as they are. You do not need a separate SMTP plugin for SmokyPost."
+msgstr "Uporabite, če e-pošta z vašega spletnega mesta ne prispe. Ta račun uporablja samo e-pošta SmokyPost, druga e-pošta spletnega mesta ostane nespremenjena. Za SmokyPost ne potrebujete ločenega vtičnika SMTP."
+
+#: includes/Admin/Page.php:432
+msgid "SMTP server"
+msgstr "Strežnik SMTP"
+
+#: includes/Admin/Page.php:433
+msgid "Port"
+msgstr "Vrata"
+
+#: includes/Admin/Page.php:434
+msgid "Encryption"
+msgstr "Šifriranje"
+
+#: includes/Admin/Page.php:436
+msgid "TLS (usually port 587)"
+msgstr "TLS (običajno vrata 587)"
+
+#: includes/Admin/Page.php:437
+msgid "SSL (usually port 465)"
+msgstr "SSL (običajno vrata 465)"
+
+#: includes/Admin/Page.php:438
+msgid "No encryption"
+msgstr "Brez šifriranja"
+
+#: includes/Admin/Page.php:443
+msgid "Username"
+msgstr "Uporabniško ime"
+
+#: includes/Admin/Page.php:447
+msgid "The password is set in wp-config.php."
+msgstr "Geslo je nastavljeno v datoteki wp-config.php."
+
+#: includes/Admin/Page.php:451
+msgid "A password is saved. Leave this empty to keep it."
+msgstr "Geslo je shranjeno. Pustite prazno, če ga želite obdržati."
+
+#: includes/Admin/Page.php:451
+msgid "Remove the saved password"
+msgstr "Odstrani shranjeno geslo"
+
+#: includes/Admin/Page.php:453
+msgid "The password is stored encrypted and never shown again. For Gmail and Outlook use an app password."
+msgstr "Geslo je shranjeno šifrirano in se nikoli več ne prikaže. Za Gmail in Outlook uporabite geslo za aplikacijo."
+
+#: includes/Admin/Page.php:457
+msgid "From e-mail"
+msgstr "E-pošta pošiljatelja"
+
+#: includes/Admin/Page.php:458
+msgid "Most providers only accept an address that belongs to the account."
+msgstr "Večina ponudnikov sprejme samo naslov, ki pripada računu."
+
+#: includes/Admin/Page.php:459
+msgid "From name"
+msgstr "Ime pošiljatelja"
+
+#: includes/Admin/Page.php:462
+msgid "Save Changes"
+msgstr "Shrani spremembe"
+
+#: includes/Admin/Page.php:463
+msgid "Send a test e-mail"
+msgstr "Pošlji preizkusno e-pošto"
+
+#: includes/Admin/Page.php:464
+msgid "The test e-mail saves the values above first and then uses them."
+msgstr "Preizkusna e-pošta najprej shrani zgornje vrednosti, nato jih uporabi."
+
+#. translators: %d: number of days
+#: includes/Admin/Page.php:479
+#, php-format
+msgid "Shares of the last %d day."
+msgid_plural "Shares of the last %d days."
+msgstr[0] "Deljenja v zadnjem %d dnevu."
+msgstr[1] "Deljenja v zadnjih %d dneh."
+msgstr[2] "Deljenja v zadnjih %d dneh."
+msgstr[3] "Deljenja v zadnjih %d dneh."
+
+#: includes/Admin/Page.php:491
+msgid "Date"
+msgstr "Datum"
+
+#: includes/Admin/Page.php:491
+msgid "Item"
+msgstr "Element"
+
+#: includes/Admin/Page.php:491
+msgid "Result"
+msgstr "Rezultat"
+
+#: includes/Admin/Page.php:507
+msgid "Nothing shared yet."
+msgstr "Še nič ni deljeno."
+
+#: includes/Admin/Page.php:516
+msgid "Clear history"
+msgstr "Počisti zgodovino"
+
+#: includes/Admin/Page.php:516
+msgid "Clear the history for the dates you choose, or all of it? What was already shared stays on your social accounts. Cleared items no longer show in this list."
+msgstr "Želite počistiti zgodovino za določene datume ali vso? Tisto, kar je že deljeno, ostane na vaših družbenih omrežjih. Počiščeni zapisi se na tem seznamu ne prikazujejo več."
+
+#: includes/Admin/Page.php:518
+msgid "From"
+msgstr "Od"
+
+#: includes/Admin/Page.php:520
+msgid "To"
+msgstr "Do"
+
+#: includes/Admin/Page.php:523
+msgid "Leave the date empty to start at the first item or end today."
+msgstr "Pustite datum prazen, če želite začeti pri prvem zapisu ali končati z današnjim dnem."
+
+#: includes/Admin/Page.php:524
+msgid "Clear these dates"
+msgstr "Počisti ta datuma"
+
+#: includes/Admin/Page.php:524
+msgid "Clear all history"
+msgstr "Počisti vso zgodovino"
+
+#: includes/Admin/Page.php:534 includes/Admin/Page.php:534
+msgid "Day"
+msgstr "Dan"
+
+#: includes/Admin/Page.php:538 includes/Admin/Page.php:538
+msgid "Month"
+msgstr "Mesec"
+
+#: includes/Admin/Page.php:542 includes/Admin/Page.php:542
+msgid "Year"
+msgstr "Leto"
+
+#: includes/Admin/Page.php:559 includes/Admin/Page.php:670
+msgid "Plan"
+msgstr "Paket"
+
+#: includes/Admin/Page.php:560
+msgid "License key"
+msgstr "Licenčni ključ"
+
+#: includes/Admin/Page.php:561
+msgid "Shared today"
+msgstr "Danes deljeno"
+
+#. translators: 1: items used, 2: daily limit
+#: includes/Admin/Page.php:564 includes/Admin/Page.php:566
+#, php-format
+msgid "%1$d of %2$d items"
+msgstr "%1$d od %2$d elementov"
+
+#: includes/Admin/Page.php:569
+msgid "This site"
+msgstr "To spletno mesto"
+
+#: includes/Admin/Page.php:574
+msgid "Disconnect this site"
+msgstr "Prekini povezavo tega spletnega mesta"
+
+#: includes/Admin/Page.php:574
+msgid "Disconnect this site from SmokyPost? Sharing stops until you sign in again."
+msgstr "Želite prekiniti povezavo tega spletnega mesta s storitvijo SmokyPost? Deljenje se ustavi, dokler se ne prijavite znova."
+
+#: includes/Admin/Page.php:576
+msgid "Yes, disconnect"
+msgstr "Da, prekini povezavo"
+
+#: includes/Admin/Page.php:585
+msgid "How Pro works"
+msgstr "Kako deluje Pro"
+
+#: includes/Admin/Page.php:586
+msgid "Pay securely through Paddle."
+msgstr "Plačajte varno prek Paddla."
+
+#: includes/Admin/Page.php:587
+msgid "Download SmokyPost Pro with the button below."
+msgstr "Prenesite SmokyPost Pro z gumbom spodaj."
+
+#: includes/Admin/Page.php:587
+msgid "Come back to this page. A \"Download SmokyPost Pro\" button appears, and we e-mail you the same link."
+msgstr "Vrnite se na to stran. Prikazal se bo gumb »Prenesi SmokyPost Pro«, isto povezavo pa vam pošljemo tudi po e-pošti."
+
+#: includes/Admin/Page.php:588
+msgid "Install it under Plugins > Add New > Upload Plugin and activate it. Your license is picked up automatically, there is no key to enter."
+msgstr "Namestite ga v Vtičniki > Dodaj novega > Naloži vtičnik in ga aktivirajte. Vaša licenca se prepozna samodejno, ključa vam ni treba vnašati."
+
+#: includes/Admin/Page.php:589
+msgid "SmokyPost Pro is a second plugin that works together with SmokyPost: keep both active. It takes about a minute. Full refund within 14 days of your first payment."
+msgstr "SmokyPost Pro je drugi vtičnik, ki deluje skupaj s SmokyPostom: oba naj ostaneta aktivna. Traja približno minuto. Polno povračilo v 14 dneh od prvega plačila."
+
+#: includes/Admin/Page.php:603
+msgid "Your payment is taking longer than usual to show here. Reload this page in a few minutes. If your plan is still Free after an hour, write to info@smokypost.com."
+msgstr "Vaše plačilo se tukaj prikaže dlje kot običajno. Čez nekaj minut osvežite stran. Če je vaš paket po eni uri še vedno Free, pišite na info@smokypost.com."
+
+#: includes/Admin/Page.php:607
+msgid "Payment received. Your plan will be active in a moment, this page checks again by itself."
+msgstr "Plačilo je prejeto. Vaš paket bo kmalu aktiven, ta stran pa bo to preverila sama."
+
+#: includes/Admin/Page.php:619
+msgid "SmokyPost Pro"
+msgstr "SmokyPost Pro"
+
+#. translators: %s: version number
+#: includes/Admin/Page.php:622
+#, php-format
+msgid "SmokyPost Pro %s is installed and active."
+msgstr "SmokyPost Pro %s je nameščen in aktiven."
+
+#: includes/Admin/Page.php:623
+msgid "Its settings are under SmokyPost > Pro, the calendar under SmokyPost > Calendar. It updates itself."
+msgstr "Njegove nastavitve so v SmokyPost > Pro, koledar pa v SmokyPost > Koledar. Posodablja se sam."
+
+#: includes/Admin/Page.php:630
+msgid "SmokyPost Pro is installed but not active. Activate it on the Plugins page."
+msgstr "SmokyPost Pro je nameščen, vendar ni aktiven. Aktivirajte ga na strani Vtičniki."
+
+#: includes/Admin/Page.php:630
+msgid "Open Plugins"
+msgstr "Odpri Vtičnike"
+
+#: includes/Admin/Page.php:635
+msgid "Download SmokyPost Pro"
+msgstr "Prenesi SmokyPost Pro"
+
+#: includes/Admin/Page.php:636
+msgid "The link works for an hour. You can come back here and get a new one any time."
+msgstr "Povezava velja eno uro. Kadar koli se lahko vrnete sem po novo."
+
+#: includes/Admin/Page.php:646 includes/Admin/Page.php:1266 includes/Api.php:127
+msgid "Something went wrong. Please try again."
+msgstr "Nekaj je šlo narobe. Poskusite znova."
+
+#: includes/Admin/Page.php:665
+msgid "Plans"
+msgstr "Paketi"
+
+#: includes/Admin/Page.php:670
+msgid "Sites"
+msgstr "Spletna mesta"
+
+#: includes/Admin/Page.php:670
+msgid "Items per day"
+msgstr "Elementov na dan"
+
+#: includes/Admin/Page.php:670
+msgid "Price"
+msgstr "Cena"
+
+#. translators: %s: price, for example $39
+#: includes/Admin/Page.php:678
+#, php-format
+msgid "%s per year"
+msgstr "%s na leto"
+
+#: includes/Admin/Page.php:680
+msgid "Current plan"
+msgstr "Trenutni paket"
+
+#: includes/Admin/Page.php:683
+msgid "Switch to this plan"
+msgstr "Preklopi na ta paket"
+
+#: includes/Admin/Page.php:683
+msgid "Upgrade"
+msgstr "Nadgradi"
+
+#: includes/Admin/Page.php:688
+msgid "Payments are handled securely by Paddle. Prices are in US dollars, taxes are added at checkout where they apply."
+msgstr "Plačila varno obdeluje Paddle. Cene so v ameriških dolarjih, davki pa se ob plačilu dodajo tam, kjer veljajo."
+
+#: includes/Admin/Page.php:690
+msgid "A plan change applies right away. You will see the exact amount and confirm it before anything is charged."
+msgstr "Sprememba paketa velja takoj. Natančen znesek boste videli in potrdili, preden se karkoli obračuna."
+
+#: includes/Admin/Page.php:692 includes/Admin/Page.php:776
+msgid "Manage subscription"
+msgstr "Upravljaj naročnino"
+
+#: includes/Admin/Page.php:703
+msgid "Cancel and refund"
+msgstr "Prekliči in zahtevaj povračilo"
+
+#: includes/Admin/Page.php:705
+msgid "Refunds are available within 14 days of your first payment. You can stop the renewal at any time from Manage subscription."
+msgstr "Povračilo je mogoče v 14 dneh od prvega plačila. Obnavljanje lahko kadar koli ustavite v »Upravljaj naročnino«."
+
+#: includes/Admin/Page.php:706 includes/Admin/Page.php:717
+msgid "Questions about a payment? Write to info@smokypost.com."
+msgstr "Vprašanja o plačilu? Pišite na info@smokypost.com."
+
+#. translators: %s: date
+#: includes/Admin/Page.php:712
+#, php-format
+msgid "You can cancel and get a full refund until %s."
+msgstr "Naročnino lahko prekličete in dobite polno povračilo do %s."
+
+#: includes/Admin/Page.php:714
+msgid "Cancel and get a refund"
+msgstr "Prekliči in zahtevaj povračilo"
+
+#: includes/Admin/Page.php:714
+msgid "Cancel your subscription and get a full refund? Everything you paid is returned to the card you paid with. Nothing is deducted for the days you used. Your plan ends right away and this site goes back to Free."
+msgstr "Želite preklicati naročnino in dobiti polno povračilo? Vse, kar ste plačali, se vrne na kartico, s katero ste plačali. Za porabljene dni se ne zadrži nič. Vaš paket se konča takoj, to spletno mesto pa se vrne na Free."
+
+#: includes/Admin/Page.php:716
+msgid "Yes, cancel and refund"
+msgstr "Da, prekliči in povrni"
+
+#: includes/Admin/Page.php:730 includes/Admin/Page.php:814
+msgid "Starter"
+msgstr "Starter"
+
+#: includes/Admin/Page.php:731 includes/Admin/Page.php:815
+msgid "Pro"
+msgstr "Pro"
+
+#: includes/Admin/Page.php:732 includes/Admin/Page.php:816
+msgid "Agency"
+msgstr "Agency"
+
+#. translators: %s: plan name
+#: includes/Admin/Page.php:741
+#, php-format
+msgid "Switch to the %s plan"
+msgstr "Preklopi na %s"
+
+#. translators: 1: amount, for example $30.00, 2: card, for example Visa ending in 4242
+#: includes/Admin/Page.php:747
+#, php-format
+msgid "You will be charged %1$s today on the card you paid with (%2$s)."
+msgstr "Danes se bo s kartice, s katero ste plačali, obračunalo %1$s (%2$s)."
+
+#. translators: %s: amount, for example $30.00
+#: includes/Admin/Page.php:750
+#, php-format
+msgid "You will be charged %s today on the card you paid with."
+msgstr "Danes se bo s kartice, s katero ste plačali, obračunalo %s."
+
+#. translators: %s: date
+#: includes/Admin/Page.php:755
+#, php-format
+msgid "Your next renewal stays on %s."
+msgstr "Naslednja obnovitev ostane %s."
+
+#: includes/Admin/Page.php:758
+msgid "Nothing is charged today."
+msgstr "Danes se ne obračuna nič."
+
+#. translators: %s: date
+#: includes/Admin/Page.php:762
+#, php-format
+msgid "The price difference is credited at your next renewal on %s."
+msgstr "Razlika v ceni bo pripisana ob naslednji obnovitvi, %s."
+
+#: includes/Admin/Page.php:764
+msgid "The price difference is credited at your next renewal."
+msgstr "Razlika v ceni bo pripisana ob naslednji obnovitvi."
+
+#: includes/Admin/Page.php:767
+msgid "Shall we continue?"
+msgstr "Želite nadaljevati?"
+
+#. translators: %s: amount, for example $30.00
+#: includes/Admin/Page.php:770
+#, php-format
+msgid "Yes, charge %s"
+msgstr "Da, obračunaj %s"
+
+#: includes/Admin/Page.php:770
+msgid "Yes, switch plan"
+msgstr "Da, spremeni paket"
+
+#: includes/Admin/Page.php:774
+msgid "Want to pay with another card? Open Manage subscription, update your payment method, then switch plans again."
+msgstr "Želite plačati z drugo kartico? Odprite »Upravljaj naročnino«, posodobite način plačila in nato znova spremenite paket."
+
+#. translators: %s: last four digits of a card
+#: includes/Admin/Page.php:802
+#, php-format
+msgid "ending in %s"
+msgstr "ki se konča na %s"
+
+#. translators: 1: card brand, for example Visa, 2: last four digits
+#: includes/Admin/Page.php:805
+#, php-format
+msgid "%1$s ending in %2$s"
+msgstr "%1$s, ki se konča na %2$s"
+
+#: includes/Admin/Page.php:813
+msgid "Free"
+msgstr "Free"
+
+#: includes/Admin/Page.php:831
+msgid "Sharing is paused until you confirm your e-mail address."
+msgstr "Deljenje je začasno ustavljeno, dokler ne potrdite svojega e-poštnega naslova."
+
+#. translators: %d: days left
+#: includes/Admin/Page.php:833
+#, php-format
+msgid "Please confirm your e-mail address. Sharing pauses in %d day if you do not."
+msgid_plural "Please confirm your e-mail address. Sharing pauses in %d days if you do not."
+msgstr[0] "Potrdite svoj e-poštni naslov. Deljenje bo začasno ustavljeno čez %d dan, če tega ne storite."
+msgstr[1] "Potrdite svoj e-poštni naslov. Deljenje bo začasno ustavljeno čez %d dneva, če tega ne storite."
+msgstr[2] "Potrdite svoj e-poštni naslov. Deljenje bo začasno ustavljeno čez %d dni, če tega ne storite."
+msgstr[3] "Potrdite svoj e-poštni naslov. Deljenje bo začasno ustavljeno čez %d dni, če tega ne storite."
+
+#: includes/Admin/Page.php:836
+msgid "Send the link again"
+msgstr "Znova pošlji povezavo"
+
+#: includes/Admin/Page.php:869
+msgid "Bluesky handle"
+msgstr "Uporabniško ime na Blueskyju"
+
+#: includes/Admin/Page.php:870
+msgid "App password"
+msgstr "Geslo aplikacije"
+
+#: includes/Admin/Page.php:871
+msgid "Use an app password, not your main Bluesky password. It can only be used by apps like this one and you can delete it in Bluesky at any time."
+msgstr "Uporabite geslo aplikacije, ne svojega glavnega gesla za Bluesky. Uporabljajo ga lahko samo aplikacije, kot je ta, vi pa ga lahko na Blueskyju kadar koli izbrišete."
+
+#: includes/Admin/Page.php:872
+msgid "How do I get an app password?"
+msgstr "Kako dobim geslo aplikacije?"
+
+#. translators: %s: link to the Bluesky app password page
+#: includes/Admin/Page.php:873
+#, php-format
+msgid "Open %s (or Settings > Privacy and security > App passwords in Bluesky)."
+msgstr "Odprite %s (ali na Blueskyju: Nastavitve > Zasebnost in varnost > Gesla aplikacij)."
+
+#: includes/Admin/Page.php:874
+msgid "Click \"Add App Password\" and name it SmokyPost."
+msgstr "Kliknite »Add App Password« in ga poimenujte SmokyPost."
+
+#: includes/Admin/Page.php:875
+msgid "Copy the password Bluesky shows and paste it here."
+msgstr "Kopirajte geslo, ki ga prikaže Bluesky, in ga prilepite sem."
+
+#: includes/Admin/Page.php:881
+msgid "Your Mastodon server"
+msgstr "Vaš strežnik Mastodon"
+
+#: includes/Admin/Page.php:882
+msgid "The address of the server your account is on, for example mastodon.social, or your full name like @name@mastodon.social. You will approve SmokyPost on that server."
+msgstr "Naslov strežnika, na katerem je vaš račun, na primer mastodon.social, ali vaše polno ime v obliki @ime@mastodon.social. SmokyPost boste odobrili na tem strežniku."
+
+#: includes/Admin/Page.php:921
+msgid "Signed in. Now choose the account this site shares to."
+msgstr "Prijavljeni ste. Zdaj izberite račun, na katerem bo to spletno mesto delilo."
+
+#: includes/Admin/Page.php:923
+msgid "The sign-in was cancelled."
+msgstr "Prijava je bila preklicana."
+
+#: includes/Admin/Page.php:924
+msgid "The sign-in did not work. Please try again."
+msgstr "Prijava ni uspela. Poskusite znova."
+
+#: includes/Admin/Page.php:940
+msgid "Good to know:"
+msgstr "Dobro je vedeti:"
+
+#: includes/Admin/Page.php:940
+msgid "SmokyPost shares new posts automatically when they are published, including posts created by other plugins, importers or the REST API. You can turn automatic sharing on or off for each platform on its card below or under Settings."
+msgstr "SmokyPost samodejno deli nove objave ob objavi, vključno s tistimi, ki jih ustvarijo drugi vtičniki, uvozniki ali REST API. Samodejno deljenje lahko za vsako platformo vklopite ali izklopite na njeni kartici spodaj ali v Nastavitvah."
+
+#: includes/Admin/Page.php:942
+msgid "Got it"
+msgstr "Razumem"
+
+#: includes/Admin/Page.php:942
+msgid "Open settings"
+msgstr "Odpri nastavitve"
+
+#: includes/Admin/Page.php:954
+msgid "SmokyPost is almost ready."
+msgstr "SmokyPost je skoraj pripravljen."
+
+#: includes/Admin/Page.php:954
+msgid "Connect this site"
+msgstr "Poveži to spletno mesto"
+
+#: includes/Admin/Page.php:967
+msgid "You are not allowed to do this."
+msgstr "Za to dejanje nimate dovoljenja."
+
+#: includes/Admin/Page.php:1013 includes/Admin/Page.php:1081
+msgid "Please enter a valid e-mail address."
+msgstr "Vnesite veljaven e-poštni naslov."
+
+#: includes/Admin/Page.php:1015
+msgid "Please enter your password."
+msgstr "Vnesite geslo."
+
+#: includes/Admin/Page.php:1017
+msgid "Please use a password with at least 8 characters."
+msgstr "Uporabite geslo z vsaj 8 znaki."
+
+#: includes/Admin/Page.php:1019
+msgid "Please accept the Terms of Service and the Privacy Policy."
+msgstr "Sprejmite Pogoje uporabe in Pravilnik o zasebnosti."
+
+#: includes/Admin/Page.php:1042
+msgid "Your account is ready and this site is connected. We sent you an e-mail to confirm your address."
+msgstr "Vaš račun je pripravljen in to spletno mesto je povezano. Poslali smo vam e-pošto za potrditev naslova."
+
+#: includes/Admin/Page.php:1058
+msgid "Signed in. This site is connected."
+msgstr "Prijavljeni ste. To spletno mesto je povezano."
+
+#: includes/Admin/Page.php:1064
+msgid "Please enter your license key."
+msgstr "Vnesite licenčni ključ."
+
+#: includes/Admin/Page.php:1075
+msgid "License activated. This site is connected."
+msgstr "Licenca je aktivirana. To spletno mesto je povezano."
+
+#: includes/Admin/Page.php:1084
+msgid "If an account exists for this address, we sent a link to reset the password."
+msgstr "Če za ta naslov obstaja račun, smo poslali povezavo za ponastavitev gesla."
+
+#: includes/Admin/Page.php:1092
+msgid "This site is disconnected from SmokyPost."
+msgstr "Povezava tega spletnega mesta s storitvijo SmokyPost je bila prekinjena."
+
+#: includes/Admin/Page.php:1117
+msgid "Please choose valid dates."
+msgstr "Izberite veljavne datume."
+
+#: includes/Admin/Page.php:1121
+msgid "The first date must be before the last date."
+msgstr "Prvi datum mora biti pred zadnjim."
+
+#. translators: %d: number of items
+#: includes/Admin/Page.php:1135
+#, php-format
+msgid "Cleared %d item from the history."
+msgid_plural "Cleared %d items from the history."
+msgstr[0] "Iz zgodovine je bil počiščen %d element."
+msgstr[1] "Iz zgodovine sta bila počiščena %d elementa."
+msgstr[2] "Iz zgodovine so bili počiščeni %d elementi."
+msgstr[3] "Iz zgodovine je bilo počiščenih %d elementov."
+
+#: includes/Admin/Page.php:1135
+msgid "There was nothing to clear. Items that are still being sent stay in the list."
+msgstr "Ni bilo kaj čistiti. Zapisi, ki se še pošiljajo, ostanejo na seznamu."
+
+#: includes/Admin/Page.php:1143
+msgid "We sent the confirmation link again."
+msgstr "Povezavo za potrditev smo poslali znova."
+
+#: includes/Admin/Page.php:1193
+msgid "Connected. Now choose the account this site shares to."
+msgstr "Povezano. Zdaj izberite račun, na katerem bo to spletno mesto delilo."
+
+#: includes/Admin/Page.php:1228
+msgid "That plan change has expired. Please choose the plan again."
+msgstr "Ta sprememba paketa je potekla. Znova izberite paket."
+
+#: includes/Admin/Page.php:1240
+msgid "Your plan is being changed. It can take a minute to show here."
+msgstr "Vaš paket se spreminja. Lahko traja minuto, da se to prikaže tukaj."
+
+#: includes/Admin/Page.php:1257
+msgid "Your refund has been requested and your subscription is cancelled. Paddle returns the money to the card you paid with; it can take a few days to show."
+msgstr "Povračilo je zahtevano, naročnina je preklicana. Paddle vrne denar na kartico, s katero ste plačali; to lahko traja nekaj dni."
+
+#. translators: 1: page name, 2: platform name
+#: includes/Admin/Page.php:1279
+#, php-format
+msgid "%1$s is now connected to %2$s."
+msgstr "%1$s je zdaj povezan z %2$s."
+
+#: includes/Admin/Page.php:1295 includes/Admin/Page.php:1305
+msgid "Settings saved."
+msgstr "Nastavitve so shranjene."
+
+#: includes/Admin/Page.php:1313
+msgid "SmokyPost test e-mail"
+msgstr "Preizkusna e-pošta SmokyPost"
+
+#: includes/Admin/Page.php:1314
+msgid "This is a test e-mail from SmokyPost. If you can read it, e-mails from SmokyPost reach you."
+msgstr "To je preizkusna e-pošta iz SmokyPost. Če jo lahko preberete, e-pošta SmokyPost do vas prispe."
+
+#. translators: %s: e-mail addresses
+#: includes/Admin/Page.php:1318
+#, php-format
+msgid "The test e-mail was sent to %s. Check your inbox and spam folder."
+msgstr "Preizkusna e-pošta je bila poslana na %s. Preverite prejeto pošto in mapo z neželeno pošto."
+
+#. translators: %s: error from the mail server
+#: includes/Admin/Page.php:1325
+#, php-format
+msgid "The test e-mail could not be sent: %s Check the server, port and encryption."
+msgstr "Preizkusne e-pošte ni bilo mogoče poslati: %s Preverite strežnik, vrata in šifriranje."
+
+#: includes/Admin/Page.php:1326
+msgid "The test e-mail could not be sent. Check the server, port and encryption."
+msgstr "Preizkusne e-pošte ni bilo mogoče poslati. Preverite strežnik, vrata in šifriranje."
+
+#. translators: %s: platform name
+#: includes/Admin/Page.php:1341
+#, php-format
+msgid "Automatic sharing to %s is on."
+msgstr "Samodejno deljenje na %s je vklopljeno."
+
+#. translators: %s: platform name
+#: includes/Admin/Page.php:1343
+#, php-format
+msgid "Automatic sharing to %s is off."
+msgstr "Samodejno deljenje na %s je izklopljeno."
+
+#: includes/Admin/PostList.php:59 includes/Status.php:60
+msgid "Not shared"
+msgstr "Ni deljeno"
+
+#: includes/Admin/PostList.php:100 includes/Admin/PostList.php:113
+msgid "Share with SmokyPost"
+msgstr "Deli s SmokyPostom"
+
+#. translators: %d: number of items
+#: includes/Admin/PostList.php:154
+#, php-format
+msgid "%d item queued for sharing."
+msgid_plural "%d items queued for sharing."
+msgstr[0] "%d element je bil dodan v čakalno vrsto za deljenje."
+msgstr[1] "%d elementa sta bila dodana v čakalno vrsto za deljenje."
+msgstr[2] "%d elementi so bili dodani v čakalno vrsto za deljenje."
+msgstr[3] "%d elementov je bilo dodanih v čakalno vrsto za deljenje."
+
+#. translators: %d: number of items
+#: includes/Admin/PostList.php:157
+#, php-format
+msgid "%d item could not be shared; see the SmokyPost column."
+msgid_plural "%d items could not be shared; see the SmokyPost column."
+msgstr[0] "%d elementa ni bilo mogoče deliti; glejte stolpec SmokyPost."
+msgstr[1] "%d elementov ni bilo mogoče deliti; glejte stolpec SmokyPost."
+msgstr[2] "%d elementov ni bilo mogoče deliti; glejte stolpec SmokyPost."
+msgstr[3] "%d elementov ni bilo mogoče deliti; glejte stolpec SmokyPost."
+
+#: includes/Api.php:85
+msgid "This site is not connected to SmokyPost yet."
+msgstr "To spletno mesto še ni povezano s storitvijo SmokyPost."
+
+#: includes/Editor.php:117 includes/Editor.php:124
+msgid "Image to share"
+msgstr "Slika za deljenje"
+
+#: includes/Editor.php:118
+msgid "Chosen for sharing"
+msgstr "Izbrano za deljenje"
+
+#: includes/Editor.php:119
+msgid "Choose another image"
+msgstr "Izberi drugo sliko"
+
+#: includes/Editor.php:120
+msgid "Choose an image"
+msgstr "Izberi sliko"
+
+#: includes/Editor.php:121
+msgid "Use the automatic choice"
+msgstr "Uporabi samodejno izbiro"
+
+#: includes/Editor.php:122
+msgid "Images in this item:"
+msgstr "Slike v tem elementu:"
+
+#: includes/Editor.php:123
+msgid "Use this image"
+msgstr "Uporabi to sliko"
+
+#: includes/Editor.php:125
+msgid "Updating this item does not share it again. Click \"Share now\" to share it."
+msgstr "Posodobitev elementa ga ne deli znova. Kliknite »Deli zdaj«, če ga želite deliti."
+
+#: includes/Editor.php:126
+msgid "Featured image"
+msgstr "Izpostavljena slika objave"
+
+#: includes/Editor.php:127
+msgid "First image in the content (this item has no featured image)"
+msgstr "Prva slika v vsebini (ta element nima izpostavljene slike)"
+
+#: includes/Editor.php:128
+msgid "Default image from the SmokyPost settings (this item has no image)"
+msgstr "Privzeta slika iz nastavitev SmokyPost (ta element nima slike)"
+
+#: includes/Editor.php:130
+msgid "Instagram needs an image, and this item has none. Add a featured image or an image in the content, otherwise it is not shared to Instagram."
+msgstr "Instagram zahteva sliko, ta element pa je nima. Dodajte izpostavljeno sliko ali sliko v vsebino, sicer ne bo deljen na Instagramu."
+
+#: includes/Editor.php:135
+msgid "Share at (optional)"
+msgstr "Deli ob (neobvezno)"
+
+#. translators: 1: example date and time, 2: time zone name
+#: includes/Editor.php:137
+#, php-format
+msgid "Format: %1$s, in your site time (%2$s). Leave empty to share right away."
+msgstr "Oblika: %1$s, po času vašega spletnega mesta (%2$s). Pustite prazno za takojšnje deljenje."
+
+#: includes/Editor.php:138
+msgid "This is not a valid date and time. Use the format YYYY-MM-DD HH:MM, for example 2026-12-31 18:30."
+msgstr "To ne izgleda kot datum in ura. Uporabite obliko LLLL-MM-DD HH:MM, na primer 2026-12-31 18:30."
+
+#: includes/Editor.php:139
+msgid "Schedule"
+msgstr "Načrtuj"
+
+#: includes/Editor.php:140
+msgid "Cancel the scheduled share"
+msgstr "Prekliči načrtovano deljenje"
+
+#: includes/Editor.php:147 includes/Editor.php:478
+msgid "Delete shared posts"
+msgstr "Izbriši deljene objave"
+
+#: includes/Editor.php:148 includes/Editor.php:480
+msgid "Yes, delete"
+msgstr "Da, izbriši"
+
+#: includes/Editor.php:266
+msgid "Save the item to apply the change."
+msgstr "Shranite element, da se sprememba uveljavi."
+
+#: includes/Editor.php:352 includes/Editor.php:415 includes/Editor.php:530
+msgid "You are not allowed to share this item."
+msgstr "Nimate dovoljenja za deljenje tega elementa."
+
+#: includes/Editor.php:378
+msgid "Nothing to share: choose at least one connected platform."
+msgstr "Ni kaj deliti: izberite vsaj eno povezano platformo."
+
+#: includes/Editor.php:383
+msgid "Sending… You can leave this page, sharing continues in the background."
+msgstr "Pošiljanje … To stran lahko zapustite, deljenje se nadaljuje v ozadju."
+
+#. translators: %s: date and time
+#: includes/Editor.php:388
+#, php-format
+msgid "Scheduled for %s. You can leave this page."
+msgstr "Načrtovano za %s. To stran lahko zapustite."
+
+#: includes/Editor.php:419
+msgid "Nothing is scheduled for this item."
+msgstr "Za ta element ni nič načrtovano."
+
+#: includes/Editor.php:437
+msgid "The scheduled share is cancelled."
+msgstr "Načrtovano deljenje je bilo preklicano."
+
+#: includes/Editor.php:437
+msgid "Nothing to cancel: it was already sent."
+msgstr "Ni kaj preklicati: že je bilo poslano."
+
+#. translators: %s: platform names, for example "Facebook, Bluesky"
+#: includes/Editor.php:456
+#, php-format
+msgid "Delete the shared posts from %s? The item itself stays on your site."
+msgstr "Želite izbrisati deljene objave s platforme %s? Sam element ostane na vašem spletnem mestu."
+
+#. translators: %s: platform names, for example "Instagram"
+#: includes/Editor.php:459 includes/Editor.php:511
+#, php-format
+msgid "Posts on %s cannot be deleted from here. Delete them in the app yourself."
+msgstr "Objav na platformi %s od tu ni mogoče izbrisati. Izbrišite jih sami v aplikaciji."
+
+#: includes/Editor.php:493
+msgid "You are not allowed to change this item."
+msgstr "Nimate dovoljenja za spreminjanje tega elementa."
+
+#: includes/Editor.php:499
+msgid "There is nothing to delete for this item."
+msgstr "Za ta element ni kaj brisati."
+
+#: includes/Editor.php:508
+msgid "Deleting… You can leave this page, it continues in the background."
+msgstr "Brisanje … To stran lahko zapustite, brisanje se nadaljuje v ozadju."
+
+#: includes/Editor.php:550
+msgid "Finished, but something failed. See below."
+msgstr "Končano, vendar je nekaj spodletelo. Glejte spodaj."
+
+#: includes/Editor.php:550
+msgid "Done."
+msgstr "Končano."
+
+#. translators: %s: platform name
+#: includes/Notifier.php:87
+#, php-format
+msgid "Connect %s again"
+msgstr "Znova povežite %s"
+
+#. translators: 1: platform name, 2: link
+#: includes/Notifier.php:89
+#, php-format
+msgid "The connection to %1$s has expired, so new items cannot be shared there. Connect it again: %2$s"
+msgstr "Povezava z %1$s je potekla, zato tam ni mogoče deliti nove vsebine. Znova povežite: %2$s"
+
+#. translators: %s: item title
+#: includes/Notifier.php:102
+#, php-format
+msgid "Could not share: %s"
+msgstr "Deljenje ni uspelo: %s"
+
+#. translators: %s: item title
+#: includes/Notifier.php:104
+#, php-format
+msgid "\"%s\" could not be shared everywhere:"
+msgstr "»%s« ni bilo mogoče deliti povsod:"
+
+#. translators: %s: item title
+#: includes/Notifier.php:108
+#, php-format
+msgid "Shared: %s"
+msgstr "Deljeno: %s"
+
+#. translators: %s: item title
+#: includes/Notifier.php:110
+#, php-format
+msgid "\"%s\" was shared:"
+msgstr "»%s« je bilo deljeno:"
+
+#: includes/Notifier.php:124
+msgid "SmokyPost: daily limit reached"
+msgstr "SmokyPost: dosežena je dnevna omejitev"
+
+#: includes/Notifier.php:125
+msgid "The daily limit of your plan is reached. The remaining items are shared after midnight."
+msgstr "Dosežena je dnevna omejitev vašega paketa. Preostala vsebina se deli po polnoči."
+
+#. translators: %s: link
+#: includes/Notifier.php:175
+#, php-format
+msgid "Open the item: %s"
+msgstr "Odpri vsebino: %s"
+
+#. translators: %s: link
+#: includes/Notifier.php:177
+#, php-format
+msgid "History: %s"
+msgstr "Zgodovina: %s"
+
+#. translators: 1: site name, 2: link
+#: includes/Notifier.php:224
+#, php-format
+msgid "You get this e-mail because SmokyPost notifications are on for %1$s. Change who gets them, or turn them off, here: %2$s"
+msgstr "To e-pošto prejemate, ker so obvestila SmokyPost vklopljena za %1$s. Tukaj spremenite, kdo jih prejema, ali jih izklopite: %2$s"
+
+#: includes/Sharer.php:55
+msgid "Every 5 minutes (SmokyPost)"
+msgstr "Vsakih 5 minut (SmokyPost)"
+
+#: includes/Sharer.php:494
+msgid "Not shared to Instagram: Instagram needs an image, and this item has none. Add a featured image or an image in the content."
+msgstr "Ni deljeno na Instagramu: Instagram zahteva sliko, ta element pa je nima. Dodajte izpostavljeno sliko ali sliko v vsebino."
+
+#: includes/Status.php:60
+msgid "Not shared: needs an image"
+msgstr "Ni deljeno: potrebna je slika"
+
+#: includes/Status.php:74
+msgid "Shared (delete it in the app yourself)"
+msgstr "Deljeno (izbrišite sami v aplikaciji)"
+
+#: includes/Status.php:74
+msgid "Shared"
+msgstr "Deljeno"
+
+#. translators: %s: reason
+#: includes/Status.php:76
+#, php-format
+msgid "Failed: %s"
+msgstr "Napaka: %s"
+
+#: includes/Status.php:76
+msgid "Failed"
+msgstr "Napaka"
+
+#: includes/Status.php:78
+msgid "Cancelled"
+msgstr "Preklicano"
+
+#: includes/Status.php:81
+msgid "Removing…"
+msgstr "Brisanje …"
+
+#: includes/Status.php:83
+msgid "Removed"
+msgstr "Izbrisano"
+
+#. translators: %s: reason
+#: includes/Status.php:85
+#, php-format
+msgid "Could not be removed: %s"
+msgstr "Brisanje ni uspelo: %s"
+
+#: includes/Status.php:85
+msgid "Could not be removed"
+msgstr "Brisanje ni uspelo"
+
+#: includes/Status.php:90
+msgid "Waiting: daily limit reached, shares after midnight"
+msgstr "Čaka: dosežena je dnevna omejitev, deli se po polnoči"
+
+#: includes/Status.php:93
+msgid "Waiting: please confirm your e-mail address"
+msgstr "Čaka: potrdite svoj e-poštni naslov"
+
+#. translators: %s: date and time
+#: includes/Status.php:98
+#, php-format
+msgid "Scheduled for %s"
+msgstr "Načrtovano za %s"
+
+#: includes/Status.php:102
+msgid "Retrying soon"
+msgstr "Kmalu nov poskus"
+
+#: includes/Status.php:102
+msgid "Queued"
+msgstr "V čakalni vrsti"
+
+#: includes/Status.php:114 includes/Status.php:115 includes/Status.php:116
+msgid "The connection has expired. Connect again in SmokyPost."
+msgstr "Povezava je potekla. Znova se povežite v SmokyPostu."
+
+#: includes/Status.php:117
+msgid "No page or account is selected for this platform."
+msgstr "Za to platformo ni izbrana nobena stran ali račun."
+
+#: includes/Status.php:118
+msgid "This site is no longer connected to SmokyPost."
+msgstr "To spletno mesto ni več povezano s storitvijo SmokyPost."
+
+#: includes/Status.php:119
+msgid "Your SmokyPost account or license is not active."
+msgstr "Vaš račun ali licenca SmokyPost ni aktivna."
+
+#: includes/Status.php:120
+msgid "This platform is not included in your plan."
+msgstr "Ta platforma ni vključena v vaš paket."
+
+#: includes/Status.php:121
+msgid "The platform did not allow the post. Check that you are still an admin of the page and connect again."
+msgstr "Platforma objave ni dovolila. Preverite, ali ste še vedno skrbnik strani, in se znova povežite."
+
+#: includes/Status.php:122
+msgid "The platform blocked this post."
+msgstr "Platforma je to objavo blokirala."
+
+#: includes/Status.php:123
+msgid "The platform rejected this post as a duplicate."
+msgstr "Platforma je to objavo zavrnila kot dvojnik."
+
+#: includes/Status.php:124
+msgid "Instagram needs an image. Add a featured image."
+msgstr "Instagram zahteva sliko. Objavi dodajte izpostavljeno sliko."
+
+#: includes/Status.php:125
+msgid "The platform could not use the image. Try a JPEG or PNG image at least 600 pixels wide."
+msgstr "Platforma slike ni mogla uporabiti. Poskusite s sliko JPEG ali PNG, široko vsaj 600 slikovnih pik."
+
+#: includes/Status.php:126
+msgid "The image could not be read. Use a JPEG, PNG or WebP image."
+msgstr "Slike ni bilo mogoče prebrati. Uporabite JPEG, PNG ali WebP."
+
+#: includes/Status.php:127
+msgid "The image is too small. Use an image at least 600 pixels wide."
+msgstr "Slika je premajhna. Uporabite sliko, široko vsaj 600 slikovnih pik."
+
+#: includes/Status.php:128
+msgid "SmokyPost could not download the image from your site."
+msgstr "SmokyPost ni mogel prenesti slike z vašega spletnega mesta."
+
+#: includes/Status.php:129
+msgid "The image could not be prepared."
+msgstr "Slike ni bilo mogoče pripraviti."
+
+#: includes/Status.php:130
+msgid "The platform was not available. SmokyPost tried several times."
+msgstr "Platforma ni bila na voljo. SmokyPost je poskusil večkrat."
+
+#: includes/Status.php:131
+msgid "The platform could not be reached. SmokyPost tried several times."
+msgstr "S platformo se ni bilo mogoče povezati. SmokyPost je poskusil večkrat."
+
+#: includes/Status.php:132
+msgid "Instagram did not accept the image in time."
+msgstr "Instagram slike ni sprejel pravočasno."
+
+#: includes/Status.php:133
+msgid "The platform rejected the post."
+msgstr "Platforma je objavo zavrnila."
+
+#: includes/Status.php:134
+msgid "The account that published this post is no longer connected. Delete the post on the platform yourself."
+msgstr "Račun, ki je objavil to objavo, ni več povezan. Objavo izbrišite sami na platformi."
+
+#: includes/Status.php:135
+msgid "This post cannot be deleted automatically. Delete it on the platform yourself."
+msgstr "Te objave ni mogoče samodejno izbrisati. Izbrišite jo sami na platformi."
+
+#. Name of the plugin
+#: smokypost.php:3
+msgid "SmokyPost – Social Auto Share for Posts and Pages"
+msgstr "SmokyPost – Samodejno deljenje na družbenih omrežjih za objave in strani"
+
+#. Description of the plugin
+#: smokypost.php:5
+msgid "Automatically share new and old posts and pages to your social media accounts. No developer accounts or API keys needed."
+msgstr "Samodejno delite nove in stare objave ter strani na svojih računih na družbenih omrežjih. Razvijalskih računov ali ključev API ni treba."

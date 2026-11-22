@@ -1,0 +1,1429 @@
+# Copyright (C) 2026 SmokySystems
+# This file is distributed under the GPL-2.0-or-later.
+msgid ""
+msgstr ""
+"Project-Id-Version: SmokyPost\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Domain: smokypost\n"
+"Language: es_PR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: assets/js/editor.js:159 includes/Editor.php:199
+msgid "Connect your pages to share this item."
+msgstr "Conecta tus páginas para compartir este contenido."
+
+#: assets/js/editor.js:160 includes/Editor.php:199
+msgid "Open SmokyPost"
+msgstr "Abrir SmokyPost"
+
+#: assets/js/editor.js:178 includes/Admin/Page.php:76
+msgid "Still sending. Check the History tab in a few minutes."
+msgstr "Todavía se está enviando. Revisa la pestaña Historial en unos minutos."
+
+#: assets/js/editor.js:238 assets/js/editor.js:261 assets/js/editor.js:288 includes/Api.php:106
+msgid "SmokyPost could not be reached. Please try again in a few minutes."
+msgstr "No se pudo conectar con SmokyPost. Inténtalo de nuevo en unos minutos."
+
+#: assets/js/editor.js:298 includes/Editor.php:208
+msgid "Share now to:"
+msgstr "Compartir ahora en:"
+
+#: assets/js/editor.js:298 includes/Editor.php:208
+msgid "Share when published to:"
+msgstr "Compartir al publicar en:"
+
+#: assets/js/editor.js:300
+msgid "reconnect needed"
+msgstr "reconexión necesaria"
+
+#: assets/js/editor.js:313 includes/Editor.php:214
+msgid "Custom message (optional)"
+msgstr "Mensaje personalizado (opcional)"
+
+#: assets/js/editor.js:314
+msgid "Leave empty to use your template."
+msgstr "Déjalo vacío para usar tu plantilla."
+
+#: assets/js/editor.js:333
+msgid "Shared to the ticked platforms when you publish."
+msgstr "Se comparte en las plataformas marcadas al publicar."
+
+#: assets/js/editor.js:336
+msgid "Shared automatically when it was published."
+msgstr "Compartido automáticamente al publicarse."
+
+#: assets/js/editor.js:339 includes/Editor.php:232
+msgid "Share now"
+msgstr "Compartir ahora"
+
+#: includes/Admin/Page.php:43 includes/Admin/Page.php:122
+msgid "Settings"
+msgstr "Ajustes"
+
+#: includes/Admin/Page.php:74 includes/Status.php:87
+msgid "Sending…"
+msgstr "Enviando…"
+
+#: includes/Admin/Page.php:75 includes/Editor.php:150
+msgid "Deleting…"
+msgstr "Eliminando…"
+
+#: includes/Admin/Page.php:113
+msgid "A newer version of SmokyPost is required. Please update the plugin."
+msgstr "Se necesita una versión más reciente de SmokyPost. Actualiza el plugin."
+
+#: includes/Admin/Page.php:121
+msgid "Platforms"
+msgstr "Plataformas"
+
+#: includes/Admin/Page.php:123
+msgid "History"
+msgstr "Historial"
+
+#: includes/Admin/Page.php:124
+msgid "Notifications"
+msgstr "Notificaciones"
+
+#: includes/Admin/Page.php:125 includes/Admin/Page.php:558
+msgid "Account"
+msgstr "Cuenta"
+
+#: includes/Admin/Page.php:156
+msgid "Terms of Service"
+msgstr "Términos del servicio"
+
+#: includes/Admin/Page.php:157
+msgid "Privacy Policy"
+msgstr "Política de privacidad"
+
+#: includes/Admin/Page.php:158
+msgid "Share your posts and pages to your social media accounts automatically. Create a free account or sign in to connect this site."
+msgstr "Comparte tus entradas y páginas en tus redes sociales de forma automática. Crea una cuenta gratuita o inicia sesión para conectar este sitio."
+
+#: includes/Admin/Page.php:159
+msgid "When you connect, this site sends its address, WordPress and PHP versions, language and time zone to the SmokyPost service (www.smokypost.com). The content of each item you share is sent when it is shared."
+msgstr "Al conectar, este sitio envía su dirección, las versiones de WordPress y PHP, el idioma y la zona horaria al servicio de SmokyPost (www.smokypost.com). El contenido de cada elemento que compartes se envía en el momento de compartirlo."
+
+#: includes/Admin/Page.php:163
+msgid "Create a free account"
+msgstr "Crear una cuenta gratuita"
+
+#: includes/Admin/Page.php:165 includes/Admin/Page.php:174 includes/Admin/Page.php:187
+msgid "E-mail"
+msgstr "Correo electrónico"
+
+#: includes/Admin/Page.php:166
+msgid "Password (at least 8 characters)"
+msgstr "Contraseña (al menos 8 caracteres)"
+
+#. translators: 1: Terms of Service link, 2: Privacy Policy link
+#: includes/Admin/Page.php:168
+#, php-format
+msgid "I accept the %1$s and the %2$s."
+msgstr "Acepto los %1$s y la %2$s."
+
+#: includes/Admin/Page.php:169
+msgid "Create account and connect"
+msgstr "Crear cuenta y conectar"
+
+#: includes/Admin/Page.php:172
+msgid "I already have an account"
+msgstr "Ya tengo una cuenta"
+
+#: includes/Admin/Page.php:175 includes/Admin/Page.php:445
+msgid "Password"
+msgstr "Contraseña"
+
+#: includes/Admin/Page.php:176
+msgid "Sign in and connect"
+msgstr "Iniciar sesión y conectar"
+
+#: includes/Admin/Page.php:179
+msgid "Use a license key instead"
+msgstr "Usar una clave de licencia en su lugar"
+
+#: includes/Admin/Page.php:182
+msgid "Connect with license key"
+msgstr "Conectar con clave de licencia"
+
+#: includes/Admin/Page.php:185
+msgid "Forgot your password?"
+msgstr "¿Olvidaste tu contraseña?"
+
+#: includes/Admin/Page.php:188
+msgid "Send reset link"
+msgstr "Enviar enlace de restablecimiento"
+
+#: includes/Admin/Page.php:207
+msgid "Connect each platform and choose the page or account this site shares to."
+msgstr "Conecta cada plataforma y elige la página o la cuenta en la que comparte este sitio."
+
+#: includes/Admin/Page.php:222
+msgid "Not included in your plan."
+msgstr "No incluido en tu plan."
+
+#: includes/Admin/Page.php:226
+msgid "Temporarily unavailable. Please try again later."
+msgstr "Temporalmente no disponible. Inténtalo de nuevo más tarde."
+
+#: includes/Admin/Page.php:237
+msgid "The connection has expired. Connect again to keep sharing."
+msgstr "La conexión ha caducado. Vuelve a conectar para seguir compartiendo."
+
+#: includes/Admin/Page.php:238
+msgid "Connect again"
+msgstr "Conectar de nuevo"
+
+#: includes/Admin/Page.php:241
+msgid "Change"
+msgstr "Cambiar"
+
+#: includes/Admin/Page.php:243
+msgid "Remove"
+msgstr "Quitar"
+
+#: includes/Admin/Page.php:247
+msgid "Not connected."
+msgstr "No conectado."
+
+#: includes/Admin/Page.php:249 includes/Admin/Page.php:341
+msgid "Connect"
+msgstr "Conectar"
+
+#: includes/Admin/Page.php:253
+msgid "Choose from your Facebook login"
+msgstr "Elegir desde tu inicio de sesión de Facebook"
+
+#: includes/Admin/Page.php:277
+msgid "Posts your text and a link to one of your Facebook Pages. You sign in with Facebook."
+msgstr "Publica tu texto y un enlace en una de tus páginas de Facebook. Inicias sesión con Facebook."
+
+#: includes/Admin/Page.php:279
+msgid "Needs an Instagram professional account linked to a Facebook Page. You sign in with Facebook."
+msgstr "Requiere una cuenta profesional de Instagram vinculada a una página de Facebook. Inicias sesión con Facebook."
+
+#: includes/Admin/Page.php:281
+msgid "Posts your text and a link to one of your LinkedIn company pages. You sign in with LinkedIn."
+msgstr "Publica tu texto y un enlace en una de tus páginas de empresa de LinkedIn. Inicias sesión con LinkedIn."
+
+#: includes/Admin/Page.php:283
+msgid "Posts your text, hashtags and a link card with the picture to your Bluesky account. You connect with your handle and an app password."
+msgstr "Publica tu texto, hashtags y una tarjeta de enlace con la imagen en tu cuenta de Bluesky. Te conectas con tu identificador y una contraseña de aplicación."
+
+#: includes/Admin/Page.php:285
+msgid "Posts your text, hashtags and a link to your Mastodon account on any Mastodon server. You approve SmokyPost on your own server."
+msgstr "Publica tu texto, hashtags y un enlace en tu cuenta de Mastodon en cualquier servidor de Mastodon. Autorizas SmokyPost en tu propio servidor."
+
+#: includes/Admin/Page.php:287
+msgid "Posts your text and a link card to your Threads profile. You sign in with Threads."
+msgstr "Publica tu texto y una tarjeta de enlace en tu perfil de Threads. Inicias sesión con Threads."
+
+#: includes/Admin/Page.php:289
+msgid "Posts your text, tags and a link card with the picture to one of your Tumblr blogs. You sign in with Tumblr."
+msgstr "Publica tu texto, etiquetas y una tarjeta de enlace con la imagen en uno de tus blogs de Tumblr. Inicias sesión con Tumblr."
+
+#: includes/Admin/Page.php:304
+msgid "Automatic sharing:"
+msgstr "Compartir automáticamente:"
+
+#: includes/Admin/Page.php:304
+msgid "On"
+msgstr "Activado"
+
+#: includes/Admin/Page.php:304
+msgid "Off"
+msgstr "Desactivado"
+
+#: includes/Admin/Page.php:305
+msgid "Turn off"
+msgstr "Desactivar"
+
+#: includes/Admin/Page.php:305
+msgid "Turn on"
+msgstr "Activar"
+
+#: includes/Admin/Page.php:306
+msgid "New items are shared here when they are published."
+msgstr "Los elementos nuevos se comparten aquí cuando se publican."
+
+#: includes/Admin/Page.php:306
+msgid "Only shared when you click \"Share now\"."
+msgstr "Solo se comparte cuando haces clic en «Compartir ahora»."
+
+#. translators: %s: reason
+#: includes/Admin/Page.php:322
+#, php-format
+msgid "You are signed in, but your accounts could not be listed: %s"
+msgstr "Has iniciado sesión, pero no se pudieron listar tus cuentas: %s"
+
+#: includes/Admin/Page.php:323
+msgid "Try again"
+msgstr "Reintentar"
+
+#: includes/Admin/Page.php:323 includes/Admin/Page.php:361 includes/Admin/Page.php:524 includes/Admin/Page.php:576 includes/Admin/Page.php:716 includes/Admin/Page.php:772 includes/Editor.php:149 includes/Editor.php:481
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: includes/Admin/Page.php:328
+msgid "Connect your account first."
+msgstr "Conecta primero tu cuenta."
+
+#: includes/Admin/Page.php:328
+msgid "Sign in first to see your pages."
+msgstr "Inicia sesión primero para ver tus páginas."
+
+#: includes/Admin/Page.php:329
+msgid "No page or account with posting rights was found for this login."
+msgstr "No se encontró ninguna página ni cuenta con permiso de publicación para este inicio de sesión."
+
+#: includes/Admin/Page.php:331
+msgid "Check that your Instagram account is a professional account and is linked to one of your Facebook Pages."
+msgstr "Comprueba que tu cuenta de Instagram sea profesional y esté vinculada a una de tus páginas de Facebook."
+
+#. translators: %s: name of the person who signed in
+#: includes/Admin/Page.php:355
+#, php-format
+msgid "(via %s)"
+msgstr "(a través de %s)"
+
+#: includes/Admin/Page.php:360
+msgid "Use this account"
+msgstr "Usar esta cuenta"
+
+#: includes/Admin/Page.php:363
+msgid "Missing a page?"
+msgstr "¿Falta una página?"
+
+#: includes/Admin/Page.php:364
+msgid "Sign in with another account"
+msgstr "Iniciar sesión con otra cuenta"
+
+#: includes/Admin/Page.php:377
+msgid "Content types"
+msgstr "Tipos de contenido"
+
+#: includes/Admin/Page.php:381
+msgid "Only these types are shared automatically and get the SmokyPost box in the editor."
+msgstr "Solo estos tipos se comparten automáticamente y muestran el cuadro de SmokyPost en el editor."
+
+#: includes/Admin/Page.php:383
+msgid "Automatic sharing"
+msgstr "Compartir automáticamente"
+
+#: includes/Admin/Page.php:384
+msgid "Share new items automatically when they are published to:"
+msgstr "Compartir automáticamente los elementos nuevos al publicarse en:"
+
+#: includes/Admin/Page.php:386
+msgid "not connected"
+msgstr "no conectado"
+
+#: includes/Admin/Page.php:389
+msgid "Untick a platform to stop automatic sharing to it. Untick all to turn automatic sharing off. You can still share any item yourself with \"Share now\" in the editor or the post list, and untick a platform for a single item in the editor."
+msgstr "Desmarca una plataforma para dejar de compartir automáticamente en ella. Desmarca todas para desactivar el uso compartido automático. Aun así puedes compartir cualquier elemento tú mismo con «Compartir ahora» en el editor o en la lista de entradas, y desmarcar una plataforma para un solo elemento en el editor."
+
+#: includes/Admin/Page.php:391
+msgid "Automatically created items"
+msgstr "Elementos creados automáticamente"
+
+#: includes/Admin/Page.php:391
+msgid "Also share items published by other plugins, importers, the REST API or WP-CLI"
+msgstr "Compartir también los elementos publicados por otros plugins, importadores, la API REST o WP-CLI"
+
+#: includes/Admin/Page.php:392
+msgid "On by default. Items created by code (for example an autoblog or a feed importer) are shared to the platforms above. Turn this off if you only want to share what you publish in the editor."
+msgstr "Activado por defecto. Los elementos creados por código (por ejemplo, un autoblog o un importador de feeds) se comparten en las plataformas indicadas arriba. Desactívalo si solo quieres compartir lo que publicas en el editor."
+
+#: includes/Admin/Page.php:393
+msgid "Skip imported items older than"
+msgstr "Omitir elementos importados con más de"
+
+#: includes/Admin/Page.php:393
+msgid "hours"
+msgstr "horas"
+
+#: includes/Admin/Page.php:395
+msgid "Deleting items"
+msgstr "Eliminar elementos"
+
+#: includes/Admin/Page.php:395
+msgid "Delete the shared posts when the item is deleted"
+msgstr "Eliminar las publicaciones compartidas cuando se elimine el elemento"
+
+#: includes/Admin/Page.php:396
+msgid "Off by default. When you move an item to the trash or delete it, SmokyPost also removes its posts from Facebook, LinkedIn, Bluesky, Mastodon, Threads and Tumblr. Instagram does not allow other apps to delete posts, so those have to be deleted in the Instagram app. Restoring an item from the trash does not bring the social posts back."
+msgstr "Desactivado por defecto. Cuando envías un elemento a la papelera o lo eliminas, SmokyPost también quita sus publicaciones de Facebook, LinkedIn, Bluesky, Mastodon, Threads y Tumblr. Instagram no permite que otras aplicaciones eliminen publicaciones, así que debes eliminarlas en la app de Instagram. Restaurar un elemento de la papelera no devuelve las publicaciones sociales."
+
+#: includes/Admin/Page.php:398
+msgid "Message template"
+msgstr "Plantilla de mensaje"
+
+#: includes/Admin/Page.php:400
+msgid "Placeholders:"
+msgstr "Marcadores:"
+
+#: includes/Admin/Page.php:400
+msgid "The link is added by each platform as a preview card; on Instagram it is added to the end of the text."
+msgstr "Cada plataforma añade el enlace como tarjeta de vista previa; en Instagram se añade al final del texto."
+
+#: includes/Admin/Page.php:401
+msgid "Turn post tags into hashtags for {hashtags}"
+msgstr "Convertir las etiquetas de la entrada en hashtags para {hashtags}"
+
+#: includes/Admin/Page.php:403
+msgid "Default image"
+msgstr "Imagen predeterminada"
+
+#: includes/Admin/Page.php:404
+msgid "Used when an item has no featured image and no image in its content. Instagram always needs an image."
+msgstr "Se usa cuando un elemento no tiene imagen destacada ni imagen en su contenido. Instagram siempre necesita una imagen."
+
+#: includes/Admin/Page.php:418
+msgid "E-mail me when"
+msgstr "Enviarme un correo cuando"
+
+#: includes/Admin/Page.php:419
+msgid "a share fails"
+msgstr "falle una publicación"
+
+#: includes/Admin/Page.php:420
+msgid "an item was shared"
+msgstr "se haya compartido un contenido"
+
+#: includes/Admin/Page.php:421
+msgid "You get one e-mail per item. A failed share is reported after SmokyPost has tried several times, and the same problem on the same platform is reported once a day. An e-mail that a connection has expired is always sent."
+msgstr "Recibes un correo por contenido. Una publicación fallida se avisa después de que SmokyPost lo haya intentado varias veces, y el mismo problema en la misma plataforma se avisa una vez al día. El correo que avisa de que una conexión ha caducado siempre se envía."
+
+#: includes/Admin/Page.php:423
+msgid "Send e-mails to"
+msgstr "Enviar los correos a"
+
+#. translators: %s: e-mail address
+#: includes/Admin/Page.php:426
+#, php-format
+msgid "Separate several addresses with commas. Leave empty to use the administrator address of this site (%s)."
+msgstr "Separa varias direcciones con comas. Déjalo vacío para usar la dirección del administrador de este sitio (%s)."
+
+#: includes/Admin/Page.php:428
+msgid "SMTP"
+msgstr "SMTP"
+
+#: includes/Admin/Page.php:429
+msgid "Send SmokyPost e-mails through an SMTP account"
+msgstr "Enviar los correos de SmokyPost con una cuenta SMTP"
+
+#: includes/Admin/Page.php:430
+msgid "Use this when e-mails from your site do not arrive. Only the e-mails of SmokyPost use this account, other e-mails of your site stay as they are. You do not need a separate SMTP plugin for SmokyPost."
+msgstr "Úsalo si los correos de tu sitio no llegan. Solo los correos de SmokyPost usan esta cuenta; los demás correos de tu sitio no cambian. No necesitas un plugin SMTP aparte para SmokyPost."
+
+#: includes/Admin/Page.php:432
+msgid "SMTP server"
+msgstr "Servidor SMTP"
+
+#: includes/Admin/Page.php:433
+msgid "Port"
+msgstr "Puerto"
+
+#: includes/Admin/Page.php:434
+msgid "Encryption"
+msgstr "Cifrado"
+
+#: includes/Admin/Page.php:436
+msgid "TLS (usually port 587)"
+msgstr "TLS (normalmente puerto 587)"
+
+#: includes/Admin/Page.php:437
+msgid "SSL (usually port 465)"
+msgstr "SSL (normalmente puerto 465)"
+
+#: includes/Admin/Page.php:438
+msgid "No encryption"
+msgstr "Sin cifrado"
+
+#: includes/Admin/Page.php:443
+msgid "Username"
+msgstr "Nombre de usuario"
+
+#: includes/Admin/Page.php:447
+msgid "The password is set in wp-config.php."
+msgstr "La contraseña está definida en wp-config.php."
+
+#: includes/Admin/Page.php:451
+msgid "A password is saved. Leave this empty to keep it."
+msgstr "Hay una contraseña guardada. Déjalo vacío para conservarla."
+
+#: includes/Admin/Page.php:451
+msgid "Remove the saved password"
+msgstr "Eliminar la contraseña guardada"
+
+#: includes/Admin/Page.php:453
+msgid "The password is stored encrypted and never shown again. For Gmail and Outlook use an app password."
+msgstr "La contraseña se guarda cifrada y no se vuelve a mostrar. Para Gmail y Outlook usa una contraseña de aplicación."
+
+#: includes/Admin/Page.php:457
+msgid "From e-mail"
+msgstr "Correo del remitente"
+
+#: includes/Admin/Page.php:458
+msgid "Most providers only accept an address that belongs to the account."
+msgstr "La mayoría de los proveedores solo aceptan una dirección que pertenezca a la cuenta."
+
+#: includes/Admin/Page.php:459
+msgid "From name"
+msgstr "Nombre del remitente"
+
+#: includes/Admin/Page.php:462
+msgid "Save Changes"
+msgstr "Guardar cambios"
+
+#: includes/Admin/Page.php:463
+msgid "Send a test e-mail"
+msgstr "Enviar un correo de prueba"
+
+#: includes/Admin/Page.php:464
+msgid "The test e-mail saves the values above first and then uses them."
+msgstr "El correo de prueba guarda primero los valores de arriba y después los usa."
+
+#. translators: %d: number of days
+#: includes/Admin/Page.php:479
+#, php-format
+msgid "Shares of the last %d day."
+msgid_plural "Shares of the last %d days."
+msgstr[0] "Compartidos del último %d día."
+msgstr[1] "Compartidos de los últimos %d días."
+
+#: includes/Admin/Page.php:491
+msgid "Date"
+msgstr "Fecha"
+
+#: includes/Admin/Page.php:491
+msgid "Item"
+msgstr "Elemento"
+
+#: includes/Admin/Page.php:491
+msgid "Result"
+msgstr "Resultado"
+
+#: includes/Admin/Page.php:507
+msgid "Nothing shared yet."
+msgstr "Todavía no se ha compartido nada."
+
+#: includes/Admin/Page.php:516
+msgid "Clear history"
+msgstr "Borrar historial"
+
+#: includes/Admin/Page.php:516
+msgid "Clear the history for the dates you choose, or all of it? What was already shared stays on your social accounts. Cleared items no longer show in this list."
+msgstr "¿Borrar el historial de las fechas que elijas, o todo? Lo que ya se compartió permanece en tus redes sociales. Los elementos borrados dejan de aparecer en esta lista."
+
+#: includes/Admin/Page.php:518
+msgid "From"
+msgstr "Desde"
+
+#: includes/Admin/Page.php:520
+msgid "To"
+msgstr "Hasta"
+
+#: includes/Admin/Page.php:523
+msgid "Leave the date empty to start at the first item or end today."
+msgstr "Deja la fecha vacía para empezar en el primer elemento o terminar hoy."
+
+#: includes/Admin/Page.php:524
+msgid "Clear these dates"
+msgstr "Borrar estas fechas"
+
+#: includes/Admin/Page.php:524
+msgid "Clear all history"
+msgstr "Borrar todo el historial"
+
+#: includes/Admin/Page.php:534 includes/Admin/Page.php:534
+msgid "Day"
+msgstr "Día"
+
+#: includes/Admin/Page.php:538 includes/Admin/Page.php:538
+msgid "Month"
+msgstr "Mes"
+
+#: includes/Admin/Page.php:542 includes/Admin/Page.php:542
+msgid "Year"
+msgstr "Año"
+
+#: includes/Admin/Page.php:559 includes/Admin/Page.php:670
+msgid "Plan"
+msgstr "Plan"
+
+#: includes/Admin/Page.php:560
+msgid "License key"
+msgstr "Clave de licencia"
+
+#: includes/Admin/Page.php:561
+msgid "Shared today"
+msgstr "Compartidos hoy"
+
+#. translators: 1: items used, 2: daily limit
+#: includes/Admin/Page.php:564 includes/Admin/Page.php:566
+#, php-format
+msgid "%1$d of %2$d items"
+msgstr "%1$d de %2$d elementos"
+
+#: includes/Admin/Page.php:569
+msgid "This site"
+msgstr "Este sitio"
+
+#: includes/Admin/Page.php:574
+msgid "Disconnect this site"
+msgstr "Desconectar este sitio"
+
+#: includes/Admin/Page.php:574
+msgid "Disconnect this site from SmokyPost? Sharing stops until you sign in again."
+msgstr "¿Desconectar este sitio de SmokyPost? Se detiene el uso compartido hasta que inicies sesión de nuevo."
+
+#: includes/Admin/Page.php:576
+msgid "Yes, disconnect"
+msgstr "Sí, desconectar"
+
+#: includes/Admin/Page.php:585
+msgid "How Pro works"
+msgstr "Cómo funciona Pro"
+
+#: includes/Admin/Page.php:586
+msgid "Pay securely through Paddle."
+msgstr "Paga de forma segura con Paddle."
+
+#: includes/Admin/Page.php:587
+msgid "Download SmokyPost Pro with the button below."
+msgstr "Descarga SmokyPost Pro con el botón de abajo."
+
+#: includes/Admin/Page.php:587
+msgid "Come back to this page. A \"Download SmokyPost Pro\" button appears, and we e-mail you the same link."
+msgstr "Vuelve a esta página. Aparece un botón «Descargar SmokyPost Pro» y te enviamos el mismo enlace por correo electrónico."
+
+#: includes/Admin/Page.php:588
+msgid "Install it under Plugins > Add New > Upload Plugin and activate it. Your license is picked up automatically, there is no key to enter."
+msgstr "Instálalo en Plugins > Añadir nuevo > Subir plugin y actívalo. Tu licencia se reconoce automáticamente, no hay que introducir ninguna clave."
+
+#: includes/Admin/Page.php:589
+msgid "SmokyPost Pro is a second plugin that works together with SmokyPost: keep both active. It takes about a minute. Full refund within 14 days of your first payment."
+msgstr "SmokyPost Pro es un segundo plugin que funciona junto con SmokyPost: mantén ambos activos. Tarda aproximadamente un minuto. Reembolso completo dentro de los 14 días posteriores a tu primer pago."
+
+#: includes/Admin/Page.php:603
+msgid "Your payment is taking longer than usual to show here. Reload this page in a few minutes. If your plan is still Free after an hour, write to info@smokypost.com."
+msgstr "Tu pago tarda más de lo habitual en aparecer aquí. Recarga esta página en unos minutos. Si tu plan sigue siendo Free pasada una hora, escribe a info@smokypost.com."
+
+#: includes/Admin/Page.php:607
+msgid "Payment received. Your plan will be active in a moment, this page checks again by itself."
+msgstr "Pago recibido. Tu plan estará activo en un momento, esta página vuelve a comprobarlo sola."
+
+#: includes/Admin/Page.php:619
+msgid "SmokyPost Pro"
+msgstr "SmokyPost Pro"
+
+#. translators: %s: version number
+#: includes/Admin/Page.php:622
+#, php-format
+msgid "SmokyPost Pro %s is installed and active."
+msgstr "SmokyPost Pro %s está instalado y activo."
+
+#: includes/Admin/Page.php:623
+msgid "Its settings are under SmokyPost > Pro, the calendar under SmokyPost > Calendar. It updates itself."
+msgstr "Sus ajustes están en SmokyPost > Pro y el calendario en SmokyPost > Calendario. Se actualiza solo."
+
+#: includes/Admin/Page.php:630
+msgid "SmokyPost Pro is installed but not active. Activate it on the Plugins page."
+msgstr "SmokyPost Pro está instalado pero no activo. Actívalo en la página de Plugins."
+
+#: includes/Admin/Page.php:630
+msgid "Open Plugins"
+msgstr "Abrir Plugins"
+
+#: includes/Admin/Page.php:635
+msgid "Download SmokyPost Pro"
+msgstr "Descargar SmokyPost Pro"
+
+#: includes/Admin/Page.php:636
+msgid "The link works for an hour. You can come back here and get a new one any time."
+msgstr "El enlace funciona durante una hora. Puedes volver aquí en cualquier momento para obtener uno nuevo."
+
+#: includes/Admin/Page.php:646 includes/Admin/Page.php:1266 includes/Api.php:127
+msgid "Something went wrong. Please try again."
+msgstr "Algo salió mal. Inténtalo de nuevo."
+
+#: includes/Admin/Page.php:665
+msgid "Plans"
+msgstr "Planes"
+
+#: includes/Admin/Page.php:670
+msgid "Sites"
+msgstr "Sitios"
+
+#: includes/Admin/Page.php:670
+msgid "Items per day"
+msgstr "Elementos por día"
+
+#: includes/Admin/Page.php:670
+msgid "Price"
+msgstr "Precio"
+
+#. translators: %s: price, for example $39
+#: includes/Admin/Page.php:678
+#, php-format
+msgid "%s per year"
+msgstr "%s al año"
+
+#: includes/Admin/Page.php:680
+msgid "Current plan"
+msgstr "Plan actual"
+
+#: includes/Admin/Page.php:683
+msgid "Switch to this plan"
+msgstr "Cambiar a este plan"
+
+#: includes/Admin/Page.php:683
+msgid "Upgrade"
+msgstr "Mejorar plan"
+
+#: includes/Admin/Page.php:688
+msgid "Payments are handled securely by Paddle. Prices are in US dollars, taxes are added at checkout where they apply."
+msgstr "Los pagos los gestiona Paddle de forma segura. Los precios están en dólares estadounidenses; los impuestos se añaden al pagar donde correspondan."
+
+#: includes/Admin/Page.php:690
+msgid "A plan change applies right away. You will see the exact amount and confirm it before anything is charged."
+msgstr "El cambio de plan se aplica de inmediato. Verás el importe exacto y lo confirmarás antes de que se cobre nada."
+
+#: includes/Admin/Page.php:692 includes/Admin/Page.php:776
+msgid "Manage subscription"
+msgstr "Gestionar suscripción"
+
+#: includes/Admin/Page.php:703
+msgid "Cancel and refund"
+msgstr "Cancelar y reembolsar"
+
+#: includes/Admin/Page.php:705
+msgid "Refunds are available within 14 days of your first payment. You can stop the renewal at any time from Manage subscription."
+msgstr "Hay reembolsos disponibles dentro de los 14 días posteriores a tu primer pago. Puedes detener la renovación en cualquier momento desde «Gestionar suscripción»."
+
+#: includes/Admin/Page.php:706 includes/Admin/Page.php:717
+msgid "Questions about a payment? Write to info@smokypost.com."
+msgstr "¿Preguntas sobre un pago? Escribe a info@smokypost.com."
+
+#. translators: %s: date
+#: includes/Admin/Page.php:712
+#, php-format
+msgid "You can cancel and get a full refund until %s."
+msgstr "Puedes cancelar y obtener un reembolso completo hasta el %s."
+
+#: includes/Admin/Page.php:714
+msgid "Cancel and get a refund"
+msgstr "Cancelar y obtener un reembolso"
+
+#: includes/Admin/Page.php:714
+msgid "Cancel your subscription and get a full refund? Everything you paid is returned to the card you paid with. Nothing is deducted for the days you used. Your plan ends right away and this site goes back to Free."
+msgstr "¿Cancelar tu suscripción y obtener un reembolso completo? Todo lo que pagaste se devuelve a la tarjeta con la que pagaste. No se descuenta nada por los días usados. Tu plan termina de inmediato y este sitio vuelve a Free."
+
+#: includes/Admin/Page.php:716
+msgid "Yes, cancel and refund"
+msgstr "Sí, cancelar y reembolsar"
+
+#: includes/Admin/Page.php:730 includes/Admin/Page.php:814
+msgid "Starter"
+msgstr "Starter"
+
+#: includes/Admin/Page.php:731 includes/Admin/Page.php:815
+msgid "Pro"
+msgstr "Pro"
+
+#: includes/Admin/Page.php:732 includes/Admin/Page.php:816
+msgid "Agency"
+msgstr "Agency"
+
+#. translators: %s: plan name
+#: includes/Admin/Page.php:741
+#, php-format
+msgid "Switch to the %s plan"
+msgstr "Cambiar al plan %s"
+
+#. translators: 1: amount, for example $30.00, 2: card, for example Visa ending in 4242
+#: includes/Admin/Page.php:747
+#, php-format
+msgid "You will be charged %1$s today on the card you paid with (%2$s)."
+msgstr "Hoy se te cobrarán %1$s en la tarjeta con la que pagaste (%2$s)."
+
+#. translators: %s: amount, for example $30.00
+#: includes/Admin/Page.php:750
+#, php-format
+msgid "You will be charged %s today on the card you paid with."
+msgstr "Hoy se te cobrarán %s en la tarjeta con la que pagaste."
+
+#. translators: %s: date
+#: includes/Admin/Page.php:755
+#, php-format
+msgid "Your next renewal stays on %s."
+msgstr "Tu próxima renovación sigue siendo el %s."
+
+#: includes/Admin/Page.php:758
+msgid "Nothing is charged today."
+msgstr "Hoy no se cobra nada."
+
+#. translators: %s: date
+#: includes/Admin/Page.php:762
+#, php-format
+msgid "The price difference is credited at your next renewal on %s."
+msgstr "La diferencia de precio se abona en tu próxima renovación del %s."
+
+#: includes/Admin/Page.php:764
+msgid "The price difference is credited at your next renewal."
+msgstr "La diferencia de precio se abona en tu próxima renovación."
+
+#: includes/Admin/Page.php:767
+msgid "Shall we continue?"
+msgstr "¿Continuamos?"
+
+#. translators: %s: amount, for example $30.00
+#: includes/Admin/Page.php:770
+#, php-format
+msgid "Yes, charge %s"
+msgstr "Sí, cobrar %s"
+
+#: includes/Admin/Page.php:770
+msgid "Yes, switch plan"
+msgstr "Sí, cambiar de plan"
+
+#: includes/Admin/Page.php:774
+msgid "Want to pay with another card? Open Manage subscription, update your payment method, then switch plans again."
+msgstr "¿Quieres pagar con otra tarjeta? Abre «Gestionar suscripción», actualiza tu método de pago y luego vuelve a cambiar de plan."
+
+#. translators: %s: last four digits of a card
+#: includes/Admin/Page.php:802
+#, php-format
+msgid "ending in %s"
+msgstr "terminada en %s"
+
+#. translators: 1: card brand, for example Visa, 2: last four digits
+#: includes/Admin/Page.php:805
+#, php-format
+msgid "%1$s ending in %2$s"
+msgstr "%1$s terminada en %2$s"
+
+#: includes/Admin/Page.php:813
+msgid "Free"
+msgstr "Free"
+
+#: includes/Admin/Page.php:831
+msgid "Sharing is paused until you confirm your e-mail address."
+msgstr "El uso compartido está en pausa hasta que confirmes tu correo electrónico."
+
+#. translators: %d: days left
+#: includes/Admin/Page.php:833
+#, php-format
+msgid "Please confirm your e-mail address. Sharing pauses in %d day if you do not."
+msgid_plural "Please confirm your e-mail address. Sharing pauses in %d days if you do not."
+msgstr[0] "Confirma tu correo electrónico. El uso compartido se pausará en %d día si no lo haces."
+msgstr[1] "Confirma tu correo electrónico. El uso compartido se pausará en %d días si no lo haces."
+
+#: includes/Admin/Page.php:836
+msgid "Send the link again"
+msgstr "Enviar el enlace de nuevo"
+
+#: includes/Admin/Page.php:869
+msgid "Bluesky handle"
+msgstr "Identificador de Bluesky"
+
+#: includes/Admin/Page.php:870
+msgid "App password"
+msgstr "Contraseña de aplicación"
+
+#: includes/Admin/Page.php:871
+msgid "Use an app password, not your main Bluesky password. It can only be used by apps like this one and you can delete it in Bluesky at any time."
+msgstr "Usa una contraseña de aplicación, no tu contraseña principal de Bluesky. Solo pueden usarla aplicaciones como esta y puedes eliminarla en Bluesky cuando quieras."
+
+#: includes/Admin/Page.php:872
+msgid "How do I get an app password?"
+msgstr "¿Cómo obtengo una contraseña de aplicación?"
+
+#. translators: %s: link to the Bluesky app password page
+#: includes/Admin/Page.php:873
+#, php-format
+msgid "Open %s (or Settings > Privacy and security > App passwords in Bluesky)."
+msgstr "Abre %s (o, en Bluesky, Ajustes > Privacidad y seguridad > Contraseñas de aplicación)."
+
+#: includes/Admin/Page.php:874
+msgid "Click \"Add App Password\" and name it SmokyPost."
+msgstr "Haz clic en «Add App Password» y ponle el nombre SmokyPost."
+
+#: includes/Admin/Page.php:875
+msgid "Copy the password Bluesky shows and paste it here."
+msgstr "Copia la contraseña que muestra Bluesky y pégala aquí."
+
+#: includes/Admin/Page.php:881
+msgid "Your Mastodon server"
+msgstr "Tu servidor de Mastodon"
+
+#: includes/Admin/Page.php:882
+msgid "The address of the server your account is on, for example mastodon.social, or your full name like @name@mastodon.social. You will approve SmokyPost on that server."
+msgstr "La dirección del servidor en el que está tu cuenta, por ejemplo mastodon.social, o tu nombre completo como @nombre@mastodon.social. Autorizarás SmokyPost en ese servidor."
+
+#: includes/Admin/Page.php:921
+msgid "Signed in. Now choose the account this site shares to."
+msgstr "Sesión iniciada. Ahora elige la cuenta en la que comparte este sitio."
+
+#: includes/Admin/Page.php:923
+msgid "The sign-in was cancelled."
+msgstr "Se canceló el inicio de sesión."
+
+#: includes/Admin/Page.php:924
+msgid "The sign-in did not work. Please try again."
+msgstr "El inicio de sesión no funcionó. Inténtalo de nuevo."
+
+#: includes/Admin/Page.php:940
+msgid "Good to know:"
+msgstr "Conviene saber:"
+
+#: includes/Admin/Page.php:940
+msgid "SmokyPost shares new posts automatically when they are published, including posts created by other plugins, importers or the REST API. You can turn automatic sharing on or off for each platform on its card below or under Settings."
+msgstr "SmokyPost comparte automáticamente las entradas nuevas al publicarse, incluidas las creadas por otros plugins, importadores o la API REST. Puedes activar o desactivar el uso compartido automático para cada plataforma en su tarjeta de abajo o en Ajustes."
+
+#: includes/Admin/Page.php:942
+msgid "Got it"
+msgstr "Entendido"
+
+#: includes/Admin/Page.php:942
+msgid "Open settings"
+msgstr "Abrir ajustes"
+
+#: includes/Admin/Page.php:954
+msgid "SmokyPost is almost ready."
+msgstr "SmokyPost está casi listo."
+
+#: includes/Admin/Page.php:954
+msgid "Connect this site"
+msgstr "Conectar este sitio"
+
+#: includes/Admin/Page.php:967
+msgid "You are not allowed to do this."
+msgstr "No tienes permiso para hacer esto."
+
+#: includes/Admin/Page.php:1013 includes/Admin/Page.php:1081
+msgid "Please enter a valid e-mail address."
+msgstr "Introduce una dirección de correo electrónico válida."
+
+#: includes/Admin/Page.php:1015
+msgid "Please enter your password."
+msgstr "Introduce tu contraseña."
+
+#: includes/Admin/Page.php:1017
+msgid "Please use a password with at least 8 characters."
+msgstr "Usa una contraseña de al menos 8 caracteres."
+
+#: includes/Admin/Page.php:1019
+msgid "Please accept the Terms of Service and the Privacy Policy."
+msgstr "Acepta los Términos del servicio y la Política de privacidad."
+
+#: includes/Admin/Page.php:1042
+msgid "Your account is ready and this site is connected. We sent you an e-mail to confirm your address."
+msgstr "Tu cuenta está lista y este sitio está conectado. Te enviamos un correo para confirmar tu dirección."
+
+#: includes/Admin/Page.php:1058
+msgid "Signed in. This site is connected."
+msgstr "Sesión iniciada. Este sitio está conectado."
+
+#: includes/Admin/Page.php:1064
+msgid "Please enter your license key."
+msgstr "Introduce tu clave de licencia."
+
+#: includes/Admin/Page.php:1075
+msgid "License activated. This site is connected."
+msgstr "Licencia activada. Este sitio está conectado."
+
+#: includes/Admin/Page.php:1084
+msgid "If an account exists for this address, we sent a link to reset the password."
+msgstr "Si existe una cuenta con esta dirección, hemos enviado un enlace para restablecer la contraseña."
+
+#: includes/Admin/Page.php:1092
+msgid "This site is disconnected from SmokyPost."
+msgstr "Este sitio está desconectado de SmokyPost."
+
+#: includes/Admin/Page.php:1117
+msgid "Please choose valid dates."
+msgstr "Elige fechas válidas."
+
+#: includes/Admin/Page.php:1121
+msgid "The first date must be before the last date."
+msgstr "La primera fecha debe ser anterior a la última."
+
+#. translators: %d: number of items
+#: includes/Admin/Page.php:1135
+#, php-format
+msgid "Cleared %d item from the history."
+msgid_plural "Cleared %d items from the history."
+msgstr[0] "Se borró %d elemento del historial."
+msgstr[1] "Se borraron %d elementos del historial."
+
+#: includes/Admin/Page.php:1135
+msgid "There was nothing to clear. Items that are still being sent stay in the list."
+msgstr "No había nada que borrar. Los elementos que aún se están enviando permanecen en la lista."
+
+#: includes/Admin/Page.php:1143
+msgid "We sent the confirmation link again."
+msgstr "Hemos vuelto a enviar el enlace de confirmación."
+
+#: includes/Admin/Page.php:1193
+msgid "Connected. Now choose the account this site shares to."
+msgstr "Conectado. Ahora elige la cuenta en la que comparte este sitio."
+
+#: includes/Admin/Page.php:1228
+msgid "That plan change has expired. Please choose the plan again."
+msgstr "Ese cambio de plan ha caducado. Elige el plan de nuevo."
+
+#: includes/Admin/Page.php:1240
+msgid "Your plan is being changed. It can take a minute to show here."
+msgstr "Tu plan se está cambiando. Puede tardar un minuto en aparecer aquí."
+
+#: includes/Admin/Page.php:1257
+msgid "Your refund has been requested and your subscription is cancelled. Paddle returns the money to the card you paid with; it can take a few days to show."
+msgstr "Se ha solicitado tu reembolso y se ha cancelado tu suscripción. Paddle devuelve el dinero a la tarjeta con la que pagaste; puede tardar unos días en reflejarse."
+
+#. translators: 1: page name, 2: platform name
+#: includes/Admin/Page.php:1279
+#, php-format
+msgid "%1$s is now connected to %2$s."
+msgstr "%1$s está ahora conectado a %2$s."
+
+#: includes/Admin/Page.php:1295 includes/Admin/Page.php:1305
+msgid "Settings saved."
+msgstr "Ajustes guardados."
+
+#: includes/Admin/Page.php:1313
+msgid "SmokyPost test e-mail"
+msgstr "Correo de prueba de SmokyPost"
+
+#: includes/Admin/Page.php:1314
+msgid "This is a test e-mail from SmokyPost. If you can read it, e-mails from SmokyPost reach you."
+msgstr "Este es un correo de prueba de SmokyPost. Si puedes leerlo, los correos de SmokyPost te llegan."
+
+#. translators: %s: e-mail addresses
+#: includes/Admin/Page.php:1318
+#, php-format
+msgid "The test e-mail was sent to %s. Check your inbox and spam folder."
+msgstr "El correo de prueba se envió a %s. Revisa tu bandeja de entrada y la carpeta de spam."
+
+#. translators: %s: error from the mail server
+#: includes/Admin/Page.php:1325
+#, php-format
+msgid "The test e-mail could not be sent: %s Check the server, port and encryption."
+msgstr "No se pudo enviar el correo de prueba: %s Revisa el servidor, el puerto y el cifrado."
+
+#: includes/Admin/Page.php:1326
+msgid "The test e-mail could not be sent. Check the server, port and encryption."
+msgstr "No se pudo enviar el correo de prueba. Revisa el servidor, el puerto y el cifrado."
+
+#. translators: %s: platform name
+#: includes/Admin/Page.php:1341
+#, php-format
+msgid "Automatic sharing to %s is on."
+msgstr "El uso compartido automático en %s está activado."
+
+#. translators: %s: platform name
+#: includes/Admin/Page.php:1343
+#, php-format
+msgid "Automatic sharing to %s is off."
+msgstr "El uso compartido automático en %s está desactivado."
+
+#: includes/Admin/PostList.php:59 includes/Status.php:60
+msgid "Not shared"
+msgstr "No compartido"
+
+#: includes/Admin/PostList.php:100 includes/Admin/PostList.php:113
+msgid "Share with SmokyPost"
+msgstr "Compartir con SmokyPost"
+
+#. translators: %d: number of items
+#: includes/Admin/PostList.php:154
+#, php-format
+msgid "%d item queued for sharing."
+msgid_plural "%d items queued for sharing."
+msgstr[0] "%d elemento en cola para compartir."
+msgstr[1] "%d elementos en cola para compartir."
+
+#. translators: %d: number of items
+#: includes/Admin/PostList.php:157
+#, php-format
+msgid "%d item could not be shared; see the SmokyPost column."
+msgid_plural "%d items could not be shared; see the SmokyPost column."
+msgstr[0] "%d elemento no se pudo compartir; consulta la columna de SmokyPost."
+msgstr[1] "%d elementos no se pudieron compartir; consulta la columna de SmokyPost."
+
+#: includes/Api.php:85
+msgid "This site is not connected to SmokyPost yet."
+msgstr "Este sitio aún no está conectado a SmokyPost."
+
+#: includes/Editor.php:117 includes/Editor.php:124
+msgid "Image to share"
+msgstr "Imagen para compartir"
+
+#: includes/Editor.php:118
+msgid "Chosen for sharing"
+msgstr "Elegida para compartir"
+
+#: includes/Editor.php:119
+msgid "Choose another image"
+msgstr "Elegir otra imagen"
+
+#: includes/Editor.php:120
+msgid "Choose an image"
+msgstr "Elegir una imagen"
+
+#: includes/Editor.php:121
+msgid "Use the automatic choice"
+msgstr "Usar la elección automática"
+
+#: includes/Editor.php:122
+msgid "Images in this item:"
+msgstr "Imágenes de este elemento:"
+
+#: includes/Editor.php:123
+msgid "Use this image"
+msgstr "Usar esta imagen"
+
+#: includes/Editor.php:125
+msgid "Updating this item does not share it again. Click \"Share now\" to share it."
+msgstr "Actualizar este elemento no lo comparte de nuevo. Haz clic en «Compartir ahora» para compartirlo."
+
+#: includes/Editor.php:126
+msgid "Featured image"
+msgstr "Imagen destacada"
+
+#: includes/Editor.php:127
+msgid "First image in the content (this item has no featured image)"
+msgstr "Primera imagen del contenido (este elemento no tiene imagen destacada)"
+
+#: includes/Editor.php:128
+msgid "Default image from the SmokyPost settings (this item has no image)"
+msgstr "Imagen predeterminada de los ajustes de SmokyPost (este elemento no tiene imagen)"
+
+#: includes/Editor.php:130
+msgid "Instagram needs an image, and this item has none. Add a featured image or an image in the content, otherwise it is not shared to Instagram."
+msgstr "Instagram necesita una imagen y este elemento no tiene ninguna. Añade una imagen destacada o una imagen en el contenido; de lo contrario no se compartirá en Instagram."
+
+#: includes/Editor.php:135
+msgid "Share at (optional)"
+msgstr "Compartir el (opcional)"
+
+#. translators: 1: example date and time, 2: time zone name
+#: includes/Editor.php:137
+#, php-format
+msgid "Format: %1$s, in your site time (%2$s). Leave empty to share right away."
+msgstr "Formato: %1$s, en la hora de tu sitio (%2$s). Déjalo vacío para compartir de inmediato."
+
+#: includes/Editor.php:138
+msgid "This is not a valid date and time. Use the format YYYY-MM-DD HH:MM, for example 2026-12-31 18:30."
+msgstr "Esa fecha y hora no son válidas. Usa el formato AAAA-MM-DD HH:MM, por ejemplo 2026-12-31 18:30."
+
+#: includes/Editor.php:139
+msgid "Schedule"
+msgstr "Programar"
+
+#: includes/Editor.php:140
+msgid "Cancel the scheduled share"
+msgstr "Cancelar el uso compartido programado"
+
+#: includes/Editor.php:147 includes/Editor.php:478
+msgid "Delete shared posts"
+msgstr "Eliminar publicaciones compartidas"
+
+#: includes/Editor.php:148 includes/Editor.php:480
+msgid "Yes, delete"
+msgstr "Sí, eliminar"
+
+#: includes/Editor.php:266
+msgid "Save the item to apply the change."
+msgstr "Guarda el elemento para aplicar el cambio."
+
+#: includes/Editor.php:352 includes/Editor.php:415 includes/Editor.php:530
+msgid "You are not allowed to share this item."
+msgstr "No tienes permiso para compartir este elemento."
+
+#: includes/Editor.php:378
+msgid "Nothing to share: choose at least one connected platform."
+msgstr "Nada que compartir: elige al menos una plataforma conectada."
+
+#: includes/Editor.php:383
+msgid "Sending… You can leave this page, sharing continues in the background."
+msgstr "Enviando… Puedes salir de esta página, el uso compartido continúa en segundo plano."
+
+#. translators: %s: date and time
+#: includes/Editor.php:388
+#, php-format
+msgid "Scheduled for %s. You can leave this page."
+msgstr "Programado para el %s. Puedes salir de esta página."
+
+#: includes/Editor.php:419
+msgid "Nothing is scheduled for this item."
+msgstr "No hay nada programado para este elemento."
+
+#: includes/Editor.php:437
+msgid "The scheduled share is cancelled."
+msgstr "Se canceló el uso compartido programado."
+
+#: includes/Editor.php:437
+msgid "Nothing to cancel: it was already sent."
+msgstr "Nada que cancelar: ya se envió."
+
+#. translators: %s: platform names, for example "Facebook, Bluesky"
+#: includes/Editor.php:456
+#, php-format
+msgid "Delete the shared posts from %s? The item itself stays on your site."
+msgstr "¿Eliminar las publicaciones compartidas en %s? El elemento en sí permanece en tu sitio."
+
+#. translators: %s: platform names, for example "Instagram"
+#: includes/Editor.php:459 includes/Editor.php:511
+#, php-format
+msgid "Posts on %s cannot be deleted from here. Delete them in the app yourself."
+msgstr "Las publicaciones en %s no se pueden eliminar desde aquí. Elimínalas tú mismo en la aplicación."
+
+#: includes/Editor.php:493
+msgid "You are not allowed to change this item."
+msgstr "No tienes permiso para cambiar este elemento."
+
+#: includes/Editor.php:499
+msgid "There is nothing to delete for this item."
+msgstr "No hay nada que eliminar para este elemento."
+
+#: includes/Editor.php:508
+msgid "Deleting… You can leave this page, it continues in the background."
+msgstr "Eliminando… Puedes salir de esta página, continúa en segundo plano."
+
+#: includes/Editor.php:550
+msgid "Finished, but something failed. See below."
+msgstr "Terminado, pero algo falló. Mira abajo."
+
+#: includes/Editor.php:550
+msgid "Done."
+msgstr "Hecho."
+
+#. translators: %s: platform name
+#: includes/Notifier.php:87
+#, php-format
+msgid "Connect %s again"
+msgstr "Vuelve a conectar %s"
+
+#. translators: 1: platform name, 2: link
+#: includes/Notifier.php:89
+#, php-format
+msgid "The connection to %1$s has expired, so new items cannot be shared there. Connect it again: %2$s"
+msgstr "La conexión con %1$s ha caducado, así que no se pueden compartir contenidos nuevos allí. Vuelve a conectarla: %2$s"
+
+#. translators: %s: item title
+#: includes/Notifier.php:102
+#, php-format
+msgid "Could not share: %s"
+msgstr "No se pudo compartir: %s"
+
+#. translators: %s: item title
+#: includes/Notifier.php:104
+#, php-format
+msgid "\"%s\" could not be shared everywhere:"
+msgstr "«%s» no se pudo compartir en todas partes:"
+
+#. translators: %s: item title
+#: includes/Notifier.php:108
+#, php-format
+msgid "Shared: %s"
+msgstr "Compartido: %s"
+
+#. translators: %s: item title
+#: includes/Notifier.php:110
+#, php-format
+msgid "\"%s\" was shared:"
+msgstr "«%s» se compartió:"
+
+#: includes/Notifier.php:124
+msgid "SmokyPost: daily limit reached"
+msgstr "SmokyPost: límite diario alcanzado"
+
+#: includes/Notifier.php:125
+msgid "The daily limit of your plan is reached. The remaining items are shared after midnight."
+msgstr "Se alcanzó el límite diario de tu plan. Los contenidos restantes se comparten después de medianoche."
+
+#. translators: %s: link
+#: includes/Notifier.php:175
+#, php-format
+msgid "Open the item: %s"
+msgstr "Abrir el contenido: %s"
+
+#. translators: %s: link
+#: includes/Notifier.php:177
+#, php-format
+msgid "History: %s"
+msgstr "Historial: %s"
+
+#. translators: 1: site name, 2: link
+#: includes/Notifier.php:224
+#, php-format
+msgid "You get this e-mail because SmokyPost notifications are on for %1$s. Change who gets them, or turn them off, here: %2$s"
+msgstr "Recibes este correo porque las notificaciones de SmokyPost están activadas en %1$s. Cambia quién las recibe o desactívalas aquí: %2$s"
+
+#: includes/Sharer.php:55
+msgid "Every 5 minutes (SmokyPost)"
+msgstr "Cada 5 minutos (SmokyPost)"
+
+#: includes/Sharer.php:494
+msgid "Not shared to Instagram: Instagram needs an image, and this item has none. Add a featured image or an image in the content."
+msgstr "No se compartió en Instagram: Instagram necesita una imagen y este elemento no tiene ninguna. Añade una imagen destacada o una imagen en el contenido."
+
+#: includes/Status.php:60
+msgid "Not shared: needs an image"
+msgstr "No compartido: necesita una imagen"
+
+#: includes/Status.php:74
+msgid "Shared (delete it in the app yourself)"
+msgstr "Compartido (elimínalo tú mismo en la aplicación)"
+
+#: includes/Status.php:74
+msgid "Shared"
+msgstr "Compartido"
+
+#. translators: %s: reason
+#: includes/Status.php:76
+#, php-format
+msgid "Failed: %s"
+msgstr "Error: %s"
+
+#: includes/Status.php:76
+msgid "Failed"
+msgstr "Error"
+
+#: includes/Status.php:78
+msgid "Cancelled"
+msgstr "Cancelado"
+
+#: includes/Status.php:81
+msgid "Removing…"
+msgstr "Quitando…"
+
+#: includes/Status.php:83
+msgid "Removed"
+msgstr "Quitado"
+
+#. translators: %s: reason
+#: includes/Status.php:85
+#, php-format
+msgid "Could not be removed: %s"
+msgstr "No se pudo quitar: %s"
+
+#: includes/Status.php:85
+msgid "Could not be removed"
+msgstr "No se pudo quitar"
+
+#: includes/Status.php:90
+msgid "Waiting: daily limit reached, shares after midnight"
+msgstr "En espera: límite diario alcanzado, se comparte después de medianoche"
+
+#: includes/Status.php:93
+msgid "Waiting: please confirm your e-mail address"
+msgstr "En espera: confirma tu correo electrónico"
+
+#. translators: %s: date and time
+#: includes/Status.php:98
+#, php-format
+msgid "Scheduled for %s"
+msgstr "Programado para el %s"
+
+#: includes/Status.php:102
+msgid "Retrying soon"
+msgstr "Reintento en breve"
+
+#: includes/Status.php:102
+msgid "Queued"
+msgstr "En cola"
+
+#: includes/Status.php:114 includes/Status.php:115 includes/Status.php:116
+msgid "The connection has expired. Connect again in SmokyPost."
+msgstr "La conexión ha caducado. Vuelve a conectar en SmokyPost."
+
+#: includes/Status.php:117
+msgid "No page or account is selected for this platform."
+msgstr "No hay ninguna página o cuenta seleccionada para esta plataforma."
+
+#: includes/Status.php:118
+msgid "This site is no longer connected to SmokyPost."
+msgstr "Este sitio ya no está conectado a SmokyPost."
+
+#: includes/Status.php:119
+msgid "Your SmokyPost account or license is not active."
+msgstr "Tu cuenta o licencia de SmokyPost no está activa."
+
+#: includes/Status.php:120
+msgid "This platform is not included in your plan."
+msgstr "Esta plataforma no está incluida en tu plan."
+
+#: includes/Status.php:121
+msgid "The platform did not allow the post. Check that you are still an admin of the page and connect again."
+msgstr "La plataforma no permitió la publicación. Comprueba que sigues siendo administrador de la página y vuelve a conectar."
+
+#: includes/Status.php:122
+msgid "The platform blocked this post."
+msgstr "La plataforma bloqueó esta publicación."
+
+#: includes/Status.php:123
+msgid "The platform rejected this post as a duplicate."
+msgstr "La plataforma rechazó esta publicación por duplicada."
+
+#: includes/Status.php:124
+msgid "Instagram needs an image. Add a featured image."
+msgstr "Instagram necesita una imagen. Añade una imagen destacada."
+
+#: includes/Status.php:125
+msgid "The platform could not use the image. Try a JPEG or PNG image at least 600 pixels wide."
+msgstr "La plataforma no pudo usar la imagen. Prueba con una imagen JPEG o PNG de al menos 600 píxeles de ancho."
+
+#: includes/Status.php:126
+msgid "The image could not be read. Use a JPEG, PNG or WebP image."
+msgstr "No se pudo leer la imagen. Usa una imagen JPEG, PNG o WebP."
+
+#: includes/Status.php:127
+msgid "The image is too small. Use an image at least 600 pixels wide."
+msgstr "La imagen es demasiado pequeña. Usa una imagen de al menos 600 píxeles de ancho."
+
+#: includes/Status.php:128
+msgid "SmokyPost could not download the image from your site."
+msgstr "SmokyPost no pudo descargar la imagen desde tu sitio."
+
+#: includes/Status.php:129
+msgid "The image could not be prepared."
+msgstr "No se pudo preparar la imagen."
+
+#: includes/Status.php:130
+msgid "The platform was not available. SmokyPost tried several times."
+msgstr "La plataforma no estaba disponible. SmokyPost lo intentó varias veces."
+
+#: includes/Status.php:131
+msgid "The platform could not be reached. SmokyPost tried several times."
+msgstr "No se pudo conectar con la plataforma. SmokyPost lo intentó varias veces."
+
+#: includes/Status.php:132
+msgid "Instagram did not accept the image in time."
+msgstr "Instagram no aceptó la imagen a tiempo."
+
+#: includes/Status.php:133
+msgid "The platform rejected the post."
+msgstr "La plataforma rechazó la publicación."
+
+#: includes/Status.php:134
+msgid "The account that published this post is no longer connected. Delete the post on the platform yourself."
+msgstr "La cuenta que publicó esto ya no está conectada. Elimina la publicación tú mismo en la plataforma."
+
+#: includes/Status.php:135
+msgid "This post cannot be deleted automatically. Delete it on the platform yourself."
+msgstr "Esta publicación no se puede eliminar automáticamente. Elimínala tú mismo en la plataforma."
+
+#. Name of the plugin
+#: smokypost.php:3
+msgid "SmokyPost – Social Auto Share for Posts and Pages"
+msgstr "SmokyPost – Compartir automáticamente en redes sociales entradas y páginas"
+
+#. Description of the plugin
+#: smokypost.php:5
+msgid "Automatically share new and old posts and pages to your social media accounts. No developer accounts or API keys needed."
+msgstr "Comparte automáticamente entradas y páginas nuevas y antiguas en tus cuentas de redes sociales. No se necesitan cuentas de desarrollador ni claves de API."

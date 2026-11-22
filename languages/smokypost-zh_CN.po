@@ -1,0 +1,1424 @@
+# Copyright (C) 2026 SmokySystems
+# This file is distributed under the GPL-2.0-or-later.
+msgid ""
+msgstr ""
+"Project-Id-Version: SmokyPost\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Domain: smokypost\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: assets/js/editor.js:159 includes/Editor.php:199
+msgid "Connect your pages to share this item."
+msgstr "请连接您的主页，以分享此内容。"
+
+#: assets/js/editor.js:160 includes/Editor.php:199
+msgid "Open SmokyPost"
+msgstr "打开 SmokyPost"
+
+#: assets/js/editor.js:178 includes/Admin/Page.php:76
+msgid "Still sending. Check the History tab in a few minutes."
+msgstr "仍在发送中。请几分钟后查看“历史记录”选项卡。"
+
+#: assets/js/editor.js:238 assets/js/editor.js:261 assets/js/editor.js:288 includes/Api.php:106
+msgid "SmokyPost could not be reached. Please try again in a few minutes."
+msgstr "无法连接到 SmokyPost。请几分钟后重试。"
+
+#: assets/js/editor.js:298 includes/Editor.php:208
+msgid "Share now to:"
+msgstr "立即分享到："
+
+#: assets/js/editor.js:298 includes/Editor.php:208
+msgid "Share when published to:"
+msgstr "发布时分享到："
+
+#: assets/js/editor.js:300
+msgid "reconnect needed"
+msgstr "需要重新连接"
+
+#: assets/js/editor.js:313 includes/Editor.php:214
+msgid "Custom message (optional)"
+msgstr "自定义消息（可选）"
+
+#: assets/js/editor.js:314
+msgid "Leave empty to use your template."
+msgstr "留空则使用您的模板。"
+
+#: assets/js/editor.js:333
+msgid "Shared to the ticked platforms when you publish."
+msgstr "发布时将分享到已勾选的平台。"
+
+#: assets/js/editor.js:336
+msgid "Shared automatically when it was published."
+msgstr "发布时已自动分享。"
+
+#: assets/js/editor.js:339 includes/Editor.php:232
+msgid "Share now"
+msgstr "立即分享"
+
+#: includes/Admin/Page.php:43 includes/Admin/Page.php:122
+msgid "Settings"
+msgstr "设置"
+
+#: includes/Admin/Page.php:74 includes/Status.php:87
+msgid "Sending…"
+msgstr "正在发送…"
+
+#: includes/Admin/Page.php:75 includes/Editor.php:150
+msgid "Deleting…"
+msgstr "正在删除…"
+
+#: includes/Admin/Page.php:113
+msgid "A newer version of SmokyPost is required. Please update the plugin."
+msgstr "需要更新版本的 SmokyPost。请更新插件。"
+
+#: includes/Admin/Page.php:121
+msgid "Platforms"
+msgstr "平台"
+
+#: includes/Admin/Page.php:123
+msgid "History"
+msgstr "历史记录"
+
+#: includes/Admin/Page.php:124
+msgid "Notifications"
+msgstr "通知"
+
+#: includes/Admin/Page.php:125 includes/Admin/Page.php:558
+msgid "Account"
+msgstr "账户"
+
+#: includes/Admin/Page.php:156
+msgid "Terms of Service"
+msgstr "服务条款"
+
+#: includes/Admin/Page.php:157
+msgid "Privacy Policy"
+msgstr "隐私政策"
+
+#: includes/Admin/Page.php:158
+msgid "Share your posts and pages to your social media accounts automatically. Create a free account or sign in to connect this site."
+msgstr "自动将您的文章和页面分享到社交媒体。创建免费账户或登录，以连接此站点。"
+
+#: includes/Admin/Page.php:159
+msgid "When you connect, this site sends its address, WordPress and PHP versions, language and time zone to the SmokyPost service (www.smokypost.com). The content of each item you share is sent when it is shared."
+msgstr "连接时，此站点会向 SmokyPost 服务（www.smokypost.com）发送其网址、WordPress 和 PHP 版本、语言及时区。您分享的每项内容的正文会在分享时发送。"
+
+#: includes/Admin/Page.php:163
+msgid "Create a free account"
+msgstr "创建免费账户"
+
+#: includes/Admin/Page.php:165 includes/Admin/Page.php:174 includes/Admin/Page.php:187
+msgid "E-mail"
+msgstr "电子邮箱"
+
+#: includes/Admin/Page.php:166
+msgid "Password (at least 8 characters)"
+msgstr "密码（至少 8 个字符）"
+
+#. translators: 1: Terms of Service link, 2: Privacy Policy link
+#: includes/Admin/Page.php:168
+#, php-format
+msgid "I accept the %1$s and the %2$s."
+msgstr "我同意%1$s和%2$s。"
+
+#: includes/Admin/Page.php:169
+msgid "Create account and connect"
+msgstr "创建账户并连接"
+
+#: includes/Admin/Page.php:172
+msgid "I already have an account"
+msgstr "我已有账户"
+
+#: includes/Admin/Page.php:175 includes/Admin/Page.php:445
+msgid "Password"
+msgstr "密码"
+
+#: includes/Admin/Page.php:176
+msgid "Sign in and connect"
+msgstr "登录并连接"
+
+#: includes/Admin/Page.php:179
+msgid "Use a license key instead"
+msgstr "改用许可证密钥"
+
+#: includes/Admin/Page.php:182
+msgid "Connect with license key"
+msgstr "使用许可证密钥连接"
+
+#: includes/Admin/Page.php:185
+msgid "Forgot your password?"
+msgstr "忘记密码？"
+
+#: includes/Admin/Page.php:188
+msgid "Send reset link"
+msgstr "发送重置链接"
+
+#: includes/Admin/Page.php:207
+msgid "Connect each platform and choose the page or account this site shares to."
+msgstr "连接各个平台，并选择此站点要分享到的主页或账户。"
+
+#: includes/Admin/Page.php:222
+msgid "Not included in your plan."
+msgstr "您的套餐不包含此项。"
+
+#: includes/Admin/Page.php:226
+msgid "Temporarily unavailable. Please try again later."
+msgstr "暂时不可用。请稍后重试。"
+
+#: includes/Admin/Page.php:237
+msgid "The connection has expired. Connect again to keep sharing."
+msgstr "连接已过期。请重新连接以继续分享。"
+
+#: includes/Admin/Page.php:238
+msgid "Connect again"
+msgstr "重新连接"
+
+#: includes/Admin/Page.php:241
+msgid "Change"
+msgstr "更改"
+
+#: includes/Admin/Page.php:243
+msgid "Remove"
+msgstr "移除"
+
+#: includes/Admin/Page.php:247
+msgid "Not connected."
+msgstr "未连接。"
+
+#: includes/Admin/Page.php:249 includes/Admin/Page.php:341
+msgid "Connect"
+msgstr "连接"
+
+#: includes/Admin/Page.php:253
+msgid "Choose from your Facebook login"
+msgstr "从您的 Facebook 登录中选择"
+
+#: includes/Admin/Page.php:277
+msgid "Posts your text and a link to one of your Facebook Pages. You sign in with Facebook."
+msgstr "将您的文字和链接发布到您的某个 Facebook 主页。您通过 Facebook 登录。"
+
+#: includes/Admin/Page.php:279
+msgid "Needs an Instagram professional account linked to a Facebook Page. You sign in with Facebook."
+msgstr "需要与 Facebook 主页关联的 Instagram 专业账户。您通过 Facebook 登录。"
+
+#: includes/Admin/Page.php:281
+msgid "Posts your text and a link to one of your LinkedIn company pages. You sign in with LinkedIn."
+msgstr "将您的文字和链接发布到您的某个 LinkedIn 公司主页。您通过 LinkedIn 登录。"
+
+#: includes/Admin/Page.php:283
+msgid "Posts your text, hashtags and a link card with the picture to your Bluesky account. You connect with your handle and an app password."
+msgstr "将您的文字、话题标签和带图片的链接卡片发布到您的 Bluesky 账户。您使用用户名和应用密码连接。"
+
+#: includes/Admin/Page.php:285
+msgid "Posts your text, hashtags and a link to your Mastodon account on any Mastodon server. You approve SmokyPost on your own server."
+msgstr "将您的文字、话题标签和链接发布到您在任意 Mastodon 服务器上的 Mastodon 账户。您在自己的服务器上授权 SmokyPost。"
+
+#: includes/Admin/Page.php:287
+msgid "Posts your text and a link card to your Threads profile. You sign in with Threads."
+msgstr "将您的文字和链接卡片发布到您的 Threads 个人资料。您通过 Threads 登录。"
+
+#: includes/Admin/Page.php:289
+msgid "Posts your text, tags and a link card with the picture to one of your Tumblr blogs. You sign in with Tumblr."
+msgstr "将您的文字、标签和带图片的链接卡片发布到您的某个 Tumblr 博客。您通过 Tumblr 登录。"
+
+#: includes/Admin/Page.php:304
+msgid "Automatic sharing:"
+msgstr "自动分享："
+
+#: includes/Admin/Page.php:304
+msgid "On"
+msgstr "开"
+
+#: includes/Admin/Page.php:304
+msgid "Off"
+msgstr "关"
+
+#: includes/Admin/Page.php:305
+msgid "Turn off"
+msgstr "关闭"
+
+#: includes/Admin/Page.php:305
+msgid "Turn on"
+msgstr "开启"
+
+#: includes/Admin/Page.php:306
+msgid "New items are shared here when they are published."
+msgstr "新内容将在发布时分享到此处。"
+
+#: includes/Admin/Page.php:306
+msgid "Only shared when you click \"Share now\"."
+msgstr "仅在您点击“立即分享”时才会分享。"
+
+#. translators: %s: reason
+#: includes/Admin/Page.php:322
+#, php-format
+msgid "You are signed in, but your accounts could not be listed: %s"
+msgstr "您已登录，但无法列出您的账户：%s"
+
+#: includes/Admin/Page.php:323
+msgid "Try again"
+msgstr "重试"
+
+#: includes/Admin/Page.php:323 includes/Admin/Page.php:361 includes/Admin/Page.php:524 includes/Admin/Page.php:576 includes/Admin/Page.php:716 includes/Admin/Page.php:772 includes/Editor.php:149 includes/Editor.php:481
+msgid "Cancel"
+msgstr "取消"
+
+#: includes/Admin/Page.php:328
+msgid "Connect your account first."
+msgstr "请先连接您的账户。"
+
+#: includes/Admin/Page.php:328
+msgid "Sign in first to see your pages."
+msgstr "请先登录，以查看您的主页。"
+
+#: includes/Admin/Page.php:329
+msgid "No page or account with posting rights was found for this login."
+msgstr "此登录下未找到您可以发布内容的主页或账户。"
+
+#: includes/Admin/Page.php:331
+msgid "Check that your Instagram account is a professional account and is linked to one of your Facebook Pages."
+msgstr "请确认您的 Instagram 账户是专业账户，并已关联到您的某个 Facebook 主页。"
+
+#. translators: %s: name of the person who signed in
+#: includes/Admin/Page.php:355
+#, php-format
+msgid "(via %s)"
+msgstr "（通过 %s）"
+
+#: includes/Admin/Page.php:360
+msgid "Use this account"
+msgstr "使用此账户"
+
+#: includes/Admin/Page.php:363
+msgid "Missing a page?"
+msgstr "没有看到正确的主页？"
+
+#: includes/Admin/Page.php:364
+msgid "Sign in with another account"
+msgstr "使用其他账户登录"
+
+#: includes/Admin/Page.php:377
+msgid "Content types"
+msgstr "内容类型"
+
+#: includes/Admin/Page.php:381
+msgid "Only these types are shared automatically and get the SmokyPost box in the editor."
+msgstr "只有这些类型会自动分享，也只有它们会在编辑器中显示 SmokyPost 面板。"
+
+#: includes/Admin/Page.php:383
+msgid "Automatic sharing"
+msgstr "自动分享"
+
+#: includes/Admin/Page.php:384
+msgid "Share new items automatically when they are published to:"
+msgstr "新内容发布时自动分享到："
+
+#: includes/Admin/Page.php:386
+msgid "not connected"
+msgstr "未连接"
+
+#: includes/Admin/Page.php:389
+msgid "Untick a platform to stop automatic sharing to it. Untick all to turn automatic sharing off. You can still share any item yourself with \"Share now\" in the editor or the post list, and untick a platform for a single item in the editor."
+msgstr "取消勾选某个平台即可停止向其自动分享。取消全部勾选将关闭自动分享。您始终可以通过编辑器或文章列表中的“立即分享”按钮手动分享任何内容，也可以在编辑器中为单项内容取消勾选某个平台。"
+
+#: includes/Admin/Page.php:391
+msgid "Automatically created items"
+msgstr "自动创建的内容"
+
+#: includes/Admin/Page.php:391
+msgid "Also share items published by other plugins, importers, the REST API or WP-CLI"
+msgstr "同时分享由其他插件、导入工具、REST API 或 WP-CLI 发布的内容"
+
+#: includes/Admin/Page.php:392
+msgid "On by default. Items created by code (for example an autoblog or a feed importer) are shared to the platforms above. Turn this off if you only want to share what you publish in the editor."
+msgstr "默认开启。由代码创建的内容（例如自动博客或订阅源导入工具）会分享到上述平台。如果您只想分享在编辑器中发布的内容，请关闭此项。"
+
+#: includes/Admin/Page.php:393
+msgid "Skip imported items older than"
+msgstr "跳过早于以下时长的导入内容："
+
+#: includes/Admin/Page.php:393
+msgid "hours"
+msgstr "小时"
+
+#: includes/Admin/Page.php:395
+msgid "Deleting items"
+msgstr "内容删除"
+
+#: includes/Admin/Page.php:395
+msgid "Delete the shared posts when the item is deleted"
+msgstr "删除内容时同时删除已分享的帖子"
+
+#: includes/Admin/Page.php:396
+msgid "Off by default. When you move an item to the trash or delete it, SmokyPost also removes its posts from Facebook, LinkedIn, Bluesky, Mastodon, Threads and Tumblr. Instagram does not allow other apps to delete posts, so those have to be deleted in the Instagram app. Restoring an item from the trash does not bring the social posts back."
+msgstr "默认关闭。当您将内容移至回收站或删除时，SmokyPost 也会删除其在 Facebook、LinkedIn、Bluesky、Mastodon、Threads 和 Tumblr 上的帖子。Instagram 不允许其他应用删除帖子，因此需要您在 Instagram 应用中自行删除。从回收站还原内容不会恢复社交媒体上的帖子。"
+
+#: includes/Admin/Page.php:398
+msgid "Message template"
+msgstr "消息模板"
+
+#: includes/Admin/Page.php:400
+msgid "Placeholders:"
+msgstr "占位符："
+
+#: includes/Admin/Page.php:400
+msgid "The link is added by each platform as a preview card; on Instagram it is added to the end of the text."
+msgstr "链接由各平台以预览卡片形式添加；在 Instagram 上则添加在文字末尾。"
+
+#: includes/Admin/Page.php:401
+msgid "Turn post tags into hashtags for {hashtags}"
+msgstr "将文章标签转换为 {hashtags} 的话题标签"
+
+#: includes/Admin/Page.php:403
+msgid "Default image"
+msgstr "默认图片"
+
+#: includes/Admin/Page.php:404
+msgid "Used when an item has no featured image and no image in its content. Instagram always needs an image."
+msgstr "当内容没有特色图片，内容中也没有图片时使用。Instagram 始终需要图片。"
+
+#: includes/Admin/Page.php:418
+msgid "E-mail me when"
+msgstr "在以下情况发送电子邮件"
+
+#: includes/Admin/Page.php:419
+msgid "a share fails"
+msgstr "分享失败时"
+
+#: includes/Admin/Page.php:420
+msgid "an item was shared"
+msgstr "内容分享成功时"
+
+#: includes/Admin/Page.php:421
+msgid "You get one e-mail per item. A failed share is reported after SmokyPost has tried several times, and the same problem on the same platform is reported once a day. An e-mail that a connection has expired is always sent."
+msgstr "每个内容您会收到一封邮件。分享失败会在 SmokyPost 多次重试后通知您，同一平台上的同一问题每天只通知一次。连接已过期的邮件始终会发送。"
+
+#: includes/Admin/Page.php:423
+msgid "Send e-mails to"
+msgstr "邮件发送到"
+
+#. translators: %s: e-mail address
+#: includes/Admin/Page.php:426
+#, php-format
+msgid "Separate several addresses with commas. Leave empty to use the administrator address of this site (%s)."
+msgstr "多个地址请用逗号分隔。留空则使用本站的管理员地址（%s）。"
+
+#: includes/Admin/Page.php:428
+msgid "SMTP"
+msgstr "SMTP"
+
+#: includes/Admin/Page.php:429
+msgid "Send SmokyPost e-mails through an SMTP account"
+msgstr "通过 SMTP 账户发送 SmokyPost 邮件"
+
+#: includes/Admin/Page.php:430
+msgid "Use this when e-mails from your site do not arrive. Only the e-mails of SmokyPost use this account, other e-mails of your site stay as they are. You do not need a separate SMTP plugin for SmokyPost."
+msgstr "当您网站的邮件无法送达时使用。只有 SmokyPost 的邮件使用此账户，网站的其他邮件保持不变。SmokyPost 不需要单独的 SMTP 插件。"
+
+#: includes/Admin/Page.php:432
+msgid "SMTP server"
+msgstr "SMTP 服务器"
+
+#: includes/Admin/Page.php:433
+msgid "Port"
+msgstr "端口"
+
+#: includes/Admin/Page.php:434
+msgid "Encryption"
+msgstr "加密"
+
+#: includes/Admin/Page.php:436
+msgid "TLS (usually port 587)"
+msgstr "TLS（通常为 587 端口）"
+
+#: includes/Admin/Page.php:437
+msgid "SSL (usually port 465)"
+msgstr "SSL（通常为 465 端口）"
+
+#: includes/Admin/Page.php:438
+msgid "No encryption"
+msgstr "不加密"
+
+#: includes/Admin/Page.php:443
+msgid "Username"
+msgstr "用户名"
+
+#: includes/Admin/Page.php:447
+msgid "The password is set in wp-config.php."
+msgstr "密码已在 wp-config.php 中设置。"
+
+#: includes/Admin/Page.php:451
+msgid "A password is saved. Leave this empty to keep it."
+msgstr "已保存密码。留空则保留。"
+
+#: includes/Admin/Page.php:451
+msgid "Remove the saved password"
+msgstr "删除已保存的密码"
+
+#: includes/Admin/Page.php:453
+msgid "The password is stored encrypted and never shown again. For Gmail and Outlook use an app password."
+msgstr "密码以加密形式存储，不会再次显示。Gmail 和 Outlook 请使用应用专用密码。"
+
+#: includes/Admin/Page.php:457
+msgid "From e-mail"
+msgstr "发件人邮箱"
+
+#: includes/Admin/Page.php:458
+msgid "Most providers only accept an address that belongs to the account."
+msgstr "大多数服务商只接受属于该账户的地址。"
+
+#: includes/Admin/Page.php:459
+msgid "From name"
+msgstr "发件人名称"
+
+#: includes/Admin/Page.php:462
+msgid "Save Changes"
+msgstr "保存更改"
+
+#: includes/Admin/Page.php:463
+msgid "Send a test e-mail"
+msgstr "发送测试邮件"
+
+#: includes/Admin/Page.php:464
+msgid "The test e-mail saves the values above first and then uses them."
+msgstr "测试邮件会先保存上面的设置，然后使用它们。"
+
+#. translators: %d: number of days
+#: includes/Admin/Page.php:479
+#, php-format
+msgid "Shares of the last %d day."
+msgid_plural "Shares of the last %d days."
+msgstr[0] "最近 %d 天的分享。"
+
+#: includes/Admin/Page.php:491
+msgid "Date"
+msgstr "日期"
+
+#: includes/Admin/Page.php:491
+msgid "Item"
+msgstr "内容"
+
+#: includes/Admin/Page.php:491
+msgid "Result"
+msgstr "结果"
+
+#: includes/Admin/Page.php:507
+msgid "Nothing shared yet."
+msgstr "尚未分享任何内容。"
+
+#: includes/Admin/Page.php:516
+msgid "Clear history"
+msgstr "清除历史记录"
+
+#: includes/Admin/Page.php:516
+msgid "Clear the history for the dates you choose, or all of it? What was already shared stays on your social accounts. Cleared items no longer show in this list."
+msgstr "要清除特定日期的历史记录，还是全部清除？已分享的内容会保留在您的社交媒体上。清除的记录将不再显示在此列表中。"
+
+#: includes/Admin/Page.php:518
+msgid "From"
+msgstr "起始"
+
+#: includes/Admin/Page.php:520
+msgid "To"
+msgstr "截止"
+
+#: includes/Admin/Page.php:523
+msgid "Leave the date empty to start at the first item or end today."
+msgstr "日期留空表示从第一条记录开始，或截止到今天。"
+
+#: includes/Admin/Page.php:524
+msgid "Clear these dates"
+msgstr "清除这些日期"
+
+#: includes/Admin/Page.php:524
+msgid "Clear all history"
+msgstr "清除全部历史记录"
+
+#: includes/Admin/Page.php:534 includes/Admin/Page.php:534
+msgid "Day"
+msgstr "日"
+
+#: includes/Admin/Page.php:538 includes/Admin/Page.php:538
+msgid "Month"
+msgstr "月"
+
+#: includes/Admin/Page.php:542 includes/Admin/Page.php:542
+msgid "Year"
+msgstr "年"
+
+#: includes/Admin/Page.php:559 includes/Admin/Page.php:670
+msgid "Plan"
+msgstr "套餐"
+
+#: includes/Admin/Page.php:560
+msgid "License key"
+msgstr "许可证密钥"
+
+#: includes/Admin/Page.php:561
+msgid "Shared today"
+msgstr "今日已分享"
+
+#. translators: 1: items used, 2: daily limit
+#: includes/Admin/Page.php:564 includes/Admin/Page.php:566
+#, php-format
+msgid "%1$d of %2$d items"
+msgstr "%1$d / %2$d 项内容"
+
+#: includes/Admin/Page.php:569
+msgid "This site"
+msgstr "此站点"
+
+#: includes/Admin/Page.php:574
+msgid "Disconnect this site"
+msgstr "断开此站点"
+
+#: includes/Admin/Page.php:574
+msgid "Disconnect this site from SmokyPost? Sharing stops until you sign in again."
+msgstr "要将此站点与 SmokyPost 断开吗？在您重新登录之前，分享将会停止。"
+
+#: includes/Admin/Page.php:576
+msgid "Yes, disconnect"
+msgstr "是，断开"
+
+#: includes/Admin/Page.php:585
+msgid "How Pro works"
+msgstr "Pro 的使用方式"
+
+#: includes/Admin/Page.php:586
+msgid "Pay securely through Paddle."
+msgstr "通过 Paddle 安全付款。"
+
+#: includes/Admin/Page.php:587
+msgid "Download SmokyPost Pro with the button below."
+msgstr "点击下方按钮下载 SmokyPost Pro。"
+
+#: includes/Admin/Page.php:587
+msgid "Come back to this page. A \"Download SmokyPost Pro\" button appears, and we e-mail you the same link."
+msgstr "回到此页面，将出现“下载 SmokyPost Pro”按钮，我们也会通过电子邮件向您发送同一链接。"
+
+#: includes/Admin/Page.php:588
+msgid "Install it under Plugins > Add New > Upload Plugin and activate it. Your license is picked up automatically, there is no key to enter."
+msgstr "在“插件”>“安装插件”>“上传插件”中安装并启用。您的许可证会被自动识别，无需输入密钥。"
+
+#: includes/Admin/Page.php:589
+msgid "SmokyPost Pro is a second plugin that works together with SmokyPost: keep both active. It takes about a minute. Full refund within 14 days of your first payment."
+msgstr "SmokyPost Pro 是与 SmokyPost 配合使用的第二个插件：请保持两者都处于启用状态。大约只需一分钟。首次付款后 14 天内可全额退款。"
+
+#: includes/Admin/Page.php:603
+msgid "Your payment is taking longer than usual to show here. Reload this page in a few minutes. If your plan is still Free after an hour, write to info@smokypost.com."
+msgstr "您的付款显示在此处的时间比平时更长。请几分钟后刷新页面。如果一小时后您的套餐仍为 Free，请发送邮件至 info@smokypost.com。"
+
+#: includes/Admin/Page.php:607
+msgid "Payment received. Your plan will be active in a moment, this page checks again by itself."
+msgstr "已收到付款。您的套餐即将生效，此页面会自行检查。"
+
+#: includes/Admin/Page.php:619
+msgid "SmokyPost Pro"
+msgstr "SmokyPost Pro"
+
+#. translators: %s: version number
+#: includes/Admin/Page.php:622
+#, php-format
+msgid "SmokyPost Pro %s is installed and active."
+msgstr "SmokyPost Pro %s 已安装并启用。"
+
+#: includes/Admin/Page.php:623
+msgid "Its settings are under SmokyPost > Pro, the calendar under SmokyPost > Calendar. It updates itself."
+msgstr "其设置位于“SmokyPost”>“Pro”，日历位于“SmokyPost”>“日历”。它会自动更新。"
+
+#: includes/Admin/Page.php:630
+msgid "SmokyPost Pro is installed but not active. Activate it on the Plugins page."
+msgstr "SmokyPost Pro 已安装，但尚未启用。请在“插件”页面启用。"
+
+#: includes/Admin/Page.php:630
+msgid "Open Plugins"
+msgstr "打开“插件”"
+
+#: includes/Admin/Page.php:635
+msgid "Download SmokyPost Pro"
+msgstr "下载 SmokyPost Pro"
+
+#: includes/Admin/Page.php:636
+msgid "The link works for an hour. You can come back here and get a new one any time."
+msgstr "链接有效期为一小时。您随时可以回到这里获取新链接。"
+
+#: includes/Admin/Page.php:646 includes/Admin/Page.php:1266 includes/Api.php:127
+msgid "Something went wrong. Please try again."
+msgstr "出了点问题。请重试。"
+
+#: includes/Admin/Page.php:665
+msgid "Plans"
+msgstr "套餐"
+
+#: includes/Admin/Page.php:670
+msgid "Sites"
+msgstr "站点数"
+
+#: includes/Admin/Page.php:670
+msgid "Items per day"
+msgstr "每日内容数"
+
+#: includes/Admin/Page.php:670
+msgid "Price"
+msgstr "价格"
+
+#. translators: %s: price, for example $39
+#: includes/Admin/Page.php:678
+#, php-format
+msgid "%s per year"
+msgstr "每年 %s"
+
+#: includes/Admin/Page.php:680
+msgid "Current plan"
+msgstr "当前套餐"
+
+#: includes/Admin/Page.php:683
+msgid "Switch to this plan"
+msgstr "切换到此套餐"
+
+#: includes/Admin/Page.php:683
+msgid "Upgrade"
+msgstr "升级"
+
+#: includes/Admin/Page.php:688
+msgid "Payments are handled securely by Paddle. Prices are in US dollars, taxes are added at checkout where they apply."
+msgstr "付款由 Paddle 安全处理。价格以美元计，适用地区的税费将在结账时加收。"
+
+#: includes/Admin/Page.php:690
+msgid "A plan change applies right away. You will see the exact amount and confirm it before anything is charged."
+msgstr "套餐变更立即生效。在扣款前，您会看到确切金额并需确认。"
+
+#: includes/Admin/Page.php:692 includes/Admin/Page.php:776
+msgid "Manage subscription"
+msgstr "管理订阅"
+
+#: includes/Admin/Page.php:703
+msgid "Cancel and refund"
+msgstr "取消并退款"
+
+#: includes/Admin/Page.php:705
+msgid "Refunds are available within 14 days of your first payment. You can stop the renewal at any time from Manage subscription."
+msgstr "首次付款后 14 天内可申请退款。您随时可以在“管理订阅”中停止续订。"
+
+#: includes/Admin/Page.php:706 includes/Admin/Page.php:717
+msgid "Questions about a payment? Write to info@smokypost.com."
+msgstr "对付款有疑问？请发送邮件至 info@smokypost.com。"
+
+#. translators: %s: date
+#: includes/Admin/Page.php:712
+#, php-format
+msgid "You can cancel and get a full refund until %s."
+msgstr "您可以在 %s 之前取消并获得全额退款。"
+
+#: includes/Admin/Page.php:714
+msgid "Cancel and get a refund"
+msgstr "取消并获得退款"
+
+#: includes/Admin/Page.php:714
+msgid "Cancel your subscription and get a full refund? Everything you paid is returned to the card you paid with. Nothing is deducted for the days you used. Your plan ends right away and this site goes back to Free."
+msgstr "要取消订阅并获得全额退款吗？您支付的全部款项将退回至您付款所用的银行卡。已使用的天数不会扣除任何费用。您的套餐将立即结束，此站点将恢复为 Free。"
+
+#: includes/Admin/Page.php:716
+msgid "Yes, cancel and refund"
+msgstr "是，取消并退款"
+
+#: includes/Admin/Page.php:730 includes/Admin/Page.php:814
+msgid "Starter"
+msgstr "Starter"
+
+#: includes/Admin/Page.php:731 includes/Admin/Page.php:815
+msgid "Pro"
+msgstr "Pro"
+
+#: includes/Admin/Page.php:732 includes/Admin/Page.php:816
+msgid "Agency"
+msgstr "Agency"
+
+#. translators: %s: plan name
+#: includes/Admin/Page.php:741
+#, php-format
+msgid "Switch to the %s plan"
+msgstr "切换到 %s"
+
+#. translators: 1: amount, for example $30.00, 2: card, for example Visa ending in 4242
+#: includes/Admin/Page.php:747
+#, php-format
+msgid "You will be charged %1$s today on the card you paid with (%2$s)."
+msgstr "今天将从您付款所用的银行卡扣款 %1$s（%2$s）。"
+
+#. translators: %s: amount, for example $30.00
+#: includes/Admin/Page.php:750
+#, php-format
+msgid "You will be charged %s today on the card you paid with."
+msgstr "今天将从您付款所用的银行卡扣款 %s。"
+
+#. translators: %s: date
+#: includes/Admin/Page.php:755
+#, php-format
+msgid "Your next renewal stays on %s."
+msgstr "下次续订日期保持为 %s。"
+
+#: includes/Admin/Page.php:758
+msgid "Nothing is charged today."
+msgstr "今天不会扣款。"
+
+#. translators: %s: date
+#: includes/Admin/Page.php:762
+#, php-format
+msgid "The price difference is credited at your next renewal on %s."
+msgstr "差价将在下次续订（%s）时抵扣。"
+
+#: includes/Admin/Page.php:764
+msgid "The price difference is credited at your next renewal."
+msgstr "差价将在下次续订时抵扣。"
+
+#: includes/Admin/Page.php:767
+msgid "Shall we continue?"
+msgstr "是否继续？"
+
+#. translators: %s: amount, for example $30.00
+#: includes/Admin/Page.php:770
+#, php-format
+msgid "Yes, charge %s"
+msgstr "是，扣款 %s"
+
+#: includes/Admin/Page.php:770
+msgid "Yes, switch plan"
+msgstr "是，更改套餐"
+
+#: includes/Admin/Page.php:774
+msgid "Want to pay with another card? Open Manage subscription, update your payment method, then switch plans again."
+msgstr "想使用其他银行卡付款？请打开“管理订阅”，更新付款方式，然后再次更改套餐。"
+
+#. translators: %s: last four digits of a card
+#: includes/Admin/Page.php:802
+#, php-format
+msgid "ending in %s"
+msgstr "尾号 %s"
+
+#. translators: 1: card brand, for example Visa, 2: last four digits
+#: includes/Admin/Page.php:805
+#, php-format
+msgid "%1$s ending in %2$s"
+msgstr "%1$s，尾号 %2$s"
+
+#: includes/Admin/Page.php:813
+msgid "Free"
+msgstr "Free"
+
+#: includes/Admin/Page.php:831
+msgid "Sharing is paused until you confirm your e-mail address."
+msgstr "在您确认电子邮箱之前，分享已暂停。"
+
+#. translators: %d: days left
+#: includes/Admin/Page.php:833
+#, php-format
+msgid "Please confirm your e-mail address. Sharing pauses in %d day if you do not."
+msgid_plural "Please confirm your e-mail address. Sharing pauses in %d days if you do not."
+msgstr[0] "请确认您的电子邮箱。如果不确认，分享将在 %d 天后暂停。"
+
+#: includes/Admin/Page.php:836
+msgid "Send the link again"
+msgstr "重新发送链接"
+
+#: includes/Admin/Page.php:869
+msgid "Bluesky handle"
+msgstr "Bluesky 用户名"
+
+#: includes/Admin/Page.php:870
+msgid "App password"
+msgstr "应用密码"
+
+#: includes/Admin/Page.php:871
+msgid "Use an app password, not your main Bluesky password. It can only be used by apps like this one and you can delete it in Bluesky at any time."
+msgstr "请使用应用密码，而不是您的 Bluesky 主密码。只有此类应用可以使用它，您也可以随时在 Bluesky 中删除。"
+
+#: includes/Admin/Page.php:872
+msgid "How do I get an app password?"
+msgstr "如何获取应用密码？"
+
+#. translators: %s: link to the Bluesky app password page
+#: includes/Admin/Page.php:873
+#, php-format
+msgid "Open %s (or Settings > Privacy and security > App passwords in Bluesky)."
+msgstr "打开 %s（或在 Bluesky 中：设置 > 隐私与安全 > 应用密码）。"
+
+#: includes/Admin/Page.php:874
+msgid "Click \"Add App Password\" and name it SmokyPost."
+msgstr "点击“Add App Password”，并将其命名为 SmokyPost。"
+
+#: includes/Admin/Page.php:875
+msgid "Copy the password Bluesky shows and paste it here."
+msgstr "复制 Bluesky 显示的密码，并粘贴到此处。"
+
+#: includes/Admin/Page.php:881
+msgid "Your Mastodon server"
+msgstr "您的 Mastodon 服务器"
+
+#: includes/Admin/Page.php:882
+msgid "The address of the server your account is on, for example mastodon.social, or your full name like @name@mastodon.social. You will approve SmokyPost on that server."
+msgstr "您账户所在服务器的地址，例如 mastodon.social，或形如 @名称@mastodon.social 的完整用户名。您将在该服务器上授权 SmokyPost。"
+
+#: includes/Admin/Page.php:921
+msgid "Signed in. Now choose the account this site shares to."
+msgstr "已登录。现在请选择此站点要分享到的账户。"
+
+#: includes/Admin/Page.php:923
+msgid "The sign-in was cancelled."
+msgstr "登录已取消。"
+
+#: includes/Admin/Page.php:924
+msgid "The sign-in did not work. Please try again."
+msgstr "登录失败。请重试。"
+
+#: includes/Admin/Page.php:940
+msgid "Good to know:"
+msgstr "温馨提示："
+
+#: includes/Admin/Page.php:940
+msgid "SmokyPost shares new posts automatically when they are published, including posts created by other plugins, importers or the REST API. You can turn automatic sharing on or off for each platform on its card below or under Settings."
+msgstr "SmokyPost 会在新文章发布时自动分享，包括由其他插件、导入工具或 REST API 创建的文章。您可以在下方各平台的卡片上或“设置”中，为每个平台开启或关闭自动分享。"
+
+#: includes/Admin/Page.php:942
+msgid "Got it"
+msgstr "知道了"
+
+#: includes/Admin/Page.php:942
+msgid "Open settings"
+msgstr "打开设置"
+
+#: includes/Admin/Page.php:954
+msgid "SmokyPost is almost ready."
+msgstr "SmokyPost 即将就绪。"
+
+#: includes/Admin/Page.php:954
+msgid "Connect this site"
+msgstr "连接此站点"
+
+#: includes/Admin/Page.php:967
+msgid "You are not allowed to do this."
+msgstr "您无权执行此操作。"
+
+#: includes/Admin/Page.php:1013 includes/Admin/Page.php:1081
+msgid "Please enter a valid e-mail address."
+msgstr "请输入有效的电子邮箱地址。"
+
+#: includes/Admin/Page.php:1015
+msgid "Please enter your password."
+msgstr "请输入密码。"
+
+#: includes/Admin/Page.php:1017
+msgid "Please use a password with at least 8 characters."
+msgstr "请使用至少 8 个字符的密码。"
+
+#: includes/Admin/Page.php:1019
+msgid "Please accept the Terms of Service and the Privacy Policy."
+msgstr "请接受服务条款和隐私政策。"
+
+#: includes/Admin/Page.php:1042
+msgid "Your account is ready and this site is connected. We sent you an e-mail to confirm your address."
+msgstr "您的账户已创建，此站点已连接。我们已向您发送邮件，用于确认您的邮箱地址。"
+
+#: includes/Admin/Page.php:1058
+msgid "Signed in. This site is connected."
+msgstr "已登录。此站点已连接。"
+
+#: includes/Admin/Page.php:1064
+msgid "Please enter your license key."
+msgstr "请输入许可证密钥。"
+
+#: includes/Admin/Page.php:1075
+msgid "License activated. This site is connected."
+msgstr "许可证已激活。此站点已连接。"
+
+#: includes/Admin/Page.php:1084
+msgid "If an account exists for this address, we sent a link to reset the password."
+msgstr "如果此地址存在账户，我们已发送密码重置链接。"
+
+#: includes/Admin/Page.php:1092
+msgid "This site is disconnected from SmokyPost."
+msgstr "此站点已与 SmokyPost 断开。"
+
+#: includes/Admin/Page.php:1117
+msgid "Please choose valid dates."
+msgstr "请选择有效的日期。"
+
+#: includes/Admin/Page.php:1121
+msgid "The first date must be before the last date."
+msgstr "起始日期必须早于截止日期。"
+
+#. translators: %d: number of items
+#: includes/Admin/Page.php:1135
+#, php-format
+msgid "Cleared %d item from the history."
+msgid_plural "Cleared %d items from the history."
+msgstr[0] "已从历史记录中清除 %d 项。"
+
+#: includes/Admin/Page.php:1135
+msgid "There was nothing to clear. Items that are still being sent stay in the list."
+msgstr "没有可清除的内容。仍在发送的记录会保留在列表中。"
+
+#: includes/Admin/Page.php:1143
+msgid "We sent the confirmation link again."
+msgstr "我们已重新发送确认链接。"
+
+#: includes/Admin/Page.php:1193
+msgid "Connected. Now choose the account this site shares to."
+msgstr "已连接。现在请选择此站点要分享到的账户。"
+
+#: includes/Admin/Page.php:1228
+msgid "That plan change has expired. Please choose the plan again."
+msgstr "此次套餐变更已过期。请重新选择套餐。"
+
+#: includes/Admin/Page.php:1240
+msgid "Your plan is being changed. It can take a minute to show here."
+msgstr "您的套餐正在变更。此处可能需要一分钟才会显示。"
+
+#: includes/Admin/Page.php:1257
+msgid "Your refund has been requested and your subscription is cancelled. Paddle returns the money to the card you paid with; it can take a few days to show."
+msgstr "已申请退款，订阅已取消。Paddle 会将款项退回至您付款所用的银行卡，可能需要几天时间。"
+
+#. translators: 1: page name, 2: platform name
+#: includes/Admin/Page.php:1279
+#, php-format
+msgid "%1$s is now connected to %2$s."
+msgstr "%1$s 现已连接到 %2$s。"
+
+#: includes/Admin/Page.php:1295 includes/Admin/Page.php:1305
+msgid "Settings saved."
+msgstr "设置已保存。"
+
+#: includes/Admin/Page.php:1313
+msgid "SmokyPost test e-mail"
+msgstr "SmokyPost 测试邮件"
+
+#: includes/Admin/Page.php:1314
+msgid "This is a test e-mail from SmokyPost. If you can read it, e-mails from SmokyPost reach you."
+msgstr "这是来自 SmokyPost 的测试邮件。如果您能看到它，说明 SmokyPost 的邮件可以送达您。"
+
+#. translators: %s: e-mail addresses
+#: includes/Admin/Page.php:1318
+#, php-format
+msgid "The test e-mail was sent to %s. Check your inbox and spam folder."
+msgstr "测试邮件已发送到 %s。请检查收件箱和垃圾邮件文件夹。"
+
+#. translators: %s: error from the mail server
+#: includes/Admin/Page.php:1325
+#, php-format
+msgid "The test e-mail could not be sent: %s Check the server, port and encryption."
+msgstr "无法发送测试邮件：%s 请检查服务器、端口和加密设置。"
+
+#: includes/Admin/Page.php:1326
+msgid "The test e-mail could not be sent. Check the server, port and encryption."
+msgstr "无法发送测试邮件。请检查服务器、端口和加密设置。"
+
+#. translators: %s: platform name
+#: includes/Admin/Page.php:1341
+#, php-format
+msgid "Automatic sharing to %s is on."
+msgstr "已开启向 %s 的自动分享。"
+
+#. translators: %s: platform name
+#: includes/Admin/Page.php:1343
+#, php-format
+msgid "Automatic sharing to %s is off."
+msgstr "已关闭向 %s 的自动分享。"
+
+#: includes/Admin/PostList.php:59 includes/Status.php:60
+msgid "Not shared"
+msgstr "未分享"
+
+#: includes/Admin/PostList.php:100 includes/Admin/PostList.php:113
+msgid "Share with SmokyPost"
+msgstr "通过 SmokyPost 分享"
+
+#. translators: %d: number of items
+#: includes/Admin/PostList.php:154
+#, php-format
+msgid "%d item queued for sharing."
+msgid_plural "%d items queued for sharing."
+msgstr[0] "已将 %d 项内容加入分享队列。"
+
+#. translators: %d: number of items
+#: includes/Admin/PostList.php:157
+#, php-format
+msgid "%d item could not be shared; see the SmokyPost column."
+msgid_plural "%d items could not be shared; see the SmokyPost column."
+msgstr[0] "有 %d 项内容分享失败；请查看 SmokyPost 列。"
+
+#: includes/Api.php:85
+msgid "This site is not connected to SmokyPost yet."
+msgstr "此站点尚未连接到 SmokyPost。"
+
+#: includes/Editor.php:117 includes/Editor.php:124
+msgid "Image to share"
+msgstr "要分享的图片"
+
+#: includes/Editor.php:118
+msgid "Chosen for sharing"
+msgstr "已选择用于分享"
+
+#: includes/Editor.php:119
+msgid "Choose another image"
+msgstr "选择其他图片"
+
+#: includes/Editor.php:120
+msgid "Choose an image"
+msgstr "选择图片"
+
+#: includes/Editor.php:121
+msgid "Use the automatic choice"
+msgstr "使用自动选择"
+
+#: includes/Editor.php:122
+msgid "Images in this item:"
+msgstr "此内容中的图片："
+
+#: includes/Editor.php:123
+msgid "Use this image"
+msgstr "使用此图片"
+
+#: includes/Editor.php:125
+msgid "Updating this item does not share it again. Click \"Share now\" to share it."
+msgstr "更新内容不会重新分享。请点击“立即分享”进行分享。"
+
+#: includes/Editor.php:126
+msgid "Featured image"
+msgstr "文章特色图片"
+
+#: includes/Editor.php:127
+msgid "First image in the content (this item has no featured image)"
+msgstr "内容中的第一张图片（此内容没有特色图片）"
+
+#: includes/Editor.php:128
+msgid "Default image from the SmokyPost settings (this item has no image)"
+msgstr "SmokyPost 设置中的默认图片（此内容没有图片）"
+
+#: includes/Editor.php:130
+msgid "Instagram needs an image, and this item has none. Add a featured image or an image in the content, otherwise it is not shared to Instagram."
+msgstr "Instagram 需要图片，而此内容没有图片。请添加特色图片或在内容中添加图片，否则不会分享到 Instagram。"
+
+#: includes/Editor.php:135
+msgid "Share at (optional)"
+msgstr "分享时间（可选）"
+
+#. translators: 1: example date and time, 2: time zone name
+#: includes/Editor.php:137
+#, php-format
+msgid "Format: %1$s, in your site time (%2$s). Leave empty to share right away."
+msgstr "格式：%1$s，按您站点的时间（%2$s）。留空则立即分享。"
+
+#: includes/Editor.php:138
+msgid "This is not a valid date and time. Use the format YYYY-MM-DD HH:MM, for example 2026-12-31 18:30."
+msgstr "这看起来不像日期和时间。请使用 YYYY-MM-DD HH:MM 格式，例如 2026-12-31 18:30。"
+
+#: includes/Editor.php:139
+msgid "Schedule"
+msgstr "定时分享"
+
+#: includes/Editor.php:140
+msgid "Cancel the scheduled share"
+msgstr "取消定时分享"
+
+#: includes/Editor.php:147 includes/Editor.php:478
+msgid "Delete shared posts"
+msgstr "删除已分享的帖子"
+
+#: includes/Editor.php:148 includes/Editor.php:480
+msgid "Yes, delete"
+msgstr "是，删除"
+
+#: includes/Editor.php:266
+msgid "Save the item to apply the change."
+msgstr "请保存内容以使更改生效。"
+
+#: includes/Editor.php:352 includes/Editor.php:415 includes/Editor.php:530
+msgid "You are not allowed to share this item."
+msgstr "您无权分享此内容。"
+
+#: includes/Editor.php:378
+msgid "Nothing to share: choose at least one connected platform."
+msgstr "没有可分享的内容：请至少选择一个已连接的平台。"
+
+#: includes/Editor.php:383
+msgid "Sending… You can leave this page, sharing continues in the background."
+msgstr "正在发送… 您可以离开此页面，分享将在后台继续。"
+
+#. translators: %s: date and time
+#: includes/Editor.php:388
+#, php-format
+msgid "Scheduled for %s. You can leave this page."
+msgstr "已定时在 %s 分享。您可以离开此页面。"
+
+#: includes/Editor.php:419
+msgid "Nothing is scheduled for this item."
+msgstr "此内容没有任何定时分享。"
+
+#: includes/Editor.php:437
+msgid "The scheduled share is cancelled."
+msgstr "已取消定时分享。"
+
+#: includes/Editor.php:437
+msgid "Nothing to cancel: it was already sent."
+msgstr "没有可取消的内容：已经发送。"
+
+#. translators: %s: platform names, for example "Facebook, Bluesky"
+#: includes/Editor.php:456
+#, php-format
+msgid "Delete the shared posts from %s? The item itself stays on your site."
+msgstr "要从 %s 删除已分享的帖子吗？内容本身会保留在您的站点上。"
+
+#. translators: %s: platform names, for example "Instagram"
+#: includes/Editor.php:459 includes/Editor.php:511
+#, php-format
+msgid "Posts on %s cannot be deleted from here. Delete them in the app yourself."
+msgstr "无法从此处删除 %s 上的帖子。请自行在应用中删除。"
+
+#: includes/Editor.php:493
+msgid "You are not allowed to change this item."
+msgstr "您无权更改此内容。"
+
+#: includes/Editor.php:499
+msgid "There is nothing to delete for this item."
+msgstr "此内容没有可删除的内容。"
+
+#: includes/Editor.php:508
+msgid "Deleting… You can leave this page, it continues in the background."
+msgstr "正在删除… 您可以离开此页面，删除将在后台继续。"
+
+#: includes/Editor.php:550
+msgid "Finished, but something failed. See below."
+msgstr "已完成，但部分操作失败。请见下方。"
+
+#: includes/Editor.php:550
+msgid "Done."
+msgstr "完成。"
+
+#. translators: %s: platform name
+#: includes/Notifier.php:87
+#, php-format
+msgid "Connect %s again"
+msgstr "重新连接 %s"
+
+#. translators: 1: platform name, 2: link
+#: includes/Notifier.php:89
+#, php-format
+msgid "The connection to %1$s has expired, so new items cannot be shared there. Connect it again: %2$s"
+msgstr "与 %1$s 的连接已过期，因此无法在那里分享新内容。请重新连接：%2$s"
+
+#. translators: %s: item title
+#: includes/Notifier.php:102
+#, php-format
+msgid "Could not share: %s"
+msgstr "无法分享：%s"
+
+#. translators: %s: item title
+#: includes/Notifier.php:104
+#, php-format
+msgid "\"%s\" could not be shared everywhere:"
+msgstr "“%s”无法在所有平台分享："
+
+#. translators: %s: item title
+#: includes/Notifier.php:108
+#, php-format
+msgid "Shared: %s"
+msgstr "已分享：%s"
+
+#. translators: %s: item title
+#: includes/Notifier.php:110
+#, php-format
+msgid "\"%s\" was shared:"
+msgstr "已分享“%s”："
+
+#: includes/Notifier.php:124
+msgid "SmokyPost: daily limit reached"
+msgstr "SmokyPost：已达到每日上限"
+
+#: includes/Notifier.php:125
+msgid "The daily limit of your plan is reached. The remaining items are shared after midnight."
+msgstr "已达到您套餐的每日上限。剩余内容将在午夜之后分享。"
+
+#. translators: %s: link
+#: includes/Notifier.php:175
+#, php-format
+msgid "Open the item: %s"
+msgstr "打开内容：%s"
+
+#. translators: %s: link
+#: includes/Notifier.php:177
+#, php-format
+msgid "History: %s"
+msgstr "历史记录：%s"
+
+#. translators: 1: site name, 2: link
+#: includes/Notifier.php:224
+#, php-format
+msgid "You get this e-mail because SmokyPost notifications are on for %1$s. Change who gets them, or turn them off, here: %2$s"
+msgstr "您收到此邮件，是因为 %1$s 已开启 SmokyPost 通知。在这里更改接收人或关闭通知：%2$s"
+
+#: includes/Sharer.php:55
+msgid "Every 5 minutes (SmokyPost)"
+msgstr "每 5 分钟（SmokyPost）"
+
+#: includes/Sharer.php:494
+msgid "Not shared to Instagram: Instagram needs an image, and this item has none. Add a featured image or an image in the content."
+msgstr "未分享到 Instagram：Instagram 需要图片，而此内容没有图片。请添加特色图片或在内容中添加图片。"
+
+#: includes/Status.php:60
+msgid "Not shared: needs an image"
+msgstr "未分享：需要图片"
+
+#: includes/Status.php:74
+msgid "Shared (delete it in the app yourself)"
+msgstr "已分享（请自行在应用中删除）"
+
+#: includes/Status.php:74
+msgid "Shared"
+msgstr "已分享"
+
+#. translators: %s: reason
+#: includes/Status.php:76
+#, php-format
+msgid "Failed: %s"
+msgstr "错误：%s"
+
+#: includes/Status.php:76
+msgid "Failed"
+msgstr "错误"
+
+#: includes/Status.php:78
+msgid "Cancelled"
+msgstr "已取消"
+
+#: includes/Status.php:81
+msgid "Removing…"
+msgstr "正在删除…"
+
+#: includes/Status.php:83
+msgid "Removed"
+msgstr "已删除"
+
+#. translators: %s: reason
+#: includes/Status.php:85
+#, php-format
+msgid "Could not be removed: %s"
+msgstr "删除失败：%s"
+
+#: includes/Status.php:85
+msgid "Could not be removed"
+msgstr "删除失败"
+
+#: includes/Status.php:90
+msgid "Waiting: daily limit reached, shares after midnight"
+msgstr "等待中：已达每日上限，将在午夜后分享"
+
+#: includes/Status.php:93
+msgid "Waiting: please confirm your e-mail address"
+msgstr "等待中：请确认您的电子邮箱"
+
+#. translators: %s: date and time
+#: includes/Status.php:98
+#, php-format
+msgid "Scheduled for %s"
+msgstr "已定时在 %s"
+
+#: includes/Status.php:102
+msgid "Retrying soon"
+msgstr "即将重试"
+
+#: includes/Status.php:102
+msgid "Queued"
+msgstr "排队中"
+
+#: includes/Status.php:114 includes/Status.php:115 includes/Status.php:116
+msgid "The connection has expired. Connect again in SmokyPost."
+msgstr "连接已过期。请在 SmokyPost 中重新连接。"
+
+#: includes/Status.php:117
+msgid "No page or account is selected for this platform."
+msgstr "尚未为此平台选择主页或账户。"
+
+#: includes/Status.php:118
+msgid "This site is no longer connected to SmokyPost."
+msgstr "此站点已不再连接到 SmokyPost。"
+
+#: includes/Status.php:119
+msgid "Your SmokyPost account or license is not active."
+msgstr "您的 SmokyPost 账户或许可证未处于活动状态。"
+
+#: includes/Status.php:120
+msgid "This platform is not included in your plan."
+msgstr "此平台不在您的套餐范围内。"
+
+#: includes/Status.php:121
+msgid "The platform did not allow the post. Check that you are still an admin of the page and connect again."
+msgstr "平台未允许发布。请确认您仍是该主页的管理员，然后重新连接。"
+
+#: includes/Status.php:122
+msgid "The platform blocked this post."
+msgstr "平台已拦截此帖子。"
+
+#: includes/Status.php:123
+msgid "The platform rejected this post as a duplicate."
+msgstr "平台因重复而拒绝了此帖子。"
+
+#: includes/Status.php:124
+msgid "Instagram needs an image. Add a featured image."
+msgstr "Instagram 需要图片。请为文章添加特色图片。"
+
+#: includes/Status.php:125
+msgid "The platform could not use the image. Try a JPEG or PNG image at least 600 pixels wide."
+msgstr "平台无法使用该图片。请尝试宽度至少 600 像素的 JPEG 或 PNG 图片。"
+
+#: includes/Status.php:126
+msgid "The image could not be read. Use a JPEG, PNG or WebP image."
+msgstr "无法读取该图片。请使用 JPEG、PNG 或 WebP。"
+
+#: includes/Status.php:127
+msgid "The image is too small. Use an image at least 600 pixels wide."
+msgstr "图片太小。请使用宽度至少 600 像素的图片。"
+
+#: includes/Status.php:128
+msgid "SmokyPost could not download the image from your site."
+msgstr "SmokyPost 无法从您的站点下载该图片。"
+
+#: includes/Status.php:129
+msgid "The image could not be prepared."
+msgstr "无法处理该图片。"
+
+#: includes/Status.php:130
+msgid "The platform was not available. SmokyPost tried several times."
+msgstr "平台当时不可用。SmokyPost 已多次重试。"
+
+#: includes/Status.php:131
+msgid "The platform could not be reached. SmokyPost tried several times."
+msgstr "无法连接到平台。SmokyPost 已多次重试。"
+
+#: includes/Status.php:132
+msgid "Instagram did not accept the image in time."
+msgstr "Instagram 未能及时接收该图片。"
+
+#: includes/Status.php:133
+msgid "The platform rejected the post."
+msgstr "平台拒绝了该帖子。"
+
+#: includes/Status.php:134
+msgid "The account that published this post is no longer connected. Delete the post on the platform yourself."
+msgstr "发布此帖子的账户已不再连接。请自行在平台上删除该帖子。"
+
+#: includes/Status.php:135
+msgid "This post cannot be deleted automatically. Delete it on the platform yourself."
+msgstr "此帖子无法自动删除。请自行在平台上删除。"
+
+#. Name of the plugin
+#: smokypost.php:3
+msgid "SmokyPost – Social Auto Share for Posts and Pages"
+msgstr "SmokyPost – 为文章和页面自动分享到社交媒体"
+
+#. Description of the plugin
+#: smokypost.php:5
+msgid "Automatically share new and old posts and pages to your social media accounts. No developer accounts or API keys needed."
+msgstr "自动将新旧文章和页面分享到您的社交媒体账号。无需开发者账号或 API 密钥。"

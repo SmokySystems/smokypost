@@ -1,0 +1,1429 @@
+# Copyright (C) 2026 SmokySystems
+# This file is distributed under the GPL-2.0-or-later.
+msgid ""
+msgstr ""
+"Project-Id-Version: SmokyPost\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Domain: smokypost\n"
+"Language: sv_SE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: assets/js/editor.js:159 includes/Editor.php:199
+msgid "Connect your pages to share this item."
+msgstr "Anslut dina sidor för att dela det här inlägget."
+
+#: assets/js/editor.js:160 includes/Editor.php:199
+msgid "Open SmokyPost"
+msgstr "Öppna SmokyPost"
+
+#: assets/js/editor.js:178 includes/Admin/Page.php:76
+msgid "Still sending. Check the History tab in a few minutes."
+msgstr "Det skickas fortfarande. Kontrollera fliken Historik om några minuter."
+
+#: assets/js/editor.js:238 assets/js/editor.js:261 assets/js/editor.js:288 includes/Api.php:106
+msgid "SmokyPost could not be reached. Please try again in a few minutes."
+msgstr "Det gick inte att nå SmokyPost. Försök igen om några minuter."
+
+#: assets/js/editor.js:298 includes/Editor.php:208
+msgid "Share now to:"
+msgstr "Dela nu på:"
+
+#: assets/js/editor.js:298 includes/Editor.php:208
+msgid "Share when published to:"
+msgstr "Dela vid publicering på:"
+
+#: assets/js/editor.js:300
+msgid "reconnect needed"
+msgstr "behöver anslutas igen"
+
+#: assets/js/editor.js:313 includes/Editor.php:214
+msgid "Custom message (optional)"
+msgstr "Eget meddelande (valfritt)"
+
+#: assets/js/editor.js:314
+msgid "Leave empty to use your template."
+msgstr "Lämna tomt för att använda din mall."
+
+#: assets/js/editor.js:333
+msgid "Shared to the ticked platforms when you publish."
+msgstr "Delas på de markerade plattformarna när det publiceras."
+
+#: assets/js/editor.js:336
+msgid "Shared automatically when it was published."
+msgstr "Delades automatiskt vid publicering."
+
+#: assets/js/editor.js:339 includes/Editor.php:232
+msgid "Share now"
+msgstr "Dela nu"
+
+#: includes/Admin/Page.php:43 includes/Admin/Page.php:122
+msgid "Settings"
+msgstr "Inställningar"
+
+#: includes/Admin/Page.php:74 includes/Status.php:87
+msgid "Sending…"
+msgstr "Skickar …"
+
+#: includes/Admin/Page.php:75 includes/Editor.php:150
+msgid "Deleting…"
+msgstr "Tar bort …"
+
+#: includes/Admin/Page.php:113
+msgid "A newer version of SmokyPost is required. Please update the plugin."
+msgstr "En nyare version av SmokyPost behövs. Uppdatera tillägget."
+
+#: includes/Admin/Page.php:121
+msgid "Platforms"
+msgstr "Plattformar"
+
+#: includes/Admin/Page.php:123
+msgid "History"
+msgstr "Historik"
+
+#: includes/Admin/Page.php:124
+msgid "Notifications"
+msgstr "Aviseringar"
+
+#: includes/Admin/Page.php:125 includes/Admin/Page.php:558
+msgid "Account"
+msgstr "Konto"
+
+#: includes/Admin/Page.php:156
+msgid "Terms of Service"
+msgstr "Användarvillkor"
+
+#: includes/Admin/Page.php:157
+msgid "Privacy Policy"
+msgstr "Integritetspolicy"
+
+#: includes/Admin/Page.php:158
+msgid "Share your posts and pages to your social media accounts automatically. Create a free account or sign in to connect this site."
+msgstr "Dela dina inlägg och sidor automatiskt på dina sociala nätverk. Skapa ett gratis konto eller logga in för att ansluta den här webbplatsen."
+
+#: includes/Admin/Page.php:159
+msgid "When you connect, this site sends its address, WordPress and PHP versions, language and time zone to the SmokyPost service (www.smokypost.com). The content of each item you share is sent when it is shared."
+msgstr "När du ansluter skickar den här webbplatsen sin adress, WordPress- och PHP-version, språk och tidszon till SmokyPost-tjänsten (www.smokypost.com). Innehållet i varje inlägg du delar skickas när du delar det."
+
+#: includes/Admin/Page.php:163
+msgid "Create a free account"
+msgstr "Skapa ett gratis konto"
+
+#: includes/Admin/Page.php:165 includes/Admin/Page.php:174 includes/Admin/Page.php:187
+msgid "E-mail"
+msgstr "E-post"
+
+#: includes/Admin/Page.php:166
+msgid "Password (at least 8 characters)"
+msgstr "Lösenord (minst 8 tecken)"
+
+#. translators: 1: Terms of Service link, 2: Privacy Policy link
+#: includes/Admin/Page.php:168
+#, php-format
+msgid "I accept the %1$s and the %2$s."
+msgstr "Jag godkänner %1$s och %2$s."
+
+#: includes/Admin/Page.php:169
+msgid "Create account and connect"
+msgstr "Skapa konto och anslut"
+
+#: includes/Admin/Page.php:172
+msgid "I already have an account"
+msgstr "Jag har redan ett konto"
+
+#: includes/Admin/Page.php:175 includes/Admin/Page.php:445
+msgid "Password"
+msgstr "Lösenord"
+
+#: includes/Admin/Page.php:176
+msgid "Sign in and connect"
+msgstr "Logga in och anslut"
+
+#: includes/Admin/Page.php:179
+msgid "Use a license key instead"
+msgstr "Använd en licensnyckel i stället"
+
+#: includes/Admin/Page.php:182
+msgid "Connect with license key"
+msgstr "Anslut med licensnyckel"
+
+#: includes/Admin/Page.php:185
+msgid "Forgot your password?"
+msgstr "Har du glömt lösenordet?"
+
+#: includes/Admin/Page.php:188
+msgid "Send reset link"
+msgstr "Skicka återställningslänk"
+
+#: includes/Admin/Page.php:207
+msgid "Connect each platform and choose the page or account this site shares to."
+msgstr "Anslut varje plattform och välj sidan eller kontot som den här webbplatsen ska dela på."
+
+#: includes/Admin/Page.php:222
+msgid "Not included in your plan."
+msgstr "Ingår inte i din plan."
+
+#: includes/Admin/Page.php:226
+msgid "Temporarily unavailable. Please try again later."
+msgstr "Tillfälligt otillgängligt. Försök igen senare."
+
+#: includes/Admin/Page.php:237
+msgid "The connection has expired. Connect again to keep sharing."
+msgstr "Anslutningen har gått ut. Anslut igen för att fortsätta dela."
+
+#: includes/Admin/Page.php:238
+msgid "Connect again"
+msgstr "Anslut igen"
+
+#: includes/Admin/Page.php:241
+msgid "Change"
+msgstr "Ändra"
+
+#: includes/Admin/Page.php:243
+msgid "Remove"
+msgstr "Ta bort"
+
+#: includes/Admin/Page.php:247
+msgid "Not connected."
+msgstr "Inte ansluten."
+
+#: includes/Admin/Page.php:249 includes/Admin/Page.php:341
+msgid "Connect"
+msgstr "Anslut"
+
+#: includes/Admin/Page.php:253
+msgid "Choose from your Facebook login"
+msgstr "Välj från din Facebook-inloggning"
+
+#: includes/Admin/Page.php:277
+msgid "Posts your text and a link to one of your Facebook Pages. You sign in with Facebook."
+msgstr "Publicerar din text och länk på en av dina Facebook-sidor. Du loggar in via Facebook."
+
+#: includes/Admin/Page.php:279
+msgid "Needs an Instagram professional account linked to a Facebook Page. You sign in with Facebook."
+msgstr "Kräver ett professionellt Instagram-konto kopplat till en Facebook-sida. Du loggar in via Facebook."
+
+#: includes/Admin/Page.php:281
+msgid "Posts your text and a link to one of your LinkedIn company pages. You sign in with LinkedIn."
+msgstr "Publicerar din text och länk på en av dina företagssidor på LinkedIn. Du loggar in via LinkedIn."
+
+#: includes/Admin/Page.php:283
+msgid "Posts your text, hashtags and a link card with the picture to your Bluesky account. You connect with your handle and an app password."
+msgstr "Publicerar din text, dina hashtaggar och ett länkkort med bild på ditt Bluesky-konto. Du ansluter med ditt användarnamn och ett applösenord."
+
+#: includes/Admin/Page.php:285
+msgid "Posts your text, hashtags and a link to your Mastodon account on any Mastodon server. You approve SmokyPost on your own server."
+msgstr "Publicerar din text, dina hashtaggar och din länk på ditt Mastodon-konto på valfri Mastodon-server. Du godkänner SmokyPost på din egen server."
+
+#: includes/Admin/Page.php:287
+msgid "Posts your text and a link card to your Threads profile. You sign in with Threads."
+msgstr "Publicerar din text och ett länkkort på din Threads-profil. Du loggar in via Threads."
+
+#: includes/Admin/Page.php:289
+msgid "Posts your text, tags and a link card with the picture to one of your Tumblr blogs. You sign in with Tumblr."
+msgstr "Publicerar din text, dina taggar och ett länkkort med bild på en av dina Tumblr-bloggar. Du loggar in via Tumblr."
+
+#: includes/Admin/Page.php:304
+msgid "Automatic sharing:"
+msgstr "Automatisk delning:"
+
+#: includes/Admin/Page.php:304
+msgid "On"
+msgstr "På"
+
+#: includes/Admin/Page.php:304
+msgid "Off"
+msgstr "Av"
+
+#: includes/Admin/Page.php:305
+msgid "Turn off"
+msgstr "Stäng av"
+
+#: includes/Admin/Page.php:305
+msgid "Turn on"
+msgstr "Slå på"
+
+#: includes/Admin/Page.php:306
+msgid "New items are shared here when they are published."
+msgstr "Nya inlägg delas här när de publiceras."
+
+#: includes/Admin/Page.php:306
+msgid "Only shared when you click \"Share now\"."
+msgstr "Delas bara när du klickar på ”Dela nu”."
+
+#. translators: %s: reason
+#: includes/Admin/Page.php:322
+#, php-format
+msgid "You are signed in, but your accounts could not be listed: %s"
+msgstr "Du är inloggad, men det gick inte att lista dina konton: %s"
+
+#: includes/Admin/Page.php:323
+msgid "Try again"
+msgstr "Försök igen"
+
+#: includes/Admin/Page.php:323 includes/Admin/Page.php:361 includes/Admin/Page.php:524 includes/Admin/Page.php:576 includes/Admin/Page.php:716 includes/Admin/Page.php:772 includes/Editor.php:149 includes/Editor.php:481
+msgid "Cancel"
+msgstr "Avbryt"
+
+#: includes/Admin/Page.php:328
+msgid "Connect your account first."
+msgstr "Anslut ditt konto först."
+
+#: includes/Admin/Page.php:328
+msgid "Sign in first to see your pages."
+msgstr "Logga in först för att se dina sidor."
+
+#: includes/Admin/Page.php:329
+msgid "No page or account with posting rights was found for this login."
+msgstr "Hittade ingen sida eller inget konto som du kan publicera på för den här inloggningen."
+
+#: includes/Admin/Page.php:331
+msgid "Check that your Instagram account is a professional account and is linked to one of your Facebook Pages."
+msgstr "Kontrollera att ditt Instagram-konto är ett professionellt konto och är kopplat till en av dina Facebook-sidor."
+
+#. translators: %s: name of the person who signed in
+#: includes/Admin/Page.php:355
+#, php-format
+msgid "(via %s)"
+msgstr "(via %s)"
+
+#: includes/Admin/Page.php:360
+msgid "Use this account"
+msgstr "Använd det här kontot"
+
+#: includes/Admin/Page.php:363
+msgid "Missing a page?"
+msgstr "Ser du inte rätt sida?"
+
+#: includes/Admin/Page.php:364
+msgid "Sign in with another account"
+msgstr "Logga in med ett annat konto"
+
+#: includes/Admin/Page.php:377
+msgid "Content types"
+msgstr "Innehållstyper"
+
+#: includes/Admin/Page.php:381
+msgid "Only these types are shared automatically and get the SmokyPost box in the editor."
+msgstr "Bara dessa typer delas automatiskt, och bara de får SmokyPost-rutan i redigeraren."
+
+#: includes/Admin/Page.php:383
+msgid "Automatic sharing"
+msgstr "Automatisk delning"
+
+#: includes/Admin/Page.php:384
+msgid "Share new items automatically when they are published to:"
+msgstr "Dela nya inlägg automatiskt vid publicering på:"
+
+#: includes/Admin/Page.php:386
+msgid "not connected"
+msgstr "inte ansluten"
+
+#: includes/Admin/Page.php:389
+msgid "Untick a platform to stop automatic sharing to it. Untick all to turn automatic sharing off. You can still share any item yourself with \"Share now\" in the editor or the post list, and untick a platform for a single item in the editor."
+msgstr "Avmarkera en plattform för att sluta dela automatiskt på den. Avmarkera alla för att stänga av automatisk delning. Du kan alltid dela ett inlägg själv med knappen ”Dela nu” i redigeraren eller i inläggslistan, och avmarkera en plattform för ett enskilt inlägg i redigeraren."
+
+#: includes/Admin/Page.php:391
+msgid "Automatically created items"
+msgstr "Automatiskt skapade inlägg"
+
+#: includes/Admin/Page.php:391
+msgid "Also share items published by other plugins, importers, the REST API or WP-CLI"
+msgstr "Dela även inlägg som publiceras av andra tillägg, importverktyg, REST API eller WP-CLI"
+
+#: includes/Admin/Page.php:392
+msgid "On by default. Items created by code (for example an autoblog or a feed importer) are shared to the platforms above. Turn this off if you only want to share what you publish in the editor."
+msgstr "På som standard. Inlägg som skapas av kod (till exempel en autoblogg eller en flödesimportör) delas på plattformarna ovan. Stäng av om du bara vill dela det du publicerar i redigeraren."
+
+#: includes/Admin/Page.php:393
+msgid "Skip imported items older than"
+msgstr "Hoppa över importerade inlägg som är äldre än"
+
+#: includes/Admin/Page.php:393
+msgid "hours"
+msgstr "tim"
+
+#: includes/Admin/Page.php:395
+msgid "Deleting items"
+msgstr "Borttagning av inlägg"
+
+#: includes/Admin/Page.php:395
+msgid "Delete the shared posts when the item is deleted"
+msgstr "Ta bort delade inlägg när inlägget tas bort"
+
+#: includes/Admin/Page.php:396
+msgid "Off by default. When you move an item to the trash or delete it, SmokyPost also removes its posts from Facebook, LinkedIn, Bluesky, Mastodon, Threads and Tumblr. Instagram does not allow other apps to delete posts, so those have to be deleted in the Instagram app. Restoring an item from the trash does not bring the social posts back."
+msgstr "Av som standard. När du flyttar ett inlägg till papperskorgen eller tar bort det tar SmokyPost även bort dess inlägg på Facebook, LinkedIn, Bluesky, Mastodon, Threads och Tumblr. Instagram tillåter inte att andra appar tar bort inlägg, så de måste tas bort i Instagram-appen. Att återställa ett inlägg från papperskorgen återställer inte inläggen på sociala nätverk."
+
+#: includes/Admin/Page.php:398
+msgid "Message template"
+msgstr "Meddelandemall"
+
+#: includes/Admin/Page.php:400
+msgid "Placeholders:"
+msgstr "Platshållare:"
+
+#: includes/Admin/Page.php:400
+msgid "The link is added by each platform as a preview card; on Instagram it is added to the end of the text."
+msgstr "Länken läggs till av varje plattform som ett förhandsvisningskort; på Instagram läggs den till i slutet av texten."
+
+#: includes/Admin/Page.php:401
+msgid "Turn post tags into hashtags for {hashtags}"
+msgstr "Gör om inläggets taggar till hashtaggar för {hashtags}"
+
+#: includes/Admin/Page.php:403
+msgid "Default image"
+msgstr "Standardbild"
+
+#: includes/Admin/Page.php:404
+msgid "Used when an item has no featured image and no image in its content. Instagram always needs an image."
+msgstr "Används när ett inlägg saknar utvald bild och bild i innehållet. Instagram kräver alltid en bild."
+
+#: includes/Admin/Page.php:418
+msgid "E-mail me when"
+msgstr "Mejla mig när"
+
+#: includes/Admin/Page.php:419
+msgid "a share fails"
+msgstr "en delning misslyckas"
+
+#: includes/Admin/Page.php:420
+msgid "an item was shared"
+msgstr "ett inlägg har delats"
+
+#: includes/Admin/Page.php:421
+msgid "You get one e-mail per item. A failed share is reported after SmokyPost has tried several times, and the same problem on the same platform is reported once a day. An e-mail that a connection has expired is always sent."
+msgstr "Du får ett mejl per inlägg. En misslyckad delning rapporteras efter att SmokyPost har försökt flera gånger, och samma problem på samma plattform rapporteras en gång om dagen. Ett mejl om att en anslutning har gått ut skickas alltid."
+
+#: includes/Admin/Page.php:423
+msgid "Send e-mails to"
+msgstr "Skicka mejl till"
+
+#. translators: %s: e-mail address
+#: includes/Admin/Page.php:426
+#, php-format
+msgid "Separate several addresses with commas. Leave empty to use the administrator address of this site (%s)."
+msgstr "Skilj flera adresser åt med kommatecken. Lämna tomt för att använda webbplatsens administratörsadress (%s)."
+
+#: includes/Admin/Page.php:428
+msgid "SMTP"
+msgstr "SMTP"
+
+#: includes/Admin/Page.php:429
+msgid "Send SmokyPost e-mails through an SMTP account"
+msgstr "Skicka SmokyPosts mejl via ett SMTP-konto"
+
+#: includes/Admin/Page.php:430
+msgid "Use this when e-mails from your site do not arrive. Only the e-mails of SmokyPost use this account, other e-mails of your site stay as they are. You do not need a separate SMTP plugin for SmokyPost."
+msgstr "Använd detta om mejl från din webbplats inte kommer fram. Bara SmokyPosts mejl använder det här kontot, webbplatsens övriga mejl förblir oförändrade. Du behöver ingen separat SMTP-plugin för SmokyPost."
+
+#: includes/Admin/Page.php:432
+msgid "SMTP server"
+msgstr "SMTP-server"
+
+#: includes/Admin/Page.php:433
+msgid "Port"
+msgstr "Port"
+
+#: includes/Admin/Page.php:434
+msgid "Encryption"
+msgstr "Kryptering"
+
+#: includes/Admin/Page.php:436
+msgid "TLS (usually port 587)"
+msgstr "TLS (vanligtvis port 587)"
+
+#: includes/Admin/Page.php:437
+msgid "SSL (usually port 465)"
+msgstr "SSL (vanligtvis port 465)"
+
+#: includes/Admin/Page.php:438
+msgid "No encryption"
+msgstr "Ingen kryptering"
+
+#: includes/Admin/Page.php:443
+msgid "Username"
+msgstr "Användarnamn"
+
+#: includes/Admin/Page.php:447
+msgid "The password is set in wp-config.php."
+msgstr "Lösenordet är angivet i wp-config.php."
+
+#: includes/Admin/Page.php:451
+msgid "A password is saved. Leave this empty to keep it."
+msgstr "Ett lösenord är sparat. Lämna tomt för att behålla det."
+
+#: includes/Admin/Page.php:451
+msgid "Remove the saved password"
+msgstr "Ta bort det sparade lösenordet"
+
+#: includes/Admin/Page.php:453
+msgid "The password is stored encrypted and never shown again. For Gmail and Outlook use an app password."
+msgstr "Lösenordet lagras krypterat och visas aldrig igen. För Gmail och Outlook, använd ett applösenord."
+
+#: includes/Admin/Page.php:457
+msgid "From e-mail"
+msgstr "Avsändarens e-postadress"
+
+#: includes/Admin/Page.php:458
+msgid "Most providers only accept an address that belongs to the account."
+msgstr "De flesta leverantörer godtar bara en adress som tillhör kontot."
+
+#: includes/Admin/Page.php:459
+msgid "From name"
+msgstr "Avsändarens namn"
+
+#: includes/Admin/Page.php:462
+msgid "Save Changes"
+msgstr "Spara ändringar"
+
+#: includes/Admin/Page.php:463
+msgid "Send a test e-mail"
+msgstr "Skicka ett testmejl"
+
+#: includes/Admin/Page.php:464
+msgid "The test e-mail saves the values above first and then uses them."
+msgstr "Testmejlet sparar först värdena ovan och använder dem sedan."
+
+#. translators: %d: number of days
+#: includes/Admin/Page.php:479
+#, php-format
+msgid "Shares of the last %d day."
+msgid_plural "Shares of the last %d days."
+msgstr[0] "Delningar de senaste %d dygnet."
+msgstr[1] "Delningar de senaste %d dygnen."
+
+#: includes/Admin/Page.php:491
+msgid "Date"
+msgstr "Datum"
+
+#: includes/Admin/Page.php:491
+msgid "Item"
+msgstr "Inlägg"
+
+#: includes/Admin/Page.php:491
+msgid "Result"
+msgstr "Resultat"
+
+#: includes/Admin/Page.php:507
+msgid "Nothing shared yet."
+msgstr "Inget har delats ännu."
+
+#: includes/Admin/Page.php:516
+msgid "Clear history"
+msgstr "Rensa historik"
+
+#: includes/Admin/Page.php:516
+msgid "Clear the history for the dates you choose, or all of it? What was already shared stays on your social accounts. Cleared items no longer show in this list."
+msgstr "Rensa historiken för vissa datum eller allt? Det som redan har delats finns kvar på dina sociala nätverk. Rensade poster visas inte längre i den här listan."
+
+#: includes/Admin/Page.php:518
+msgid "From"
+msgstr "Från"
+
+#: includes/Admin/Page.php:520
+msgid "To"
+msgstr "Till"
+
+#: includes/Admin/Page.php:523
+msgid "Leave the date empty to start at the first item or end today."
+msgstr "Lämna ett datum tomt för att börja vid första posten eller sluta i dag."
+
+#: includes/Admin/Page.php:524
+msgid "Clear these dates"
+msgstr "Rensa de här datumen"
+
+#: includes/Admin/Page.php:524
+msgid "Clear all history"
+msgstr "Rensa all historik"
+
+#: includes/Admin/Page.php:534 includes/Admin/Page.php:534
+msgid "Day"
+msgstr "Dag"
+
+#: includes/Admin/Page.php:538 includes/Admin/Page.php:538
+msgid "Month"
+msgstr "Månad"
+
+#: includes/Admin/Page.php:542 includes/Admin/Page.php:542
+msgid "Year"
+msgstr "År"
+
+#: includes/Admin/Page.php:559 includes/Admin/Page.php:670
+msgid "Plan"
+msgstr "Plan"
+
+#: includes/Admin/Page.php:560
+msgid "License key"
+msgstr "Licensnyckel"
+
+#: includes/Admin/Page.php:561
+msgid "Shared today"
+msgstr "Delade i dag"
+
+#. translators: 1: items used, 2: daily limit
+#: includes/Admin/Page.php:564 includes/Admin/Page.php:566
+#, php-format
+msgid "%1$d of %2$d items"
+msgstr "%1$d av %2$d inlägg"
+
+#: includes/Admin/Page.php:569
+msgid "This site"
+msgstr "Den här webbplatsen"
+
+#: includes/Admin/Page.php:574
+msgid "Disconnect this site"
+msgstr "Koppla från den här webbplatsen"
+
+#: includes/Admin/Page.php:574
+msgid "Disconnect this site from SmokyPost? Sharing stops until you sign in again."
+msgstr "Koppla från den här webbplatsen från SmokyPost? Delningen upphör tills du loggar in igen."
+
+#: includes/Admin/Page.php:576
+msgid "Yes, disconnect"
+msgstr "Ja, koppla från"
+
+#: includes/Admin/Page.php:585
+msgid "How Pro works"
+msgstr "Så fungerar Pro"
+
+#: includes/Admin/Page.php:586
+msgid "Pay securely through Paddle."
+msgstr "Betala säkert via Paddle."
+
+#: includes/Admin/Page.php:587
+msgid "Download SmokyPost Pro with the button below."
+msgstr "Ladda ner SmokyPost Pro med knappen nedan."
+
+#: includes/Admin/Page.php:587
+msgid "Come back to this page. A \"Download SmokyPost Pro\" button appears, and we e-mail you the same link."
+msgstr "Kom tillbaka till den här sidan. Knappen ”Ladda ner SmokyPost Pro” visas, och vi mejlar dig samma länk."
+
+#: includes/Admin/Page.php:588
+msgid "Install it under Plugins > Add New > Upload Plugin and activate it. Your license is picked up automatically, there is no key to enter."
+msgstr "Installera det under Tillägg > Lägg till nytt > Ladda upp tillägg och aktivera det. Din licens hittas automatiskt, du behöver inte ange någon nyckel."
+
+#: includes/Admin/Page.php:589
+msgid "SmokyPost Pro is a second plugin that works together with SmokyPost: keep both active. It takes about a minute. Full refund within 14 days of your first payment."
+msgstr "SmokyPost Pro är ett andra tillägg som fungerar tillsammans med SmokyPost: låt båda vara aktiva. Det tar ungefär en minut. Full återbetalning inom 14 dagar efter din första betalning."
+
+#: includes/Admin/Page.php:603
+msgid "Your payment is taking longer than usual to show here. Reload this page in a few minutes. If your plan is still Free after an hour, write to info@smokypost.com."
+msgstr "Din betalning tar längre tid än vanligt att visas här. Ladda om sidan om några minuter. Om din plan fortfarande är Free efter en timme, mejla info@smokypost.com."
+
+#: includes/Admin/Page.php:607
+msgid "Payment received. Your plan will be active in a moment, this page checks again by itself."
+msgstr "Betalningen har tagits emot. Din plan blir aktiv inom kort, och den här sidan kontrollerar det själv."
+
+#: includes/Admin/Page.php:619
+msgid "SmokyPost Pro"
+msgstr "SmokyPost Pro"
+
+#. translators: %s: version number
+#: includes/Admin/Page.php:622
+#, php-format
+msgid "SmokyPost Pro %s is installed and active."
+msgstr "SmokyPost Pro %s är installerat och aktivt."
+
+#: includes/Admin/Page.php:623
+msgid "Its settings are under SmokyPost > Pro, the calendar under SmokyPost > Calendar. It updates itself."
+msgstr "Dess inställningar finns under SmokyPost > Pro och kalendern under SmokyPost > Kalender. Det uppdaterar sig självt."
+
+#: includes/Admin/Page.php:630
+msgid "SmokyPost Pro is installed but not active. Activate it on the Plugins page."
+msgstr "SmokyPost Pro är installerat men inte aktivt. Aktivera det på sidan Tillägg."
+
+#: includes/Admin/Page.php:630
+msgid "Open Plugins"
+msgstr "Öppna Tillägg"
+
+#: includes/Admin/Page.php:635
+msgid "Download SmokyPost Pro"
+msgstr "Ladda ner SmokyPost Pro"
+
+#: includes/Admin/Page.php:636
+msgid "The link works for an hour. You can come back here and get a new one any time."
+msgstr "Länken fungerar i en timme. Du kan alltid komma tillbaka hit för en ny."
+
+#: includes/Admin/Page.php:646 includes/Admin/Page.php:1266 includes/Api.php:127
+msgid "Something went wrong. Please try again."
+msgstr "Något gick fel. Försök igen."
+
+#: includes/Admin/Page.php:665
+msgid "Plans"
+msgstr "Planer"
+
+#: includes/Admin/Page.php:670
+msgid "Sites"
+msgstr "Webbplatser"
+
+#: includes/Admin/Page.php:670
+msgid "Items per day"
+msgstr "Inlägg per dag"
+
+#: includes/Admin/Page.php:670
+msgid "Price"
+msgstr "Pris"
+
+#. translators: %s: price, for example $39
+#: includes/Admin/Page.php:678
+#, php-format
+msgid "%s per year"
+msgstr "%s per år"
+
+#: includes/Admin/Page.php:680
+msgid "Current plan"
+msgstr "Nuvarande plan"
+
+#: includes/Admin/Page.php:683
+msgid "Switch to this plan"
+msgstr "Byt till den här planen"
+
+#: includes/Admin/Page.php:683
+msgid "Upgrade"
+msgstr "Uppgradera"
+
+#: includes/Admin/Page.php:688
+msgid "Payments are handled securely by Paddle. Prices are in US dollars, taxes are added at checkout where they apply."
+msgstr "Betalningar hanteras säkert av Paddle. Priserna är i amerikanska dollar, och skatt läggs till i kassan där den gäller."
+
+#: includes/Admin/Page.php:690
+msgid "A plan change applies right away. You will see the exact amount and confirm it before anything is charged."
+msgstr "Planbyte gäller direkt. Du ser det exakta beloppet och bekräftar det innan något dras."
+
+#: includes/Admin/Page.php:692 includes/Admin/Page.php:776
+msgid "Manage subscription"
+msgstr "Hantera prenumeration"
+
+#: includes/Admin/Page.php:703
+msgid "Cancel and refund"
+msgstr "Avbryt och få pengarna tillbaka"
+
+#: includes/Admin/Page.php:705
+msgid "Refunds are available within 14 days of your first payment. You can stop the renewal at any time from Manage subscription."
+msgstr "Återbetalning är möjlig inom 14 dagar efter första betalningen. Du kan när som helst stoppa förnyelsen under ”Hantera prenumeration”."
+
+#: includes/Admin/Page.php:706 includes/Admin/Page.php:717
+msgid "Questions about a payment? Write to info@smokypost.com."
+msgstr "Frågor om betalningen? Mejla info@smokypost.com."
+
+#. translators: %s: date
+#: includes/Admin/Page.php:712
+#, php-format
+msgid "You can cancel and get a full refund until %s."
+msgstr "Du kan avbryta och få full återbetalning till och med %s."
+
+#: includes/Admin/Page.php:714
+msgid "Cancel and get a refund"
+msgstr "Avbryt och få återbetalning"
+
+#: includes/Admin/Page.php:714
+msgid "Cancel your subscription and get a full refund? Everything you paid is returned to the card you paid with. Nothing is deducted for the days you used. Your plan ends right away and this site goes back to Free."
+msgstr "Avbryta prenumerationen och få full återbetalning? Allt du har betalat återbetalas till kortet du betalade med. Inget dras för de dagar du har använt. Din plan upphör direkt och den här webbplatsen går tillbaka till Free."
+
+#: includes/Admin/Page.php:716
+msgid "Yes, cancel and refund"
+msgstr "Ja, avbryt och återbetala"
+
+#: includes/Admin/Page.php:730 includes/Admin/Page.php:814
+msgid "Starter"
+msgstr "Starter"
+
+#: includes/Admin/Page.php:731 includes/Admin/Page.php:815
+msgid "Pro"
+msgstr "Pro"
+
+#: includes/Admin/Page.php:732 includes/Admin/Page.php:816
+msgid "Agency"
+msgstr "Agency"
+
+#. translators: %s: plan name
+#: includes/Admin/Page.php:741
+#, php-format
+msgid "Switch to the %s plan"
+msgstr "Byt till %s"
+
+#. translators: 1: amount, for example $30.00, 2: card, for example Visa ending in 4242
+#: includes/Admin/Page.php:747
+#, php-format
+msgid "You will be charged %1$s today on the card you paid with (%2$s)."
+msgstr "Idag dras %1$s (%2$s) från kortet du betalade med."
+
+#. translators: %s: amount, for example $30.00
+#: includes/Admin/Page.php:750
+#, php-format
+msgid "You will be charged %s today on the card you paid with."
+msgstr "Idag dras %s från kortet du betalade med."
+
+#. translators: %s: date
+#: includes/Admin/Page.php:755
+#, php-format
+msgid "Your next renewal stays on %s."
+msgstr "Nästa förnyelse är kvar på %s."
+
+#: includes/Admin/Page.php:758
+msgid "Nothing is charged today."
+msgstr "Inget dras i dag."
+
+#. translators: %s: date
+#: includes/Admin/Page.php:762
+#, php-format
+msgid "The price difference is credited at your next renewal on %s."
+msgstr "Prisskillnaden tillgodoräknas vid nästa förnyelse, den %s."
+
+#: includes/Admin/Page.php:764
+msgid "The price difference is credited at your next renewal."
+msgstr "Prisskillnaden tillgodoräknas vid nästa förnyelse."
+
+#: includes/Admin/Page.php:767
+msgid "Shall we continue?"
+msgstr "Fortsätta?"
+
+#. translators: %s: amount, for example $30.00
+#: includes/Admin/Page.php:770
+#, php-format
+msgid "Yes, charge %s"
+msgstr "Ja, dra %s"
+
+#: includes/Admin/Page.php:770
+msgid "Yes, switch plan"
+msgstr "Ja, byt plan"
+
+#: includes/Admin/Page.php:774
+msgid "Want to pay with another card? Open Manage subscription, update your payment method, then switch plans again."
+msgstr "Vill du betala med ett annat kort? Öppna ”Hantera prenumeration”, uppdatera betalningssättet och byt sedan plan igen."
+
+#. translators: %s: last four digits of a card
+#: includes/Admin/Page.php:802
+#, php-format
+msgid "ending in %s"
+msgstr "som slutar på %s"
+
+#. translators: 1: card brand, for example Visa, 2: last four digits
+#: includes/Admin/Page.php:805
+#, php-format
+msgid "%1$s ending in %2$s"
+msgstr "%1$s som slutar på %2$s"
+
+#: includes/Admin/Page.php:813
+msgid "Free"
+msgstr "Free"
+
+#: includes/Admin/Page.php:831
+msgid "Sharing is paused until you confirm your e-mail address."
+msgstr "Delningen är pausad tills du bekräftar din e-postadress."
+
+#. translators: %d: days left
+#: includes/Admin/Page.php:833
+#, php-format
+msgid "Please confirm your e-mail address. Sharing pauses in %d day if you do not."
+msgid_plural "Please confirm your e-mail address. Sharing pauses in %d days if you do not."
+msgstr[0] "Bekräfta din e-postadress. Delningen pausas om %d dag om du inte gör det."
+msgstr[1] "Bekräfta din e-postadress. Delningen pausas om %d dagar om du inte gör det."
+
+#: includes/Admin/Page.php:836
+msgid "Send the link again"
+msgstr "Skicka länken igen"
+
+#: includes/Admin/Page.php:869
+msgid "Bluesky handle"
+msgstr "Bluesky-användarnamn"
+
+#: includes/Admin/Page.php:870
+msgid "App password"
+msgstr "Applösenord"
+
+#: includes/Admin/Page.php:871
+msgid "Use an app password, not your main Bluesky password. It can only be used by apps like this one and you can delete it in Bluesky at any time."
+msgstr "Använd ett applösenord, inte ditt vanliga Bluesky-lösenord. Det kan bara användas av appar som den här, och du kan ta bort det i Bluesky när som helst."
+
+#: includes/Admin/Page.php:872
+msgid "How do I get an app password?"
+msgstr "Hur får jag ett applösenord?"
+
+#. translators: %s: link to the Bluesky app password page
+#: includes/Admin/Page.php:873
+#, php-format
+msgid "Open %s (or Settings > Privacy and security > App passwords in Bluesky)."
+msgstr "Öppna %s (eller i Bluesky: Inställningar > Integritet och säkerhet > Applösenord)."
+
+#: includes/Admin/Page.php:874
+msgid "Click \"Add App Password\" and name it SmokyPost."
+msgstr "Klicka på ”Add App Password” och döp det till SmokyPost."
+
+#: includes/Admin/Page.php:875
+msgid "Copy the password Bluesky shows and paste it here."
+msgstr "Kopiera lösenordet som Bluesky visar och klistra in det här."
+
+#: includes/Admin/Page.php:881
+msgid "Your Mastodon server"
+msgstr "Din Mastodon-server"
+
+#: includes/Admin/Page.php:882
+msgid "The address of the server your account is on, for example mastodon.social, or your full name like @name@mastodon.social. You will approve SmokyPost on that server."
+msgstr "Adressen till servern där ditt konto finns, till exempel mastodon.social, eller ditt fullständiga namn, som @namn@mastodon.social. Du godkänner SmokyPost på den servern."
+
+#: includes/Admin/Page.php:921
+msgid "Signed in. Now choose the account this site shares to."
+msgstr "Du är inloggad. Välj nu kontot som den här webbplatsen ska dela på."
+
+#: includes/Admin/Page.php:923
+msgid "The sign-in was cancelled."
+msgstr "Inloggningen avbröts."
+
+#: includes/Admin/Page.php:924
+msgid "The sign-in did not work. Please try again."
+msgstr "Inloggningen misslyckades. Försök igen."
+
+#: includes/Admin/Page.php:940
+msgid "Good to know:"
+msgstr "Bra att veta:"
+
+#: includes/Admin/Page.php:940
+msgid "SmokyPost shares new posts automatically when they are published, including posts created by other plugins, importers or the REST API. You can turn automatic sharing on or off for each platform on its card below or under Settings."
+msgstr "SmokyPost delar nya inlägg automatiskt när de publiceras, även inlägg som skapas av andra tillägg, importverktyg eller REST API. Du kan slå på eller av automatisk delning för varje plattform på dess kort nedan eller under Inställningar."
+
+#: includes/Admin/Page.php:942
+msgid "Got it"
+msgstr "Jag förstår"
+
+#: includes/Admin/Page.php:942
+msgid "Open settings"
+msgstr "Öppna inställningar"
+
+#: includes/Admin/Page.php:954
+msgid "SmokyPost is almost ready."
+msgstr "SmokyPost är nästan klart."
+
+#: includes/Admin/Page.php:954
+msgid "Connect this site"
+msgstr "Anslut den här webbplatsen"
+
+#: includes/Admin/Page.php:967
+msgid "You are not allowed to do this."
+msgstr "Du har inte behörighet att göra det här."
+
+#: includes/Admin/Page.php:1013 includes/Admin/Page.php:1081
+msgid "Please enter a valid e-mail address."
+msgstr "Ange en giltig e-postadress."
+
+#: includes/Admin/Page.php:1015
+msgid "Please enter your password."
+msgstr "Ange ett lösenord."
+
+#: includes/Admin/Page.php:1017
+msgid "Please use a password with at least 8 characters."
+msgstr "Använd ett lösenord på minst 8 tecken."
+
+#: includes/Admin/Page.php:1019
+msgid "Please accept the Terms of Service and the Privacy Policy."
+msgstr "Godkänn användarvillkoren och integritetspolicyn."
+
+#: includes/Admin/Page.php:1042
+msgid "Your account is ready and this site is connected. We sent you an e-mail to confirm your address."
+msgstr "Ditt konto är klart och den här webbplatsen är ansluten. Vi har mejlat dig för att bekräfta din adress."
+
+#: includes/Admin/Page.php:1058
+msgid "Signed in. This site is connected."
+msgstr "Du är inloggad. Den här webbplatsen är ansluten."
+
+#: includes/Admin/Page.php:1064
+msgid "Please enter your license key."
+msgstr "Ange en licensnyckel."
+
+#: includes/Admin/Page.php:1075
+msgid "License activated. This site is connected."
+msgstr "Licensen är aktiverad. Den här webbplatsen är ansluten."
+
+#: includes/Admin/Page.php:1084
+msgid "If an account exists for this address, we sent a link to reset the password."
+msgstr "Om det finns ett konto för den här adressen har vi skickat en länk för att återställa lösenordet."
+
+#: includes/Admin/Page.php:1092
+msgid "This site is disconnected from SmokyPost."
+msgstr "Den här webbplatsen har kopplats från SmokyPost."
+
+#: includes/Admin/Page.php:1117
+msgid "Please choose valid dates."
+msgstr "Välj giltiga datum."
+
+#: includes/Admin/Page.php:1121
+msgid "The first date must be before the last date."
+msgstr "Det första datumet måste vara före det sista."
+
+#. translators: %d: number of items
+#: includes/Admin/Page.php:1135
+#, php-format
+msgid "Cleared %d item from the history."
+msgid_plural "Cleared %d items from the history."
+msgstr[0] "%d post rensades från historiken."
+msgstr[1] "%d poster rensades från historiken."
+
+#: includes/Admin/Page.php:1135
+msgid "There was nothing to clear. Items that are still being sent stay in the list."
+msgstr "Det fanns inget att rensa. Poster som fortfarande skickas finns kvar i listan."
+
+#: includes/Admin/Page.php:1143
+msgid "We sent the confirmation link again."
+msgstr "Vi har skickat bekräftelselänken igen."
+
+#: includes/Admin/Page.php:1193
+msgid "Connected. Now choose the account this site shares to."
+msgstr "Ansluten. Välj nu kontot som den här webbplatsen ska dela på."
+
+#: includes/Admin/Page.php:1228
+msgid "That plan change has expired. Please choose the plan again."
+msgstr "Det här planbytet har gått ut. Välj plan igen."
+
+#: includes/Admin/Page.php:1240
+msgid "Your plan is being changed. It can take a minute to show here."
+msgstr "Din plan byts. Det kan ta en minut innan det syns här."
+
+#: includes/Admin/Page.php:1257
+msgid "Your refund has been requested and your subscription is cancelled. Paddle returns the money to the card you paid with; it can take a few days to show."
+msgstr "Återbetalning har begärts och prenumerationen är avbruten. Paddle återbetalar till kortet du betalade med; det kan ta några dagar."
+
+#. translators: 1: page name, 2: platform name
+#: includes/Admin/Page.php:1279
+#, php-format
+msgid "%1$s is now connected to %2$s."
+msgstr "%1$s är nu anslutet till %2$s."
+
+#: includes/Admin/Page.php:1295 includes/Admin/Page.php:1305
+msgid "Settings saved."
+msgstr "Inställningarna sparades."
+
+#: includes/Admin/Page.php:1313
+msgid "SmokyPost test e-mail"
+msgstr "SmokyPost-testmejl"
+
+#: includes/Admin/Page.php:1314
+msgid "This is a test e-mail from SmokyPost. If you can read it, e-mails from SmokyPost reach you."
+msgstr "Det här är ett testmejl från SmokyPost. Om du kan läsa det når SmokyPosts mejl fram till dig."
+
+#. translators: %s: e-mail addresses
+#: includes/Admin/Page.php:1318
+#, php-format
+msgid "The test e-mail was sent to %s. Check your inbox and spam folder."
+msgstr "Testmejlet skickades till %s. Kontrollera din inkorg och skräppostmappen."
+
+#. translators: %s: error from the mail server
+#: includes/Admin/Page.php:1325
+#, php-format
+msgid "The test e-mail could not be sent: %s Check the server, port and encryption."
+msgstr "Testmejlet kunde inte skickas: %s Kontrollera server, port och kryptering."
+
+#: includes/Admin/Page.php:1326
+msgid "The test e-mail could not be sent. Check the server, port and encryption."
+msgstr "Testmejlet kunde inte skickas. Kontrollera server, port och kryptering."
+
+#. translators: %s: platform name
+#: includes/Admin/Page.php:1341
+#, php-format
+msgid "Automatic sharing to %s is on."
+msgstr "Automatisk delning på %s är på."
+
+#. translators: %s: platform name
+#: includes/Admin/Page.php:1343
+#, php-format
+msgid "Automatic sharing to %s is off."
+msgstr "Automatisk delning på %s är av."
+
+#: includes/Admin/PostList.php:59 includes/Status.php:60
+msgid "Not shared"
+msgstr "Inte delat"
+
+#: includes/Admin/PostList.php:100 includes/Admin/PostList.php:113
+msgid "Share with SmokyPost"
+msgstr "Dela med SmokyPost"
+
+#. translators: %d: number of items
+#: includes/Admin/PostList.php:154
+#, php-format
+msgid "%d item queued for sharing."
+msgid_plural "%d items queued for sharing."
+msgstr[0] "%d inlägg köades för delning."
+msgstr[1] "%d inlägg köades för delning."
+
+#. translators: %d: number of items
+#: includes/Admin/PostList.php:157
+#, php-format
+msgid "%d item could not be shared; see the SmokyPost column."
+msgid_plural "%d items could not be shared; see the SmokyPost column."
+msgstr[0] "%d inlägg kunde inte delas; se kolumnen SmokyPost."
+msgstr[1] "%d inlägg kunde inte delas; se kolumnen SmokyPost."
+
+#: includes/Api.php:85
+msgid "This site is not connected to SmokyPost yet."
+msgstr "Den här webbplatsen är inte ansluten till SmokyPost ännu."
+
+#: includes/Editor.php:117 includes/Editor.php:124
+msgid "Image to share"
+msgstr "Bild att dela"
+
+#: includes/Editor.php:118
+msgid "Chosen for sharing"
+msgstr "Vald för delning"
+
+#: includes/Editor.php:119
+msgid "Choose another image"
+msgstr "Välj en annan bild"
+
+#: includes/Editor.php:120
+msgid "Choose an image"
+msgstr "Välj en bild"
+
+#: includes/Editor.php:121
+msgid "Use the automatic choice"
+msgstr "Använd automatiskt val"
+
+#: includes/Editor.php:122
+msgid "Images in this item:"
+msgstr "Bilder i det här inlägget:"
+
+#: includes/Editor.php:123
+msgid "Use this image"
+msgstr "Använd den här bilden"
+
+#: includes/Editor.php:125
+msgid "Updating this item does not share it again. Click \"Share now\" to share it."
+msgstr "Att uppdatera ett inlägg delar det inte igen. Klicka på ”Dela nu” för att dela det."
+
+#: includes/Editor.php:126
+msgid "Featured image"
+msgstr "Inläggets utvalda bild"
+
+#: includes/Editor.php:127
+msgid "First image in the content (this item has no featured image)"
+msgstr "Första bilden i innehållet (det här inlägget har ingen utvald bild)"
+
+#: includes/Editor.php:128
+msgid "Default image from the SmokyPost settings (this item has no image)"
+msgstr "Standardbilden från SmokyPosts inställningar (det här inlägget har ingen bild)"
+
+#: includes/Editor.php:130
+msgid "Instagram needs an image, and this item has none. Add a featured image or an image in the content, otherwise it is not shared to Instagram."
+msgstr "Instagram kräver en bild och det här inlägget har ingen. Lägg till en utvald bild eller en bild i innehållet, annars delas det inte på Instagram."
+
+#: includes/Editor.php:135
+msgid "Share at (optional)"
+msgstr "Dela vid (valfritt)"
+
+#. translators: 1: example date and time, 2: time zone name
+#: includes/Editor.php:137
+#, php-format
+msgid "Format: %1$s, in your site time (%2$s). Leave empty to share right away."
+msgstr "Format: %1$s, i din webbplats tid (%2$s). Lämna tomt för att dela direkt."
+
+#: includes/Editor.php:138
+msgid "This is not a valid date and time. Use the format YYYY-MM-DD HH:MM, for example 2026-12-31 18:30."
+msgstr "Det där ser inte ut som ett datum och en tid. Använd formatet ÅÅÅÅ-MM-DD TT:MM, till exempel 2026-12-31 18:30."
+
+#: includes/Editor.php:139
+msgid "Schedule"
+msgstr "Schemalägg"
+
+#: includes/Editor.php:140
+msgid "Cancel the scheduled share"
+msgstr "Avbryt schemalagd delning"
+
+#: includes/Editor.php:147 includes/Editor.php:478
+msgid "Delete shared posts"
+msgstr "Ta bort delade inlägg"
+
+#: includes/Editor.php:148 includes/Editor.php:480
+msgid "Yes, delete"
+msgstr "Ja, ta bort"
+
+#: includes/Editor.php:266
+msgid "Save the item to apply the change."
+msgstr "Spara inlägget för att tillämpa ändringen."
+
+#: includes/Editor.php:352 includes/Editor.php:415 includes/Editor.php:530
+msgid "You are not allowed to share this item."
+msgstr "Du har inte behörighet att dela det här inlägget."
+
+#: includes/Editor.php:378
+msgid "Nothing to share: choose at least one connected platform."
+msgstr "Inget att dela: välj minst en ansluten plattform."
+
+#: includes/Editor.php:383
+msgid "Sending… You can leave this page, sharing continues in the background."
+msgstr "Skickar … Du kan lämna den här sidan, delningen fortsätter i bakgrunden."
+
+#. translators: %s: date and time
+#: includes/Editor.php:388
+#, php-format
+msgid "Scheduled for %s. You can leave this page."
+msgstr "Schemalagd till %s. Du kan lämna den här sidan."
+
+#: includes/Editor.php:419
+msgid "Nothing is scheduled for this item."
+msgstr "Inget är schemalagt för det här inlägget."
+
+#: includes/Editor.php:437
+msgid "The scheduled share is cancelled."
+msgstr "Den schemalagda delningen avbröts."
+
+#: includes/Editor.php:437
+msgid "Nothing to cancel: it was already sent."
+msgstr "Inget att avbryta: den har redan skickats."
+
+#. translators: %s: platform names, for example "Facebook, Bluesky"
+#: includes/Editor.php:456
+#, php-format
+msgid "Delete the shared posts from %s? The item itself stays on your site."
+msgstr "Ta bort de delade inläggen från %s? Själva inlägget finns kvar på din webbplats."
+
+#. translators: %s: platform names, for example "Instagram"
+#: includes/Editor.php:459 includes/Editor.php:511
+#, php-format
+msgid "Posts on %s cannot be deleted from here. Delete them in the app yourself."
+msgstr "Inlägg på %s kan inte tas bort härifrån. Ta bort dem själv i appen."
+
+#: includes/Editor.php:493
+msgid "You are not allowed to change this item."
+msgstr "Du har inte behörighet att ändra det här inlägget."
+
+#: includes/Editor.php:499
+msgid "There is nothing to delete for this item."
+msgstr "Det finns inget att ta bort för det här inlägget."
+
+#: includes/Editor.php:508
+msgid "Deleting… You can leave this page, it continues in the background."
+msgstr "Tar bort … Du kan lämna den här sidan, borttagningen fortsätter i bakgrunden."
+
+#: includes/Editor.php:550
+msgid "Finished, but something failed. See below."
+msgstr "Klart, men något misslyckades. Se nedan."
+
+#: includes/Editor.php:550
+msgid "Done."
+msgstr "Klart."
+
+#. translators: %s: platform name
+#: includes/Notifier.php:87
+#, php-format
+msgid "Connect %s again"
+msgstr "Anslut %s igen"
+
+#. translators: 1: platform name, 2: link
+#: includes/Notifier.php:89
+#, php-format
+msgid "The connection to %1$s has expired, so new items cannot be shared there. Connect it again: %2$s"
+msgstr "Anslutningen till %1$s har gått ut, så nya inlägg kan inte delas där. Anslut igen: %2$s"
+
+#. translators: %s: item title
+#: includes/Notifier.php:102
+#, php-format
+msgid "Could not share: %s"
+msgstr "Kunde inte dela: %s"
+
+#. translators: %s: item title
+#: includes/Notifier.php:104
+#, php-format
+msgid "\"%s\" could not be shared everywhere:"
+msgstr "”%s” kunde inte delas överallt:"
+
+#. translators: %s: item title
+#: includes/Notifier.php:108
+#, php-format
+msgid "Shared: %s"
+msgstr "Delat: %s"
+
+#. translators: %s: item title
+#: includes/Notifier.php:110
+#, php-format
+msgid "\"%s\" was shared:"
+msgstr "”%s” delades:"
+
+#: includes/Notifier.php:124
+msgid "SmokyPost: daily limit reached"
+msgstr "SmokyPost: dagsgränsen är nådd"
+
+#: includes/Notifier.php:125
+msgid "The daily limit of your plan is reached. The remaining items are shared after midnight."
+msgstr "Dagsgränsen för din plan är nådd. Resterande inlägg delas efter midnatt."
+
+#. translators: %s: link
+#: includes/Notifier.php:175
+#, php-format
+msgid "Open the item: %s"
+msgstr "Öppna inlägget: %s"
+
+#. translators: %s: link
+#: includes/Notifier.php:177
+#, php-format
+msgid "History: %s"
+msgstr "Historik: %s"
+
+#. translators: 1: site name, 2: link
+#: includes/Notifier.php:224
+#, php-format
+msgid "You get this e-mail because SmokyPost notifications are on for %1$s. Change who gets them, or turn them off, here: %2$s"
+msgstr "Du får det här mejlet eftersom SmokyPosts aviseringar är aktiverade för %1$s. Ändra vem som får dem, eller stäng av dem, här: %2$s"
+
+#: includes/Sharer.php:55
+msgid "Every 5 minutes (SmokyPost)"
+msgstr "Var 5:e minut (SmokyPost)"
+
+#: includes/Sharer.php:494
+msgid "Not shared to Instagram: Instagram needs an image, and this item has none. Add a featured image or an image in the content."
+msgstr "Inte delat på Instagram: Instagram kräver en bild och det här inlägget har ingen. Lägg till en utvald bild eller en bild i innehållet."
+
+#: includes/Status.php:60
+msgid "Not shared: needs an image"
+msgstr "Inte delat: kräver en bild"
+
+#: includes/Status.php:74
+msgid "Shared (delete it in the app yourself)"
+msgstr "Delat (ta bort själv i appen)"
+
+#: includes/Status.php:74
+msgid "Shared"
+msgstr "Delat"
+
+#. translators: %s: reason
+#: includes/Status.php:76
+#, php-format
+msgid "Failed: %s"
+msgstr "Fel: %s"
+
+#: includes/Status.php:76
+msgid "Failed"
+msgstr "Fel"
+
+#: includes/Status.php:78
+msgid "Cancelled"
+msgstr "Avbrutet"
+
+#: includes/Status.php:81
+msgid "Removing…"
+msgstr "Tar bort …"
+
+#: includes/Status.php:83
+msgid "Removed"
+msgstr "Borttaget"
+
+#. translators: %s: reason
+#: includes/Status.php:85
+#, php-format
+msgid "Could not be removed: %s"
+msgstr "Borttagningen misslyckades: %s"
+
+#: includes/Status.php:85
+msgid "Could not be removed"
+msgstr "Borttagningen misslyckades"
+
+#: includes/Status.php:90
+msgid "Waiting: daily limit reached, shares after midnight"
+msgstr "Väntar: dagsgränsen är nådd, delas efter midnatt"
+
+#: includes/Status.php:93
+msgid "Waiting: please confirm your e-mail address"
+msgstr "Väntar: bekräfta din e-postadress"
+
+#. translators: %s: date and time
+#: includes/Status.php:98
+#, php-format
+msgid "Scheduled for %s"
+msgstr "Schemalagt till %s"
+
+#: includes/Status.php:102
+msgid "Retrying soon"
+msgstr "Försöker snart igen"
+
+#: includes/Status.php:102
+msgid "Queued"
+msgstr "I kö"
+
+#: includes/Status.php:114 includes/Status.php:115 includes/Status.php:116
+msgid "The connection has expired. Connect again in SmokyPost."
+msgstr "Anslutningen har gått ut. Anslut igen i SmokyPost."
+
+#: includes/Status.php:117
+msgid "No page or account is selected for this platform."
+msgstr "Ingen sida eller inget konto är valt för den här plattformen."
+
+#: includes/Status.php:118
+msgid "This site is no longer connected to SmokyPost."
+msgstr "Den här webbplatsen är inte längre ansluten till SmokyPost."
+
+#: includes/Status.php:119
+msgid "Your SmokyPost account or license is not active."
+msgstr "Ditt SmokyPost-konto eller din licens är inte aktiv."
+
+#: includes/Status.php:120
+msgid "This platform is not included in your plan."
+msgstr "Den här plattformen ingår inte i din plan."
+
+#: includes/Status.php:121
+msgid "The platform did not allow the post. Check that you are still an admin of the page and connect again."
+msgstr "Plattformen tillät inte publiceringen. Kontrollera att du fortfarande är administratör för sidan och anslut igen."
+
+#: includes/Status.php:122
+msgid "The platform blocked this post."
+msgstr "Plattformen blockerade det här inlägget."
+
+#: includes/Status.php:123
+msgid "The platform rejected this post as a duplicate."
+msgstr "Plattformen avvisade det här inlägget som en dubblett."
+
+#: includes/Status.php:124
+msgid "Instagram needs an image. Add a featured image."
+msgstr "Instagram kräver en bild. Lägg till en utvald bild i inlägget."
+
+#: includes/Status.php:125
+msgid "The platform could not use the image. Try a JPEG or PNG image at least 600 pixels wide."
+msgstr "Plattformen kunde inte använda bilden. Prova en JPEG- eller PNG-bild som är minst 600 pixlar bred."
+
+#: includes/Status.php:126
+msgid "The image could not be read. Use a JPEG, PNG or WebP image."
+msgstr "Bilden kunde inte läsas. Använd JPEG, PNG eller WebP."
+
+#: includes/Status.php:127
+msgid "The image is too small. Use an image at least 600 pixels wide."
+msgstr "Bilden är för liten. Använd en bild som är minst 600 pixlar bred."
+
+#: includes/Status.php:128
+msgid "SmokyPost could not download the image from your site."
+msgstr "SmokyPost kunde inte hämta bilden från din webbplats."
+
+#: includes/Status.php:129
+msgid "The image could not be prepared."
+msgstr "Bilden kunde inte förberedas."
+
+#: includes/Status.php:130
+msgid "The platform was not available. SmokyPost tried several times."
+msgstr "Plattformen var otillgänglig. SmokyPost försökte flera gånger."
+
+#: includes/Status.php:131
+msgid "The platform could not be reached. SmokyPost tried several times."
+msgstr "Det gick inte att nå plattformen. SmokyPost försökte flera gånger."
+
+#: includes/Status.php:132
+msgid "Instagram did not accept the image in time."
+msgstr "Instagram godtog inte bilden i tid."
+
+#: includes/Status.php:133
+msgid "The platform rejected the post."
+msgstr "Plattformen avvisade inlägget."
+
+#: includes/Status.php:134
+msgid "The account that published this post is no longer connected. Delete the post on the platform yourself."
+msgstr "Kontot som publicerade det här inlägget är inte längre anslutet. Ta bort inlägget själv på plattformen."
+
+#: includes/Status.php:135
+msgid "This post cannot be deleted automatically. Delete it on the platform yourself."
+msgstr "Det här inlägget kan inte tas bort automatiskt. Ta bort det själv på plattformen."
+
+#. Name of the plugin
+#: smokypost.php:3
+msgid "SmokyPost – Social Auto Share for Posts and Pages"
+msgstr "SmokyPost – Automatisk delning på sociala medier för inlägg och sidor"
+
+#. Description of the plugin
+#: smokypost.php:5
+msgid "Automatically share new and old posts and pages to your social media accounts. No developer accounts or API keys needed."
+msgstr "Dela nya och gamla inlägg och sidor automatiskt på dina konton i sociala medier. Inga utvecklarkonton eller API-nycklar behövs."

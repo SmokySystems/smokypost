@@ -1,0 +1,330 @@
+3b6e56|Verbinden Sie Ihre Seiten, um diesen Beitrag zu teilen.
+c27b34|SmokyPost öffnen
+bc871d|Wird noch gesendet. Schauen Sie in einigen Minuten im Tab „Verlauf“ nach.
+118c47|SmokyPost ist nicht erreichbar. Bitte versuchen Sie es in einigen Minuten erneut.
+b090f4|Jetzt teilen auf:
+d5c6d5|Bei Veröffentlichung teilen auf:
+b82400|erneute Verbindung nötig
+016408|Eigene Nachricht (optional)
+06651c|Leer lassen, um Ihre Vorlage zu verwenden.
+1d6da0|Wird bei der Veröffentlichung auf den markierten Plattformen geteilt.
+5b18fc|Bei der Veröffentlichung automatisch geteilt.
+04b478|Jetzt teilen
+f4f707|Einstellungen
+4d01e8|Wird gesendet …
+834915|Wird gelöscht …
+34b1ef|Eine neuere Version von SmokyPost ist erforderlich. Bitte aktualisieren Sie das Plugin.
+ed49a3|Plattformen
+16d2b3|Verlauf
+08bd40|Konto
+3b6c2b|Nutzungsbedingungen
+fa2ead|Datenschutzerklärung
+777353|Teilen Sie Ihre Beiträge und Seiten automatisch in Ihren Social-Media-Konten. Erstellen Sie ein kostenloses Konto oder melden Sie sich an, um diese Website zu verbinden.
+e05afd|Beim Verbinden sendet diese Website ihre Adresse, die WordPress- und PHP-Version, die Sprache und die Zeitzone an den SmokyPost-Dienst (www.smokypost.com). Der Inhalt jedes Beitrags, den Sie teilen, wird beim Teilen gesendet.
+8ea211|Kostenloses Konto erstellen
+1e884e|E-Mail
+6c2c15|Passwort (mindestens 8 Zeichen)
+9ec73e|Ich akzeptiere die %1$s und die %2$s.
+5853d4|Konto erstellen und verbinden
+3b2aee|Ich habe bereits ein Konto
+dc647e|Passwort
+ac6560|Anmelden und verbinden
+422172|Stattdessen Lizenzschlüssel verwenden
+52f88a|Mit Lizenzschlüssel verbinden
+01a569|Passwort vergessen?
+733ae3|Link zum Zurücksetzen senden
+0efe04|Verbinden Sie jede Plattform und wählen Sie die Seite oder das Konto, auf dem diese Website teilt.
+43b540|In Ihrem Tarif nicht enthalten.
+4e7193|Vorübergehend nicht verfügbar. Bitte versuchen Sie es später erneut.
+b9ba1a|Die Verbindung ist abgelaufen. Verbinden Sie sich erneut, um weiter zu teilen.
+cf0b67|Erneut verbinden
+f4ec5f|Ändern
+1063e3|Entfernen
+7dcd97|Nicht verbunden.
+49ab28|Verbinden
+2bf7da|Aus Ihrem Facebook-Login auswählen
+6330d1|Veröffentlicht Ihren Text und einen Link auf einer Ihrer Facebook-Seiten. Sie melden sich mit Facebook an.
+e33490|Erfordert ein professionelles Instagram-Konto, das mit einer Facebook-Seite verknüpft ist. Sie melden sich mit Facebook an.
+1abbcd|Veröffentlicht Ihren Text und einen Link auf einer Ihrer LinkedIn-Unternehmensseiten. Sie melden sich mit LinkedIn an.
+328737|Veröffentlicht Ihren Text, Hashtags und eine Link-Vorschau mit Bild in Ihrem Bluesky-Konto. Sie verbinden sich mit Ihrem Handle und einem App-Passwort.
+9d078b|Veröffentlicht Ihren Text, Hashtags und einen Link in Ihrem Mastodon-Konto auf einem beliebigen Mastodon-Server. Sie genehmigen SmokyPost auf Ihrem eigenen Server.
+b2d2d7|Veröffentlicht Ihren Text und eine Link-Vorschau in Ihrem Threads-Profil. Sie melden sich mit Threads an.
+5f2e71|Veröffentlicht Ihren Text, Tags und eine Link-Vorschau mit Bild in einem Ihrer Tumblr-Blogs. Sie melden sich mit Tumblr an.
+b4f827|Automatisches Teilen:
+521c36|An
+d15305|Aus
+8e61d9|Ausschalten
+d154a5|Einschalten
+647bd1|Neue Beiträge werden hier bei der Veröffentlichung geteilt.
+7f9833|Wird nur geteilt, wenn Sie auf „Jetzt teilen“ klicken.
+bb7926|Sie sind angemeldet, aber Ihre Konten konnten nicht aufgelistet werden: %s
+f915a9|Erneut versuchen
+ea4788|Abbrechen
+0bfd8d|Verbinden Sie zuerst Ihr Konto.
+f85f84|Melden Sie sich zuerst an, um Ihre Seiten zu sehen.
+f595ba|Für diese Anmeldung wurde keine Seite und kein Konto mit Veröffentlichungsrechten gefunden.
+19c3d3|Prüfen Sie, ob Ihr Instagram-Konto ein professionelles Konto und mit einer Ihrer Facebook-Seiten verknüpft ist.
+5e5f56|(über %s)
+f64a44|Dieses Konto verwenden
+6c803a|Fehlt eine Seite?
+09a44d|Mit einem anderen Konto anmelden
+04d144|Inhaltstypen
+725f6c|Nur diese Typen werden automatisch geteilt und erhalten das SmokyPost-Feld im Editor.
+6b0402|Automatisches Teilen
+280dc2|Neue Beiträge bei der Veröffentlichung automatisch teilen auf:
+b3b6ce|nicht verbunden
+daf9e6|Entfernen Sie das Häkchen bei einer Plattform, um das automatische Teilen dort zu beenden. Entfernen Sie alle Häkchen, um das automatische Teilen auszuschalten. Mit „Jetzt teilen“ im Editor oder in der Beitragsliste können Sie jeden Beitrag weiterhin selbst teilen, und im Editor können Sie eine Plattform für einen einzelnen Beitrag abwählen.
+be518a|Automatisch erstellte Beiträge
+766287|Auch Beiträge teilen, die von anderen Plugins, Importern, der REST-API oder WP-CLI veröffentlicht werden
+f5c261|Standardmäßig aktiviert. Per Code erstellte Beiträge (zum Beispiel von einem Autoblog oder Feed-Importer) werden auf den oben genannten Plattformen geteilt. Schalten Sie dies aus, wenn Sie nur teilen möchten, was Sie im Editor veröffentlichen.
+1aaf15|Importierte Beiträge überspringen, die älter sind als
+73cddd|Stunden
+29327b|Beiträge löschen
+295b79|Geteilte Posts löschen, wenn der Beitrag gelöscht wird
+0d9342|Standardmäßig aus. Wenn Sie einen Beitrag in den Papierkorb verschieben oder löschen, entfernt SmokyPost auch seine Posts auf Facebook, LinkedIn, Bluesky, Mastodon, Threads und Tumblr. Instagram erlaubt anderen Apps nicht, Posts zu löschen, diese müssen Sie in der Instagram-App löschen. Wenn Sie einen Beitrag aus dem Papierkorb wiederherstellen, kommen die Social-Media-Posts nicht zurück.
+cb393c|Nachrichtenvorlage
+6c08da|Platzhalter:
+ffe7a1|Der Link wird von jeder Plattform als Vorschaukarte hinzugefügt; auf Instagram wird er am Ende des Textes eingefügt.
+caebe1|Beitrags-Tags für {hashtags} in Hashtags umwandeln
+f784d5|Standardbild
+b89f80|Wird verwendet, wenn ein Beitrag weder ein Beitragsbild noch ein Bild im Inhalt hat. Instagram benötigt immer ein Bild.
+ef1486|Geteilte Beiträge des letzten %d Tages. ¦ Geteilte Beiträge der letzten %d Tage.
+447497|Datum
+7d74f3|Beitrag
+8eea62|Ergebnis
+902952|Noch nichts geteilt.
+5da05b|Verlauf löschen
+5ca182|Den Verlauf für die gewählten Daten oder komplett löschen? Was bereits geteilt wurde, bleibt in Ihren Social-Media-Konten. Gelöschte Einträge erscheinen nicht mehr in dieser Liste.
+5da618|Von
+e12167|Bis
+95b928|Lassen Sie das Datum leer, um beim ersten Eintrag zu beginnen oder heute zu enden.
+17cddf|Diese Daten löschen
+808768|Gesamten Verlauf löschen
+03727a|Tag
+7cbb88|Monat
+537c66|Jahr
+0b6cbd|Tarif
+a77d15|Lizenzschlüssel
+6db829|Heute geteilt
+b362bb|%1$d von %2$d Beiträgen
+494eb5|Diese Website
+efb548|Diese Website trennen
+4fdc17|Diese Website von SmokyPost trennen? Das Teilen stoppt, bis Sie sich erneut anmelden.
+e54633|Ja, trennen
+e2e646|So funktioniert Pro
+377a68|Bezahlen Sie sicher über Paddle.
+fbc905|Laden Sie SmokyPost Pro mit der Schaltfläche unten herunter.
+7f189b|Kehren Sie zu dieser Seite zurück. Eine Schaltfläche „SmokyPost Pro herunterladen“ erscheint, und wir senden Ihnen denselben Link per E-Mail.
+53f719|Installieren Sie es unter Plugins > Installieren > Plugin hochladen und aktivieren Sie es. Ihre Lizenz wird automatisch erkannt, Sie müssen keinen Schlüssel eingeben.
+eb475d|SmokyPost Pro ist ein zweites Plugin, das mit SmokyPost zusammenarbeitet: Lassen Sie beide aktiv. Es dauert etwa eine Minute. Volle Rückerstattung innerhalb von 14 Tagen nach Ihrer ersten Zahlung.
+9fa65e|Ihre Zahlung wird hier ungewöhnlich langsam angezeigt. Laden Sie diese Seite in einigen Minuten neu. Wenn Ihr Tarif nach einer Stunde noch Free ist, schreiben Sie an info@smokypost.com.
+bec297|Zahlung eingegangen. Ihr Tarif wird gleich aktiv, diese Seite prüft automatisch erneut.
+2c80f9|SmokyPost Pro
+b81f3c|SmokyPost Pro %s ist installiert und aktiv.
+d25d87|Die Einstellungen finden Sie unter SmokyPost > Pro, den Kalender unter SmokyPost > Kalender. Es aktualisiert sich selbst.
+85e962|SmokyPost Pro ist installiert, aber nicht aktiv. Aktivieren Sie es auf der Seite „Plugins“.
+a3bd33|Plugins öffnen
+386940|SmokyPost Pro herunterladen
+500b65|Der Link ist eine Stunde lang gültig. Sie können jederzeit hierher zurückkehren und einen neuen abrufen.
+e9f36d|Etwas ist schiefgelaufen. Bitte versuchen Sie es erneut.
+6956cc|Tarife
+3faa64|Websites
+a97de4|Beiträge pro Tag
+360114|Preis
+124864|%s pro Jahr
+441f54|Aktueller Tarif
+690969|Zu diesem Tarif wechseln
+f68358|Upgrade
+5d6316|Zahlungen werden sicher über Paddle abgewickelt. Die Preise sind in US-Dollar angegeben, Steuern werden an der Kasse hinzugefügt, wo sie anfallen.
+be0482|Ein Tarifwechsel gilt sofort. Sie sehen den genauen Betrag und bestätigen ihn, bevor etwas abgebucht wird.
+97788c|Abo verwalten
+1a7066|Kündigen und erstatten
+b2c3ec|Eine Rückerstattung ist innerhalb von 14 Tagen nach Ihrer ersten Zahlung möglich. Sie können die Verlängerung jederzeit unter „Abo verwalten“ stoppen.
+b1c55c|Fragen zu einer Zahlung? Schreiben Sie an info@smokypost.com.
+a0d458|Sie können bis zum %s kündigen und erhalten den vollen Betrag zurück.
+361f28|Kündigen und Rückerstattung erhalten
+9b3448|Abo kündigen und den vollen Betrag zurückerhalten? Alles, was Sie bezahlt haben, wird auf die Karte zurückgebucht, mit der Sie bezahlt haben. Für die genutzten Tage wird nichts abgezogen. Ihr Tarif endet sofort und diese Website wechselt zu Free.
+1e81d7|Ja, kündigen und erstatten
+ee6085|Starter
+abd900|Pro
+75ec3e|Agency
+0222db|Zum Tarif %s wechseln
+71d986|Heute werden %1$s von der Karte abgebucht, mit der Sie bezahlt haben (%2$s).
+a503a7|Heute werden %s von der Karte abgebucht, mit der Sie bezahlt haben.
+237ece|Ihre nächste Verlängerung bleibt am %s.
+cb540f|Heute wird nichts abgebucht.
+1d46af|Die Preisdifferenz wird bei Ihrer nächsten Verlängerung am %s gutgeschrieben.
+937bcf|Die Preisdifferenz wird bei Ihrer nächsten Verlängerung gutgeschrieben.
+bd4a14|Fortfahren?
+cd1df7|Ja, %s abbuchen
+6abb41|Ja, Tarif wechseln
+17129e|Möchten Sie mit einer anderen Karte zahlen? Öffnen Sie „Abo verwalten“, aktualisieren Sie Ihre Zahlungsmethode und wechseln Sie dann erneut den Tarif.
+d4192d|endet auf %s
+d4fbfe|%1$s, endet auf %2$s
+b24ce0|Free
+9086fc|Das Teilen ist pausiert, bis Sie Ihre E-Mail-Adresse bestätigen.
+dbf504|Bitte bestätigen Sie Ihre E-Mail-Adresse. Das Teilen pausiert in %d Tag, wenn Sie das nicht tun. ¦ Bitte bestätigen Sie Ihre E-Mail-Adresse. Das Teilen pausiert in %d Tagen, wenn Sie das nicht tun.
+933999|Link erneut senden
+feb3a3|Bluesky-Handle
+65255b|App-Passwort
+63d12d|Verwenden Sie ein App-Passwort, nicht Ihr Haupt-Passwort für Bluesky. Es kann nur von Apps wie dieser verwendet werden, und Sie können es jederzeit in Bluesky löschen.
+4adaf4|Wie erhalte ich ein App-Passwort?
+5c312e|Öffnen Sie %s (oder in Bluesky Einstellungen > Datenschutz und Sicherheit > App-Passwörter).
+9a01be|Klicken Sie auf „Add App Password“ und nennen Sie es SmokyPost.
+61e507|Kopieren Sie das von Bluesky angezeigte Passwort und fügen Sie es hier ein.
+bd4bac|Ihr Mastodon-Server
+9279eb|Die Adresse des Servers, auf dem Ihr Konto liegt, zum Beispiel mastodon.social, oder Ihr vollständiger Name wie @name@mastodon.social. Sie genehmigen SmokyPost auf diesem Server.
+f8b4c2|Angemeldet. Wählen Sie nun das Konto, auf dem diese Website teilt.
+5bb110|Die Anmeldung wurde abgebrochen.
+262cb9|Die Anmeldung hat nicht funktioniert. Bitte versuchen Sie es erneut.
+bcbbc8|Gut zu wissen:
+914602|SmokyPost teilt neue Beiträge automatisch bei der Veröffentlichung, auch Beiträge, die von anderen Plugins, Importern oder der REST-API erstellt werden. Das automatische Teilen können Sie für jede Plattform auf der Karte unten oder unter „Einstellungen“ ein- oder ausschalten.
+78e981|Verstanden
+bae082|Einstellungen öffnen
+8beb61|SmokyPost ist fast fertig.
+4f4267|Diese Website verbinden
+2835b7|Dazu sind Sie nicht berechtigt.
+811723|Bitte geben Sie eine gültige E-Mail-Adresse ein.
+4b52c9|Bitte geben Sie Ihr Passwort ein.
+cacd72|Bitte verwenden Sie ein Passwort mit mindestens 8 Zeichen.
+270228|Bitte akzeptieren Sie die Nutzungsbedingungen und die Datenschutzerklärung.
+c570e4|Ihr Konto ist bereit und diese Website ist verbunden. Wir haben Ihnen eine E-Mail zur Bestätigung Ihrer Adresse gesendet.
+e4912d|Angemeldet. Diese Website ist verbunden.
+a41cc2|Bitte geben Sie Ihren Lizenzschlüssel ein.
+1448bb|Lizenz aktiviert. Diese Website ist verbunden.
+025e69|Falls für diese Adresse ein Konto existiert, haben wir einen Link zum Zurücksetzen des Passworts gesendet.
+19d2aa|Diese Website ist von SmokyPost getrennt.
+ee3077|Bitte wählen Sie gültige Daten.
+12381e|Das erste Datum muss vor dem letzten Datum liegen.
+fd4f8f|%d Eintrag aus dem Verlauf gelöscht. ¦ %d Einträge aus dem Verlauf gelöscht.
+26d353|Es gab nichts zu löschen. Beiträge, die noch gesendet werden, bleiben in der Liste.
+b9a702|Wir haben den Bestätigungslink erneut gesendet.
+12bb90|Verbunden. Wählen Sie nun das Konto, auf dem diese Website teilt.
+c4effa|Dieser Tarifwechsel ist abgelaufen. Bitte wählen Sie den Tarif erneut.
+5e77be|Ihr Tarif wird geändert. Es kann eine Minute dauern, bis das hier erscheint.
+d8d639|Ihre Rückerstattung wurde angefordert und Ihr Abo gekündigt. Paddle überweist das Geld auf die Karte zurück, mit der Sie bezahlt haben; es kann einige Tage dauern, bis es erscheint.
+82bf3a|%1$s ist jetzt mit %2$s verbunden.
+9a7e58|Einstellungen gespeichert.
+5677c1|Automatisches Teilen auf %s ist eingeschaltet.
+fa4524|Automatisches Teilen auf %s ist ausgeschaltet.
+0a2f60|Nicht geteilt
+498cc4|Mit SmokyPost teilen
+90929c|%d Beitrag zum Teilen eingereiht. ¦ %d Beiträge zum Teilen eingereiht.
+81b7e8|%d Beitrag konnte nicht geteilt werden; siehe Spalte „SmokyPost“. ¦ %d Beiträge konnten nicht geteilt werden; siehe Spalte „SmokyPost“.
+f75f84|Diese Website ist noch nicht mit SmokyPost verbunden.
+10112f|Bild zum Teilen
+e57b53|Zum Teilen ausgewählt
+85eb5a|Anderes Bild wählen
+7cd243|Bild auswählen
+f6b9f8|Automatische Auswahl verwenden
+4c8d06|Bilder in diesem Beitrag:
+4f63a3|Dieses Bild verwenden
+e6fce5|Das Aktualisieren dieses Beitrags teilt ihn nicht erneut. Klicken Sie auf „Jetzt teilen“, um ihn zu teilen.
+52beb6|Beitragsbild
+860133|Erstes Bild im Inhalt (dieser Beitrag hat kein Beitragsbild)
+662aa1|Standardbild aus den SmokyPost-Einstellungen (dieser Beitrag hat kein Bild)
+c28cf8|Instagram benötigt ein Bild, und dieser Beitrag hat keins. Fügen Sie ein Beitragsbild oder ein Bild im Inhalt hinzu, sonst wird er nicht auf Instagram geteilt.
+1b1025|Teilen am (optional)
+d9c5f4|Format: %1$s, in Ihrer Website-Zeit (%2$s). Leer lassen, um sofort zu teilen.
+03f222|Das ist kein gültiges Datum mit Uhrzeit. Verwenden Sie das Format JJJJ-MM-TT HH:MM, zum Beispiel 2026-12-31 18:30.
+25f734|Planen
+fe3b13|Geplantes Teilen abbrechen
+87b913|Geteilte Posts löschen
+b21c60|Ja, löschen
+165825|Speichern Sie den Beitrag, um die Änderung zu übernehmen.
+9fb721|Sie dürfen diesen Beitrag nicht teilen.
+d0bfeb|Nichts zu teilen: Wählen Sie mindestens eine verbundene Plattform.
+9b3811|Wird gesendet … Sie können diese Seite verlassen, das Teilen läuft im Hintergrund weiter.
+6a5c54|Geplant für %s. Sie können diese Seite verlassen.
+97c806|Für diesen Beitrag ist nichts geplant.
+4e96d7|Das geplante Teilen wurde abgebrochen.
+2b0bb4|Nichts abzubrechen: Es wurde bereits gesendet.
+e4c50f|Die geteilten Posts auf %s löschen? Der Beitrag selbst bleibt auf Ihrer Website.
+fe2165|Posts auf %s können von hier aus nicht gelöscht werden. Löschen Sie sie selbst in der App.
+0f2121|Sie dürfen diesen Beitrag nicht ändern.
+605da5|Für diesen Beitrag gibt es nichts zu löschen.
+46dc65|Wird gelöscht … Sie können diese Seite verlassen, es läuft im Hintergrund weiter.
+a3787e|Fertig, aber etwas ist fehlgeschlagen. Siehe unten.
+f59405|Fertig.
+50321d|Alle 5 Minuten (SmokyPost)
+67cfe6|Nicht auf Instagram geteilt: Instagram benötigt ein Bild, und dieser Beitrag hat keins. Fügen Sie ein Beitragsbild oder ein Bild im Inhalt hinzu.
+398d9f|Nicht geteilt: Bild erforderlich
+e44fa2|Geteilt (selbst in der App löschen)
+a6156e|Geteilt
+d98139|Fehlgeschlagen: %s
+d7c8c8|Fehlgeschlagen
+a149e8|Abgebrochen
+e3f04d|Wird entfernt …
+93f07b|Entfernt
+1c5338|Konnte nicht entfernt werden: %s
+d581ce|Konnte nicht entfernt werden
+6c7650|Wartet: Tageslimit erreicht, wird nach Mitternacht geteilt
+ccef9c|Wartet: Bitte bestätigen Sie Ihre E-Mail-Adresse
+a97547|Geplant für %s
+923d48|Neuer Versuch in Kürze
+7b2f31|In der Warteschlange
+bc1f89|Die Verbindung ist abgelaufen. Verbinden Sie sich erneut in SmokyPost.
+a608e9|Für diese Plattform ist keine Seite und kein Konto ausgewählt.
+347591|Diese Website ist nicht mehr mit SmokyPost verbunden.
+ecd22a|Ihr SmokyPost-Konto oder Ihre Lizenz ist nicht aktiv.
+4b472d|Diese Plattform ist in Ihrem Tarif nicht enthalten.
+852d39|Die Plattform hat den Post nicht zugelassen. Prüfen Sie, ob Sie noch Administrator der Seite sind, und verbinden Sie sich erneut.
+5e0173|Die Plattform hat diesen Post blockiert.
+c939dc|Die Plattform hat diesen Post als Duplikat abgelehnt.
+b96b3f|Instagram benötigt ein Bild. Fügen Sie ein Beitragsbild hinzu.
+191240|Die Plattform konnte das Bild nicht verwenden. Versuchen Sie ein JPEG- oder PNG-Bild mit mindestens 600 Pixeln Breite.
+28b253|Das Bild konnte nicht gelesen werden. Verwenden Sie ein JPEG-, PNG- oder WebP-Bild.
+08c673|Das Bild ist zu klein. Verwenden Sie ein Bild mit mindestens 600 Pixeln Breite.
+e99a00|SmokyPost konnte das Bild von Ihrer Website nicht herunterladen.
+7f8957|Das Bild konnte nicht vorbereitet werden.
+7fa12c|Die Plattform war nicht verfügbar. SmokyPost hat es mehrmals versucht.
+bd9611|Die Plattform war nicht erreichbar. SmokyPost hat es mehrmals versucht.
+582ab1|Instagram hat das Bild nicht rechtzeitig akzeptiert.
+c19c4c|Die Plattform hat den Post abgelehnt.
+8a0741|Das Konto, das diesen Post veröffentlicht hat, ist nicht mehr verbunden. Löschen Sie den Post selbst auf der Plattform.
+ad0394|Dieser Post kann nicht automatisch gelöscht werden. Löschen Sie ihn selbst auf der Plattform.
+eb851e|SmokyPost – Automatisches Teilen auf Social Media für Beiträge und Seiten
+6b6724|Teilen Sie neue und alte Beiträge und Seiten automatisch auf Ihren Social-Media-Konten. Keine Entwicklerkonten oder API-Schlüssel nötig.
+a274f4|Benachrichtigungen
+777ca2|E-Mail senden, wenn
+28c682|eine Freigabe fehlschlägt
+ecb9b9|ein Beitrag geteilt wurde
+8daff7|Sie erhalten eine E-Mail pro Beitrag. Eine fehlgeschlagene Freigabe wird gemeldet, nachdem SmokyPost es mehrmals versucht hat, und dasselbe Problem bei derselben Plattform wird nur einmal am Tag gemeldet. Eine E-Mail über eine abgelaufene Verbindung wird immer gesendet.
+ec7339|E-Mails senden an
+939f28|Mehrere Adressen durch Kommas trennen. Leer lassen, um die Administrator-Adresse dieser Website (%s) zu verwenden.
+c2239a|SMTP
+00c7c2|SmokyPost-E-Mails über ein SMTP-Konto senden
+5efbcc|Nutzen Sie dies, wenn E-Mails Ihrer Website nicht ankommen. Nur die E-Mails von SmokyPost verwenden dieses Konto, die übrigen E-Mails Ihrer Website bleiben unverändert. Für SmokyPost brauchen Sie kein separates SMTP-Plugin.
+bdd48f|SMTP-Server
+60aaf4|Port
+d7f261|Verschlüsselung
+413acc|TLS (meist Port 587)
+68b181|SSL (meist Port 465)
+151adf|Keine Verschlüsselung
+f6039d|Benutzername
+c6e6fb|Das Passwort ist in der wp-config.php festgelegt.
+0b5899|Ein Passwort ist gespeichert. Lassen Sie das Feld leer, um es zu behalten.
+d7381f|Gespeichertes Passwort entfernen
+7b710d|Das Passwort wird verschlüsselt gespeichert und nie wieder angezeigt. Verwenden Sie für Gmail und Outlook ein App-Passwort.
+491147|Absender-E-Mail
+7508f2|Die meisten Anbieter akzeptieren nur eine Adresse, die zum Konto gehört.
+c3a7ea|Absendername
+f5d604|Änderungen speichern
+f970b9|Test-E-Mail senden
+81f545|Die Test-E-Mail speichert zuerst die obigen Werte und verwendet sie dann.
+1f2def|SmokyPost-Test-E-Mail
+2738c4|Dies ist eine Test-E-Mail von SmokyPost. Wenn Sie sie lesen können, erreichen Sie die E-Mails von SmokyPost.
+170c1a|Die Test-E-Mail wurde an %s gesendet. Prüfen Sie Ihren Posteingang und den Spam-Ordner.
+15a320|Die Test-E-Mail konnte nicht gesendet werden: %s Prüfen Sie Server, Port und Verschlüsselung.
+11d6a3|Die Test-E-Mail konnte nicht gesendet werden. Prüfen Sie Server, Port und Verschlüsselung.
+eb4da2|%s erneut verbinden
+97ec08|Die Verbindung zu %1$s ist abgelaufen, daher können neue Beiträge dort nicht geteilt werden. Verbinden Sie sie erneut: %2$s
+e6a17f|Nicht geteilt: %s
+4bde81|„%s“ konnte nicht überall geteilt werden:
+f7ca6b|Geteilt: %s
+1c747d|„%s“ wurde geteilt:
+89ae90|SmokyPost: Tageslimit erreicht
+8b9f2b|Das Tageslimit Ihres Tarifs ist erreicht. Die übrigen Beiträge werden nach Mitternacht geteilt.
+591804|Beitrag öffnen: %s
+f4f486|Verlauf: %s
+2396c6|Sie erhalten diese E-Mail, weil die SmokyPost-Benachrichtigungen für %1$s aktiviert sind. Hier können Sie ändern, wer sie erhält, oder sie ausschalten: %2$s

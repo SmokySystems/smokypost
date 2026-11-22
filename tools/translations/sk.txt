@@ -1,0 +1,330 @@
+3b6e56|Pripojte svoje stránky, aby ste mohli tento obsah zdieľať.
+c27b34|Otvoriť SmokyPost
+bc871d|Odosielanie stále prebieha. O niekoľko minút skontrolujte kartu História.
+118c47|So SmokyPost sa nepodarilo spojiť. Skúste to znova o niekoľko minút.
+b090f4|Zdieľať teraz na:
+d5c6d5|Zdieľať pri zverejnení na:
+b82400|je potrebné znova pripojiť
+016408|Vlastná správa (voliteľné)
+06651c|Nechajte prázdne, ak chcete použiť svoju šablónu.
+1d6da0|Po zverejnení sa zdieľa na zaškrtnutých platformách.
+5b18fc|Pri zverejnení automaticky zdieľané.
+04b478|Zdieľať teraz
+f4f707|Nastavenia
+4d01e8|Odosielanie…
+834915|Mazanie…
+34b1ef|Je potrebná novšia verzia SmokyPost. Aktualizujte doplnok.
+ed49a3|Platformy
+16d2b3|História
+08bd40|Účet
+3b6c2b|Podmienky používania
+fa2ead|Zásady ochrany osobných údajov
+777353|Zdieľajte svoje príspevky a stránky automaticky na sociálnych sieťach. Vytvorte si bezplatný účet alebo sa prihláste a pripojte túto stránku.
+e05afd|Pri pripojení táto stránka odošle službe SmokyPost (www.smokypost.com) svoju adresu, verzie WordPressu a PHP, jazyk a časové pásmo. Obsah každej položky, ktorú zdieľate, sa odošle v okamihu zdieľania.
+8ea211|Vytvoriť bezplatný účet
+1e884e|E-mail
+6c2c15|Heslo (aspoň 8 znakov)
+9ec73e|Súhlasím s dokumentmi: %1$s a %2$s.
+5853d4|Vytvoriť účet a pripojiť
+3b2aee|Už mám účet
+dc647e|Heslo
+ac6560|Prihlásiť sa a pripojiť
+422172|Použiť namiesto toho licenčný kľúč
+52f88a|Pripojiť pomocou licenčného kľúča
+01a569|Zabudli ste heslo?
+733ae3|Odoslať odkaz na obnovenie
+0efe04|Pripojte každú platformu a vyberte stránku alebo účet, na ktorý bude táto stránka zdieľať.
+43b540|Nie je súčasťou vášho plánu.
+4e7193|Dočasne nedostupné. Skúste to neskôr.
+b9ba1a|Platnosť pripojenia vypršala. Pripojte sa znova, aby ste mohli zdieľať ďalej.
+cf0b67|Pripojiť znova
+f4ec5f|Zmeniť
+1063e3|Odstrániť
+7dcd97|Nepripojené.
+49ab28|Pripojiť
+2bf7da|Vyberte z vášho prihlásenia na Facebook
+6330d1|Zverejní váš text a odkaz na jednej z vašich stránok na Facebooku. Prihlasujete sa cez Facebook.
+e33490|Vyžaduje profesionálny účet na Instagrame prepojený so stránkou na Facebooku. Prihlasujete sa cez Facebook.
+1abbcd|Zverejní váš text a odkaz na jednej z vašich firemných stránok na LinkedIne. Prihlasujete sa cez LinkedIn.
+328737|Zverejní váš text, hashtagy a kartu odkazu s obrázkom na vašom účte Bluesky. Pripájate sa pomocou používateľského mena a hesla aplikácie.
+9d078b|Zverejní váš text, hashtagy a odkaz na vašom účte Mastodon na ľubovoľnom serveri Mastodon. SmokyPost povolíte na vlastnom serveri.
+b2d2d7|Zverejní váš text a kartu odkazu na vašom profile na Threads. Prihlasujete sa cez Threads.
+5f2e71|Zverejní váš text, štítky a kartu odkazu s obrázkom na jednom z vašich blogov na Tumblri. Prihlasujete sa cez Tumblr.
+b4f827|Automatické zdieľanie:
+521c36|Zapnuté
+d15305|Vypnuté
+8e61d9|Vypnúť
+d154a5|Zapnúť
+647bd1|Nové položky sa sem zdieľajú pri zverejnení.
+7f9833|Zdieľa sa, iba keď kliknete na „Zdieľať teraz“.
+bb7926|Ste prihlásení, ale nepodarilo sa zobraziť vaše účty: %s
+f915a9|Skúsiť znova
+ea4788|Zrušiť
+0bfd8d|Najprv pripojte svoj účet.
+f85f84|Najprv sa prihláste, aby sa zobrazili vaše stránky.
+f595ba|Pre toto prihlásenie sa nenašla žiadna stránka ani účet, na ktorý môžete zverejňovať.
+19c3d3|Uistite sa, že váš účet na Instagrame je profesionálny a prepojený s jednou z vašich stránok na Facebooku.
+5e5f56|(cez %s)
+f64a44|Použiť tento účet
+6c803a|Nevidíte správnu stránku?
+09a44d|Prihlásiť sa iným účtom
+04d144|Typy obsahu
+725f6c|Automaticky sa zdieľajú iba tieto typy a iba tie majú v editore pole SmokyPost.
+6b0402|Automatické zdieľanie
+280dc2|Automaticky zdieľať nové položky pri zverejnení na:
+b3b6ce|nepripojené
+daf9e6|Zrušením zaškrtnutia platformy prestanete na ňu automaticky zdieľať. Zrušením všetkých automatické zdieľanie vypnete. Ktorúkoľvek položku môžete vždy zdieľať sami tlačidlom „Zdieľať teraz“ v editore alebo v zozname príspevkov a v editore môžete pri jednotlivej položke zrušiť zaškrtnutie platformy.
+be518a|Automaticky vytvorené položky
+766287|Zdieľať aj položky zverejnené inými doplnkami, importérmi, cez REST API alebo WP-CLI
+f5c261|Predvolene zapnuté. Položky vytvorené kódom (napríklad autoblogom alebo importérom kanálov) sa zdieľajú na vyššie uvedených platformách. Vypnite, ak chcete zdieľať iba to, čo zverejníte v editore.
+1aaf15|Preskakovať importované položky staršie ako
+73cddd|hod.
+29327b|Mazanie položiek
+295b79|Mazať zdieľané príspevky pri zmazaní položky
+0d9342|Predvolene vypnuté. Keď položku presuniete do koša alebo ju zmažete, SmokyPost zmaže aj jej príspevky na Facebooku, LinkedIne, Bluesky, Mastodone, Threads a Tumblri. Instagram nedovoľuje iným aplikáciám mazať príspevky, preto ich musíte zmazať v aplikácii Instagram. Obnovenie položky z koša príspevky na sociálnych sieťach neobnoví.
+cb393c|Šablóna správy
+6c08da|Zástupné symboly:
+ffe7a1|Odkaz každá platforma pridá ako kartu náhľadu; na Instagrame sa pridá na koniec textu.
+caebe1|Premieňať štítky príspevku na hashtagy pre {hashtags}
+f784d5|Predvolený obrázok
+b89f80|Použije sa, keď položka nemá náhľadový obrázok ani obrázok v obsahu. Instagram vždy vyžaduje obrázok.
+ef1486|Zdieľania za posledný %d deň. ¦ Zdieľania za posledné %d dni. ¦ Zdieľania za posledných %d dní.
+447497|Dátum
+7d74f3|Položka
+8eea62|Výsledok
+902952|Zatiaľ nič nebolo zdieľané.
+5da05b|Vymazať históriu
+5ca182|Vymazať históriu pre určené dátumy, alebo celú? To, čo už bolo zdieľané, zostáva na vašich sociálnych sieťach. Vymazané záznamy sa v tomto zozname už nezobrazujú.
+5da618|Od
+e12167|Do
+95b928|Nechajte dátum prázdny, ak chcete začať od prvého záznamu alebo skončiť dnešným dňom.
+17cddf|Vymazať tieto dátumy
+808768|Vymazať celú históriu
+03727a|Deň
+7cbb88|Mesiac
+537c66|Rok
+0b6cbd|Plán
+a77d15|Licenčný kľúč
+6db829|Dnes zdieľané
+b362bb|%1$d z %2$d položiek
+494eb5|Táto stránka
+efb548|Odpojiť túto stránku
+4fdc17|Odpojiť túto stránku od SmokyPost? Zdieľanie sa zastaví, kým sa znova neprihlásite.
+e54633|Áno, odpojiť
+e2e646|Ako funguje Pro
+377a68|Zaplaťte bezpečne cez Paddle.
+fbc905|Stiahnite si SmokyPost Pro tlačidlom nižšie.
+7f189b|Vráťte sa na túto stránku. Zobrazí sa tlačidlo „Stiahnuť SmokyPost Pro“ a rovnaký odkaz vám pošleme e-mailom.
+53f719|Nainštalujte ho v časti Doplnky > Pridať nový > Nahrať doplnok a aktivujte ho. Vaša licencia sa rozpozná automaticky, kľúč zadávať nemusíte.
+eb475d|SmokyPost Pro je druhý doplnok, ktorý funguje spolu so SmokyPost: nechajte aktívne oba. Zaberie to približne minútu. Plné vrátenie peňazí do 14 dní od prvej platby.
+9fa65e|Vaša platba sa tu zobrazuje dlhšie ako zvyčajne. O niekoľko minút stránku obnovte. Ak je váš plán po hodine stále Free, napíšte na info@smokypost.com.
+bec297|Platba bola prijatá. Váš plán sa čoskoro aktivuje a táto stránka si to overí sama.
+2c80f9|SmokyPost Pro
+b81f3c|SmokyPost Pro %s je nainštalovaný a aktívny.
+d25d87|Jeho nastavenia nájdete v časti SmokyPost > Pro a kalendár v časti SmokyPost > Kalendár. Aktualizuje sa sám.
+85e962|SmokyPost Pro je nainštalovaný, ale nie je aktívny. Aktivujte ho na stránke Doplnky.
+a3bd33|Otvoriť Doplnky
+386940|Stiahnuť SmokyPost Pro
+500b65|Odkaz platí jednu hodinu. Kedykoľvek sa sem môžete vrátiť po nový.
+e9f36d|Niečo sa pokazilo. Skúste to znova.
+6956cc|Plány
+3faa64|Stránky
+a97de4|Položiek za deň
+360114|Cena
+124864|%s ročne
+441f54|Aktuálny plán
+690969|Prejsť na tento plán
+f68358|Upgradovať
+5d6316|Platby bezpečne spracúva Paddle. Ceny sú v amerických dolároch a dane sa pripočítavajú pri platení tam, kde sa uplatňujú.
+be0482|Zmena plánu platí okamžite. Presnú sumu uvidíte a potvrdíte skôr, než sa čokoľvek strhne.
+97788c|Spravovať predplatné
+1a7066|Zrušiť a získať peniaze späť
+b2c3ec|Vrátenie peňazí je možné do 14 dní od prvej platby. Obnovenie môžete kedykoľvek zastaviť v časti „Spravovať predplatné“.
+b1c55c|Otázky k platbe? Napíšte na info@smokypost.com.
+a0d458|Môžete zrušiť predplatné a získať plné vrátenie peňazí do %s.
+361f28|Zrušiť a získať vrátenie peňazí
+9b3448|Zrušiť predplatné a získať plné vrátenie peňazí? Všetko, čo ste zaplatili, sa vráti na kartu, ktorou ste platili. Za využité dni sa nič nestrháva. Váš plán skončí okamžite a táto stránka sa vráti na Free.
+1e81d7|Áno, zrušiť a vrátiť peniaze
+ee6085|Starter
+abd900|Pro
+75ec3e|Agency
+0222db|Prejsť na %s
+71d986|Dnes sa z karty, ktorou ste platili, strhne %1$s (%2$s).
+a503a7|Dnes sa z karty, ktorou ste platili, strhne %s.
+237ece|Ďalšie obnovenie zostáva na %s.
+cb540f|Dnes sa nič nestrhne.
+1d46af|Rozdiel v cene sa pripíše pri ďalšom obnovení, %s.
+937bcf|Rozdiel v cene sa pripíše pri ďalšom obnovení.
+bd4a14|Pokračovať?
+cd1df7|Áno, strhnúť %s
+6abb41|Áno, zmeniť plán
+17129e|Chcete platiť inou kartou? Otvorte „Spravovať predplatné“, aktualizujte spôsob platby a potom plán zmeňte znova.
+d4192d|končiacou na %s
+d4fbfe|%1$s končiaca na %2$s
+b24ce0|Free
+9086fc|Zdieľanie je pozastavené, kým nepotvrdíte svoju e-mailovú adresu.
+dbf504|Potvrďte svoju e-mailovú adresu. Zdieľanie sa pozastaví o %d deň, ak to neurobíte. ¦ Potvrďte svoju e-mailovú adresu. Zdieľanie sa pozastaví o %d dni, ak to neurobíte. ¦ Potvrďte svoju e-mailovú adresu. Zdieľanie sa pozastaví o %d dní, ak to neurobíte.
+933999|Odoslať odkaz znova
+feb3a3|Používateľské meno na Bluesky
+65255b|Heslo aplikácie
+63d12d|Použite heslo aplikácie, nie svoje hlavné heslo k Bluesky. Môžu ho používať len aplikácie ako táto a môžete ho v Bluesky kedykoľvek zmazať.
+4adaf4|Ako získam heslo aplikácie?
+5c312e|Otvorte %s (alebo v Bluesky: Nastavenia > Súkromie a zabezpečenie > Heslá aplikácií).
+9a01be|Kliknite na „Add App Password“ a pomenujte ho SmokyPost.
+61e507|Skopírujte heslo, ktoré Bluesky zobrazí, a vložte ho sem.
+bd4bac|Váš server Mastodon
+9279eb|Adresa servera, na ktorom je váš účet, napríklad mastodon.social, alebo vaše celé meno v tvare @meno@mastodon.social. SmokyPost povolíte na tomto serveri.
+f8b4c2|Ste prihlásení. Teraz vyberte účet, na ktorý bude táto stránka zdieľať.
+5bb110|Prihlásenie bolo zrušené.
+262cb9|Prihlásenie sa nepodarilo. Skúste to znova.
+bcbbc8|Dobré vedieť:
+914602|SmokyPost automaticky zdieľa nové príspevky pri zverejnení vrátane tých vytvorených inými doplnkami, importérmi alebo cez REST API. Automatické zdieľanie môžete pre každú platformu zapnúť alebo vypnúť na jej karte nižšie alebo v Nastaveniach.
+78e981|Rozumiem
+bae082|Otvoriť nastavenia
+8beb61|SmokyPost je takmer pripravený.
+4f4267|Pripojiť túto stránku
+2835b7|Na túto akciu nemáte oprávnenie.
+811723|Zadajte platnú e-mailovú adresu.
+4b52c9|Zadajte heslo.
+cacd72|Použite heslo s dĺžkou aspoň 8 znakov.
+270228|Prijmite Podmienky používania a Zásady ochrany osobných údajov.
+c570e4|Váš účet je pripravený a táto stránka je pripojená. Poslali sme vám e-mail na potvrdenie adresy.
+e4912d|Ste prihlásení. Táto stránka je pripojená.
+a41cc2|Zadajte licenčný kľúč.
+1448bb|Licencia bola aktivovaná. Táto stránka je pripojená.
+025e69|Ak pre túto adresu existuje účet, poslali sme odkaz na obnovenie hesla.
+19d2aa|Táto stránka bola odpojená od SmokyPost.
+ee3077|Vyberte platné dátumy.
+12381e|Prvý dátum musí byť skorší ako posledný.
+fd4f8f|Z histórie bola vymazaná %d položka. ¦ Z histórie boli vymazané %d položky. ¦ Z histórie bolo vymazaných %d položiek.
+26d353|Nebolo čo mazať. Záznamy, ktoré sa ešte odosielajú, zostávajú v zozname.
+b9a702|Potvrdzovací odkaz sme poslali znova.
+12bb90|Pripojené. Teraz vyberte účet, na ktorý bude táto stránka zdieľať.
+c4effa|Platnosť tejto zmeny plánu vypršala. Vyberte plán znova.
+5e77be|Váš plán sa mení. Môže trvať minútu, kým sa to tu zobrazí.
+d8d639|Vrátenie peňazí bolo vyžiadané a predplatné zrušené. Paddle vracia peniaze na kartu, ktorou ste platili; môže to trvať niekoľko dní.
+82bf3a|%1$s je teraz pripojené k %2$s.
+9a7e58|Nastavenia uložené.
+5677c1|Automatické zdieľanie na %s je zapnuté.
+fa4524|Automatické zdieľanie na %s je vypnuté.
+0a2f60|Nezdieľané
+498cc4|Zdieľať cez SmokyPost
+90929c|%d položka bola zaradená do frontu na zdieľanie. ¦ %d položky boli zaradené do frontu na zdieľanie. ¦ %d položiek bolo zaradených do frontu na zdieľanie.
+81b7e8|%d položku sa nepodarilo zdieľať; pozrite stĺpec SmokyPost. ¦ %d položky sa nepodarilo zdieľať; pozrite stĺpec SmokyPost. ¦ %d položiek sa nepodarilo zdieľať; pozrite stĺpec SmokyPost.
+f75f84|Táto stránka ešte nie je pripojená k SmokyPost.
+10112f|Obrázok na zdieľanie
+e57b53|Vybrané na zdieľanie
+85eb5a|Vybrať iný obrázok
+7cd243|Vybrať obrázok
+f6b9f8|Použiť automatický výber
+4c8d06|Obrázky v tejto položke:
+4f63a3|Použiť tento obrázok
+e6fce5|Aktualizácia položky ju znova nezdieľa. Ak ju chcete zdieľať, kliknite na „Zdieľať teraz“.
+52beb6|Náhľadový obrázok príspevku
+860133|Prvý obrázok v obsahu (táto položka nemá náhľadový obrázok)
+662aa1|Predvolený obrázok z nastavení SmokyPost (táto položka nemá obrázok)
+c28cf8|Instagram vyžaduje obrázok a táto položka žiadny nemá. Pridajte náhľadový obrázok alebo obrázok do obsahu, inak sa na Instagrame nezdieľa.
+1b1025|Zdieľať o (voliteľné)
+d9c5f4|Formát: %1$s, v čase vašej stránky (%2$s). Nechajte prázdne, ak chcete zdieľať okamžite.
+03f222|Toto nevyzerá ako dátum a čas. Použite formát RRRR-MM-DD HH:MM, napríklad 2026-12-31 18:30.
+25f734|Naplánovať
+fe3b13|Zrušiť naplánované zdieľanie
+87b913|Zmazať zdieľané príspevky
+b21c60|Áno, zmazať
+165825|Uložte položku, aby sa zmena použila.
+9fb721|Nemáte oprávnenie túto položku zdieľať.
+d0bfeb|Nie je čo zdieľať: vyberte aspoň jednu pripojenú platformu.
+9b3811|Odosielanie… Túto stránku môžete opustiť, zdieľanie pokračuje na pozadí.
+6a5c54|Naplánované na %s. Túto stránku môžete opustiť.
+97c806|Pre túto položku nie je nič naplánované.
+4e96d7|Naplánované zdieľanie bolo zrušené.
+2b0bb4|Nie je čo rušiť: už bolo odoslané.
+e4c50f|Zmazať zdieľané príspevky z platformy %s? Samotná položka zostane na vašej stránke.
+fe2165|Príspevky na platforme %s odtiaľto zmazať nemožno. Zmažte ich sami v aplikácii.
+0f2121|Nemáte oprávnenie túto položku meniť.
+605da5|Pre túto položku nie je čo mazať.
+46dc65|Mazanie… Túto stránku môžete opustiť, mazanie pokračuje na pozadí.
+a3787e|Dokončené, ale niečo sa nepodarilo. Pozrite nižšie.
+f59405|Hotovo.
+50321d|Každých 5 minút (SmokyPost)
+67cfe6|Nezdieľané na Instagrame: Instagram vyžaduje obrázok a táto položka žiadny nemá. Pridajte náhľadový obrázok alebo obrázok do obsahu.
+398d9f|Nezdieľané: je potrebný obrázok
+e44fa2|Zdieľané (zmažte sami v aplikácii)
+a6156e|Zdieľané
+d98139|Chyba: %s
+d7c8c8|Chyba
+a149e8|Zrušené
+e3f04d|Mazanie…
+93f07b|Zmazané
+1c5338|Zmazanie sa nepodarilo: %s
+d581ce|Zmazanie sa nepodarilo
+6c7650|Čaká: dosiahnutý denný limit, zdieľa sa po polnoci
+ccef9c|Čaká: potvrďte svoju e-mailovú adresu
+a97547|Naplánované na %s
+923d48|Čoskoro ďalší pokus
+7b2f31|V poradí
+bc1f89|Platnosť pripojenia vypršala. Pripojte sa znova v SmokyPost.
+a608e9|Pre túto platformu nie je vybraná žiadna stránka ani účet.
+347591|Táto stránka už nie je pripojená k SmokyPost.
+ecd22a|Váš účet alebo licencia SmokyPost nie je aktívna.
+4b472d|Táto platforma nie je súčasťou vášho plánu.
+852d39|Platforma zverejnenie nepovolila. Overte, že ste stále správcom stránky, a pripojte sa znova.
+5e0173|Platforma tento príspevok zablokovala.
+c939dc|Platforma tento príspevok odmietla ako duplicitný.
+b96b3f|Instagram vyžaduje obrázok. Pridajte k príspevku náhľadový obrázok.
+191240|Platforma nemohla obrázok použiť. Skúste obrázok JPEG alebo PNG široký aspoň 600 pixelov.
+28b253|Obrázok sa nepodarilo prečítať. Použite JPEG, PNG alebo WebP.
+08c673|Obrázok je príliš malý. Použite obrázok široký aspoň 600 pixelov.
+e99a00|SmokyPost nemohol stiahnuť obrázok z vašej stránky.
+7f8957|Obrázok sa nepodarilo pripraviť.
+7fa12c|Platforma bola nedostupná. SmokyPost to skúsil niekoľkokrát.
+bd9611|S platformou sa nepodarilo spojiť. SmokyPost to skúsil niekoľkokrát.
+582ab1|Instagram obrázok včas neprijal.
+c19c4c|Platforma príspevok odmietla.
+8a0741|Účet, ktorý tento príspevok zverejnil, už nie je pripojený. Zmažte príspevok sami na platforme.
+ad0394|Tento príspevok nemožno zmazať automaticky. Zmažte ho sami na platforme.
+eb851e|SmokyPost – Automatické zdieľanie na sociálnych sieťach pre príspevky a stránky
+6b6724|Automaticky zdieľajte nové aj staré príspevky a stránky na svojich účtoch na sociálnych sieťach. Nepotrebujete vývojárske účty ani kľúče API.
+a274f4|Upozornenia
+777ca2|Poslať mi e-mail, keď
+28c682|zdieľanie zlyhá
+ecb9b9|bol obsah zdieľaný
+8daff7|Dostanete jeden e-mail na obsah. O neúspešnom zdieľaní sa dozviete potom, čo to SmokyPost niekoľkokrát skúsi, a o rovnakom probléme na rovnakej platforme raz denne. E-mail o vypršaní prepojenia sa posiela vždy.
+ec7339|Posielať e-maily na
+939f28|Viac adries oddeľte čiarkami. Nechajte prázdne, aby sa použila adresa správcu tohto webu (%s).
+c2239a|SMTP
+00c7c2|Posielať e-maily SmokyPost cez účet SMTP
+5efbcc|Použite, ak e-maily z vášho webu nedorazia. Tento účet používajú iba e-maily SmokyPost, ostatné e-maily webu zostávajú bezo zmeny. Pre SmokyPost nepotrebujete samostatný doplnok SMTP.
+bdd48f|Server SMTP
+60aaf4|Port
+d7f261|Šifrovanie
+413acc|TLS (zvyčajne port 587)
+68b181|SSL (zvyčajne port 465)
+151adf|Bez šifrovania
+f6039d|Používateľské meno
+c6e6fb|Heslo je nastavené v súbore wp-config.php.
+0b5899|Heslo je uložené. Nechajte pole prázdne, ak ho chcete zachovať.
+d7381f|Odstrániť uložené heslo
+7b710d|Heslo sa ukladá zašifrované a už sa nikdy nezobrazí. Pre Gmail a Outlook použite heslo aplikácie.
+491147|E-mail odosielateľa
+7508f2|Väčšina poskytovateľov prijíma iba adresu, ktorá patrí k účtu.
+c3a7ea|Meno odosielateľa
+f5d604|Uložiť zmeny
+f970b9|Poslať skúšobný e-mail
+81f545|Skúšobný e-mail najprv uloží hodnoty vyššie a potom ich použije.
+1f2def|Skúšobný e-mail SmokyPost
+2738c4|Toto je skúšobný e-mail od SmokyPost. Ak ho čítate, e-maily od SmokyPost k vám dorazia.
+170c1a|Skúšobný e-mail bol odoslaný na %s. Skontrolujte doručenú poštu a priečinok so spamom.
+15a320|Skúšobný e-mail sa nepodarilo odoslať: %s Skontrolujte server, port a šifrovanie.
+11d6a3|Skúšobný e-mail sa nepodarilo odoslať. Skontrolujte server, port a šifrovanie.
+eb4da2|Prepojte %s znova
+97ec08|Prepojenie s %1$s vypršalo, takže tam nemožno zdieľať nový obsah. Prepojte znova: %2$s
+e6a17f|Zdieľanie zlyhalo: %s
+4bde81|„%s“ sa nepodarilo zdieľať všade:
+f7ca6b|Zdieľané: %s
+1c747d|„%s“ bolo zdieľané:
+89ae90|SmokyPost: dosiahnutý denný limit
+8b9f2b|Denný limit vášho plánu bol dosiahnutý. Zvyšný obsah sa zdieľa po polnoci.
+591804|Otvoriť obsah: %s
+f4f486|História: %s
+2396c6|Tento e-mail dostávate, pretože sú pre %1$s zapnuté upozornenia SmokyPost. Tu môžete zmeniť, kto ich dostáva, alebo ich vypnúť: %2$s

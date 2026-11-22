@@ -1,0 +1,330 @@
+3b6e56|Connecta les teves pàgines per compartir aquest contingut.
+c27b34|Obre SmokyPost
+bc871d|L'enviament encara està en curs. Consulta la pestanya Historial d'aquí a uns minuts.
+118c47|No s'ha pogut contactar amb SmokyPost. Torna-ho a provar d'aquí a uns minuts.
+b090f4|Comparteix ara a:
+d5c6d5|Comparteix en publicar a:
+b82400|cal tornar-lo a connectar
+016408|Missatge propi (opcional)
+06651c|Deixa-ho en blanc per utilitzar la teva plantilla.
+1d6da0|Es compartirà a les plataformes marcades en publicar.
+5b18fc|Compartit automàticament en publicar.
+04b478|Comparteix ara
+f4f707|Configuració
+4d01e8|S'està enviant…
+834915|S'està suprimint…
+34b1ef|Cal una versió més recent de SmokyPost. Actualitza el connector.
+ed49a3|Plataformes
+16d2b3|Historial
+08bd40|Compte
+3b6c2b|Condicions d'ús
+fa2ead|Política de privadesa
+777353|Comparteix automàticament les teves publicacions i pàgines a les teves xarxes socials. Crea un compte gratuït o inicia la sessió per connectar aquest lloc web.
+e05afd|En connectar-se, aquest lloc web envia al servei SmokyPost (www.smokypost.com) la seva adreça, les versions de WordPress i PHP, l'idioma i la zona horària. El contingut de cada element que comparteixes s'envia en el moment de compartir-lo.
+8ea211|Crea un compte gratuït
+1e884e|Correu electrònic
+6c2c15|Contrasenya (almenys 8 caràcters)
+9ec73e|Accepto els documents següents: %1$s i %2$s.
+5853d4|Crea el compte i connecta
+3b2aee|Ja tinc un compte
+dc647e|Contrasenya
+ac6560|Inicia la sessió i connecta
+422172|Utilitza una clau de llicència
+52f88a|Connecta amb la clau de llicència
+01a569|Has oblidat la contrasenya?
+733ae3|Envia l'enllaç de restabliment
+0efe04|Connecta cada plataforma i tria la pàgina o el compte on compartirà aquest lloc web.
+43b540|No inclòs al teu pla.
+4e7193|Temporalment no disponible. Torna-ho a provar més tard.
+b9ba1a|La connexió ha caducat. Torna a connectar per continuar compartint.
+cf0b67|Torna a connectar
+f4ec5f|Canvia
+1063e3|Elimina
+7dcd97|No connectat.
+49ab28|Connecta
+2bf7da|Tria des del teu inici de sessió a Facebook
+6330d1|Publica el teu text i l'enllaç en una de les teves pàgines de Facebook. Inicies la sessió amb Facebook.
+e33490|Requereix un compte professional d'Instagram vinculat a una pàgina de Facebook. Inicies la sessió amb Facebook.
+1abbcd|Publica el teu text i l'enllaç en una de les teves pàgines d'empresa de LinkedIn. Inicies la sessió amb LinkedIn.
+328737|Publica el teu text, les etiquetes i una targeta d'enllaç amb imatge al teu compte de Bluesky. Et connectes amb el nom d'usuari i una contrasenya d'aplicació.
+9d078b|Publica el teu text, les etiquetes i l'enllaç al teu compte de Mastodon en qualsevol servidor de Mastodon. Autoritzes SmokyPost al teu propi servidor.
+b2d2d7|Publica el teu text i una targeta d'enllaç al teu perfil de Threads. Inicies la sessió amb Threads.
+5f2e71|Publica el teu text, les etiquetes i una targeta d'enllaç amb imatge en un dels teus blogs de Tumblr. Inicies la sessió amb Tumblr.
+b4f827|Compartició automàtica:
+521c36|Activada
+d15305|Desactivada
+8e61d9|Desactiva
+d154a5|Activa
+647bd1|Els elements nous es comparteixen aquí en publicar-se.
+7f9833|Només es comparteix quan fas clic a «Comparteix ara».
+bb7926|Has iniciat la sessió, però no s'han pogut llistar els teus comptes: %s
+f915a9|Torna-ho a provar
+ea4788|Cancel·la
+0bfd8d|Connecta primer el teu compte.
+f85f84|Inicia primer la sessió per veure les teves pàgines.
+f595ba|No s'ha trobat cap pàgina o compte on puguis publicar amb aquest inici de sessió.
+19c3d3|Comprova que el teu compte d'Instagram sigui professional i estigui vinculat a una de les teves pàgines de Facebook.
+5e5f56|(mitjançant %s)
+f64a44|Utilitza aquest compte
+6c803a|No veus la pàgina correcta?
+09a44d|Inicia la sessió amb un altre compte
+04d144|Tipus de contingut
+725f6c|Només aquests tipus es comparteixen automàticament, i només ells tenen el quadre de SmokyPost a l'editor.
+6b0402|Compartició automàtica
+280dc2|Comparteix automàticament els elements nous en publicar-los a:
+b3b6ce|no connectat
+daf9e6|Desmarca una plataforma per deixar de compartir-hi automàticament. Desmarca-les totes per desactivar la compartició automàtica. Sempre pots compartir un element tu mateix amb el botó «Comparteix ara» de l'editor o de la llista d'entrades, i desmarcar una plataforma per a un sol element a l'editor.
+be518a|Elements creats automàticament
+766287|Comparteix també els elements publicats per altres connectors, importadors, l'API REST o WP-CLI
+f5c261|Activat per defecte. Els elements creats per codi (per exemple un autoblog o un importador de canals) es comparteixen a les plataformes anteriors. Desactiva-ho si només vols compartir el que publiques a l'editor.
+1aaf15|Omet els elements importats més antics de
+73cddd|h
+29327b|Supressió d'elements
+295b79|Suprimeix les publicacions compartides quan se suprimeixi l'element
+0d9342|Desactivat per defecte. Quan mous un element a la paperera o el suprimeixes, SmokyPost també suprimeix les seves publicacions a Facebook, LinkedIn, Bluesky, Mastodon, Threads i Tumblr. Instagram no permet que altres aplicacions suprimeixin publicacions, per això les has de suprimir a l'aplicació d'Instagram. Restaurar un element de la paperera no recupera les publicacions a les xarxes socials.
+cb393c|Plantilla de missatge
+6c08da|Marcadors de posició:
+ffe7a1|Cada plataforma afegeix l'enllaç com a targeta de previsualització; a Instagram s'afegeix al final del text.
+caebe1|Converteix les etiquetes de l'entrada en etiquetes de xarxa per a {hashtags}
+f784d5|Imatge per defecte
+b89f80|S'utilitza quan un element no té imatge destacada ni imatge al contingut. Instagram sempre requereix una imatge.
+ef1486|Comparticions de l'últim %d dia. ¦ Comparticions dels últims %d dies.
+447497|Data
+7d74f3|Element
+8eea62|Resultat
+902952|Encara no s'ha compartit res.
+5da05b|Esborra l'historial
+5ca182|Vols esborrar l'historial per a unes dates concretes o tot? El que ja s'ha compartit es queda a les teves xarxes socials. Els registres esborrats ja no apareixen en aquesta llista.
+5da618|Des de
+e12167|Fins a
+95b928|Deixa una data en blanc per començar pel primer registre o acabar avui.
+17cddf|Esborra aquestes dates
+808768|Esborra tot l'historial
+03727a|Dia
+7cbb88|Mes
+537c66|Any
+0b6cbd|Pla
+a77d15|Clau de llicència
+6db829|Compartit avui
+b362bb|%1$d de %2$d elements
+494eb5|Aquest lloc web
+efb548|Desconnecta aquest lloc web
+4fdc17|Vols desconnectar aquest lloc web de SmokyPost? La compartició s'atura fins que tornis a iniciar la sessió.
+e54633|Sí, desconnecta
+e2e646|Com funciona Pro
+377a68|Paga de manera segura amb Paddle.
+fbc905|Descarrega SmokyPost Pro amb el botó de sota.
+7f189b|Torna a aquesta pàgina. Apareixerà el botó «Descarrega SmokyPost Pro» i t'enviarem el mateix enllaç per correu electrònic.
+53f719|Instal·la'l a Connectors > Afegeix > Puja un connector i activa'l. La teva llicència es detecta automàticament, no cal que introdueixis cap clau.
+eb475d|SmokyPost Pro és un segon connector que funciona juntament amb SmokyPost: deixa'ls tots dos actius. Porta aproximadament un minut. Reemborsament complet en els 14 dies posteriors al primer pagament.
+9fa65e|El teu pagament triga més del normal a aparèixer aquí. Torna a carregar la pàgina d'aquí a uns minuts. Si al cap d'una hora el teu pla continua sent Free, escriu a info@smokypost.com.
+bec297|Pagament rebut. El teu pla s'activarà aviat i aquesta pàgina ho comprovarà sola.
+2c80f9|SmokyPost Pro
+b81f3c|SmokyPost Pro %s està instal·lat i actiu.
+d25d87|La seva configuració és a SmokyPost > Pro i el calendari a SmokyPost > Calendari. S'actualitza sol.
+85e962|SmokyPost Pro està instal·lat però no actiu. Activa'l a la pàgina Connectors.
+a3bd33|Obre Connectors
+386940|Descarrega SmokyPost Pro
+500b65|L'enllaç és vàlid durant una hora. Sempre pots tornar aquí per obtenir-ne un de nou.
+e9f36d|Alguna cosa ha anat malament. Torna-ho a provar.
+6956cc|Plans
+3faa64|Llocs web
+a97de4|Elements al dia
+360114|Preu
+124864|%s l'any
+441f54|Pla actual
+690969|Canvia a aquest pla
+f68358|Millora
+5d6316|Els pagaments els processa de manera segura Paddle. Els preus són en dòlars dels Estats Units i els impostos s'afegeixen en finalitzar la compra allà on s'apliquin.
+be0482|El canvi de pla s'aplica immediatament. Veuràs l'import exacte i el confirmaràs abans que es cobri res.
+97788c|Gestiona la subscripció
+1a7066|Cancel·la i reemborsa
+b2c3ec|El reemborsament és possible en els 14 dies posteriors al primer pagament. Pots aturar la renovació en qualsevol moment a «Gestiona la subscripció».
+b1c55c|Preguntes sobre el pagament? Escriu a info@smokypost.com.
+a0d458|Pots cancel·lar i obtenir un reemborsament complet fins al %s.
+361f28|Cancel·la i obtén el reemborsament
+9b3448|Vols cancel·lar la subscripció i obtenir un reemborsament complet? Tot el que has pagat es tornarà a la targeta amb què has pagat. No es retén res pels dies utilitzats. El teu pla acaba immediatament i aquest lloc web torna a Free.
+1e81d7|Sí, cancel·la i reemborsa
+ee6085|Starter
+abd900|Pro
+75ec3e|Agency
+0222db|Canvia a %s
+71d986|Avui es cobraran %1$s (%2$s) de la targeta amb què has pagat.
+a503a7|Avui es cobraran %s de la targeta amb què has pagat.
+237ece|La propera renovació es queda el %s.
+cb540f|Avui no es cobra res.
+1d46af|La diferència de preu s'abonarà en la propera renovació, el %s.
+937bcf|La diferència de preu s'abonarà en la propera renovació.
+bd4a14|Vols continuar?
+cd1df7|Sí, cobra %s
+6abb41|Sí, canvia de pla
+17129e|Vols pagar amb una altra targeta? Obre «Gestiona la subscripció», actualitza el mètode de pagament i torna a canviar de pla.
+d4192d|acabada en %s
+d4fbfe|%1$s, acabada en %2$s
+b24ce0|Free
+9086fc|La compartició està en pausa fins que confirmis la teva adreça de correu electrònic.
+dbf504|Confirma la teva adreça de correu electrònic. La compartició es posarà en pausa d'aquí a %d dia si no ho fas. ¦ Confirma la teva adreça de correu electrònic. La compartició es posarà en pausa d'aquí a %d dies si no ho fas.
+933999|Torna a enviar l'enllaç
+feb3a3|Nom d'usuari de Bluesky
+65255b|Contrasenya d'aplicació
+63d12d|Utilitza una contrasenya d'aplicació, no la teva contrasenya principal de Bluesky. Només la poden fer servir aplicacions com aquesta, i la pots eliminar a Bluesky en qualsevol moment.
+4adaf4|Com obtinc una contrasenya d'aplicació?
+5c312e|Obre %s (o a Bluesky: Configuració > Privadesa i seguretat > Contrasenyes d'aplicació).
+9a01be|Fes clic a «Add App Password» i anomena-la SmokyPost.
+61e507|Copia la contrasenya que mostra Bluesky i enganxa-la aquí.
+bd4bac|El teu servidor de Mastodon
+9279eb|L'adreça del servidor on és el teu compte, per exemple mastodon.social, o el teu nom complet, en la forma @nom@mastodon.social. Autoritzaràs SmokyPost en aquest servidor.
+f8b4c2|Sessió iniciada. Ara tria el compte on compartirà aquest lloc web.
+5bb110|L'inici de sessió s'ha cancel·lat.
+262cb9|No s'ha pogut iniciar la sessió. Torna-ho a provar.
+bcbbc8|Bo de saber:
+914602|SmokyPost comparteix automàticament les entrades noves en publicar-se, incloses les creades per altres connectors, importadors o l'API REST. Pots activar o desactivar la compartició automàtica per a cada plataforma a la seva targeta de sota o a Configuració.
+78e981|Entesos
+bae082|Obre la configuració
+8beb61|SmokyPost gairebé està a punt.
+4f4267|Connecta aquest lloc web
+2835b7|No tens permís per fer això.
+811723|Introdueix una adreça de correu electrònic vàlida.
+4b52c9|Introdueix una contrasenya.
+cacd72|Utilitza una contrasenya d'almenys 8 caràcters.
+270228|Accepta les Condicions d'ús i la Política de privadesa.
+c570e4|El teu compte està a punt i aquest lloc web està connectat. T'hem enviat un correu per confirmar la teva adreça.
+e4912d|Sessió iniciada. Aquest lloc web està connectat.
+a41cc2|Introdueix una clau de llicència.
+1448bb|Llicència activada. Aquest lloc web està connectat.
+025e69|Si hi ha un compte amb aquesta adreça, hem enviat un enllaç per restablir la contrasenya.
+19d2aa|Aquest lloc web s'ha desconnectat de SmokyPost.
+ee3077|Tria dates vàlides.
+12381e|La primera data ha de ser anterior a l'última.
+fd4f8f|S'ha esborrat %d element de l'historial. ¦ S'han esborrat %d elements de l'historial.
+26d353|No hi havia res per esborrar. Els registres que encara s'estan enviant es queden a la llista.
+b9a702|Hem tornat a enviar l'enllaç de confirmació.
+12bb90|Connectat. Ara tria el compte on compartirà aquest lloc web.
+c4effa|Aquest canvi de pla ha caducat. Torna a triar un pla.
+5e77be|El teu pla s'està canviant. Pot trigar un minut a aparèixer aquí.
+d8d639|S'ha sol·licitat el reemborsament i la subscripció s'ha cancel·lat. Paddle retorna els diners a la targeta amb què has pagat; pot trigar uns dies.
+82bf3a|%1$s ara està connectat a %2$s.
+9a7e58|S'ha desat la configuració.
+5677c1|La compartició automàtica a %s està activada.
+fa4524|La compartició automàtica a %s està desactivada.
+0a2f60|No compartit
+498cc4|Comparteix amb SmokyPost
+90929c|%d element s'ha posat a la cua per compartir. ¦ %d elements s'han posat a la cua per compartir.
+81b7e8|%d element no s'ha pogut compartir; consulta la columna SmokyPost. ¦ %d elements no s'han pogut compartir; consulta la columna SmokyPost.
+f75f84|Aquest lloc web encara no està connectat a SmokyPost.
+10112f|Imatge per compartir
+e57b53|Triada per compartir
+85eb5a|Tria una altra imatge
+7cd243|Tria una imatge
+f6b9f8|Utilitza la selecció automàtica
+4c8d06|Imatges d'aquest element:
+4f63a3|Utilitza aquesta imatge
+e6fce5|Actualitzar un element no el torna a compartir. Fes clic a «Comparteix ara» per compartir-lo.
+52beb6|Imatge destacada de l'entrada
+860133|La primera imatge del contingut (aquest element no té imatge destacada)
+662aa1|La imatge per defecte de la configuració de SmokyPost (aquest element no té imatge)
+c28cf8|Instagram requereix una imatge i aquest element no en té. Afegeix una imatge destacada o una imatge al contingut; si no, no es compartirà a Instagram.
+1b1025|Comparteix a les (opcional)
+d9c5f4|Format: %1$s, a l'hora del teu lloc web (%2$s). Deixa-ho en blanc per compartir immediatament.
+03f222|Això no sembla una data i una hora. Utilitza el format AAAA-MM-DD HH:MM, per exemple 2026-12-31 18:30.
+25f734|Programa
+fe3b13|Cancel·la la compartició programada
+87b913|Suprimeix les publicacions compartides
+b21c60|Sí, suprimeix
+165825|Desa l'element perquè s'apliqui el canvi.
+9fb721|No tens permís per compartir aquest element.
+d0bfeb|No hi ha res per compartir: tria almenys una plataforma connectada.
+9b3811|S'està enviant… Pots sortir d'aquesta pàgina, la compartició continua en segon pla.
+6a5c54|Programat per al %s. Pots sortir d'aquesta pàgina.
+97c806|No hi ha res programat per a aquest element.
+4e96d7|La compartició programada s'ha cancel·lat.
+2b0bb4|No hi ha res per cancel·lar: ja s'ha enviat.
+e4c50f|Vols suprimir les publicacions compartides de %s? L'element en si es queda al teu lloc web.
+fe2165|Les publicacions de %s no es poden suprimir des d'aquí. Suprimeix-les tu mateix a l'aplicació.
+0f2121|No tens permís per canviar aquest element.
+605da5|No hi ha res per suprimir per a aquest element.
+46dc65|S'està suprimint… Pots sortir d'aquesta pàgina, la supressió continua en segon pla.
+a3787e|Acabat, però alguna cosa ha fallat. Mira a sota.
+f59405|Fet.
+50321d|Cada 5 minuts (SmokyPost)
+67cfe6|No compartit a Instagram: Instagram requereix una imatge i aquest element no en té. Afegeix una imatge destacada o una imatge al contingut.
+398d9f|No compartit: cal una imatge
+e44fa2|Compartit (suprimeix-lo tu mateix a l'aplicació)
+a6156e|Compartit
+d98139|Error: %s
+d7c8c8|Error
+a149e8|Cancel·lat
+e3f04d|S'està suprimint…
+93f07b|Suprimit
+1c5338|No s'ha pogut suprimir: %s
+d581ce|No s'ha pogut suprimir
+6c7650|En espera: s'ha assolit el límit diari, es compartirà després de mitjanit
+ccef9c|En espera: confirma la teva adreça de correu electrònic
+a97547|Programat per al %s
+923d48|Es tornarà a provar aviat
+7b2f31|A la cua
+bc1f89|La connexió ha caducat. Torna a connectar a SmokyPost.
+a608e9|No s'ha triat cap pàgina o compte per a aquesta plataforma.
+347591|Aquest lloc web ja no està connectat a SmokyPost.
+ecd22a|El teu compte o la teva llicència de SmokyPost no és activa.
+4b472d|Aquesta plataforma no està inclosa al teu pla.
+852d39|La plataforma no ha permès la publicació. Comprova que continuïs sent administrador de la pàgina i torna a connectar.
+5e0173|La plataforma ha bloquejat aquesta publicació.
+c939dc|La plataforma ha rebutjat aquesta publicació com a duplicada.
+b96b3f|Instagram requereix una imatge. Afegeix una imatge destacada a l'entrada.
+191240|La plataforma no ha pogut utilitzar la imatge. Prova amb una imatge JPEG o PNG d'almenys 600 píxels d'amplada.
+28b253|No s'ha pogut llegir la imatge. Utilitza JPEG, PNG o WebP.
+08c673|La imatge és massa petita. Utilitza una imatge d'almenys 600 píxels d'amplada.
+e99a00|SmokyPost no ha pogut baixar la imatge del teu lloc web.
+7f8957|No s'ha pogut preparar la imatge.
+7fa12c|La plataforma no estava disponible. SmokyPost ho ha provat diverses vegades.
+bd9611|No s'ha pogut contactar amb la plataforma. SmokyPost ho ha provat diverses vegades.
+582ab1|Instagram no ha acceptat la imatge a temps.
+c19c4c|La plataforma ha rebutjat la publicació.
+8a0741|El compte que va publicar aquesta publicació ja no està connectat. Suprimeix la publicació tu mateix a la plataforma.
+ad0394|Aquesta publicació no es pot suprimir automàticament. Suprimeix-la tu mateix a la plataforma.
+eb851e|SmokyPost – Compartició automàtica a les xarxes socials per a entrades i pàgines
+6b6724|Comparteix automàticament entrades i pàgines noves i antigues als teus comptes de xarxes socials. No calen comptes de desenvolupador ni claus d'API.
+a274f4|Notificacions
+777ca2|Envia’m un correu quan
+28c682|una publicació falli
+ecb9b9|s’hagi compartit un contingut
+8daff7|Reps un correu per contingut. Una publicació fallida s’avisa després que SmokyPost ho hagi provat diverses vegades, i el mateix problema a la mateixa plataforma s’avisa un cop al dia. El correu que avisa que una connexió ha caducat sempre s’envia.
+ec7339|Envia els correus a
+939f28|Separa diverses adreces amb comes. Deixa-ho buit per utilitzar l’adreça de l’administrador d’aquest lloc (%s).
+c2239a|SMTP
+00c7c2|Envia els correus de SmokyPost amb un compte SMTP
+5efbcc|Utilitza-ho si els correus del teu lloc no arriben. Només els correus de SmokyPost fan servir aquest compte; la resta de correus del lloc no canvien. No necessites un connector SMTP a part per a SmokyPost.
+bdd48f|Servidor SMTP
+60aaf4|Port
+d7f261|Xifratge
+413acc|TLS (normalment port 587)
+68b181|SSL (normalment port 465)
+151adf|Sense xifratge
+f6039d|Nom d’usuari
+c6e6fb|La contrasenya està definida a wp-config.php.
+0b5899|Hi ha una contrasenya desada. Deixa-ho buit per conservar-la.
+d7381f|Elimina la contrasenya desada
+7b710d|La contrasenya es desa xifrada i no es torna a mostrar mai. Per a Gmail i Outlook fes servir una contrasenya d’aplicació.
+491147|Correu del remitent
+7508f2|La majoria de proveïdors només accepten una adreça que pertanyi al compte.
+c3a7ea|Nom del remitent
+f5d604|Desa els canvis
+f970b9|Envia un correu de prova
+81f545|El correu de prova desa primer els valors de dalt i després els utilitza.
+1f2def|Correu de prova de SmokyPost
+2738c4|Aquest és un correu de prova de SmokyPost. Si el pots llegir, els correus de SmokyPost et arriben.
+170c1a|El correu de prova s’ha enviat a %s. Revisa la safata d’entrada i la carpeta de correu brossa.
+15a320|No s’ha pogut enviar el correu de prova: %s Revisa el servidor, el port i el xifratge.
+11d6a3|No s’ha pogut enviar el correu de prova. Revisa el servidor, el port i el xifratge.
+eb4da2|Torna a connectar %s
+97ec08|La connexió amb %1$s ha caducat, així que no s’hi poden compartir continguts nous. Torna a connectar-la: %2$s
+e6a17f|No s’ha pogut compartir: %s
+4bde81|«%s» no s’ha pogut compartir a tot arreu:
+f7ca6b|Compartit: %s
+1c747d|«%s» s’ha compartit:
+89ae90|SmokyPost: s’ha assolit el límit diari
+8b9f2b|S’ha assolit el límit diari del teu pla. Els continguts restants es comparteixen després de mitjanit.
+591804|Obre el contingut: %s
+f4f486|Historial: %s
+2396c6|Reps aquest correu perquè les notificacions de SmokyPost estan activades a %1$s. Canvia aquí qui les rep o desactiva-les: %2$s

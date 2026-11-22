@@ -1,0 +1,330 @@
+3b6e56|Ühenda oma lehed, et seda sisu jagada.
+c27b34|Ava SmokyPost
+bc871d|Saatmine käib veel. Vaata paari minuti pärast vahekaarti Ajalugu.
+118c47|SmokyPostiga ei õnnestunud ühendust saada. Proovi paari minuti pärast uuesti.
+b090f4|Jaga kohe siia:
+d5c6d5|Jaga avaldamisel siia:
+b82400|vajab uuesti ühendamist
+016408|Oma sõnum (valikuline)
+06651c|Jäta tühjaks, et kasutada oma malli.
+1d6da0|Jagatakse avaldamisel märgitud platvormidel.
+5b18fc|Jagatud avaldamisel automaatselt.
+04b478|Jaga kohe
+f4f707|Seaded
+4d01e8|Saadan …
+834915|Kustutan …
+34b1ef|Vaja on SmokyPosti uuemat versiooni. Uuenda pistikprogrammi.
+ed49a3|Platvormid
+16d2b3|Ajalugu
+08bd40|Konto
+3b6c2b|Kasutustingimused
+fa2ead|Privaatsuspoliitika
+777353|Jaga oma postitusi ja lehti automaatselt oma sotsiaalvõrgustikes. Loo tasuta konto või logi sisse, et see sait ühendada.
+e05afd|Ühendamisel saadab see sait SmokyPosti teenusele (www.smokypost.com) oma aadressi, WordPressi ja PHP versiooni, keele ja ajavööndi. Iga jagatava sisu tekst saadetakse jagamise hetkel.
+8ea211|Loo tasuta konto
+1e884e|E-post
+6c2c15|Parool (vähemalt 8 märki)
+9ec73e|Nõustun järgmisega: %1$s ja %2$s.
+5853d4|Loo konto ja ühenda
+3b2aee|Mul on juba konto
+dc647e|Parool
+ac6560|Logi sisse ja ühenda
+422172|Kasuta hoopis litsentsivõtit
+52f88a|Ühenda litsentsivõtmega
+01a569|Unustasid parooli?
+733ae3|Saada lähtestamislink
+0efe04|Ühenda iga platvorm ja vali leht või konto, kuhu see sait jagab.
+43b540|Ei kuulu sinu paketti.
+4e7193|Ajutiselt kättesaamatu. Proovi hiljem uuesti.
+b9ba1a|Ühendus on aegunud. Ühenda uuesti, et jagamist jätkata.
+cf0b67|Ühenda uuesti
+f4ec5f|Muuda
+1063e3|Eemalda
+7dcd97|Pole ühendatud.
+49ab28|Ühenda
+2bf7da|Vali oma Facebooki sisselogimisest
+6330d1|Avaldab sinu teksti ja lingi ühel sinu Facebooki lehel. Logid sisse Facebooki kaudu.
+e33490|Vajab Facebooki lehega seotud Instagrami ärikontot. Logid sisse Facebooki kaudu.
+1abbcd|Avaldab sinu teksti ja lingi ühel sinu LinkedIni ettevõtte lehel. Logid sisse LinkedIni kaudu.
+328737|Avaldab sinu teksti, teemaviited ja pildiga linkikaardi sinu Blueskyi kontol. Ühendad kasutajanime ja rakenduseparooliga.
+9d078b|Avaldab sinu teksti, teemaviited ja lingi sinu Mastodoni kontol mis tahes Mastodoni serveris. Kinnitad SmokyPosti oma serveris.
+b2d2d7|Avaldab sinu teksti ja linkikaardi sinu Threadsi profiilil. Logid sisse Threadsi kaudu.
+5f2e71|Avaldab sinu teksti, sildid ja pildiga linkikaardi ühes sinu Tumblri blogis. Logid sisse Tumblri kaudu.
+b4f827|Automaatne jagamine:
+521c36|Sees
+d15305|Väljas
+8e61d9|Lülita välja
+d154a5|Lülita sisse
+647bd1|Uus sisu jagatakse siia avaldamisel.
+7f9833|Jagatakse ainult siis, kui klõpsad nupul „Jaga kohe“.
+bb7926|Oled sisse logitud, kuid sinu kontosid ei õnnestunud loetleda: %s
+f915a9|Proovi uuesti
+ea4788|Tühista
+0bfd8d|Ühenda kõigepealt oma konto.
+f85f84|Logi kõigepealt sisse, et oma lehti näha.
+f595ba|Selle sisselogimise jaoks ei leitud lehte ega kontot, kuhu saad avaldada.
+19c3d3|Veendu, et sinu Instagrami konto on äri- või loojakonto ja seotud ühe sinu Facebooki lehega.
+5e5f56|(%s kaudu)
+f64a44|Kasuta seda kontot
+6c803a|Ei näe õiget lehte?
+09a44d|Logi sisse teise kontoga
+04d144|Sisutüübid
+725f6c|Automaatselt jagatakse ainult neid tüüpe ja ainult nendel on redaktoris SmokyPosti kast.
+6b0402|Automaatne jagamine
+280dc2|Jaga uut sisu avaldamisel automaatselt siia:
+b3b6ce|pole ühendatud
+daf9e6|Võta platvormilt märge maha, et sinna enam automaatselt mitte jagada. Võta kõigilt märge maha, et automaatne jagamine välja lülitada. Võid alati ise sisu jagada redaktori või postituste loendi nupuga „Jaga kohe“ ning võtta redaktoris üksiku sisu puhul platvormilt märke maha.
+be518a|Automaatselt loodud sisu
+766287|Jaga ka teiste pistikprogrammide, importijate, REST API või WP-CLI avaldatud sisu
+f5c261|Vaikimisi sees. Koodi loodud sisu (näiteks automaatblogi või voogude importija) jagatakse ülaltoodud platvormidel. Lülita välja, kui soovid jagada ainult seda, mille avaldad redaktoris.
+1aaf15|Jäta vahele imporditud sisu, mis on vanem kui
+73cddd|t
+29327b|Sisu kustutamine
+295b79|Kustuta jagatud postitused, kui sisu kustutatakse
+0d9342|Vaikimisi väljas. Kui viid sisu prügikasti või kustutad selle, kustutab SmokyPost ka selle postitused Facebookis, LinkedInis, Blueskys, Mastodonis, Threadsis ja Tumblris. Instagram ei luba teistel rakendustel postitusi kustutada, seega tuleb need kustutada Instagrami rakenduses. Sisu taastamine prügikastist ei taasta postitusi sotsiaalvõrgustikes.
+cb393c|Sõnumi mall
+6c08da|Kohatäited:
+ffe7a1|Iga platvorm lisab lingi eelvaatekaardina; Instagramis lisatakse see teksti lõppu.
+caebe1|Muuda postituse sildid teemaviideteks platvormidele {hashtags}
+f784d5|Vaikepilt
+b89f80|Kasutatakse siis, kui sisul pole esiletõstetud pilti ega pilti sisus. Instagram nõuab alati pilti.
+ef1486|Jagamised viimase %d päeva jooksul. ¦ Jagamised viimase %d päeva jooksul.
+447497|Kuupäev
+7d74f3|Sisu
+8eea62|Tulemus
+902952|Midagi pole veel jagatud.
+5da05b|Tühjenda ajalugu
+5ca182|Kas tühjendada ajalugu teatud kuupäevade kohta või täielikult? See, mis on juba jagatud, jääb sinu sotsiaalvõrgustikesse. Tühjendatud kirjeid selles loendis enam ei kuvata.
+5da618|Alates
+e12167|Kuni
+95b928|Jäta kuupäev tühjaks, et alustada esimesest kirjest või lõpetada tänasega.
+17cddf|Tühjenda need kuupäevad
+808768|Tühjenda kogu ajalugu
+03727a|Päev
+7cbb88|Kuu
+537c66|Aasta
+0b6cbd|Pakett
+a77d15|Litsentsivõti
+6db829|Täna jagatud
+b362bb|%1$d / %2$d sisuühikut
+494eb5|See sait
+efb548|Katkesta selle saidi ühendus
+4fdc17|Kas katkestada selle saidi ühendus SmokyPostiga? Jagamine peatub, kuni logid uuesti sisse.
+e54633|Jah, katkesta ühendus
+e2e646|Kuidas Pro töötab
+377a68|Maksa turvaliselt Paddle'i kaudu.
+fbc905|Laadi SmokyPost Pro alla allolevast nupust.
+7f189b|Tule sellele lehele tagasi. Ilmub nupp „Laadi SmokyPost Pro alla“ ning saadame sama lingi sulle ka e-postiga.
+53f719|Paigalda see menüüst Pistikprogrammid > Lisa uus > Laadi pistikprogramm üles ja aktiveeri. Sinu litsents leitakse automaatselt, võtit pole vaja sisestada.
+eb475d|SmokyPost Pro on teine pistikprogramm, mis töötab koos SmokyPostiga: hoia mõlemad aktiivsena. See võtab umbes minuti. Täielik tagasimakse 14 päeva jooksul pärast esimest makset.
+9fa65e|Sinu makse ilmumine siia võtab tavalisest kauem aega. Laadi leht paari minuti pärast uuesti. Kui tunni aja pärast on sinu pakett endiselt Free, kirjuta aadressil info@smokypost.com.
+bec297|Makse on kätte saadud. Sinu pakett aktiveerub peagi ja see leht kontrollib seda ise.
+2c80f9|SmokyPost Pro
+b81f3c|SmokyPost Pro %s on paigaldatud ja aktiivne.
+d25d87|Selle seaded asuvad menüüs SmokyPost > Pro ja kalender menüüs SmokyPost > Kalender. See uueneb ise.
+85e962|SmokyPost Pro on paigaldatud, kuid mitte aktiivne. Aktiveeri see lehel Pistikprogrammid.
+a3bd33|Ava Pistikprogrammid
+386940|Laadi SmokyPost Pro alla
+500b65|Link kehtib ühe tunni. Võid alati siia tagasi tulla uue saamiseks.
+e9f36d|Midagi läks valesti. Proovi uuesti.
+6956cc|Paketid
+3faa64|Saidid
+a97de4|Sisuühikuid päevas
+360114|Hind
+124864|%s aastas
+441f54|Praegune pakett
+690969|Vaheta sellele paketile
+f68358|Uuenda
+5d6316|Makseid töötleb turvaliselt Paddle. Hinnad on USA dollarites ja maksud lisatakse kassas seal, kus need kehtivad.
+be0482|Paketi vahetus jõustub kohe. Näed täpset summat ja kinnitad selle enne, kui midagi maha võetakse.
+97788c|Halda tellimust
+1a7066|Tühista ja saa raha tagasi
+b2c3ec|Tagasimakse on võimalik 14 päeva jooksul pärast esimest makset. Uuenemise võid alati peatada jaotises „Halda tellimust“.
+b1c55c|Küsimusi makse kohta? Kirjuta aadressil info@smokypost.com.
+a0d458|Võid tühistada ja saada täieliku tagasimakse kuni %s.
+361f28|Tühista ja saa tagasimakse
+9b3448|Kas tühistada tellimus ja saada täielik tagasimakse? Kõik, mida maksid, tagastatakse kaardile, millega maksid. Kasutatud päevade eest ei peeta midagi kinni. Sinu pakett lõpeb kohe ja see sait läheb tagasi paketile Free.
+1e81d7|Jah, tühista ja maksa tagasi
+ee6085|Starter
+abd900|Pro
+75ec3e|Agency
+0222db|Vaheta paketile %s
+71d986|Täna võetakse kaardilt, millega maksid, maha %1$s (%2$s).
+a503a7|Täna võetakse kaardilt, millega maksid, maha %s.
+237ece|Järgmine uuenemine jääb kuupäevale %s.
+cb540f|Täna ei võeta midagi maha.
+1d46af|Hinnavahe arvestatakse maha järgmisel uuenemisel, %s.
+937bcf|Hinnavahe arvestatakse maha järgmisel uuenemisel.
+bd4a14|Kas jätkata?
+cd1df7|Jah, võta maha %s
+6abb41|Jah, vaheta pakett
+17129e|Soovid maksta teise kaardiga? Ava „Halda tellimust“, uuenda makseviisi ja vaheta seejärel pakett uuesti.
+d4192d|lõpeb numbritega %s
+d4fbfe|%1$s, lõpeb numbritega %2$s
+b24ce0|Free
+9086fc|Jagamine on peatatud, kuni kinnitad oma e-posti aadressi.
+dbf504|Kinnita oma e-posti aadress. Jagamine peatatakse %d päeva pärast, kui seda ei tee. ¦ Kinnita oma e-posti aadress. Jagamine peatatakse %d päeva pärast, kui seda ei tee.
+933999|Saada link uuesti
+feb3a3|Blueskyi kasutajanimi
+65255b|Rakenduseparool
+63d12d|Kasuta rakenduseparooli, mitte oma Blueskyi põhiparooli. Seda saavad kasutada ainult sellised rakendused ja sa võid selle Blueskys igal ajal kustutada.
+4adaf4|Kuidas rakenduseparooli saada?
+5c312e|Ava %s (või Blueskys: Seaded > Privaatsus ja turvalisus > Rakenduseparoolid).
+9a01be|Klõpsa „Add App Password“ ja pane sellele nimeks SmokyPost.
+61e507|Kopeeri Blueskyi näidatud parool ja kleebi see siia.
+bd4bac|Sinu Mastodoni server
+9279eb|Selle serveri aadress, kus sinu konto asub, näiteks mastodon.social, või sinu täisnimi kujul @nimi@mastodon.social. Kinnitad SmokyPosti selles serveris.
+f8b4c2|Sisse logitud. Nüüd vali konto, kuhu see sait jagab.
+5bb110|Sisselogimine tühistati.
+262cb9|Sisselogimine ebaõnnestus. Proovi uuesti.
+bcbbc8|Hea teada:
+914602|SmokyPost jagab uusi postitusi automaatselt avaldamisel, sealhulgas teiste pistikprogrammide, importijate või REST API loodud postitusi. Automaatset jagamist saad iga platvormi jaoks sisse või välja lülitada selle kaardil allpool või jaotises Seaded.
+78e981|Sain aru
+bae082|Ava seaded
+8beb61|SmokyPost on peaaegu valmis.
+4f4267|Ühenda see sait
+2835b7|Sul pole selleks luba.
+811723|Sisesta kehtiv e-posti aadress.
+4b52c9|Sisesta parool.
+cacd72|Kasuta vähemalt 8-märgilist parooli.
+270228|Nõustu kasutustingimuste ja privaatsuspoliitikaga.
+c570e4|Sinu konto on valmis ja see sait on ühendatud. Saatsime sulle e-kirja aadressi kinnitamiseks.
+e4912d|Sisse logitud. See sait on ühendatud.
+a41cc2|Sisesta litsentsivõti.
+1448bb|Litsents on aktiveeritud. See sait on ühendatud.
+025e69|Kui sellel aadressil on konto, saatsime parooli lähtestamise lingi.
+19d2aa|See sait on SmokyPostist lahti ühendatud.
+ee3077|Vali kehtivad kuupäevad.
+12381e|Esimene kuupäev peab olema enne viimast.
+fd4f8f|Ajaloost tühjendati %d kirje. ¦ Ajaloost tühjendati %d kirjet.
+26d353|Tühjendada polnud midagi. Kirjed, mida veel saadetakse, jäävad loendisse.
+b9a702|Saatsime kinnituslingi uuesti.
+12bb90|Ühendatud. Nüüd vali konto, kuhu see sait jagab.
+c4effa|See paketivahetus on aegunud. Vali pakett uuesti.
+5e77be|Sinu paketti vahetatakse. Siin ilmumine võib võtta minuti.
+d8d639|Tagasimakset on taotletud ja tellimus tühistatud. Paddle maksab raha tagasi kaardile, millega maksid; see võib võtta paar päeva.
+82bf3a|%1$s on nüüd ühendatud kontoga %2$s.
+9a7e58|Seaded salvestatud.
+5677c1|Automaatne jagamine platvormile %s on sees.
+fa4524|Automaatne jagamine platvormile %s on väljas.
+0a2f60|Jagamata
+498cc4|Jaga SmokyPostiga
+90929c|%d sisuühik pandi jagamise järjekorda. ¦ %d sisuühikut pandi jagamise järjekorda.
+81b7e8|%d sisuühikut ei õnnestunud jagada; vaata SmokyPosti veergu. ¦ %d sisuühikut ei õnnestunud jagada; vaata SmokyPosti veergu.
+f75f84|See sait pole veel SmokyPostiga ühendatud.
+10112f|Jagatav pilt
+e57b53|Valitud jagamiseks
+85eb5a|Vali teine pilt
+7cd243|Vali pilt
+f6b9f8|Kasuta automaatset valikut
+4c8d06|Selle sisu pildid:
+4f63a3|Kasuta seda pilti
+e6fce5|Sisu uuendamine ei jaga seda uuesti. Jagamiseks klõpsa „Jaga kohe“.
+52beb6|Postituse esiletõstetud pilt
+860133|Esimene pilt sisus (sellel sisul pole esiletõstetud pilti)
+662aa1|SmokyPosti seadete vaikepilt (sellel sisul pole pilti)
+c28cf8|Instagram nõuab pilti ja sellel sisul seda pole. Lisa esiletõstetud pilt või pilt sisusse, vastasel juhul seda Instagramis ei jagata.
+1b1025|Jaga ajal (valikuline)
+d9c5f4|Vorming: %1$s, sinu saidi aja järgi (%2$s). Jäta tühjaks, et jagada kohe.
+03f222|See ei näi kuupäeva ja kellaajana. Kasuta vormingut AAAA-KK-PP HH:MM, näiteks 2026-12-31 18:30.
+25f734|Ajasta
+fe3b13|Tühista ajastatud jagamine
+87b913|Kustuta jagatud postitused
+b21c60|Jah, kustuta
+165825|Muudatuse rakendamiseks salvesta sisu.
+9fb721|Sul pole luba seda sisu jagada.
+d0bfeb|Pole midagi jagada: vali vähemalt üks ühendatud platvorm.
+9b3811|Saadan … Võid selle lehe sulgeda, jagamine jätkub taustal.
+6a5c54|Ajastatud ajaks %s. Võid selle lehe sulgeda.
+97c806|Selle sisu jaoks pole midagi ajastatud.
+4e96d7|Ajastatud jagamine tühistati.
+2b0bb4|Pole midagi tühistada: see on juba saadetud.
+e4c50f|Kas kustutada jagatud postitused platvormilt %s? Sisu ise jääb sinu saidile.
+fe2165|Platvormi %s postitusi ei saa siit kustutada. Kustuta need ise rakenduses.
+0f2121|Sul pole luba seda sisu muuta.
+605da5|Selle sisu jaoks pole midagi kustutada.
+46dc65|Kustutan … Võid selle lehe sulgeda, kustutamine jätkub taustal.
+a3787e|Valmis, kuid midagi ebaõnnestus. Vaata allpool.
+f59405|Valmis.
+50321d|Iga 5 minuti järel (SmokyPost)
+67cfe6|Instagramis jagamata: Instagram nõuab pilti ja sellel sisul seda pole. Lisa esiletõstetud pilt või pilt sisusse.
+398d9f|Jagamata: vaja on pilti
+e44fa2|Jagatud (kustuta ise rakenduses)
+a6156e|Jagatud
+d98139|Viga: %s
+d7c8c8|Viga
+a149e8|Tühistatud
+e3f04d|Kustutan …
+93f07b|Kustutatud
+1c5338|Kustutamine ebaõnnestus: %s
+d581ce|Kustutamine ebaõnnestus
+6c7650|Ootel: päevalimiit on täis, jagatakse pärast keskööd
+ccef9c|Ootel: kinnita oma e-posti aadress
+a97547|Ajastatud ajaks %s
+923d48|Proovin peagi uuesti
+7b2f31|Järjekorras
+bc1f89|Ühendus on aegunud. Ühenda uuesti SmokyPostis.
+a608e9|Selle platvormi jaoks pole lehte ega kontot valitud.
+347591|See sait pole enam SmokyPostiga ühendatud.
+ecd22a|Sinu SmokyPosti konto või litsents ei ole aktiivne.
+4b472d|See platvorm ei kuulu sinu paketti.
+852d39|Platvorm ei lubanud avaldamist. Veendu, et oled endiselt lehe administraator, ja ühenda uuesti.
+5e0173|Platvorm blokeeris selle postituse.
+c939dc|Platvorm lükkas selle postituse duplikaadina tagasi.
+b96b3f|Instagram nõuab pilti. Lisa postitusele esiletõstetud pilt.
+191240|Platvorm ei saanud pilti kasutada. Proovi JPEG- või PNG-pilti, mis on vähemalt 600 pikslit lai.
+28b253|Pilti ei õnnestunud lugeda. Kasuta JPEG-, PNG- või WebP-pilti.
+08c673|Pilt on liiga väike. Kasuta pilti, mis on vähemalt 600 pikslit lai.
+e99a00|SmokyPost ei saanud pilti sinu saidilt alla laadida.
+7f8957|Pilti ei õnnestunud ette valmistada.
+7fa12c|Platvorm ei olnud kättesaadav. SmokyPost proovis mitu korda.
+bd9611|Platvormiga ei õnnestunud ühendust saada. SmokyPost proovis mitu korda.
+582ab1|Instagram ei võtnud pilti õigel ajal vastu.
+c19c4c|Platvorm lükkas postituse tagasi.
+8a0741|Konto, mis selle postituse avaldas, pole enam ühendatud. Kustuta postitus ise platvormil.
+ad0394|Seda postitust ei saa automaatselt kustutada. Kustuta see ise platvormil.
+eb851e|SmokyPost – Automaatne jagamine sotsiaalmeedias postituste ja lehtede jaoks
+6b6724|Jaga uusi ja vanu postitusi ning lehti automaatselt oma sotsiaalmeedia kontodel. Arendajakontosid ega API võtmeid pole vaja.
+a274f4|Teavitused
+777ca2|Saada mulle e-kiri, kui
+28c682|jagamine ebaõnnestub
+ecb9b9|sisu on jagatud
+8daff7|Saate ühe e-kirja sisu kohta. Ebaõnnestunud jagamisest teatatakse pärast seda, kui SmokyPost on mitu korda proovinud, ning sama probleemist samal platvormil kord päevas. E-kiri ühenduse aegumise kohta saadetakse alati.
+ec7339|Saada e-kirjad aadressidele
+939f28|Eraldage mitu aadressi komadega. Jätke tühjaks, et kasutada saidi administraatori aadressi (%s).
+c2239a|SMTP
+00c7c2|Saada SmokyPosti e-kirjad SMTP-konto kaudu
+5efbcc|Kasutage seda, kui teie saidi e-kirjad ei jõua kohale. Seda kontot kasutavad ainult SmokyPosti e-kirjad, saidi muud e-kirjad jäävad muutmata. SmokyPosti jaoks ei ole vaja eraldi SMTP-pistikprogrammi.
+bdd48f|SMTP-server
+60aaf4|Port
+d7f261|Krüpteerimine
+413acc|TLS (tavaliselt port 587)
+68b181|SSL (tavaliselt port 465)
+151adf|Krüpteerimiseta
+f6039d|Kasutajanimi
+c6e6fb|Parool on määratud failis wp-config.php.
+0b5899|Parool on salvestatud. Selle säilitamiseks jätke väli tühjaks.
+d7381f|Eemalda salvestatud parool
+7b710d|Parool salvestatakse krüpteeritult ja seda ei näidata enam kunagi. Gmaili ja Outlooki jaoks kasutage rakenduse parooli.
+491147|Saatja e-posti aadress
+7508f2|Enamik teenusepakkujaid võtab vastu ainult kontole kuuluva aadressi.
+c3a7ea|Saatja nimi
+f5d604|Salvesta muudatused
+f970b9|Saada testkiri
+81f545|Testkiri salvestab enne ülaltoodud väärtused ja kasutab neid seejärel.
+1f2def|SmokyPosti testkiri
+2738c4|See on SmokyPosti testkiri. Kui saate seda lugeda, jõuavad SmokyPosti e-kirjad teieni.
+170c1a|Testkiri saadeti aadressile %s. Kontrollige sissetulevaid kirju ja rämpsposti kausta.
+15a320|Testkirja ei õnnestunud saata: %s Kontrollige serverit, porti ja krüpteerimist.
+11d6a3|Testkirja ei õnnestunud saata. Kontrollige serverit, porti ja krüpteerimist.
+eb4da2|Ühendage %s uuesti
+97ec08|Ühendus teenusega %1$s on aegunud, seega ei saa uut sisu seal jagada. Ühendage uuesti: %2$s
+e6a17f|Jagamine ebaõnnestus: %s
+4bde81|„%s“ ei õnnestunud kõikjal jagada:
+f7ca6b|Jagatud: %s
+1c747d|„%s“ jagati:
+89ae90|SmokyPost: päevalimiit on täis
+8b9f2b|Teie paketi päevalimiit on täis. Ülejäänud sisu jagatakse pärast südaööd.
+591804|Ava sisu: %s
+f4f486|Ajalugu: %s
+2396c6|Saate selle e-kirja, sest SmokyPosti teavitused on saidi %1$s jaoks sisse lülitatud. Siin saate muuta, kes neid saab, või need välja lülitada: %2$s

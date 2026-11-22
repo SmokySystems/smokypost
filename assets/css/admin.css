@@ -1,0 +1,74 @@
+.smokypost .smokypost-lead { font-size: 14px; max-width: 760px; }
+.smokypost-cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 16px; margin: 16px 0; max-width: 1100px; }
+.smokypost-card { background: #fff; border: 1px solid #dcdcde; border-radius: 4px; padding: 16px 20px; }
+.smokypost-card h2 { margin-top: 0; }
+.smokypost-card details { margin-top: 12px; }
+.smokypost-inline { display: inline; }
+.smokypost-target img, .smokypost-picker img { border-radius: 50%; vertical-align: middle; }
+.smokypost-picker label { display: block; padding: 6px 0; }
+.smokypost-error { color: #b32d2e; }
+.smokypost-status { margin: 8px 0 0; }
+.smokypost-status li { margin: 2px 0; }
+.smokypost-status .is-ok a, .smokypost-status .is-ok { color: #008a20; }
+.smokypost-status .is-failed, .smokypost-status .is-removal_failed { color: #b32d2e; }
+.smokypost-status .is-removed, .smokypost-status .is-removing, .smokypost-status .is-removal_queued { color: #646970; }
+.smokypost-badges { display: inline-flex; flex-wrap: wrap; gap: 4px; max-width: 100%; }
+.smokypost-badge { display: inline-block; min-width: 22px; padding: 1px 4px; border-radius: 3px; font-size: 11px; line-height: 18px; text-align: center; background: #f0f0f1; color: #50575e; }
+.smokypost-badge.is-ok { background: #e6f4ea; color: #006b1b; }
+.smokypost-badge.is-failed { background: #fcf0f1; color: #b32d2e; }
+.smokypost-badge.is-queued, .smokypost-badge.is-sending { background: #fcf9e8; color: #6e5300; }
+.smokypost-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 12px; margin: 12px 0 0; }
+.smokypost-panel .components-checkbox-control { margin-bottom: 10px; }
+.smokypost-panel .components-base-control { margin-bottom: 12px; }
+.smokypost-panel .smokypost-result { margin-top: 8px; }
+.smokypost-card input[type="email"],
+.smokypost-card input[type="password"],
+.smokypost-card input[type="text"] { width: 100%; max-width: 100%; box-sizing: border-box; }
+.smokypost .description { max-width: 760px; }
+.smokypost-privacy { max-width: 1100px; box-sizing: border-box; }
+.smokypost-privacy p { font-size: 14px; }
+.smokypost .notice p, .smokypost .notice-warning.inline p { font-size: 15px; line-height: 1.5; margin: 0.6em 0; }
+.smokypost .notice-error p, .smokypost .notice-success p { font-weight: 600; }
+.smokypost .notice { max-width: 1100px; box-sizing: border-box; }
+.smokypost-confirm summary { list-style: none; cursor: pointer; }
+.smokypost-confirm summary::-webkit-details-marker { display: none; }
+.smokypost-confirm[open] summary { display: none; }
+.smokypost-confirm .notice { margin: 0; max-width: 640px; }
+
+/* Automatic sharing toggle on platform cards */
+.smokypost-auto { margin: 4px 0 14px; padding: 10px 12px; border-radius: 4px; background: #f6f7f7; border-inline-start: 4px solid #8c8f94; }
+.smokypost-auto.is-on { background: #edfaef; border-inline-start-color: #00a32a; }
+.smokypost-auto .smokypost-auto-label { font-weight: 600; }
+.smokypost-pill { display: inline-block; padding: 0 8px; border-radius: 10px; font-size: 12px; font-weight: 600; line-height: 20px; background: #dcdcde; color: #3c434a; }
+.smokypost-auto.is-on .smokypost-pill { background: #00a32a; color: #fff; }
+.smokypost-auto .button-link { margin-inline-start: 6px; }
+.smokypost-auto .description { margin: 4px 0 0; }
+.smokypost .smokypost-field-intro { margin: 0 0 8px; }
+
+/* Skipped platform (for example Instagram without an image) */
+.smokypost-status .is-skipped { color: #996800; }
+.smokypost-badge.is-skipped { background: #fcf9e8; color: #996800; text-decoration: line-through; }
+.smokypost-heading { margin: 8px 0 4px; font-weight: 600; }
+.smokypost-warning p, .smokypost-warning .components-notice__content { font-size: 13px; }
+.smokypost-panel .smokypost-warning { margin: 0 0 12px; }
+
+/* Image that goes with the share */
+.smokypost-image { margin: 0 0 12px; }
+.smokypost-image img { display: block; max-width: 100%; max-height: 160px; object-fit: cover; border-radius: 4px; border: 1px solid #dcdcde; }
+.smokypost-image .description { margin: 4px 0 0; font-size: 12px; }
+
+/* History table */
+.smokypost-history td { vertical-align: top; }
+.smokypost-history .smokypost-status { margin: 0; }
+.smokypost-thumbs { display: flex; flex-wrap: wrap; gap: 6px; margin: 4px 0 8px; }
+.smokypost-thumb { padding: 0; border: 2px solid transparent; border-radius: 4px; background: none; cursor: pointer; line-height: 0; }
+.smokypost-thumb img { width: 56px; height: 56px; object-fit: cover; border-radius: 2px; border: 0; }
+.smokypost-thumb.is-selected { border-color: #2271b1; }
+.smokypost-thumb:focus { outline: 2px solid #2271b1; outline-offset: 1px; }
+.smokypost-image-actions { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin: 8px 0 0; }
+.smokypost-image .smokypost-image-preview { display: block; max-width: 100%; max-height: 160px; object-fit: cover; border-radius: 4px; border: 1px solid #dcdcde; }
+.smokypost-image .description + .description { margin-top: 10px; }
+
+.smokypost-steps { margin: 8px 0 12px 20px; list-style: decimal; }
+.smokypost-more > summary { cursor: pointer; }
+.smokypost-date-label { display: inline-block; min-width: 5.5em; }

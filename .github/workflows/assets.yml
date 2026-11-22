@@ -1,0 +1,26 @@
+name: WordPress.org assets
+
+# Sends the icons, banners and screenshots in .wordpress-org/ to the WordPress.org
+# assets folder whenever they change on main. Plugin code and readme are not touched.
+# Needs the repository secrets SVN_USERNAME and SVN_PASSWORD.
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - '.wordpress-org/**'
+  workflow_dispatch:
+
+jobs:
+  assets:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update WordPress.org assets
+        uses: 10up/action-wordpress-plugin-asset-update@stable
+        env:
+          SVN_USERNAME: ${{ secrets.SVN_USERNAME }}
+          SVN_PASSWORD: ${{ secrets.SVN_PASSWORD }}
+          SLUG: smokypost
+          ASSETS_DIR: .wordpress-org
+          IGNORE_OTHER_FILES: true

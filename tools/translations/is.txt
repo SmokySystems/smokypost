@@ -1,0 +1,330 @@
+3b6e56|Tengdu síðurnar þínar til að deila þessu efni.
+c27b34|Opna SmokyPost
+bc871d|Sending stendur enn yfir. Athugaðu flipann Saga eftir nokkrar mínútur.
+118c47|Ekki náðist samband við SmokyPost. Reyndu aftur eftir nokkrar mínútur.
+b090f4|Deila núna á:
+d5c6d5|Deila við birtingu á:
+b82400|þarf að tengja aftur
+016408|Eigin skilaboð (valfrjálst)
+06651c|Hafðu autt til að nota sniðmátið þitt.
+1d6da0|Verður deilt á valdar vettvanga við birtingu.
+5b18fc|Deilt sjálfkrafa við birtingu.
+04b478|Deila núna
+f4f707|Stillingar
+4d01e8|Sendi…
+834915|Eyði…
+34b1ef|Nýrri útgáfa af SmokyPost þarf til. Uppfærðu viðbótina.
+ed49a3|Vettvangar
+16d2b3|Saga
+08bd40|Aðgangur
+3b6c2b|Notkunarskilmálar
+fa2ead|Persónuverndarstefna
+777353|Deildu færslum og síðum sjálfkrafa á samfélagsmiðlunum þínum. Stofnaðu ókeypis aðgang eða skráðu þig inn til að tengja þennan vef.
+e05afd|Þegar tengt er sendir þessi vefur SmokyPost-þjónustunni (www.smokypost.com) vistfang sitt, útgáfur af WordPress og PHP, tungumál og tímabelti. Efni hvers atriðis sem þú deilir er sent þegar því er deilt.
+8ea211|Stofna ókeypis aðgang
+1e884e|Netfang
+6c2c15|Lykilorð (að minnsta kosti 8 stafir)
+9ec73e|Ég samþykki eftirfarandi skjöl: %1$s og %2$s.
+5853d4|Stofna aðgang og tengja
+3b2aee|Ég er þegar með aðgang
+dc647e|Lykilorð
+ac6560|Skrá inn og tengja
+422172|Nota leyfislykil í staðinn
+52f88a|Tengja með leyfislykli
+01a569|Gleymt lykilorð?
+733ae3|Senda endurstillingartengil
+0efe04|Tengdu hvern vettvang og veldu síðuna eða aðganginn sem þessi vefur á að deila á.
+43b540|Er ekki innifalið í áskriftinni þinni.
+4e7193|Tímabundið ófáanlegt. Reyndu aftur síðar.
+b9ba1a|Tengingin er útrunnin. Tengdu aftur til að halda áfram að deila.
+cf0b67|Tengja aftur
+f4ec5f|Breyta
+1063e3|Fjarlægja
+7dcd97|Ekki tengt.
+49ab28|Tengja
+2bf7da|Velja úr Facebook-innskráningunni þinni
+6330d1|Birtir textann þinn og tengil á einni af Facebook-síðunum þínum. Þú skráir þig inn með Facebook.
+e33490|Krefst atvinnuaðgangs á Instagram sem er tengdur við Facebook-síðu. Þú skráir þig inn með Facebook.
+1abbcd|Birtir textann þinn og tengil á einni af fyrirtækjasíðunum þínum á LinkedIn. Þú skráir þig inn með LinkedIn.
+328737|Birtir textann þinn, myllumerki og tengilspjald með mynd á Bluesky-aðganginum þínum. Þú tengist með notandanafni og forritslykilorði.
+9d078b|Birtir textann þinn, myllumerki og tengil á Mastodon-aðganginum þínum á hvaða Mastodon-netþjóni sem er. Þú samþykkir SmokyPost á þínum eigin netþjóni.
+b2d2d7|Birtir textann þinn og tengilspjald á Threads-prófílnum þínum. Þú skráir þig inn með Threads.
+5f2e71|Birtir textann þinn, merki og tengilspjald með mynd á einu af Tumblr-bloggunum þínum. Þú skráir þig inn með Tumblr.
+b4f827|Sjálfvirk deiling:
+521c36|Kveikt
+d15305|Slökkt
+8e61d9|Slökkva
+d154a5|Kveikja
+647bd1|Ný atriði eru birt hér þegar þau eru birt.
+7f9833|Aðeins deilt þegar þú smellir á „Deila núna“.
+bb7926|Þú ert skráð(ur) inn en ekki tókst að sýna aðgangana þína: %s
+f915a9|Reyna aftur
+ea4788|Hætta við
+0bfd8d|Tengdu aðganginn þinn fyrst.
+f85f84|Skráðu þig fyrst inn til að sjá síðurnar þínar.
+f595ba|Engin síða eða aðgangur fannst sem þú getur birt á með þessari innskráningu.
+19c3d3|Gakktu úr skugga um að Instagram-aðgangurinn þinn sé atvinnuaðgangur og tengdur einni af Facebook-síðunum þínum.
+5e5f56|(í gegnum %s)
+f64a44|Nota þennan aðgang
+6c803a|Sérðu ekki réttu síðuna?
+09a44d|Skrá inn með öðrum aðgangi
+04d144|Efnistegundir
+725f6c|Aðeins þessum tegundum er deilt sjálfkrafa og aðeins þær fá SmokyPost-reitinn í ritlinum.
+6b0402|Sjálfvirk deiling
+280dc2|Deila nýjum atriðum sjálfkrafa við birtingu á:
+b3b6ce|ekki tengt
+daf9e6|Taktu hakið úr vettvangi til að hætta að deila sjálfkrafa á hann. Taktu hakið úr öllum til að slökkva á sjálfvirkri deilingu. Þú getur alltaf deilt atriði sjálf(ur) með hnappnum „Deila núna“ í ritlinum eða færslulistanum og tekið hakið úr vettvangi fyrir einstakt atriði í ritlinum.
+be518a|Sjálfvirkt búin til atriði
+766287|Deila einnig atriðum sem aðrar viðbætur, innflytjendur, REST API eða WP-CLI birta
+f5c261|Kveikt sjálfgefið. Atriði sem kóði býr til (til dæmis sjálfvirkt blogg eða strauminnflytjandi) er deilt á vettvangana hér að ofan. Slökktu ef þú vilt aðeins deila því sem þú birtir í ritlinum.
+1aaf15|Sleppa innfluttum atriðum sem eru eldri en
+73cddd|klst.
+29327b|Eyðing atriða
+295b79|Eyða deildum færslum þegar atriði er eytt
+0d9342|Slökkt sjálfgefið. Þegar þú færir atriði í ruslið eða eyðir því eyðir SmokyPost einnig færslum þess á Facebook, LinkedIn, Bluesky, Mastodon, Threads og Tumblr. Instagram leyfir ekki öðrum forritum að eyða færslum og því þarf að eyða þeim í Instagram-forritinu. Að endurheimta atriði úr ruslinu endurheimtir ekki færslur á samfélagsmiðlum.
+cb393c|Skilaboðasniðmát
+6c08da|Staðgenglar:
+ffe7a1|Tengillinn er bættur við af hverjum vettvangi sem forskoðunarspjald; á Instagram er hann bættur aftan við textann.
+caebe1|Breyta merkjum færslunnar í myllumerki fyrir {hashtags}
+f784d5|Sjálfgefin mynd
+b89f80|Notuð þegar atriði hefur enga forsíðumynd og enga mynd í efninu. Instagram krefst alltaf myndar.
+ef1486|Deilingar síðasta %d dag. ¦ Deilingar síðustu %d daga.
+447497|Dagsetning
+7d74f3|Atriði
+8eea62|Niðurstaða
+902952|Engu hefur verið deilt enn.
+5da05b|Hreinsa sögu
+5ca182|Hreinsa söguna fyrir tilteknar dagsetningar eða alla? Það sem þegar hefur verið deilt helst á samfélagsmiðlunum þínum. Hreinsaðar færslur birtast ekki lengur á þessum lista.
+5da618|Frá
+e12167|Til
+95b928|Hafðu dagsetningu auða til að byrja á fyrstu færslu eða enda í dag.
+17cddf|Hreinsa þessar dagsetningar
+808768|Hreinsa alla söguna
+03727a|Dagur
+7cbb88|Mánuður
+537c66|Ár
+0b6cbd|Áskrift
+a77d15|Leyfislykill
+6db829|Deilt í dag
+b362bb|%1$d af %2$d atriðum
+494eb5|Þessi vefur
+efb548|Aftengja þennan vef
+4fdc17|Aftengja þennan vef frá SmokyPost? Deiling stöðvast þar til þú skráir þig inn aftur.
+e54633|Já, aftengja
+e2e646|Hvernig Pro virkar
+377a68|Greiddu örugglega með Paddle.
+fbc905|Sæktu SmokyPost Pro með hnappnum hér að neðan.
+7f189b|Komdu aftur á þessa síðu. Hnappurinn „Sækja SmokyPost Pro“ birtist og við sendum þér sama tengil í tölvupósti.
+53f719|Settu hana upp í Viðbætur > Bæta við > Hlaða upp viðbót og virkjaðu hana. Leyfið þitt greinist sjálfkrafa, þú þarft ekki að slá inn lykil.
+eb475d|SmokyPost Pro er önnur viðbót sem vinnur með SmokyPost: hafðu báðar virkar. Það tekur um það bil eina mínútu. Full endurgreiðsla innan 14 daga frá fyrstu greiðslu.
+9fa65e|Greiðslan þín er lengur að birtast hér en venjulega. Endurhladdu síðuna eftir nokkrar mínútur. Ef áskriftin þín er enn Free eftir klukkustund skaltu skrifa á info@smokypost.com.
+bec297|Greiðsla móttekin. Áskriftin þín verður virk fljótlega og þessi síða athugar það sjálf.
+2c80f9|SmokyPost Pro
+b81f3c|SmokyPost Pro %s er uppsett og virkt.
+d25d87|Stillingar þess eru í SmokyPost > Pro og dagatalið í SmokyPost > Dagatal. Það uppfærir sig sjálft.
+85e962|SmokyPost Pro er uppsett en ekki virkt. Virkjaðu það á síðunni Viðbætur.
+a3bd33|Opna Viðbætur
+386940|Sækja SmokyPost Pro
+500b65|Tengillinn gildir í eina klukkustund. Þú getur alltaf komið aftur hingað til að fá nýjan.
+e9f36d|Eitthvað fór úrskeiðis. Reyndu aftur.
+6956cc|Áskriftir
+3faa64|Vefir
+a97de4|Atriði á dag
+360114|Verð
+124864|%s á ári
+441f54|Núverandi áskrift
+690969|Skipta yfir í þessa áskrift
+f68358|Uppfæra
+5d6316|Greiðslur eru afgreiddar á öruggan hátt af Paddle. Verð eru í bandaríkjadölum og skattar bætast við í kassanum þar sem þeir eiga við.
+be0482|Breyting á áskrift tekur gildi strax. Þú sérð nákvæma upphæð og staðfestir hana áður en nokkuð er skuldfært.
+97788c|Stjórna áskrift
+1a7066|Hætta við og fá endurgreitt
+b2c3ec|Endurgreiðsla er möguleg innan 14 daga frá fyrstu greiðslu. Þú getur hvenær sem er stöðvað endurnýjun í „Stjórna áskrift“.
+b1c55c|Spurningar um greiðsluna? Skrifaðu á info@smokypost.com.
+a0d458|Þú getur sagt upp áskriftinni og fengið fulla endurgreiðslu til og með %s.
+361f28|Segja upp og fá endurgreiðslu
+9b3448|Segja upp áskriftinni og fá fulla endurgreiðslu? Allt sem þú greiddir fer aftur inn á kortið sem þú greiddir með. Ekkert er dregið frá fyrir daga sem þú hefur notað. Áskriftin þín endar strax og þessi vefur fer aftur í Free.
+1e81d7|Já, segja upp og endurgreiða
+ee6085|Starter
+abd900|Pro
+75ec3e|Agency
+0222db|Skipta yfir í %s
+71d986|Í dag verða %1$s (%2$s) skuldfærðar af kortinu sem þú greiddir með.
+a503a7|Í dag verða %s skuldfærðar af kortinu sem þú greiddir með.
+237ece|Næsta endurnýjun helst %s.
+cb540f|Ekkert er skuldfært í dag.
+1d46af|Verðmunurinn verður færður til góða við næstu endurnýjun, %s.
+937bcf|Verðmunurinn verður færður til góða við næstu endurnýjun.
+bd4a14|Halda áfram?
+cd1df7|Já, skuldfæra %s
+6abb41|Já, skipta um áskrift
+17129e|Viltu greiða með öðru korti? Opnaðu „Stjórna áskrift“, uppfærðu greiðslumáta og skiptu svo aftur um áskrift.
+d4192d|sem endar á %s
+d4fbfe|%1$s, endar á %2$s
+b24ce0|Free
+9086fc|Deiling er í bið þar til þú staðfestir netfangið þitt.
+dbf504|Staðfestu netfangið þitt. Deiling fer í bið eftir %d dag ef þú gerir það ekki. ¦ Staðfestu netfangið þitt. Deiling fer í bið eftir %d daga ef þú gerir það ekki.
+933999|Senda tengil aftur
+feb3a3|Notandanafn á Bluesky
+65255b|Forritslykilorð
+63d12d|Notaðu forritslykilorð en ekki aðallykilorðið þitt á Bluesky. Aðeins forrit eins og þetta geta notað það og þú getur eytt því á Bluesky hvenær sem er.
+4adaf4|Hvernig fæ ég forritslykilorð?
+5c312e|Opnaðu %s (eða á Bluesky: Stillingar > Persónuvernd og öryggi > Forritslykilorð).
+9a01be|Smelltu á „Add App Password“ og gefðu því nafnið SmokyPost.
+61e507|Afritaðu lykilorðið sem Bluesky sýnir og límdu það hér.
+bd4bac|Mastodon-netþjónninn þinn
+9279eb|Vistfang netþjónsins þar sem aðgangurinn þinn er, til dæmis mastodon.social, eða fullt nafn þitt á forminu @nafn@mastodon.social. Þú samþykkir SmokyPost á þeim netþjóni.
+f8b4c2|Innskráð(ur). Veldu nú aðganginn sem þessi vefur á að deila á.
+5bb110|Hætt var við innskráninguna.
+262cb9|Innskráning mistókst. Reyndu aftur.
+bcbbc8|Gott að vita:
+914602|SmokyPost deilir nýjum færslum sjálfkrafa við birtingu, þar á meðal færslum sem aðrar viðbætur, innflytjendur eða REST API búa til. Þú getur kveikt eða slökkt á sjálfvirkri deilingu fyrir hvern vettvang á spjaldi hans hér að neðan eða í Stillingum.
+78e981|Skil
+bae082|Opna stillingar
+8beb61|SmokyPost er næstum tilbúið.
+4f4267|Tengja þennan vef
+2835b7|Þú hefur ekki heimild til að gera þetta.
+811723|Sláðu inn gilt netfang.
+4b52c9|Sláðu inn lykilorð.
+cacd72|Notaðu lykilorð með að minnsta kosti 8 stöfum.
+270228|Samþykktu notkunarskilmálana og persónuverndarstefnuna.
+c570e4|Aðgangurinn þinn er tilbúinn og þessi vefur er tengdur. Við sendum þér tölvupóst til að staðfesta netfangið þitt.
+e4912d|Innskráð(ur). Þessi vefur er tengdur.
+a41cc2|Sláðu inn leyfislykil.
+1448bb|Leyfi virkjað. Þessi vefur er tengdur.
+025e69|Ef aðgangur er til fyrir þetta netfang sendum við tengil til að endurstilla lykilorðið.
+19d2aa|Þessi vefur er aftengdur frá SmokyPost.
+ee3077|Veldu gildar dagsetningar.
+12381e|Fyrri dagsetningin verður að vera á undan þeirri síðari.
+fd4f8f|%d atriði var hreinsað úr sögunni. ¦ %d atriði voru hreinsuð úr sögunni.
+26d353|Ekkert var til að hreinsa. Færslur sem enn eru í sendingu haldast á listanum.
+b9a702|Við sendum staðfestingartengilinn aftur.
+12bb90|Tengt. Veldu nú aðganginn sem þessi vefur á að deila á.
+c4effa|Þessi breyting á áskrift er útrunnin. Veldu áskrift aftur.
+5e77be|Áskriftinni þinni er verið að breyta. Það getur tekið mínútu að birtast hér.
+d8d639|Endurgreiðsla hefur verið beðin um og áskriftinni sagt upp. Paddle endurgreiðir á kortið sem þú greiddir með; það getur tekið nokkra daga.
+82bf3a|%1$s er nú tengt við %2$s.
+9a7e58|Stillingar vistaðar.
+5677c1|Kveikt er á sjálfvirkri deilingu á %s.
+fa4524|Slökkt er á sjálfvirkri deilingu á %s.
+0a2f60|Ekki deilt
+498cc4|Deila með SmokyPost
+90929c|%d atriði var sett í biðröð til deilingar. ¦ %d atriði voru sett í biðröð til deilingar.
+81b7e8|%d atriði tókst ekki að deila; sjá dálkinn SmokyPost. ¦ %d atriðum tókst ekki að deila; sjá dálkinn SmokyPost.
+f75f84|Þessi vefur er ekki enn tengdur við SmokyPost.
+10112f|Mynd til að deila
+e57b53|Valin til deilingar
+85eb5a|Velja aðra mynd
+7cd243|Velja mynd
+f6b9f8|Nota sjálfvirkt val
+4c8d06|Myndir í þessu atriði:
+4f63a3|Nota þessa mynd
+e6fce5|Uppfærsla á atriði deilir því ekki aftur. Smelltu á „Deila núna“ til að deila því.
+52beb6|Forsíðumynd færslunnar
+860133|Fyrsta myndin í efninu (þetta atriði hefur enga forsíðumynd)
+662aa1|Sjálfgefna myndin úr stillingum SmokyPost (þetta atriði hefur enga mynd)
+c28cf8|Instagram krefst myndar og þetta atriði hefur enga. Bættu við forsíðumynd eða mynd í efnið, annars verður því ekki deilt á Instagram.
+1b1025|Deila kl. (valfrjálst)
+d9c5f4|Snið: %1$s, á tíma vefsins þíns (%2$s). Hafðu autt til að deila strax.
+03f222|Þetta lítur ekki út eins og dagsetning og tími. Notaðu sniðið ÁÁÁÁ-MM-DD KK:MM, til dæmis 2026-12-31 18:30.
+25f734|Tímasetja
+fe3b13|Hætta við tímasetta deilingu
+87b913|Eyða deildum færslum
+b21c60|Já, eyða
+165825|Vistaðu atriðið til að breytingin taki gildi.
+9fb721|Þú hefur ekki heimild til að deila þessu atriði.
+d0bfeb|Ekkert til að deila: veldu að minnsta kosti einn tengdan vettvang.
+9b3811|Sendi… Þú getur yfirgefið þessa síðu, deilingin heldur áfram í bakgrunni.
+6a5c54|Tímasett á %s. Þú getur yfirgefið þessa síðu.
+97c806|Ekkert er tímasett fyrir þetta atriði.
+4e96d7|Tímasett deiling var afturkölluð.
+2b0bb4|Ekkert til að afturkalla: það hefur þegar verið sent.
+e4c50f|Eyða deildum færslum af %s? Atriðið sjálft helst á vefnum þínum.
+fe2165|Ekki er hægt að eyða færslum á %s héðan. Eyddu þeim sjálf(ur) í forritinu.
+0f2121|Þú hefur ekki heimild til að breyta þessu atriði.
+605da5|Ekkert er til að eyða fyrir þetta atriði.
+46dc65|Eyði… Þú getur yfirgefið þessa síðu, eyðingin heldur áfram í bakgrunni.
+a3787e|Lokið, en eitthvað mistókst. Sjá hér að neðan.
+f59405|Tilbúið.
+50321d|Á 5 mínútna fresti (SmokyPost)
+67cfe6|Ekki deilt á Instagram: Instagram krefst myndar og þetta atriði hefur enga. Bættu við forsíðumynd eða mynd í efnið.
+398d9f|Ekki deilt: þarf mynd
+e44fa2|Deilt (eyddu sjálf(ur) í forritinu)
+a6156e|Deilt
+d98139|Villa: %s
+d7c8c8|Villa
+a149e8|Hætt við
+e3f04d|Eyði…
+93f07b|Eytt
+1c5338|Eyðing mistókst: %s
+d581ce|Eyðing mistókst
+6c7650|Bíður: dagmörkum náð, deilt eftir miðnætti
+ccef9c|Bíður: staðfestu netfangið þitt
+a97547|Tímasett á %s
+923d48|Reynt aftur fljótlega
+7b2f31|Í biðröð
+bc1f89|Tengingin er útrunnin. Tengdu aftur í SmokyPost.
+a608e9|Engin síða eða aðgangur er valinn fyrir þennan vettvang.
+347591|Þessi vefur er ekki lengur tengdur við SmokyPost.
+ecd22a|SmokyPost-aðgangurinn þinn eða leyfið er ekki virkt.
+4b472d|Þessi vettvangur er ekki innifalinn í áskriftinni þinni.
+852d39|Vettvangurinn leyfði ekki birtingu. Gakktu úr skugga um að þú sért enn stjórnandi síðunnar og tengdu aftur.
+5e0173|Vettvangurinn lokaði á þessa færslu.
+c939dc|Vettvangurinn hafnaði þessari færslu sem afriti.
+b96b3f|Instagram krefst myndar. Bættu forsíðumynd við færsluna.
+191240|Vettvangurinn gat ekki notað myndina. Prófaðu JPEG- eða PNG-mynd sem er að minnsta kosti 600 punkta breið.
+28b253|Ekki tókst að lesa myndina. Notaðu JPEG, PNG eða WebP.
+08c673|Myndin er of lítil. Notaðu mynd sem er að minnsta kosti 600 punkta breið.
+e99a00|SmokyPost gat ekki sótt myndina af vefnum þínum.
+7f8957|Ekki tókst að undirbúa myndina.
+7fa12c|Vettvangurinn var ekki tiltækur. SmokyPost reyndi nokkrum sinnum.
+bd9611|Ekki náðist samband við vettvanginn. SmokyPost reyndi nokkrum sinnum.
+582ab1|Instagram tók ekki við myndinni í tæka tíð.
+c19c4c|Vettvangurinn hafnaði færslunni.
+8a0741|Aðgangurinn sem birti þessa færslu er ekki lengur tengdur. Eyddu færslunni sjálf(ur) á vettvanginum.
+ad0394|Ekki er hægt að eyða þessari færslu sjálfkrafa. Eyddu henni sjálf(ur) á vettvanginum.
+eb851e|SmokyPost – Sjálfvirk deiling á samfélagsmiðlum fyrir færslur og síður
+6b6724|Deildu nýjum og gömlum færslum og síðum sjálfkrafa á samfélagsmiðlareikningana þína. Engir þróunaraðilareikningar eða API-lyklar nauðsynlegir.
+a274f4|Tilkynningar
+777ca2|Senda mér tölvupóst þegar
+28c682|deiling mistekst
+ecb9b9|efni hefur verið deilt
+8daff7|Þú færð einn tölvupóst á hvert efni. Tilkynnt er um misheppnaða deilingu eftir að SmokyPost hefur reynt nokkrum sinnum, og um sama vandamál á sama miðli einu sinni á dag. Tölvupóstur um útrunna tengingu er alltaf sendur.
+ec7339|Senda tölvupóst á
+939f28|Aðgreindu mörg netföng með kommum. Hafðu reitinn tóman til að nota netfang vefstjóra þessa vefs (%s).
+c2239a|SMTP
+00c7c2|Senda tölvupóst SmokyPost í gegnum SMTP-aðgang
+5efbcc|Notaðu þetta ef tölvupóstur frá vefnum þínum berst ekki. Aðeins tölvupóstur SmokyPost notar þennan aðgang, annar tölvupóstur vefsins breytist ekki. Þú þarft ekki sérstaka SMTP-viðbót fyrir SmokyPost.
+bdd48f|SMTP-þjónn
+60aaf4|Gátt
+d7f261|Dulkóðun
+413acc|TLS (venjulega gátt 587)
+68b181|SSL (venjulega gátt 465)
+151adf|Engin dulkóðun
+f6039d|Notandanafn
+c6e6fb|Lykilorðið er stillt í wp-config.php.
+0b5899|Lykilorð er vistað. Hafðu reitinn tóman til að halda því.
+d7381f|Fjarlægja vistaða lykilorðið
+7b710d|Lykilorðið er geymt dulkóðað og er aldrei sýnt aftur. Fyrir Gmail og Outlook skaltu nota forritalykilorð.
+491147|Netfang sendanda
+7508f2|Flestir þjónustuaðilar taka aðeins við netfangi sem tilheyrir aðganginum.
+c3a7ea|Nafn sendanda
+f5d604|Vista breytingar
+f970b9|Senda prófunarpóst
+81f545|Prófunarpósturinn vistar fyrst gildin hér að ofan og notar þau svo.
+1f2def|Prófunarpóstur frá SmokyPost
+2738c4|Þetta er prófunarpóstur frá SmokyPost. Ef þú getur lesið hann berst tölvupóstur frá SmokyPost til þín.
+170c1a|Prófunarpóstur var sendur á %s. Athugaðu innhólfið og ruslpóstmöppuna.
+15a320|Ekki tókst að senda prófunarpóstinn: %s Athugaðu þjóninn, gáttina og dulkóðunina.
+11d6a3|Ekki tókst að senda prófunarpóstinn. Athugaðu þjóninn, gáttina og dulkóðunina.
+eb4da2|Tengdu %s aftur
+97ec08|Tengingin við %1$s er útrunnin, svo ekki er hægt að deila nýju efni þar. Tengdu aftur: %2$s
+e6a17f|Ekki tókst að deila: %s
+4bde81|Ekki tókst að deila „%s“ alls staðar:
+f7ca6b|Deilt: %s
+1c747d|„%s“ var deilt:
+89ae90|SmokyPost: dagsmörkum náð
+8b9f2b|Dagsmörkum áskriftarinnar er náð. Efnið sem eftir er verður deilt eftir miðnætti.
+591804|Opna efnið: %s
+f4f486|Ferill: %s
+2396c6|Þú færð þennan tölvupóst vegna þess að tilkynningar SmokyPost eru virkar fyrir %1$s. Breyttu hér hverjir fá þær eða slökktu á þeim: %2$s

@@ -1,0 +1,1429 @@
+# Copyright (C) 2026 SmokySystems
+# This file is distributed under the GPL-2.0-or-later.
+msgid ""
+msgstr ""
+"Project-Id-Version: SmokyPost\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Domain: smokypost\n"
+"Language: he_IL\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: assets/js/editor.js:159 includes/Editor.php:199
+msgid "Connect your pages to share this item."
+msgstr "חברו את הדפים שלכם כדי לשתף את הפריט הזה."
+
+#: assets/js/editor.js:160 includes/Editor.php:199
+msgid "Open SmokyPost"
+msgstr "פתיחת SmokyPost"
+
+#: assets/js/editor.js:178 includes/Admin/Page.php:76
+msgid "Still sending. Check the History tab in a few minutes."
+msgstr "השליחה עדיין מתבצעת. בדקו את לשונית \"היסטוריה\" בעוד כמה דקות."
+
+#: assets/js/editor.js:238 assets/js/editor.js:261 assets/js/editor.js:288 includes/Api.php:106
+msgid "SmokyPost could not be reached. Please try again in a few minutes."
+msgstr "לא ניתן היה להתחבר ל-SmokyPost. נסו שוב בעוד כמה דקות."
+
+#: assets/js/editor.js:298 includes/Editor.php:208
+msgid "Share now to:"
+msgstr "שתפו עכשיו ב:"
+
+#: assets/js/editor.js:298 includes/Editor.php:208
+msgid "Share when published to:"
+msgstr "שתפו בעת הפרסום ב:"
+
+#: assets/js/editor.js:300
+msgid "reconnect needed"
+msgstr "נדרש חיבור מחדש"
+
+#: assets/js/editor.js:313 includes/Editor.php:214
+msgid "Custom message (optional)"
+msgstr "הודעה מותאמת אישית (אופציונלי)"
+
+#: assets/js/editor.js:314
+msgid "Leave empty to use your template."
+msgstr "השאירו ריק כדי להשתמש בתבנית שלכם."
+
+#: assets/js/editor.js:333
+msgid "Shared to the ticked platforms when you publish."
+msgstr "השיתוף יתבצע בפלטפורמות שנבחרו בעת הפרסום."
+
+#: assets/js/editor.js:336
+msgid "Shared automatically when it was published."
+msgstr "שותף אוטומטית בעת הפרסום."
+
+#: assets/js/editor.js:339 includes/Editor.php:232
+msgid "Share now"
+msgstr "שתפו עכשיו"
+
+#: includes/Admin/Page.php:43 includes/Admin/Page.php:122
+msgid "Settings"
+msgstr "הגדרות"
+
+#: includes/Admin/Page.php:74 includes/Status.php:87
+msgid "Sending…"
+msgstr "שולח…"
+
+#: includes/Admin/Page.php:75 includes/Editor.php:150
+msgid "Deleting…"
+msgstr "מוחק…"
+
+#: includes/Admin/Page.php:113
+msgid "A newer version of SmokyPost is required. Please update the plugin."
+msgstr "נדרשת גרסה חדשה יותר של SmokyPost. עדכנו את התוסף."
+
+#: includes/Admin/Page.php:121
+msgid "Platforms"
+msgstr "פלטפורמות"
+
+#: includes/Admin/Page.php:123
+msgid "History"
+msgstr "היסטוריה"
+
+#: includes/Admin/Page.php:124
+msgid "Notifications"
+msgstr "התראות"
+
+#: includes/Admin/Page.php:125 includes/Admin/Page.php:558
+msgid "Account"
+msgstr "חשבון"
+
+#: includes/Admin/Page.php:156
+msgid "Terms of Service"
+msgstr "תנאי השימוש"
+
+#: includes/Admin/Page.php:157
+msgid "Privacy Policy"
+msgstr "מדיניות הפרטיות"
+
+#: includes/Admin/Page.php:158
+msgid "Share your posts and pages to your social media accounts automatically. Create a free account or sign in to connect this site."
+msgstr "שתפו אוטומטית את הפוסטים והדפים שלכם ברשתות החברתיות. צרו חשבון חינמי או התחברו כדי לחבר את האתר הזה."
+
+#: includes/Admin/Page.php:159
+msgid "When you connect, this site sends its address, WordPress and PHP versions, language and time zone to the SmokyPost service (www.smokypost.com). The content of each item you share is sent when it is shared."
+msgstr "בעת החיבור, האתר הזה שולח לשירות SmokyPost (www.smokypost.com) את כתובתו, גרסאות WordPress ו-PHP, השפה ואזור הזמן. תוכן כל פריט שאתם משתפים נשלח ברגע השיתוף."
+
+#: includes/Admin/Page.php:163
+msgid "Create a free account"
+msgstr "יצירת חשבון חינמי"
+
+#: includes/Admin/Page.php:165 includes/Admin/Page.php:174 includes/Admin/Page.php:187
+msgid "E-mail"
+msgstr "אימייל"
+
+#: includes/Admin/Page.php:166
+msgid "Password (at least 8 characters)"
+msgstr "סיסמה (לפחות 8 תווים)"
+
+#. translators: 1: Terms of Service link, 2: Privacy Policy link
+#: includes/Admin/Page.php:168
+#, php-format
+msgid "I accept the %1$s and the %2$s."
+msgstr "אני מסכים/ה ל%1$s ול%2$s."
+
+#: includes/Admin/Page.php:169
+msgid "Create account and connect"
+msgstr "יצירת חשבון וחיבור"
+
+#: includes/Admin/Page.php:172
+msgid "I already have an account"
+msgstr "כבר יש לי חשבון"
+
+#: includes/Admin/Page.php:175 includes/Admin/Page.php:445
+msgid "Password"
+msgstr "סיסמה"
+
+#: includes/Admin/Page.php:176
+msgid "Sign in and connect"
+msgstr "התחברות וחיבור"
+
+#: includes/Admin/Page.php:179
+msgid "Use a license key instead"
+msgstr "שימוש במפתח רישיון במקום"
+
+#: includes/Admin/Page.php:182
+msgid "Connect with license key"
+msgstr "חיבור עם מפתח רישיון"
+
+#: includes/Admin/Page.php:185
+msgid "Forgot your password?"
+msgstr "שכחתם את הסיסמה?"
+
+#: includes/Admin/Page.php:188
+msgid "Send reset link"
+msgstr "שליחת קישור לאיפוס"
+
+#: includes/Admin/Page.php:207
+msgid "Connect each platform and choose the page or account this site shares to."
+msgstr "חברו כל פלטפורמה ובחרו את הדף או החשבון שהאתר הזה ישתף אליו."
+
+#: includes/Admin/Page.php:222
+msgid "Not included in your plan."
+msgstr "לא כלול בתוכנית שלכם."
+
+#: includes/Admin/Page.php:226
+msgid "Temporarily unavailable. Please try again later."
+msgstr "לא זמין זמנית. נסו שוב מאוחר יותר."
+
+#: includes/Admin/Page.php:237
+msgid "The connection has expired. Connect again to keep sharing."
+msgstr "החיבור פג תוקף. חברו מחדש כדי להמשיך לשתף."
+
+#: includes/Admin/Page.php:238
+msgid "Connect again"
+msgstr "חיבור מחדש"
+
+#: includes/Admin/Page.php:241
+msgid "Change"
+msgstr "שינוי"
+
+#: includes/Admin/Page.php:243
+msgid "Remove"
+msgstr "הסרה"
+
+#: includes/Admin/Page.php:247
+msgid "Not connected."
+msgstr "לא מחובר."
+
+#: includes/Admin/Page.php:249 includes/Admin/Page.php:341
+msgid "Connect"
+msgstr "חיבור"
+
+#: includes/Admin/Page.php:253
+msgid "Choose from your Facebook login"
+msgstr "בחירה מתוך ההתחברות לפייסבוק"
+
+#: includes/Admin/Page.php:277
+msgid "Posts your text and a link to one of your Facebook Pages. You sign in with Facebook."
+msgstr "מפרסם את הטקסט והקישור שלכם באחד מדפי הפייסבוק שלכם. מתחברים עם פייסבוק."
+
+#: includes/Admin/Page.php:279
+msgid "Needs an Instagram professional account linked to a Facebook Page. You sign in with Facebook."
+msgstr "דורש חשבון אינסטגרם עסקי המקושר לדף פייסבוק. מתחברים עם פייסבוק."
+
+#: includes/Admin/Page.php:281
+msgid "Posts your text and a link to one of your LinkedIn company pages. You sign in with LinkedIn."
+msgstr "מפרסם את הטקסט והקישור שלכם באחד מדפי החברה שלכם בלינקדאין. מתחברים עם לינקדאין."
+
+#: includes/Admin/Page.php:283
+msgid "Posts your text, hashtags and a link card with the picture to your Bluesky account. You connect with your handle and an app password."
+msgstr "מפרסם את הטקסט, ההאשטגים וכרטיס קישור עם תמונה בחשבון ה-Bluesky שלכם. מתחברים עם שם משתמש וסיסמת אפליקציה."
+
+#: includes/Admin/Page.php:285
+msgid "Posts your text, hashtags and a link to your Mastodon account on any Mastodon server. You approve SmokyPost on your own server."
+msgstr "מפרסם את הטקסט, ההאשטגים והקישור בחשבון ה-Mastodon שלכם בכל שרת Mastodon. מאשרים את SmokyPost בשרת שלכם."
+
+#: includes/Admin/Page.php:287
+msgid "Posts your text and a link card to your Threads profile. You sign in with Threads."
+msgstr "מפרסם את הטקסט וכרטיס קישור בפרופיל ה-Threads שלכם. מתחברים עם Threads."
+
+#: includes/Admin/Page.php:289
+msgid "Posts your text, tags and a link card with the picture to one of your Tumblr blogs. You sign in with Tumblr."
+msgstr "מפרסם את הטקסט, התגיות וכרטיס קישור עם תמונה באחד מבלוגי ה-Tumblr שלכם. מתחברים עם Tumblr."
+
+#: includes/Admin/Page.php:304
+msgid "Automatic sharing:"
+msgstr "שיתוף אוטומטי:"
+
+#: includes/Admin/Page.php:304
+msgid "On"
+msgstr "פועל"
+
+#: includes/Admin/Page.php:304
+msgid "Off"
+msgstr "כבוי"
+
+#: includes/Admin/Page.php:305
+msgid "Turn off"
+msgstr "כיבוי"
+
+#: includes/Admin/Page.php:305
+msgid "Turn on"
+msgstr "הפעלה"
+
+#: includes/Admin/Page.php:306
+msgid "New items are shared here when they are published."
+msgstr "פריטים חדשים משותפים כאן כשהם מתפרסמים."
+
+#: includes/Admin/Page.php:306
+msgid "Only shared when you click \"Share now\"."
+msgstr "משתף רק כשלוחצים על \"שתפו עכשיו\"."
+
+#. translators: %s: reason
+#: includes/Admin/Page.php:322
+#, php-format
+msgid "You are signed in, but your accounts could not be listed: %s"
+msgstr "התחברתם, אך לא ניתן היה להציג את החשבונות שלכם: %s"
+
+#: includes/Admin/Page.php:323
+msgid "Try again"
+msgstr "ניסיון חוזר"
+
+#: includes/Admin/Page.php:323 includes/Admin/Page.php:361 includes/Admin/Page.php:524 includes/Admin/Page.php:576 includes/Admin/Page.php:716 includes/Admin/Page.php:772 includes/Editor.php:149 includes/Editor.php:481
+msgid "Cancel"
+msgstr "ביטול"
+
+#: includes/Admin/Page.php:328
+msgid "Connect your account first."
+msgstr "חברו קודם את החשבון שלכם."
+
+#: includes/Admin/Page.php:328
+msgid "Sign in first to see your pages."
+msgstr "התחברו קודם כדי לראות את הדפים שלכם."
+
+#: includes/Admin/Page.php:329
+msgid "No page or account with posting rights was found for this login."
+msgstr "לא נמצא דף או חשבון שאפשר לפרסם בו עם ההתחברות הזו."
+
+#: includes/Admin/Page.php:331
+msgid "Check that your Instagram account is a professional account and is linked to one of your Facebook Pages."
+msgstr "ודאו שחשבון האינסטגרם שלכם הוא חשבון עסקי ומקושר לאחד מדפי הפייסבוק שלכם."
+
+#. translators: %s: name of the person who signed in
+#: includes/Admin/Page.php:355
+#, php-format
+msgid "(via %s)"
+msgstr "(דרך %s)"
+
+#: includes/Admin/Page.php:360
+msgid "Use this account"
+msgstr "שימוש בחשבון הזה"
+
+#: includes/Admin/Page.php:363
+msgid "Missing a page?"
+msgstr "לא רואים את הדף שחיפשתם?"
+
+#: includes/Admin/Page.php:364
+msgid "Sign in with another account"
+msgstr "התחברות עם חשבון אחר"
+
+#: includes/Admin/Page.php:377
+msgid "Content types"
+msgstr "סוגי תוכן"
+
+#: includes/Admin/Page.php:381
+msgid "Only these types are shared automatically and get the SmokyPost box in the editor."
+msgstr "רק סוגים אלה משותפים אוטומטית, ורק בהם מופיעה תיבת SmokyPost בעורך."
+
+#: includes/Admin/Page.php:383
+msgid "Automatic sharing"
+msgstr "שיתוף אוטומטי"
+
+#: includes/Admin/Page.php:384
+msgid "Share new items automatically when they are published to:"
+msgstr "שתפו פריטים חדשים אוטומטית כשהם מתפרסמים ב:"
+
+#: includes/Admin/Page.php:386
+msgid "not connected"
+msgstr "לא מחובר"
+
+#: includes/Admin/Page.php:389
+msgid "Untick a platform to stop automatic sharing to it. Untick all to turn automatic sharing off. You can still share any item yourself with \"Share now\" in the editor or the post list, and untick a platform for a single item in the editor."
+msgstr "בטלו את הבחירה בפלטפורמה כדי להפסיק לשתף אליה אוטומטית. בטלו את הבחירה בכולן כדי לכבות את השיתוף האוטומטי. תמיד אפשר לשתף פריט בעצמכם עם הכפתור \"שתפו עכשיו\" בעורך או ברשימת הפוסטים, ואפשר גם לבטל פלטפורמה לפריט בודד בעורך."
+
+#: includes/Admin/Page.php:391
+msgid "Automatically created items"
+msgstr "פריטים שנוצרו אוטומטית"
+
+#: includes/Admin/Page.php:391
+msgid "Also share items published by other plugins, importers, the REST API or WP-CLI"
+msgstr "שתפו גם פריטים שמתפרסמים על ידי תוספים אחרים, כלי ייבוא, REST API או WP-CLI"
+
+#: includes/Admin/Page.php:392
+msgid "On by default. Items created by code (for example an autoblog or a feed importer) are shared to the platforms above. Turn this off if you only want to share what you publish in the editor."
+msgstr "מופעל כברירת מחדל. פריטים שנוצרים בקוד (למשל בלוג אוטומטי או כלי ייבוא פידים) משותפים בפלטפורמות שלמעלה. כבו כדי לשתף רק את מה שמפורסם בעורך."
+
+#: includes/Admin/Page.php:393
+msgid "Skip imported items older than"
+msgstr "דלגו על פריטים מיובאים שגילם עולה על"
+
+#: includes/Admin/Page.php:393
+msgid "hours"
+msgstr "שעות"
+
+#: includes/Admin/Page.php:395
+msgid "Deleting items"
+msgstr "מחיקת פריטים"
+
+#: includes/Admin/Page.php:395
+msgid "Delete the shared posts when the item is deleted"
+msgstr "מחקו את הפוסטים המשותפים כשפריט נמחק"
+
+#: includes/Admin/Page.php:396
+msgid "Off by default. When you move an item to the trash or delete it, SmokyPost also removes its posts from Facebook, LinkedIn, Bluesky, Mastodon, Threads and Tumblr. Instagram does not allow other apps to delete posts, so those have to be deleted in the Instagram app. Restoring an item from the trash does not bring the social posts back."
+msgstr "כבוי כברירת מחדל. כשמעבירים פריט לאשפה או מוחקים אותו, SmokyPost מוחק גם את הפוסטים שלו בפייסבוק, לינקדאין, Bluesky, Mastodon, Threads ו-Tumblr. אינסטגרם אינו מאפשר לאפליקציות אחרות למחוק פוסטים, ולכן יש למחוק אותם באפליקציית אינסטגרם. שחזור פריט מהאשפה לא משחזר את הפוסטים ברשתות החברתיות."
+
+#: includes/Admin/Page.php:398
+msgid "Message template"
+msgstr "תבנית הודעה"
+
+#: includes/Admin/Page.php:400
+msgid "Placeholders:"
+msgstr "מצייני מיקום:"
+
+#: includes/Admin/Page.php:400
+msgid "The link is added by each platform as a preview card; on Instagram it is added to the end of the text."
+msgstr "כל פלטפורמה מוסיפה את הקישור ככרטיס תצוגה מקדימה; באינסטגרם הוא מתווסף בסוף הטקסט."
+
+#: includes/Admin/Page.php:401
+msgid "Turn post tags into hashtags for {hashtags}"
+msgstr "המירו את תגיות הפוסט להאשטגים עבור {hashtags}"
+
+#: includes/Admin/Page.php:403
+msgid "Default image"
+msgstr "תמונת ברירת מחדל"
+
+#: includes/Admin/Page.php:404
+msgid "Used when an item has no featured image and no image in its content. Instagram always needs an image."
+msgstr "משמשת כשלפריט אין תמונה ראשית ואין תמונה בתוכן. אינסטגרם תמיד דורש תמונה."
+
+#: includes/Admin/Page.php:418
+msgid "E-mail me when"
+msgstr "שלחו לי אימייל כאשר"
+
+#: includes/Admin/Page.php:419
+msgid "a share fails"
+msgstr "שיתוף נכשל"
+
+#: includes/Admin/Page.php:420
+msgid "an item was shared"
+msgstr "תוכן שותף"
+
+#: includes/Admin/Page.php:421
+msgid "You get one e-mail per item. A failed share is reported after SmokyPost has tried several times, and the same problem on the same platform is reported once a day. An e-mail that a connection has expired is always sent."
+msgstr "תקבלו אימייל אחד לכל תוכן. שיתוף שנכשל מדווח לאחר ש-SmokyPost ניסה כמה פעמים, ואותה בעיה באותה פלטפורמה מדווחת פעם ביום. אימייל על חיבור שפג תוקפו נשלח תמיד."
+
+#: includes/Admin/Page.php:423
+msgid "Send e-mails to"
+msgstr "שלחו אימיילים אל"
+
+#. translators: %s: e-mail address
+#: includes/Admin/Page.php:426
+#, php-format
+msgid "Separate several addresses with commas. Leave empty to use the administrator address of this site (%s)."
+msgstr "הפרידו בין כמה כתובות בפסיקים. השאירו ריק כדי להשתמש בכתובת מנהל האתר (%s)."
+
+#: includes/Admin/Page.php:428
+msgid "SMTP"
+msgstr "SMTP"
+
+#: includes/Admin/Page.php:429
+msgid "Send SmokyPost e-mails through an SMTP account"
+msgstr "שליחת האימיילים של SmokyPost דרך חשבון SMTP"
+
+#: includes/Admin/Page.php:430
+msgid "Use this when e-mails from your site do not arrive. Only the e-mails of SmokyPost use this account, other e-mails of your site stay as they are. You do not need a separate SMTP plugin for SmokyPost."
+msgstr "השתמשו באפשרות זו אם האימיילים של האתר שלכם לא מגיעים. רק האימיילים של SmokyPost משתמשים בחשבון זה, שאר האימיילים של האתר נשארים כפי שהם. אין צורך בתוסף SMTP נפרד עבור SmokyPost."
+
+#: includes/Admin/Page.php:432
+msgid "SMTP server"
+msgstr "שרת SMTP"
+
+#: includes/Admin/Page.php:433
+msgid "Port"
+msgstr "יציאה"
+
+#: includes/Admin/Page.php:434
+msgid "Encryption"
+msgstr "הצפנה"
+
+#: includes/Admin/Page.php:436
+msgid "TLS (usually port 587)"
+msgstr "TLS (בדרך כלל יציאה 587)"
+
+#: includes/Admin/Page.php:437
+msgid "SSL (usually port 465)"
+msgstr "SSL (בדרך כלל יציאה 465)"
+
+#: includes/Admin/Page.php:438
+msgid "No encryption"
+msgstr "ללא הצפנה"
+
+#: includes/Admin/Page.php:443
+msgid "Username"
+msgstr "שם משתמש"
+
+#: includes/Admin/Page.php:447
+msgid "The password is set in wp-config.php."
+msgstr "הסיסמה מוגדרת בקובץ wp-config.php."
+
+#: includes/Admin/Page.php:451
+msgid "A password is saved. Leave this empty to keep it."
+msgstr "נשמרה סיסמה. השאירו ריק כדי לשמור עליה."
+
+#: includes/Admin/Page.php:451
+msgid "Remove the saved password"
+msgstr "הסרת הסיסמה השמורה"
+
+#: includes/Admin/Page.php:453
+msgid "The password is stored encrypted and never shown again. For Gmail and Outlook use an app password."
+msgstr "הסיסמה נשמרת מוצפנת ואינה מוצגת שוב לעולם. עבור Gmail ו-Outlook השתמשו בסיסמת אפליקציה."
+
+#: includes/Admin/Page.php:457
+msgid "From e-mail"
+msgstr "אימייל השולח"
+
+#: includes/Admin/Page.php:458
+msgid "Most providers only accept an address that belongs to the account."
+msgstr "רוב הספקים מקבלים רק כתובת ששייכת לחשבון."
+
+#: includes/Admin/Page.php:459
+msgid "From name"
+msgstr "שם השולח"
+
+#: includes/Admin/Page.php:462
+msgid "Save Changes"
+msgstr "שמירת שינויים"
+
+#: includes/Admin/Page.php:463
+msgid "Send a test e-mail"
+msgstr "שליחת אימייל בדיקה"
+
+#: includes/Admin/Page.php:464
+msgid "The test e-mail saves the values above first and then uses them."
+msgstr "אימייל הבדיקה שומר קודם את הערכים שלמעלה ואז משתמש בהם."
+
+#. translators: %d: number of days
+#: includes/Admin/Page.php:479
+#, php-format
+msgid "Shares of the last %d day."
+msgid_plural "Shares of the last %d days."
+msgstr[0] "שיתופים ב-%d הימים האחרונים."
+msgstr[1] "שיתופים ב-%d הימים האחרונים."
+
+#: includes/Admin/Page.php:491
+msgid "Date"
+msgstr "תאריך"
+
+#: includes/Admin/Page.php:491
+msgid "Item"
+msgstr "פריט"
+
+#: includes/Admin/Page.php:491
+msgid "Result"
+msgstr "תוצאה"
+
+#: includes/Admin/Page.php:507
+msgid "Nothing shared yet."
+msgstr "עדיין לא שותף דבר."
+
+#: includes/Admin/Page.php:516
+msgid "Clear history"
+msgstr "ניקוי היסטוריה"
+
+#: includes/Admin/Page.php:516
+msgid "Clear the history for the dates you choose, or all of it? What was already shared stays on your social accounts. Cleared items no longer show in this list."
+msgstr "לנקות את ההיסטוריה לתאריכים מסוימים או את כולה? מה שכבר שותף נשאר ברשתות החברתיות שלכם. רשומות שנוקו לא יופיעו עוד ברשימה הזו."
+
+#: includes/Admin/Page.php:518
+msgid "From"
+msgstr "מתאריך"
+
+#: includes/Admin/Page.php:520
+msgid "To"
+msgstr "עד תאריך"
+
+#: includes/Admin/Page.php:523
+msgid "Leave the date empty to start at the first item or end today."
+msgstr "השאירו תאריך ריק כדי להתחיל מהרשומה הראשונה או לסיים בהיום."
+
+#: includes/Admin/Page.php:524
+msgid "Clear these dates"
+msgstr "ניקוי התאריכים האלה"
+
+#: includes/Admin/Page.php:524
+msgid "Clear all history"
+msgstr "ניקוי כל ההיסטוריה"
+
+#: includes/Admin/Page.php:534 includes/Admin/Page.php:534
+msgid "Day"
+msgstr "יום"
+
+#: includes/Admin/Page.php:538 includes/Admin/Page.php:538
+msgid "Month"
+msgstr "חודש"
+
+#: includes/Admin/Page.php:542 includes/Admin/Page.php:542
+msgid "Year"
+msgstr "שנה"
+
+#: includes/Admin/Page.php:559 includes/Admin/Page.php:670
+msgid "Plan"
+msgstr "תוכנית"
+
+#: includes/Admin/Page.php:560
+msgid "License key"
+msgstr "מפתח רישיון"
+
+#: includes/Admin/Page.php:561
+msgid "Shared today"
+msgstr "שותפו היום"
+
+#. translators: 1: items used, 2: daily limit
+#: includes/Admin/Page.php:564 includes/Admin/Page.php:566
+#, php-format
+msgid "%1$d of %2$d items"
+msgstr "%1$d מתוך %2$d פריטים"
+
+#: includes/Admin/Page.php:569
+msgid "This site"
+msgstr "האתר הזה"
+
+#: includes/Admin/Page.php:574
+msgid "Disconnect this site"
+msgstr "ניתוק האתר הזה"
+
+#: includes/Admin/Page.php:574
+msgid "Disconnect this site from SmokyPost? Sharing stops until you sign in again."
+msgstr "לנתק את האתר הזה מ-SmokyPost? השיתוף יופסק עד שתתחברו שוב."
+
+#: includes/Admin/Page.php:576
+msgid "Yes, disconnect"
+msgstr "כן, לנתק"
+
+#: includes/Admin/Page.php:585
+msgid "How Pro works"
+msgstr "איך Pro עובד"
+
+#: includes/Admin/Page.php:586
+msgid "Pay securely through Paddle."
+msgstr "שלמו בבטחה דרך Paddle."
+
+#: includes/Admin/Page.php:587
+msgid "Download SmokyPost Pro with the button below."
+msgstr "הורידו את SmokyPost Pro בכפתור שלמטה."
+
+#: includes/Admin/Page.php:587
+msgid "Come back to this page. A \"Download SmokyPost Pro\" button appears, and we e-mail you the same link."
+msgstr "חזרו לעמוד הזה. יופיע כפתור \"הורדת SmokyPost Pro\", ונשלח לכם את אותו קישור גם באימייל."
+
+#: includes/Admin/Page.php:588
+msgid "Install it under Plugins > Add New > Upload Plugin and activate it. Your license is picked up automatically, there is no key to enter."
+msgstr "התקינו דרך \"תוספים\" > \"הוספת חדש\" > \"העלאת תוסף\" והפעילו. הרישיון שלכם מזוהה אוטומטית, ואין צורך להזין מפתח."
+
+#: includes/Admin/Page.php:589
+msgid "SmokyPost Pro is a second plugin that works together with SmokyPost: keep both active. It takes about a minute. Full refund within 14 days of your first payment."
+msgstr "SmokyPost Pro הוא תוסף שני שפועל יחד עם SmokyPost: השאירו את שניהם פעילים. זה לוקח כדקה. החזר כספי מלא תוך 14 יום מהתשלום הראשון."
+
+#: includes/Admin/Page.php:603
+msgid "Your payment is taking longer than usual to show here. Reload this page in a few minutes. If your plan is still Free after an hour, write to info@smokypost.com."
+msgstr "התשלום שלכם לוקח יותר זמן מהרגיל להופיע כאן. רעננו את העמוד בעוד כמה דקות. אם התוכנית עדיין Free אחרי שעה, כתבו לנו ל-info@smokypost.com."
+
+#: includes/Admin/Page.php:607
+msgid "Payment received. Your plan will be active in a moment, this page checks again by itself."
+msgstr "התשלום התקבל. התוכנית שלכם תופעל בקרוב, והעמוד הזה בודק זאת בעצמו."
+
+#: includes/Admin/Page.php:619
+msgid "SmokyPost Pro"
+msgstr "SmokyPost Pro"
+
+#. translators: %s: version number
+#: includes/Admin/Page.php:622
+#, php-format
+msgid "SmokyPost Pro %s is installed and active."
+msgstr "SmokyPost Pro %s הותקן והופעל."
+
+#: includes/Admin/Page.php:623
+msgid "Its settings are under SmokyPost > Pro, the calendar under SmokyPost > Calendar. It updates itself."
+msgstr "ההגדרות שלו נמצאות ב-SmokyPost > Pro, והלוח שנה ב-SmokyPost > לוח שנה. הוא מתעדכן אוטומטית."
+
+#: includes/Admin/Page.php:630
+msgid "SmokyPost Pro is installed but not active. Activate it on the Plugins page."
+msgstr "SmokyPost Pro הותקן אך לא הופעל. הפעילו אותו בעמוד התוספים."
+
+#: includes/Admin/Page.php:630
+msgid "Open Plugins"
+msgstr "פתיחת התוספים"
+
+#: includes/Admin/Page.php:635
+msgid "Download SmokyPost Pro"
+msgstr "הורדת SmokyPost Pro"
+
+#: includes/Admin/Page.php:636
+msgid "The link works for an hour. You can come back here and get a new one any time."
+msgstr "הקישור תקף לשעה. אפשר לחזור לכאן בכל עת לקבלת קישור חדש."
+
+#: includes/Admin/Page.php:646 includes/Admin/Page.php:1266 includes/Api.php:127
+msgid "Something went wrong. Please try again."
+msgstr "משהו השתבש. נסו שוב."
+
+#: includes/Admin/Page.php:665
+msgid "Plans"
+msgstr "תוכניות"
+
+#: includes/Admin/Page.php:670
+msgid "Sites"
+msgstr "אתרים"
+
+#: includes/Admin/Page.php:670
+msgid "Items per day"
+msgstr "פריטים ביום"
+
+#: includes/Admin/Page.php:670
+msgid "Price"
+msgstr "מחיר"
+
+#. translators: %s: price, for example $39
+#: includes/Admin/Page.php:678
+#, php-format
+msgid "%s per year"
+msgstr "%s לשנה"
+
+#: includes/Admin/Page.php:680
+msgid "Current plan"
+msgstr "התוכנית הנוכחית"
+
+#: includes/Admin/Page.php:683
+msgid "Switch to this plan"
+msgstr "מעבר לתוכנית הזו"
+
+#: includes/Admin/Page.php:683
+msgid "Upgrade"
+msgstr "שדרוג"
+
+#: includes/Admin/Page.php:688
+msgid "Payments are handled securely by Paddle. Prices are in US dollars, taxes are added at checkout where they apply."
+msgstr "התשלומים מעובדים בבטחה על ידי Paddle. המחירים בדולרים אמריקאיים, ומס מתווסף בקופה במקומות שבהם הוא חל."
+
+#: includes/Admin/Page.php:690
+msgid "A plan change applies right away. You will see the exact amount and confirm it before anything is charged."
+msgstr "שינוי התוכנית נכנס לתוקף מיד. תראו ותאשרו את הסכום המדויק לפני שיחויב משהו."
+
+#: includes/Admin/Page.php:692 includes/Admin/Page.php:776
+msgid "Manage subscription"
+msgstr "ניהול מנוי"
+
+#: includes/Admin/Page.php:703
+msgid "Cancel and refund"
+msgstr "ביטול וקבלת החזר"
+
+#: includes/Admin/Page.php:705
+msgid "Refunds are available within 14 days of your first payment. You can stop the renewal at any time from Manage subscription."
+msgstr "ניתן לקבל החזר תוך 14 יום מהתשלום הראשון. אפשר להפסיק את החידוש בכל עת דרך \"ניהול מנוי\"."
+
+#: includes/Admin/Page.php:706 includes/Admin/Page.php:717
+msgid "Questions about a payment? Write to info@smokypost.com."
+msgstr "שאלות על חיוב? כתבו לנו ל-info@smokypost.com."
+
+#. translators: %s: date
+#: includes/Admin/Page.php:712
+#, php-format
+msgid "You can cancel and get a full refund until %s."
+msgstr "אפשר לבטל ולקבל החזר מלא עד %s."
+
+#: includes/Admin/Page.php:714
+msgid "Cancel and get a refund"
+msgstr "ביטול וקבלת החזר"
+
+#: includes/Admin/Page.php:714
+msgid "Cancel your subscription and get a full refund? Everything you paid is returned to the card you paid with. Nothing is deducted for the days you used. Your plan ends right away and this site goes back to Free."
+msgstr "לבטל את המנוי ולקבל החזר מלא? כל מה ששילמתם יוחזר לכרטיס ששימש לתשלום. לא ינוכה דבר עבור הימים שבהם השתמשתם. התוכנית שלכם מסתיימת מיד והאתר הזה חוזר ל-Free."
+
+#: includes/Admin/Page.php:716
+msgid "Yes, cancel and refund"
+msgstr "כן, לבטל ולקבל החזר"
+
+#: includes/Admin/Page.php:730 includes/Admin/Page.php:814
+msgid "Starter"
+msgstr "Starter"
+
+#: includes/Admin/Page.php:731 includes/Admin/Page.php:815
+msgid "Pro"
+msgstr "Pro"
+
+#: includes/Admin/Page.php:732 includes/Admin/Page.php:816
+msgid "Agency"
+msgstr "Agency"
+
+#. translators: %s: plan name
+#: includes/Admin/Page.php:741
+#, php-format
+msgid "Switch to the %s plan"
+msgstr "מעבר ל-%s"
+
+#. translators: 1: amount, for example $30.00, 2: card, for example Visa ending in 4242
+#: includes/Admin/Page.php:747
+#, php-format
+msgid "You will be charged %1$s today on the card you paid with (%2$s)."
+msgstr "היום יחויב %1$s (%2$s) בכרטיס ששימש לתשלום."
+
+#. translators: %s: amount, for example $30.00
+#: includes/Admin/Page.php:750
+#, php-format
+msgid "You will be charged %s today on the card you paid with."
+msgstr "היום יחויב %s בכרטיס ששימש לתשלום."
+
+#. translators: %s: date
+#: includes/Admin/Page.php:755
+#, php-format
+msgid "Your next renewal stays on %s."
+msgstr "החידוש הבא נשאר ב-%s."
+
+#: includes/Admin/Page.php:758
+msgid "Nothing is charged today."
+msgstr "היום לא יחויב דבר."
+
+#. translators: %s: date
+#: includes/Admin/Page.php:762
+#, php-format
+msgid "The price difference is credited at your next renewal on %s."
+msgstr "הפרש המחיר יחושב בחידוש הבא, ב-%s."
+
+#: includes/Admin/Page.php:764
+msgid "The price difference is credited at your next renewal."
+msgstr "הפרש המחיר יחושב בחידוש הבא."
+
+#: includes/Admin/Page.php:767
+msgid "Shall we continue?"
+msgstr "להמשיך?"
+
+#. translators: %s: amount, for example $30.00
+#: includes/Admin/Page.php:770
+#, php-format
+msgid "Yes, charge %s"
+msgstr "כן, לחייב %s"
+
+#: includes/Admin/Page.php:770
+msgid "Yes, switch plan"
+msgstr "כן, לשנות תוכנית"
+
+#: includes/Admin/Page.php:774
+msgid "Want to pay with another card? Open Manage subscription, update your payment method, then switch plans again."
+msgstr "רוצים לשלם בכרטיס אחר? פתחו את \"ניהול מנוי\", עדכנו את אמצעי התשלום ואז שנו תוכנית שוב."
+
+#. translators: %s: last four digits of a card
+#: includes/Admin/Page.php:802
+#, php-format
+msgid "ending in %s"
+msgstr "המסתיים ב-%s"
+
+#. translators: 1: card brand, for example Visa, 2: last four digits
+#: includes/Admin/Page.php:805
+#, php-format
+msgid "%1$s ending in %2$s"
+msgstr "%1$s, המסתיים ב-%2$s"
+
+#: includes/Admin/Page.php:813
+msgid "Free"
+msgstr "Free"
+
+#: includes/Admin/Page.php:831
+msgid "Sharing is paused until you confirm your e-mail address."
+msgstr "השיתוף מושהה עד שתאשרו את כתובת האימייל שלכם."
+
+#. translators: %d: days left
+#: includes/Admin/Page.php:833
+#, php-format
+msgid "Please confirm your e-mail address. Sharing pauses in %d day if you do not."
+msgid_plural "Please confirm your e-mail address. Sharing pauses in %d days if you do not."
+msgstr[0] "אשרו את כתובת האימייל שלכם. אחרת השיתוף יושהה בעוד %d יום."
+msgstr[1] "אשרו את כתובת האימייל שלכם. אחרת השיתוף יושהה בעוד %d ימים."
+
+#: includes/Admin/Page.php:836
+msgid "Send the link again"
+msgstr "שליחת הקישור שוב"
+
+#: includes/Admin/Page.php:869
+msgid "Bluesky handle"
+msgstr "שם משתמש ב-Bluesky"
+
+#: includes/Admin/Page.php:870
+msgid "App password"
+msgstr "סיסמת אפליקציה"
+
+#: includes/Admin/Page.php:871
+msgid "Use an app password, not your main Bluesky password. It can only be used by apps like this one and you can delete it in Bluesky at any time."
+msgstr "השתמשו בסיסמת אפליקציה ולא בסיסמה הראשית של Bluesky. אפשר להשתמש בה רק באפליקציות כמו זו, ואפשר למחוק אותה ב-Bluesky בכל עת."
+
+#: includes/Admin/Page.php:872
+msgid "How do I get an app password?"
+msgstr "איך מקבלים סיסמת אפליקציה?"
+
+#. translators: %s: link to the Bluesky app password page
+#: includes/Admin/Page.php:873
+#, php-format
+msgid "Open %s (or Settings > Privacy and security > App passwords in Bluesky)."
+msgstr "פתחו את %s (או ב-Bluesky: הגדרות > פרטיות ואבטחה > סיסמאות אפליקציה)."
+
+#: includes/Admin/Page.php:874
+msgid "Click \"Add App Password\" and name it SmokyPost."
+msgstr "לחצו על \"Add App Password\" וקראו לה SmokyPost."
+
+#: includes/Admin/Page.php:875
+msgid "Copy the password Bluesky shows and paste it here."
+msgstr "העתיקו את הסיסמה ש-Bluesky מציג והדביקו אותה כאן."
+
+#: includes/Admin/Page.php:881
+msgid "Your Mastodon server"
+msgstr "שרת ה-Mastodon שלכם"
+
+#: includes/Admin/Page.php:882
+msgid "The address of the server your account is on, for example mastodon.social, or your full name like @name@mastodon.social. You will approve SmokyPost on that server."
+msgstr "כתובת השרת שבו נמצא החשבון שלכם, למשל mastodon.social, או השם המלא בפורמט @שם@mastodon.social. תאשרו את SmokyPost באותו שרת."
+
+#: includes/Admin/Page.php:921
+msgid "Signed in. Now choose the account this site shares to."
+msgstr "התחברתם. עכשיו בחרו את החשבון שהאתר הזה ישתף אליו."
+
+#: includes/Admin/Page.php:923
+msgid "The sign-in was cancelled."
+msgstr "ההתחברות בוטלה."
+
+#: includes/Admin/Page.php:924
+msgid "The sign-in did not work. Please try again."
+msgstr "ההתחברות נכשלה. נסו שוב."
+
+#: includes/Admin/Page.php:940
+msgid "Good to know:"
+msgstr "טוב לדעת:"
+
+#: includes/Admin/Page.php:940
+msgid "SmokyPost shares new posts automatically when they are published, including posts created by other plugins, importers or the REST API. You can turn automatic sharing on or off for each platform on its card below or under Settings."
+msgstr "SmokyPost משתף אוטומטית פוסטים חדשים כשהם מתפרסמים, כולל כאלה שנוצרים על ידי תוספים אחרים, כלי ייבוא או REST API. אפשר להפעיל או לכבות שיתוף אוטומטי לכל פלטפורמה בכרטיס שלה למטה או בהגדרות."
+
+#: includes/Admin/Page.php:942
+msgid "Got it"
+msgstr "הבנתי"
+
+#: includes/Admin/Page.php:942
+msgid "Open settings"
+msgstr "פתיחת ההגדרות"
+
+#: includes/Admin/Page.php:954
+msgid "SmokyPost is almost ready."
+msgstr "SmokyPost כמעט מוכן."
+
+#: includes/Admin/Page.php:954
+msgid "Connect this site"
+msgstr "חיבור האתר הזה"
+
+#: includes/Admin/Page.php:967
+msgid "You are not allowed to do this."
+msgstr "אין לכם הרשאה לבצע פעולה זו."
+
+#: includes/Admin/Page.php:1013 includes/Admin/Page.php:1081
+msgid "Please enter a valid e-mail address."
+msgstr "הזינו כתובת אימייל תקינה."
+
+#: includes/Admin/Page.php:1015
+msgid "Please enter your password."
+msgstr "הזינו את הסיסמה שלכם."
+
+#: includes/Admin/Page.php:1017
+msgid "Please use a password with at least 8 characters."
+msgstr "השתמשו בסיסמה של 8 תווים לפחות."
+
+#: includes/Admin/Page.php:1019
+msgid "Please accept the Terms of Service and the Privacy Policy."
+msgstr "אשרו את תנאי השימוש ואת מדיניות הפרטיות."
+
+#: includes/Admin/Page.php:1042
+msgid "Your account is ready and this site is connected. We sent you an e-mail to confirm your address."
+msgstr "החשבון שלכם מוכן והאתר הזה מחובר. שלחנו לכם הודעה כדי לאשר את כתובת האימייל."
+
+#: includes/Admin/Page.php:1058
+msgid "Signed in. This site is connected."
+msgstr "התחברתם. האתר הזה מחובר."
+
+#: includes/Admin/Page.php:1064
+msgid "Please enter your license key."
+msgstr "הזינו את מפתח הרישיון שלכם."
+
+#: includes/Admin/Page.php:1075
+msgid "License activated. This site is connected."
+msgstr "הרישיון הופעל. האתר הזה מחובר."
+
+#: includes/Admin/Page.php:1084
+msgid "If an account exists for this address, we sent a link to reset the password."
+msgstr "אם קיים חשבון עם הכתובת הזו, שלחנו קישור לאיפוס סיסמה."
+
+#: includes/Admin/Page.php:1092
+msgid "This site is disconnected from SmokyPost."
+msgstr "האתר הזה נותק מ-SmokyPost."
+
+#: includes/Admin/Page.php:1117
+msgid "Please choose valid dates."
+msgstr "בחרו תאריכים תקינים."
+
+#: includes/Admin/Page.php:1121
+msgid "The first date must be before the last date."
+msgstr "תאריך ההתחלה חייב להיות לפני תאריך הסיום."
+
+#. translators: %d: number of items
+#: includes/Admin/Page.php:1135
+#, php-format
+msgid "Cleared %d item from the history."
+msgid_plural "Cleared %d items from the history."
+msgstr[0] "נוקה פריט אחד מההיסטוריה."
+msgstr[1] "נוקו %d פריטים מההיסטוריה."
+
+#: includes/Admin/Page.php:1135
+msgid "There was nothing to clear. Items that are still being sent stay in the list."
+msgstr "אין מה לנקות. רשומות שעדיין בשליחה נשארות ברשימה."
+
+#: includes/Admin/Page.php:1143
+msgid "We sent the confirmation link again."
+msgstr "שלחנו שוב את קישור האישור."
+
+#: includes/Admin/Page.php:1193
+msgid "Connected. Now choose the account this site shares to."
+msgstr "מחובר. עכשיו בחרו את החשבון שהאתר הזה ישתף אליו."
+
+#: includes/Admin/Page.php:1228
+msgid "That plan change has expired. Please choose the plan again."
+msgstr "שינוי התוכנית הזה פג תוקף. בחרו תוכנית שוב."
+
+#: includes/Admin/Page.php:1240
+msgid "Your plan is being changed. It can take a minute to show here."
+msgstr "התוכנית שלכם משתנה. ייתכן שיידרש כדקה עד שזה יופיע כאן."
+
+#: includes/Admin/Page.php:1257
+msgid "Your refund has been requested and your subscription is cancelled. Paddle returns the money to the card you paid with; it can take a few days to show."
+msgstr "ההחזר התבקש והמנוי בוטל. Paddle מחזיר את הכסף לכרטיס ששימש לתשלום; זה עשוי לקחת כמה ימים."
+
+#. translators: 1: page name, 2: platform name
+#: includes/Admin/Page.php:1279
+#, php-format
+msgid "%1$s is now connected to %2$s."
+msgstr "%1$s מחובר עכשיו ל-%2$s."
+
+#: includes/Admin/Page.php:1295 includes/Admin/Page.php:1305
+msgid "Settings saved."
+msgstr "ההגדרות נשמרו."
+
+#: includes/Admin/Page.php:1313
+msgid "SmokyPost test e-mail"
+msgstr "אימייל בדיקה של SmokyPost"
+
+#: includes/Admin/Page.php:1314
+msgid "This is a test e-mail from SmokyPost. If you can read it, e-mails from SmokyPost reach you."
+msgstr "זהו אימייל בדיקה מ-SmokyPost. אם אתם יכולים לקרוא אותו, האימיילים של SmokyPost מגיעים אליכם."
+
+#. translators: %s: e-mail addresses
+#: includes/Admin/Page.php:1318
+#, php-format
+msgid "The test e-mail was sent to %s. Check your inbox and spam folder."
+msgstr "אימייל הבדיקה נשלח אל %s. בדקו את תיבת הדואר הנכנס ואת תיקיית הספאם."
+
+#. translators: %s: error from the mail server
+#: includes/Admin/Page.php:1325
+#, php-format
+msgid "The test e-mail could not be sent: %s Check the server, port and encryption."
+msgstr "לא ניתן היה לשלוח את אימייל הבדיקה: %s בדקו את השרת, היציאה וההצפנה."
+
+#: includes/Admin/Page.php:1326
+msgid "The test e-mail could not be sent. Check the server, port and encryption."
+msgstr "לא ניתן היה לשלוח את אימייל הבדיקה. בדקו את השרת, היציאה וההצפנה."
+
+#. translators: %s: platform name
+#: includes/Admin/Page.php:1341
+#, php-format
+msgid "Automatic sharing to %s is on."
+msgstr "השיתוף האוטומטי ל-%s פועל."
+
+#. translators: %s: platform name
+#: includes/Admin/Page.php:1343
+#, php-format
+msgid "Automatic sharing to %s is off."
+msgstr "השיתוף האוטומטי ל-%s כבוי."
+
+#: includes/Admin/PostList.php:59 includes/Status.php:60
+msgid "Not shared"
+msgstr "לא שותף"
+
+#: includes/Admin/PostList.php:100 includes/Admin/PostList.php:113
+msgid "Share with SmokyPost"
+msgstr "שיתוף עם SmokyPost"
+
+#. translators: %d: number of items
+#: includes/Admin/PostList.php:154
+#, php-format
+msgid "%d item queued for sharing."
+msgid_plural "%d items queued for sharing."
+msgstr[0] "פריט אחד נוסף לתור השיתוף."
+msgstr[1] "%d פריטים נוספו לתור השיתוף."
+
+#. translators: %d: number of items
+#: includes/Admin/PostList.php:157
+#, php-format
+msgid "%d item could not be shared; see the SmokyPost column."
+msgid_plural "%d items could not be shared; see the SmokyPost column."
+msgstr[0] "שיתוף של פריט אחד נכשל; בדקו את עמודת SmokyPost."
+msgstr[1] "שיתוף של %d פריטים נכשל; בדקו את עמודת SmokyPost."
+
+#: includes/Api.php:85
+msgid "This site is not connected to SmokyPost yet."
+msgstr "האתר הזה עדיין לא מחובר ל-SmokyPost."
+
+#: includes/Editor.php:117 includes/Editor.php:124
+msgid "Image to share"
+msgstr "תמונה לשיתוף"
+
+#: includes/Editor.php:118
+msgid "Chosen for sharing"
+msgstr "נבחרה לשיתוף"
+
+#: includes/Editor.php:119
+msgid "Choose another image"
+msgstr "בחירת תמונה אחרת"
+
+#: includes/Editor.php:120
+msgid "Choose an image"
+msgstr "בחירת תמונה"
+
+#: includes/Editor.php:121
+msgid "Use the automatic choice"
+msgstr "שימוש בבחירה האוטומטית"
+
+#: includes/Editor.php:122
+msgid "Images in this item:"
+msgstr "תמונות בפריט הזה:"
+
+#: includes/Editor.php:123
+msgid "Use this image"
+msgstr "שימוש בתמונה הזו"
+
+#: includes/Editor.php:125
+msgid "Updating this item does not share it again. Click \"Share now\" to share it."
+msgstr "עדכון הפריט לא משתף אותו שוב. לחצו על \"שתפו עכשיו\" כדי לשתף."
+
+#: includes/Editor.php:126
+msgid "Featured image"
+msgstr "התמונה הראשית של הפוסט"
+
+#: includes/Editor.php:127
+msgid "First image in the content (this item has no featured image)"
+msgstr "התמונה הראשונה בתוכן (לפריט הזה אין תמונה ראשית)"
+
+#: includes/Editor.php:128
+msgid "Default image from the SmokyPost settings (this item has no image)"
+msgstr "תמונת ברירת המחדל מהגדרות SmokyPost (לפריט הזה אין תמונה)"
+
+#: includes/Editor.php:130
+msgid "Instagram needs an image, and this item has none. Add a featured image or an image in the content, otherwise it is not shared to Instagram."
+msgstr "אינסטגרם דורש תמונה ולפריט הזה אין תמונה. הוסיפו תמונה ראשית או תמונה בתוכן, אחרת הוא לא ישותף באינסטגרם."
+
+#: includes/Editor.php:135
+msgid "Share at (optional)"
+msgstr "שיתוף ב- (אופציונלי)"
+
+#. translators: 1: example date and time, 2: time zone name
+#: includes/Editor.php:137
+#, php-format
+msgid "Format: %1$s, in your site time (%2$s). Leave empty to share right away."
+msgstr "פורמט: %1$s, לפי שעון האתר שלכם (%2$s). השאירו ריק לשיתוף מיידי."
+
+#: includes/Editor.php:138
+msgid "This is not a valid date and time. Use the format YYYY-MM-DD HH:MM, for example 2026-12-31 18:30."
+msgstr "זה לא נראה כמו תאריך ושעה. השתמשו בפורמט YYYY-MM-DD HH:MM, למשל 2026-12-31 18:30."
+
+#: includes/Editor.php:139
+msgid "Schedule"
+msgstr "תזמון"
+
+#: includes/Editor.php:140
+msgid "Cancel the scheduled share"
+msgstr "ביטול השיתוף המתוזמן"
+
+#: includes/Editor.php:147 includes/Editor.php:478
+msgid "Delete shared posts"
+msgstr "מחיקת הפוסטים המשותפים"
+
+#: includes/Editor.php:148 includes/Editor.php:480
+msgid "Yes, delete"
+msgstr "כן, למחוק"
+
+#: includes/Editor.php:266
+msgid "Save the item to apply the change."
+msgstr "שמרו את הפריט כדי להחיל את השינוי."
+
+#: includes/Editor.php:352 includes/Editor.php:415 includes/Editor.php:530
+msgid "You are not allowed to share this item."
+msgstr "אין לכם הרשאה לשתף את הפריט הזה."
+
+#: includes/Editor.php:378
+msgid "Nothing to share: choose at least one connected platform."
+msgstr "אין מה לשתף: בחרו לפחות פלטפורמה מחוברת אחת."
+
+#: includes/Editor.php:383
+msgid "Sending… You can leave this page, sharing continues in the background."
+msgstr "שולח… אפשר לעזוב את העמוד, השיתוף ממשיך ברקע."
+
+#. translators: %s: date and time
+#: includes/Editor.php:388
+#, php-format
+msgid "Scheduled for %s. You can leave this page."
+msgstr "תוזמן ל-%s. אפשר לעזוב את העמוד."
+
+#: includes/Editor.php:419
+msgid "Nothing is scheduled for this item."
+msgstr "אין שיתוף מתוזמן לפריט הזה."
+
+#: includes/Editor.php:437
+msgid "The scheduled share is cancelled."
+msgstr "השיתוף המתוזמן בוטל."
+
+#: includes/Editor.php:437
+msgid "Nothing to cancel: it was already sent."
+msgstr "אין מה לבטל: הוא כבר נשלח."
+
+#. translators: %s: platform names, for example "Facebook, Bluesky"
+#: includes/Editor.php:456
+#, php-format
+msgid "Delete the shared posts from %s? The item itself stays on your site."
+msgstr "למחוק את הפוסטים המשותפים מ-%s? הפריט עצמו נשאר באתר שלכם."
+
+#. translators: %s: platform names, for example "Instagram"
+#: includes/Editor.php:459 includes/Editor.php:511
+#, php-format
+msgid "Posts on %s cannot be deleted from here. Delete them in the app yourself."
+msgstr "לא ניתן למחוק כאן פוסטים ב-%s. מחקו אותם בעצמכם באפליקציה."
+
+#: includes/Editor.php:493
+msgid "You are not allowed to change this item."
+msgstr "אין לכם הרשאה לשנות את הפריט הזה."
+
+#: includes/Editor.php:499
+msgid "There is nothing to delete for this item."
+msgstr "אין מה למחוק בפריט הזה."
+
+#: includes/Editor.php:508
+msgid "Deleting… You can leave this page, it continues in the background."
+msgstr "מוחק… אפשר לעזוב את העמוד, המחיקה ממשיכה ברקע."
+
+#: includes/Editor.php:550
+msgid "Finished, but something failed. See below."
+msgstr "הסתיים, אבל משהו נכשל. ראו למטה."
+
+#: includes/Editor.php:550
+msgid "Done."
+msgstr "בוצע."
+
+#. translators: %s: platform name
+#: includes/Notifier.php:87
+#, php-format
+msgid "Connect %s again"
+msgstr "חברו מחדש את %s"
+
+#. translators: 1: platform name, 2: link
+#: includes/Notifier.php:89
+#, php-format
+msgid "The connection to %1$s has expired, so new items cannot be shared there. Connect it again: %2$s"
+msgstr "החיבור אל %1$s פג תוקף, ולכן לא ניתן לשתף שם תוכן חדש. חברו מחדש: %2$s"
+
+#. translators: %s: item title
+#: includes/Notifier.php:102
+#, php-format
+msgid "Could not share: %s"
+msgstr "לא ניתן היה לשתף: %s"
+
+#. translators: %s: item title
+#: includes/Notifier.php:104
+#, php-format
+msgid "\"%s\" could not be shared everywhere:"
+msgstr "לא ניתן היה לשתף את „%s” בכל מקום:"
+
+#. translators: %s: item title
+#: includes/Notifier.php:108
+#, php-format
+msgid "Shared: %s"
+msgstr "שותף: %s"
+
+#. translators: %s: item title
+#: includes/Notifier.php:110
+#, php-format
+msgid "\"%s\" was shared:"
+msgstr "„%s” שותף:"
+
+#: includes/Notifier.php:124
+msgid "SmokyPost: daily limit reached"
+msgstr "SmokyPost: הגעתם למגבלה היומית"
+
+#: includes/Notifier.php:125
+msgid "The daily limit of your plan is reached. The remaining items are shared after midnight."
+msgstr "הגעתם למגבלה היומית של החבילה שלכם. שאר התכנים ישותפו אחרי חצות."
+
+#. translators: %s: link
+#: includes/Notifier.php:175
+#, php-format
+msgid "Open the item: %s"
+msgstr "פתיחת התוכן: %s"
+
+#. translators: %s: link
+#: includes/Notifier.php:177
+#, php-format
+msgid "History: %s"
+msgstr "היסטוריה: %s"
+
+#. translators: 1: site name, 2: link
+#: includes/Notifier.php:224
+#, php-format
+msgid "You get this e-mail because SmokyPost notifications are on for %1$s. Change who gets them, or turn them off, here: %2$s"
+msgstr "אתם מקבלים אימייל זה כי התראות SmokyPost פעילות עבור %1$s. כאן אפשר לשנות מי מקבל אותן או לכבות אותן: %2$s"
+
+#: includes/Sharer.php:55
+msgid "Every 5 minutes (SmokyPost)"
+msgstr "כל 5 דקות (SmokyPost)"
+
+#: includes/Sharer.php:494
+msgid "Not shared to Instagram: Instagram needs an image, and this item has none. Add a featured image or an image in the content."
+msgstr "לא שותף באינסטגרם: אינסטגרם דורש תמונה ולפריט הזה אין תמונה. הוסיפו תמונה ראשית או תמונה בתוכן."
+
+#: includes/Status.php:60
+msgid "Not shared: needs an image"
+msgstr "לא שותף: נדרשת תמונה"
+
+#: includes/Status.php:74
+msgid "Shared (delete it in the app yourself)"
+msgstr "שותף (מחקו בעצמכם באפליקציה)"
+
+#: includes/Status.php:74
+msgid "Shared"
+msgstr "שותף"
+
+#. translators: %s: reason
+#: includes/Status.php:76
+#, php-format
+msgid "Failed: %s"
+msgstr "שגיאה: %s"
+
+#: includes/Status.php:76
+msgid "Failed"
+msgstr "שגיאה"
+
+#: includes/Status.php:78
+msgid "Cancelled"
+msgstr "בוטל"
+
+#: includes/Status.php:81
+msgid "Removing…"
+msgstr "מוחק…"
+
+#: includes/Status.php:83
+msgid "Removed"
+msgstr "נמחק"
+
+#. translators: %s: reason
+#: includes/Status.php:85
+#, php-format
+msgid "Could not be removed: %s"
+msgstr "המחיקה נכשלה: %s"
+
+#: includes/Status.php:85
+msgid "Could not be removed"
+msgstr "המחיקה נכשלה"
+
+#: includes/Status.php:90
+msgid "Waiting: daily limit reached, shares after midnight"
+msgstr "ממתין: הגעתם למגבלה היומית, השיתוף יתבצע אחרי חצות"
+
+#: includes/Status.php:93
+msgid "Waiting: please confirm your e-mail address"
+msgstr "ממתין: אשרו את כתובת האימייל שלכם"
+
+#. translators: %s: date and time
+#: includes/Status.php:98
+#, php-format
+msgid "Scheduled for %s"
+msgstr "מתוזמן ל-%s"
+
+#: includes/Status.php:102
+msgid "Retrying soon"
+msgstr "ינסה שוב בקרוב"
+
+#: includes/Status.php:102
+msgid "Queued"
+msgstr "בתור"
+
+#: includes/Status.php:114 includes/Status.php:115 includes/Status.php:116
+msgid "The connection has expired. Connect again in SmokyPost."
+msgstr "החיבור פג תוקף. חברו מחדש ב-SmokyPost."
+
+#: includes/Status.php:117
+msgid "No page or account is selected for this platform."
+msgstr "לא נבחר דף או חשבון לפלטפורמה הזו."
+
+#: includes/Status.php:118
+msgid "This site is no longer connected to SmokyPost."
+msgstr "האתר הזה כבר לא מחובר ל-SmokyPost."
+
+#: includes/Status.php:119
+msgid "Your SmokyPost account or license is not active."
+msgstr "חשבון SmokyPost או הרישיון שלכם אינו פעיל."
+
+#: includes/Status.php:120
+msgid "This platform is not included in your plan."
+msgstr "הפלטפורמה הזו אינה כלולה בתוכנית שלכם."
+
+#: includes/Status.php:121
+msgid "The platform did not allow the post. Check that you are still an admin of the page and connect again."
+msgstr "הפלטפורמה לא אישרה את הפרסום. ודאו שאתם עדיין מנהלים של הדף וחברו מחדש."
+
+#: includes/Status.php:122
+msgid "The platform blocked this post."
+msgstr "הפלטפורמה חסמה את הפוסט הזה."
+
+#: includes/Status.php:123
+msgid "The platform rejected this post as a duplicate."
+msgstr "הפלטפורמה דחתה את הפוסט הזה ככפילות."
+
+#: includes/Status.php:124
+msgid "Instagram needs an image. Add a featured image."
+msgstr "אינסטגרם דורש תמונה. הוסיפו תמונה ראשית לפוסט."
+
+#: includes/Status.php:125
+msgid "The platform could not use the image. Try a JPEG or PNG image at least 600 pixels wide."
+msgstr "הפלטפורמה לא הצליחה להשתמש בתמונה. נסו תמונת JPEG או PNG ברוחב 600 פיקסלים לפחות."
+
+#: includes/Status.php:126
+msgid "The image could not be read. Use a JPEG, PNG or WebP image."
+msgstr "לא ניתן היה לקרוא את התמונה. השתמשו ב-JPEG, PNG או WebP."
+
+#: includes/Status.php:127
+msgid "The image is too small. Use an image at least 600 pixels wide."
+msgstr "התמונה קטנה מדי. השתמשו בתמונה ברוחב 600 פיקסלים לפחות."
+
+#: includes/Status.php:128
+msgid "SmokyPost could not download the image from your site."
+msgstr "SmokyPost לא הצליח להוריד את התמונה מהאתר שלכם."
+
+#: includes/Status.php:129
+msgid "The image could not be prepared."
+msgstr "לא ניתן היה להכין את התמונה."
+
+#: includes/Status.php:130
+msgid "The platform was not available. SmokyPost tried several times."
+msgstr "הפלטפורמה לא הייתה זמינה. SmokyPost ניסה כמה פעמים."
+
+#: includes/Status.php:131
+msgid "The platform could not be reached. SmokyPost tried several times."
+msgstr "לא ניתן היה להתחבר לפלטפורמה. SmokyPost ניסה כמה פעמים."
+
+#: includes/Status.php:132
+msgid "Instagram did not accept the image in time."
+msgstr "אינסטגרם לא קיבל את התמונה בזמן."
+
+#: includes/Status.php:133
+msgid "The platform rejected the post."
+msgstr "הפלטפורמה דחתה את הפוסט."
+
+#: includes/Status.php:134
+msgid "The account that published this post is no longer connected. Delete the post on the platform yourself."
+msgstr "החשבון שפרסם את הפוסט הזה כבר לא מחובר. מחקו את הפוסט בעצמכם בפלטפורמה."
+
+#: includes/Status.php:135
+msgid "This post cannot be deleted automatically. Delete it on the platform yourself."
+msgstr "לא ניתן למחוק את הפוסט הזה אוטומטית. מחקו אותו בעצמכם בפלטפורמה."
+
+#. Name of the plugin
+#: smokypost.php:3
+msgid "SmokyPost – Social Auto Share for Posts and Pages"
+msgstr "SmokyPost – שיתוף אוטומטי ברשתות חברתיות לפוסטים ולדפים"
+
+#. Description of the plugin
+#: smokypost.php:5
+msgid "Automatically share new and old posts and pages to your social media accounts. No developer accounts or API keys needed."
+msgstr "שתפו אוטומטית פוסטים ודפים חדשים וישנים בחשבונות הרשתות החברתיות שלכם. אין צורך בחשבונות מפתח או במפתחות API."

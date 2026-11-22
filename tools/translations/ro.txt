@@ -1,0 +1,330 @@
+3b6e56|Conectează-ți paginile pentru a distribui acest element.
+c27b34|Deschide SmokyPost
+bc871d|Trimiterea este încă în curs. Verifică fila Istoric peste câteva minute.
+118c47|Nu m-am putut conecta la SmokyPost. Încearcă din nou peste câteva minute.
+b090f4|Distribuie acum pe:
+d5c6d5|Distribuie la publicare pe:
+b82400|este necesară reconectarea
+016408|Mesaj personalizat (opțional)
+06651c|Lasă gol pentru a folosi șablonul tău.
+1d6da0|Va fi distribuit pe platformele bifate la publicare.
+5b18fc|Distribuit automat la publicare.
+04b478|Distribuie acum
+f4f707|Setări
+4d01e8|Se trimite…
+834915|Se șterge…
+34b1ef|Este necesară o versiune mai nouă de SmokyPost. Actualizează pluginul.
+ed49a3|Platforme
+16d2b3|Istoric
+08bd40|Cont
+3b6c2b|Termeni și condiții
+fa2ead|Politica de confidențialitate
+777353|Distribuie automat articolele și paginile pe rețelele tale sociale. Creează un cont gratuit sau autentifică-te pentru a conecta acest site.
+e05afd|La conectare, acest site trimite serviciului SmokyPost (www.smokypost.com) adresa sa, versiunile de WordPress și PHP, limba și fusul orar. Conținutul fiecărui element pe care îl distribui este trimis în momentul distribuirii.
+8ea211|Creează un cont gratuit
+1e884e|E-mail
+6c2c15|Parolă (cel puțin 8 caractere)
+9ec73e|Accept %1$s și %2$s.
+5853d4|Creează cont și conectează
+3b2aee|Am deja un cont
+dc647e|Parolă
+ac6560|Autentifică-te și conectează
+422172|Folosește în schimb o cheie de licență
+52f88a|Conectează cu cheia de licență
+01a569|Ți-ai uitat parola?
+733ae3|Trimite linkul de resetare
+0efe04|Conectează fiecare platformă și alege pagina sau contul pe care va distribui acest site.
+43b540|Nu este inclus în planul tău.
+4e7193|Indisponibil temporar. Încearcă din nou mai târziu.
+b9ba1a|Conexiunea a expirat. Reconectează-te pentru a continua distribuirea.
+cf0b67|Reconectează
+f4ec5f|Schimbă
+1063e3|Elimină
+7dcd97|Neconectat.
+49ab28|Conectează
+2bf7da|Alege din autentificarea ta Facebook
+6330d1|Publică textul și linkul tău pe una dintre paginile tale de Facebook. Te autentifici prin Facebook.
+e33490|Necesită un cont profesional de Instagram legat de o pagină de Facebook. Te autentifici prin Facebook.
+1abbcd|Publică textul și linkul tău pe una dintre paginile tale de companie de pe LinkedIn. Te autentifici prin LinkedIn.
+328737|Publică textul, hashtagurile și un card de link cu imagine în contul tău Bluesky. Te conectezi cu numele de utilizator și o parolă de aplicație.
+9d078b|Publică textul, hashtagurile și linkul tău în contul tău Mastodon, pe orice server Mastodon. Aprobi SmokyPost pe propriul server.
+b2d2d7|Publică textul și un card de link în profilul tău Threads. Te autentifici prin Threads.
+5f2e71|Publică textul, etichetele și un card de link cu imagine pe unul dintre blogurile tale Tumblr. Te autentifici prin Tumblr.
+b4f827|Distribuire automată:
+521c36|Activată
+d15305|Dezactivată
+8e61d9|Dezactivează
+d154a5|Activează
+647bd1|Elementele noi sunt distribuite aici la publicare.
+7f9833|Distribuit doar când apeși „Distribuie acum”.
+bb7926|Ești autentificat, dar conturile tale nu au putut fi listate: %s
+f915a9|Încearcă din nou
+ea4788|Anulează
+0bfd8d|Conectează mai întâi contul.
+f85f84|Autentifică-te mai întâi pentru a-ți vedea paginile.
+f595ba|Nu a fost găsită nicio pagină sau cont cu drept de publicare pentru această autentificare.
+19c3d3|Verifică dacă contul tău de Instagram este profesional și legat de una dintre paginile tale de Facebook.
+5e5f56|(prin %s)
+f64a44|Folosește acest cont
+6c803a|Nu vezi pagina potrivită?
+09a44d|Autentifică-te cu alt cont
+04d144|Tipuri de conținut
+725f6c|Doar aceste tipuri sunt distribuite automat și doar ele primesc caseta SmokyPost în editor.
+6b0402|Distribuire automată
+280dc2|Distribuie automat elementele noi la publicare pe:
+b3b6ce|neconectat
+daf9e6|Debifează o platformă pentru a opri distribuirea automată pe ea. Debifează-le pe toate pentru a dezactiva distribuirea automată. Poți oricând să distribui singur orice element cu butonul „Distribuie acum” din editor sau din lista de articole și poți debifa o platformă pentru un singur element în editor.
+be518a|Elemente create automat
+766287|Distribuie și elementele publicate de alte pluginuri, importatoare, REST API sau WP-CLI
+f5c261|Activat implicit. Elementele create prin cod (de exemplu un autoblog sau un importator de fluxuri) sunt distribuite pe platformele de mai sus. Dezactivează dacă vrei să distribui doar ce publici în editor.
+1aaf15|Ignoră elementele importate mai vechi de
+73cddd|h
+29327b|Ștergerea elementelor
+295b79|Șterge postările distribuite când elementul este șters
+0d9342|Dezactivat implicit. Când muți un element la coșul de gunoi sau îl ștergi, SmokyPost șterge și postările lui de pe Facebook, LinkedIn, Bluesky, Mastodon, Threads și Tumblr. Instagram nu permite altor aplicații să șteargă postări, așa că acestea trebuie șterse din aplicația Instagram. Restaurarea unui element din coșul de gunoi nu readuce postările din rețelele sociale.
+cb393c|Șablon de mesaj
+6c08da|Substituenți:
+ffe7a1|Linkul este adăugat de fiecare platformă ca un card de previzualizare; pe Instagram este adăugat la finalul textului.
+caebe1|Transformă etichetele articolului în hashtaguri pentru {hashtags}
+f784d5|Imagine implicită
+b89f80|Folosită când un element nu are imagine reprezentativă și nici imagine în conținut. Instagram necesită întotdeauna o imagine.
+ef1486|Distribuiri din ultima %d zi. ¦ Distribuiri din ultimele %d zile. ¦ Distribuiri din ultimele %d de zile.
+447497|Data
+7d74f3|Element
+8eea62|Rezultat
+902952|Nimic distribuit încă.
+5da05b|Șterge istoricul
+5ca182|Ștergi istoricul pentru anumite date sau în întregime? Ce a fost deja distribuit rămâne pe rețelele tale sociale. Intrările șterse nu mai apar în această listă.
+5da618|De la
+e12167|Până la
+95b928|Lasă o dată goală pentru a începe de la prima intrare sau a termina la ziua de azi.
+17cddf|Șterge aceste date
+808768|Șterge tot istoricul
+03727a|Ziua
+7cbb88|Luna
+537c66|Anul
+0b6cbd|Plan
+a77d15|Cheie de licență
+6db829|Distribuite azi
+b362bb|%1$d din %2$d elemente
+494eb5|Acest site
+efb548|Deconectează acest site
+4fdc17|Deconectezi acest site de la SmokyPost? Distribuirea se oprește până te autentifici din nou.
+e54633|Da, deconectează
+e2e646|Cum funcționează Pro
+377a68|Plătește în siguranță prin Paddle.
+fbc905|Descarcă SmokyPost Pro cu butonul de mai jos.
+7f189b|Revino pe această pagină. Va apărea butonul „Descarcă SmokyPost Pro” și îți trimitem același link pe e-mail.
+53f719|Instalează-l din Pluginuri > Adaugă nou > Încarcă plugin și activează-l. Licența ta este preluată automat, nu trebuie să introduci nicio cheie.
+eb475d|SmokyPost Pro este un al doilea plugin care funcționează alături de SmokyPost: păstrează-le active pe amândouă. Durează aproximativ un minut. Rambursare integrală în 14 zile de la prima plată.
+9fa65e|Plata ta durează mai mult decât de obicei să apară aici. Reîncarcă această pagină peste câteva minute. Dacă după o oră planul tău este tot Free, scrie-ne la info@smokypost.com.
+bec297|Plata a fost primită. Planul tău va fi activ în scurt timp, iar această pagină verifică singură.
+2c80f9|SmokyPost Pro
+b81f3c|SmokyPost Pro %s este instalat și activ.
+d25d87|Setările sale se află în SmokyPost > Pro, iar calendarul în SmokyPost > Calendar. Se actualizează singur.
+85e962|SmokyPost Pro este instalat, dar nu este activ. Activează-l din pagina Pluginuri.
+a3bd33|Deschide Pluginuri
+386940|Descarcă SmokyPost Pro
+500b65|Linkul este valabil o oră. Poți reveni oricând aici pentru unul nou.
+e9f36d|Ceva nu a mers bine. Încearcă din nou.
+6956cc|Planuri
+3faa64|Site-uri
+a97de4|Elemente pe zi
+360114|Preț
+124864|%s pe an
+441f54|Planul curent
+690969|Treci la acest plan
+f68358|Fă upgrade
+5d6316|Plățile sunt procesate în siguranță de Paddle. Prețurile sunt în dolari americani, iar taxele se adaugă la finalizarea comenzii acolo unde se aplică.
+be0482|Schimbarea planului se aplică imediat. Vei vedea suma exactă și o confirmi înainte să se perceapă ceva.
+97788c|Gestionează abonamentul
+1a7066|Anulează și rambursează
+b2c3ec|Rambursarea este posibilă în 14 zile de la prima plată. Poți oricând opri reînnoirea din „Gestionează abonamentul”.
+b1c55c|Întrebări despre plată? Scrie-ne la info@smokypost.com.
+a0d458|Poți anula și primi o rambursare integrală până la %s.
+361f28|Anulează și primește rambursarea
+9b3448|Anulezi abonamentul și primești o rambursare integrală? Tot ce ai plătit este returnat pe cardul cu care ai plătit. Nu se reține nimic pentru zilele folosite. Planul tău se încheie imediat, iar acest site revine la Free.
+1e81d7|Da, anulează și rambursează
+ee6085|Starter
+abd900|Pro
+75ec3e|Agency
+0222db|Treci la %s
+71d986|Astăzi se vor percepe %1$s (%2$s) de pe cardul cu care ai plătit.
+a503a7|Astăzi se vor percepe %s de pe cardul cu care ai plătit.
+237ece|Următoarea reînnoire rămâne pe %s.
+cb540f|Astăzi nu se percepe nimic.
+1d46af|Diferența de preț va fi creditată la următoarea reînnoire, pe %s.
+937bcf|Diferența de preț va fi creditată la următoarea reînnoire.
+bd4a14|Continui?
+cd1df7|Da, percepe %s
+6abb41|Da, schimbă planul
+17129e|Vrei să plătești cu alt card? Deschide „Gestionează abonamentul”, actualizează metoda de plată și apoi schimbă din nou planul.
+d4192d|care se termină în %s
+d4fbfe|%1$s care se termină în %2$s
+b24ce0|Free
+9086fc|Distribuirea este în pauză până îți confirmi adresa de e-mail.
+dbf504|Confirmă-ți adresa de e-mail. Distribuirea se va opri în %d zi dacă nu o faci. ¦ Confirmă-ți adresa de e-mail. Distribuirea se va opri în %d zile dacă nu o faci. ¦ Confirmă-ți adresa de e-mail. Distribuirea se va opri în %d de zile dacă nu o faci.
+933999|Trimite linkul din nou
+feb3a3|Nume de utilizator Bluesky
+65255b|Parolă de aplicație
+63d12d|Folosește o parolă de aplicație, nu parola principală Bluesky. Poate fi folosită doar de aplicații ca aceasta și o poți șterge oricând din Bluesky.
+4adaf4|Cum obțin o parolă de aplicație?
+5c312e|Deschide %s (sau în Bluesky: Setări > Confidențialitate și securitate > Parole de aplicație).
+9a01be|Apasă „Add App Password” și denumește-o SmokyPost.
+61e507|Copiază parola afișată de Bluesky și lipește-o aici.
+bd4bac|Serverul tău Mastodon
+9279eb|Adresa serverului pe care se află contul tău, de exemplu mastodon.social, sau numele tău complet, de forma @nume@mastodon.social. Vei aproba SmokyPost pe acel server.
+f8b4c2|Autentificat. Acum alege contul pe care va distribui acest site.
+5bb110|Autentificarea a fost anulată.
+262cb9|Autentificarea nu a reușit. Încearcă din nou.
+bcbbc8|Bine de știut:
+914602|SmokyPost distribuie automat articolele noi la publicare, inclusiv pe cele create de alte pluginuri, importatoare sau REST API. Poți activa sau dezactiva distribuirea automată pentru fiecare platformă pe cardul ei de mai jos sau în Setări.
+78e981|Am înțeles
+bae082|Deschide setările
+8beb61|SmokyPost este aproape gata.
+4f4267|Conectează acest site
+2835b7|Nu ai permisiunea de a face acest lucru.
+811723|Introdu o adresă de e-mail validă.
+4b52c9|Introdu o parolă.
+cacd72|Folosește o parolă de cel puțin 8 caractere.
+270228|Acceptă Termenii și condițiile și Politica de confidențialitate.
+c570e4|Contul tău este gata, iar acest site este conectat. Ți-am trimis un e-mail pentru a-ți confirma adresa.
+e4912d|Autentificat. Acest site este conectat.
+a41cc2|Introdu o cheie de licență.
+1448bb|Licență activată. Acest site este conectat.
+025e69|Dacă există un cont pentru această adresă, am trimis un link de resetare a parolei.
+19d2aa|Acest site este deconectat de la SmokyPost.
+ee3077|Alege date valide.
+12381e|Prima dată trebuie să fie înaintea ultimei.
+fd4f8f|A fost șters %d element din istoric. ¦ Au fost șterse %d elemente din istoric. ¦ Au fost șterse %d de elemente din istoric.
+26d353|Nu era nimic de șters. Elementele care încă se trimit rămân în listă.
+b9a702|Am trimis din nou linkul de confirmare.
+12bb90|Conectat. Acum alege contul pe care va distribui acest site.
+c4effa|Această schimbare de plan a expirat. Alege din nou un plan.
+5e77be|Planul tău se schimbă. Poate dura un minut până apare aici.
+d8d639|Rambursarea a fost solicitată, iar abonamentul anulat. Paddle returnează banii pe cardul cu care ai plătit; poate dura câteva zile.
+82bf3a|%1$s este acum conectat la %2$s.
+9a7e58|Setările au fost salvate.
+5677c1|Distribuirea automată pe %s este activată.
+fa4524|Distribuirea automată pe %s este dezactivată.
+0a2f60|Nedistribuit
+498cc4|Distribuie cu SmokyPost
+90929c|%d element a fost pus la coadă pentru distribuire. ¦ %d elemente au fost puse la coadă pentru distribuire. ¦ %d de elemente au fost puse la coadă pentru distribuire.
+81b7e8|%d element nu a putut fi distribuit; vezi coloana SmokyPost. ¦ %d elemente nu au putut fi distribuite; vezi coloana SmokyPost. ¦ %d de elemente nu au putut fi distribuite; vezi coloana SmokyPost.
+f75f84|Acest site nu este încă conectat la SmokyPost.
+10112f|Imagine de distribuit
+e57b53|Aleasă pentru distribuire
+85eb5a|Alege altă imagine
+7cd243|Alege o imagine
+f6b9f8|Folosește alegerea automată
+4c8d06|Imagini din acest element:
+4f63a3|Folosește această imagine
+e6fce5|Actualizarea unui element nu îl redistribuie. Apasă „Distribuie acum” pentru a-l distribui.
+52beb6|Imaginea reprezentativă a articolului
+860133|Prima imagine din conținut (acest element nu are imagine reprezentativă)
+662aa1|Imaginea implicită din setările SmokyPost (acest element nu are imagine)
+c28cf8|Instagram necesită o imagine, iar acest element nu are niciuna. Adaugă o imagine reprezentativă sau o imagine în conținut, altfel nu va fi distribuit pe Instagram.
+1b1025|Distribuie la (opțional)
+d9c5f4|Format: %1$s, în ora site-ului tău (%2$s). Lasă gol pentru a distribui imediat.
+03f222|Aceasta nu pare o dată și o oră. Folosește formatul AAAA-LL-ZZ OO:MM, de exemplu 2026-12-31 18:30.
+25f734|Programează
+fe3b13|Anulează distribuirea programată
+87b913|Șterge postările distribuite
+b21c60|Da, șterge
+165825|Salvează elementul pentru a aplica modificarea.
+9fb721|Nu ai permisiunea de a distribui acest element.
+d0bfeb|Nu este nimic de distribuit: alege cel puțin o platformă conectată.
+9b3811|Se trimite… Poți părăsi această pagină, distribuirea continuă în fundal.
+6a5c54|Programat pentru %s. Poți părăsi această pagină.
+97c806|Nimic nu este programat pentru acest element.
+4e96d7|Distribuirea programată a fost anulată.
+2b0bb4|Nu este nimic de anulat: a fost deja trimisă.
+e4c50f|Ștergi postările distribuite de pe %s? Elementul în sine rămâne pe site-ul tău.
+fe2165|Postările de pe %s nu pot fi șterse de aici. Șterge-le singur din aplicație.
+0f2121|Nu ai permisiunea de a modifica acest element.
+605da5|Nu este nimic de șters pentru acest element.
+46dc65|Se șterge… Poți părăsi această pagină, ștergerea continuă în fundal.
+a3787e|Terminat, dar ceva nu a reușit. Vezi mai jos.
+f59405|Gata.
+50321d|La fiecare 5 minute (SmokyPost)
+67cfe6|Nedistribuit pe Instagram: Instagram necesită o imagine, iar acest element nu are niciuna. Adaugă o imagine reprezentativă sau o imagine în conținut.
+398d9f|Nedistribuit: necesită o imagine
+e44fa2|Distribuit (șterge singur din aplicație)
+a6156e|Distribuit
+d98139|Eroare: %s
+d7c8c8|Eroare
+a149e8|Anulat
+e3f04d|Se șterge…
+93f07b|Șters
+1c5338|Ștergerea a eșuat: %s
+d581ce|Ștergerea a eșuat
+6c7650|În așteptare: limita zilnică a fost atinsă, se distribuie după miezul nopții
+ccef9c|În așteptare: confirmă-ți adresa de e-mail
+a97547|Programat pentru %s
+923d48|Se reîncearcă în curând
+7b2f31|În coadă
+bc1f89|Conexiunea a expirat. Reconectează-te în SmokyPost.
+a608e9|Nu a fost aleasă nicio pagină sau cont pentru această platformă.
+347591|Acest site nu mai este conectat la SmokyPost.
+ecd22a|Contul sau licența ta SmokyPost nu este activă.
+4b472d|Această platformă nu este inclusă în planul tău.
+852d39|Platforma nu a permis publicarea. Verifică dacă ești în continuare administrator al paginii și reconectează-te.
+5e0173|Platforma a blocat această postare.
+c939dc|Platforma a respins această postare ca duplicat.
+b96b3f|Instagram necesită o imagine. Adaugă o imagine reprezentativă articolului.
+191240|Platforma nu a putut folosi imaginea. Încearcă o imagine JPEG sau PNG cu lățimea de cel puțin 600 de pixeli.
+28b253|Imaginea nu a putut fi citită. Folosește JPEG, PNG sau WebP.
+08c673|Imaginea este prea mică. Folosește o imagine cu lățimea de cel puțin 600 de pixeli.
+e99a00|SmokyPost nu a putut descărca imaginea de pe site-ul tău.
+7f8957|Imaginea nu a putut fi pregătită.
+7fa12c|Platforma a fost indisponibilă. SmokyPost a încercat de mai multe ori.
+bd9611|Nu m-am putut conecta la platformă. SmokyPost a încercat de mai multe ori.
+582ab1|Instagram nu a acceptat imaginea la timp.
+c19c4c|Platforma a respins postarea.
+8a0741|Contul care a publicat această postare nu mai este conectat. Șterge postarea singur de pe platformă.
+ad0394|Această postare nu poate fi ștearsă automat. Șterge-o singur de pe platformă.
+eb851e|SmokyPost – Distribuire automată pe rețelele sociale pentru articole și pagini
+6b6724|Distribuie automat articole și pagini noi și vechi în conturile tale de rețele sociale. Nu sunt necesare conturi de dezvoltator sau chei API.
+a274f4|Notificări
+777ca2|Trimite-mi un e-mail când
+28c682|o distribuire eșuează
+ecb9b9|un conținut a fost distribuit
+8daff7|Primești un e-mail pe conținut. O distribuire eșuată este raportată după ce SmokyPost a încercat de mai multe ori, iar aceeași problemă pe aceeași platformă este raportată o singură dată pe zi. E-mailul despre expirarea unei conexiuni este trimis întotdeauna.
+ec7339|Trimite e-mailurile la
+939f28|Separă mai multe adrese prin virgulă. Lasă gol pentru a folosi adresa administratorului acestui site (%s).
+c2239a|SMTP
+00c7c2|Trimite e-mailurile SmokyPost printr-un cont SMTP
+5efbcc|Folosește această opțiune dacă e-mailurile site-ului tău nu ajung. Doar e-mailurile SmokyPost folosesc acest cont, celelalte e-mailuri ale site-ului rămân neschimbate. Nu ai nevoie de un plugin SMTP separat pentru SmokyPost.
+bdd48f|Server SMTP
+60aaf4|Port
+d7f261|Criptare
+413acc|TLS (de obicei portul 587)
+68b181|SSL (de obicei portul 465)
+151adf|Fără criptare
+f6039d|Nume de utilizator
+c6e6fb|Parola este setată în wp-config.php.
+0b5899|O parolă este salvată. Lasă gol pentru a o păstra.
+d7381f|Elimină parola salvată
+7b710d|Parola este stocată criptat și nu mai este afișată niciodată. Pentru Gmail și Outlook folosește o parolă de aplicație.
+491147|E-mailul expeditorului
+7508f2|Majoritatea furnizorilor acceptă doar o adresă care aparține contului.
+c3a7ea|Numele expeditorului
+f5d604|Salvează modificările
+f970b9|Trimite un e-mail de test
+81f545|E-mailul de test salvează mai întâi valorile de mai sus, apoi le folosește.
+1f2def|E-mail de test SmokyPost
+2738c4|Acesta este un e-mail de test de la SmokyPost. Dacă îl poți citi, e-mailurile SmokyPost ajung la tine.
+170c1a|E-mailul de test a fost trimis la %s. Verifică inboxul și folderul de spam.
+15a320|E-mailul de test nu a putut fi trimis: %s Verifică serverul, portul și criptarea.
+11d6a3|E-mailul de test nu a putut fi trimis. Verifică serverul, portul și criptarea.
+eb4da2|Conectează din nou %s
+97ec08|Conexiunea cu %1$s a expirat, așa că conținuturile noi nu pot fi distribuite acolo. Conectează din nou: %2$s
+e6a17f|Nu s-a putut distribui: %s
+4bde81|„%s” nu a putut fi distribuit peste tot:
+f7ca6b|Distribuit: %s
+1c747d|„%s” a fost distribuit:
+89ae90|SmokyPost: limita zilnică a fost atinsă
+8b9f2b|Limita zilnică a planului tău a fost atinsă. Conținuturile rămase sunt distribuite după miezul nopții.
+591804|Deschide conținutul: %s
+f4f486|Istoric: %s
+2396c6|Primești acest e-mail pentru că notificările SmokyPost sunt activate pentru %1$s. Schimbă aici cine le primește sau dezactivează-le: %2$s

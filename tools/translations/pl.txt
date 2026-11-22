@@ -1,0 +1,330 @@
+3b6e56|Połącz swoje strony, aby udostępnić ten element.
+c27b34|Otwórz SmokyPost
+bc871d|Wysyłanie trwa. Sprawdź kartę Historia za kilka minut.
+118c47|Nie można połączyć się z SmokyPost. Spróbuj ponownie za kilka minut.
+b090f4|Udostępnij teraz w:
+d5c6d5|Udostępnij po opublikowaniu w:
+b82400|wymagane ponowne połączenie
+016408|Własna wiadomość (opcjonalnie)
+06651c|Zostaw puste, aby użyć Twojego szablonu.
+1d6da0|Zostanie udostępniony na zaznaczonych platformach po opublikowaniu.
+5b18fc|Udostępniono automatycznie po opublikowaniu.
+04b478|Udostępnij teraz
+f4f707|Ustawienia
+4d01e8|Wysyłanie…
+834915|Usuwanie…
+34b1ef|Wymagana jest nowsza wersja SmokyPost. Zaktualizuj wtyczkę.
+ed49a3|Platformy
+16d2b3|Historia
+08bd40|Konto
+3b6c2b|Regulamin
+fa2ead|Polityka prywatności
+777353|Automatycznie udostępniaj wpisy i strony na swoich kontach w mediach społecznościowych. Załóż bezpłatne konto lub zaloguj się, aby połączyć tę witrynę.
+e05afd|Podczas łączenia ta witryna wysyła do usługi SmokyPost (www.smokypost.com) swój adres, wersje WordPressa i PHP, język oraz strefę czasową. Treść każdego udostępnianego elementu jest wysyłana w chwili udostępnienia.
+8ea211|Załóż bezpłatne konto
+1e884e|E-mail
+6c2c15|Hasło (co najmniej 8 znaków)
+9ec73e|Akceptuję: %1$s oraz %2$s.
+5853d4|Załóż konto i połącz
+3b2aee|Mam już konto
+dc647e|Hasło
+ac6560|Zaloguj się i połącz
+422172|Użyj zamiast tego klucza licencyjnego
+52f88a|Połącz kluczem licencyjnym
+01a569|Nie pamiętasz hasła?
+733ae3|Wyślij link do resetowania
+0efe04|Połącz każdą platformę i wybierz stronę lub konto, na którym ta witryna ma udostępniać.
+43b540|Nie wchodzi w skład Twojego planu.
+4e7193|Tymczasowo niedostępne. Spróbuj ponownie później.
+b9ba1a|Połączenie wygasło. Połącz ponownie, aby dalej udostępniać.
+cf0b67|Połącz ponownie
+f4ec5f|Zmień
+1063e3|Usuń
+7dcd97|Niepołączone.
+49ab28|Połącz
+2bf7da|Wybierz z Twojego logowania do Facebooka
+6330d1|Publikuje Twój tekst i link na jednej z Twoich stron na Facebooku. Logujesz się przez Facebooka.
+e33490|Wymaga konta profesjonalnego na Instagramie połączonego ze stroną na Facebooku. Logujesz się przez Facebooka.
+1abbcd|Publikuje Twój tekst i link na jednej z Twoich stron firmowych w LinkedIn. Logujesz się przez LinkedIn.
+328737|Publikuje Twój tekst, hashtagi i kartę linku z obrazem na Twoim koncie Bluesky. Łączysz się za pomocą nazwy użytkownika i hasła aplikacji.
+9d078b|Publikuje Twój tekst, hashtagi i link na Twoim koncie Mastodon na dowolnym serwerze Mastodon. Zatwierdzasz SmokyPost na własnym serwerze.
+b2d2d7|Publikuje Twój tekst i kartę linku na Twoim profilu w Threads. Logujesz się przez Threads.
+5f2e71|Publikuje Twój tekst, tagi i kartę linku z obrazem na jednym z Twoich blogów na Tumblr. Logujesz się przez Tumblr.
+b4f827|Automatyczne udostępnianie:
+521c36|Wł.
+d15305|Wył.
+8e61d9|Wyłącz
+d154a5|Włącz
+647bd1|Nowe elementy są tu udostępniane po opublikowaniu.
+7f9833|Udostępniane tylko po kliknięciu „Udostępnij teraz”.
+bb7926|Jesteś zalogowany, ale nie udało się wyświetlić Twoich kont: %s
+f915a9|Spróbuj ponownie
+ea4788|Anuluj
+0bfd8d|Najpierw połącz swoje konto.
+f85f84|Najpierw się zaloguj, aby zobaczyć swoje strony.
+f595ba|Dla tego logowania nie znaleziono strony ani konta z uprawnieniami do publikowania.
+19c3d3|Sprawdź, czy Twoje konto na Instagramie jest kontem profesjonalnym i czy jest połączone z jedną z Twoich stron na Facebooku.
+5e5f56|(przez %s)
+f64a44|Użyj tego konta
+6c803a|Brakuje strony?
+09a44d|Zaloguj się na inne konto
+04d144|Typy treści
+725f6c|Tylko te typy są udostępniane automatycznie i mają pole SmokyPost w edytorze.
+6b0402|Automatyczne udostępnianie
+280dc2|Automatycznie udostępniaj nowe elementy po opublikowaniu w:
+b3b6ce|niepołączone
+daf9e6|Odznacz platformę, aby przestać na niej automatycznie udostępniać. Odznacz wszystkie, aby wyłączyć automatyczne udostępnianie. Nadal możesz sam udostępnić dowolny element przyciskiem „Udostępnij teraz” w edytorze lub na liście wpisów oraz odznaczyć platformę dla pojedynczego elementu w edytorze.
+be518a|Elementy tworzone automatycznie
+766287|Udostępniaj także elementy opublikowane przez inne wtyczki, importery, REST API lub WP-CLI
+f5c261|Domyślnie włączone. Elementy tworzone przez kod (na przykład autoblog lub importer kanałów) są udostępniane na powyższych platformach. Wyłącz, jeśli chcesz udostępniać tylko to, co publikujesz w edytorze.
+1aaf15|Pomijaj zaimportowane elementy starsze niż
+73cddd|godz.
+29327b|Usuwanie elementów
+295b79|Usuwaj udostępnione posty, gdy element zostanie usunięty
+0d9342|Domyślnie wyłączone. Gdy przeniesiesz element do kosza lub go usuniesz, SmokyPost usunie też jego posty z Facebooka, LinkedIn, Bluesky, Mastodona, Threads i Tumblr. Instagram nie pozwala innym aplikacjom usuwać postów, więc trzeba je usunąć w aplikacji Instagram. Przywrócenie elementu z kosza nie przywraca postów w mediach społecznościowych.
+cb393c|Szablon wiadomości
+6c08da|Symbole zastępcze:
+ffe7a1|Link jest dodawany przez każdą platformę jako karta podglądu; na Instagramie jest dodawany na końcu tekstu.
+caebe1|Zamieniaj tagi wpisu na hashtagi dla {hashtags}
+f784d5|Obraz domyślny
+b89f80|Używany, gdy element nie ma obrazu wyróżniającego ani obrazu w treści. Instagram zawsze wymaga obrazu.
+ef1486|Udostępnienia z ostatniego %d dnia. ¦ Udostępnienia z ostatnich %d dni. ¦ Udostępnienia z ostatnich %d dni.
+447497|Data
+7d74f3|Element
+8eea62|Wynik
+902952|Nic jeszcze nie udostępniono.
+5da05b|Wyczyść historię
+5ca182|Wyczyścić historię dla wybranych dat czy całą? To, co już udostępniono, pozostaje na Twoich kontach w mediach społecznościowych. Wyczyszczone elementy nie będą już widoczne na tej liście.
+5da618|Od
+e12167|Do
+95b928|Zostaw datę pustą, aby zacząć od pierwszego elementu lub zakończyć na dzisiaj.
+17cddf|Wyczyść te daty
+808768|Wyczyść całą historię
+03727a|Dzień
+7cbb88|Miesiąc
+537c66|Rok
+0b6cbd|Plan
+a77d15|Klucz licencyjny
+6db829|Udostępniono dzisiaj
+b362bb|%1$d z %2$d elementów
+494eb5|Ta witryna
+efb548|Odłącz tę witrynę
+4fdc17|Odłączyć tę witrynę od SmokyPost? Udostępnianie zatrzyma się, dopóki nie zalogujesz się ponownie.
+e54633|Tak, odłącz
+e2e646|Jak działa Pro
+377a68|Zapłać bezpiecznie przez Paddle.
+fbc905|Pobierz SmokyPost Pro przyciskiem poniżej.
+7f189b|Wróć na tę stronę. Pojawi się przycisk „Pobierz SmokyPost Pro”, a ten sam link wyślemy Ci e-mailem.
+53f719|Zainstaluj go w Wtyczki > Dodaj nową > Wyślij wtyczkę na serwer i aktywuj. Licencja zostanie wykryta automatycznie, nie trzeba wpisywać klucza.
+eb475d|SmokyPost Pro to druga wtyczka, która działa razem z SmokyPost: pozostaw obie aktywne. Zajmuje to około minuty. Pełny zwrot pieniędzy w ciągu 14 dni od pierwszej płatności.
+9fa65e|Twoja płatność pojawia się tu dłużej niż zwykle. Odśwież tę stronę za kilka minut. Jeśli po godzinie Twój plan to nadal Free, napisz na info@smokypost.com.
+bec297|Płatność otrzymana. Twój plan będzie aktywny za chwilę, ta strona sama sprawdzi to ponownie.
+2c80f9|SmokyPost Pro
+b81f3c|SmokyPost Pro %s jest zainstalowany i aktywny.
+d25d87|Jego ustawienia znajdziesz w SmokyPost > Pro, a kalendarz w SmokyPost > Kalendarz. Aktualizuje się sam.
+85e962|SmokyPost Pro jest zainstalowany, ale nieaktywny. Aktywuj go na stronie Wtyczki.
+a3bd33|Otwórz Wtyczki
+386940|Pobierz SmokyPost Pro
+500b65|Link działa przez godzinę. W każdej chwili możesz tu wrócić i uzyskać nowy.
+e9f36d|Coś poszło nie tak. Spróbuj ponownie.
+6956cc|Plany
+3faa64|Witryny
+a97de4|Elementów dziennie
+360114|Cena
+124864|%s rocznie
+441f54|Obecny plan
+690969|Przejdź na ten plan
+f68358|Ulepsz
+5d6316|Płatności są bezpiecznie obsługiwane przez Paddle. Ceny podano w dolarach amerykańskich, podatki są dodawane przy finalizacji zamówienia tam, gdzie obowiązują.
+be0482|Zmiana planu obowiązuje od razu. Zobaczysz dokładną kwotę i potwierdzisz ją, zanim cokolwiek zostanie pobrane.
+97788c|Zarządzaj subskrypcją
+1a7066|Anuluj i zwróć środki
+b2c3ec|Zwrot jest możliwy w ciągu 14 dni od pierwszej płatności. Odnowienie możesz w dowolnej chwili zatrzymać w sekcji „Zarządzaj subskrypcją”.
+b1c55c|Pytania o płatność? Napisz na info@smokypost.com.
+a0d458|Możesz anulować i otrzymać pełny zwrot do %s.
+361f28|Anuluj i otrzymaj zwrot
+9b3448|Anulować subskrypcję i otrzymać pełny zwrot? Wszystko, co zapłacono, zostanie zwrócone na kartę użytą do płatności. Za wykorzystane dni nic nie jest potrącane. Plan kończy się od razu, a ta witryna wraca do planu Free.
+1e81d7|Tak, anuluj i zwróć środki
+ee6085|Starter
+abd900|Pro
+75ec3e|Agency
+0222db|Przejdź na plan %s
+71d986|Dzisiaj z karty użytej do płatności (%2$s) zostanie pobrane %1$s.
+a503a7|Dzisiaj z karty użytej do płatności zostanie pobrane %s.
+237ece|Następne odnowienie pozostaje na %s.
+cb540f|Dzisiaj nic nie zostanie pobrane.
+1d46af|Różnica w cenie zostanie zaliczona przy następnym odnowieniu %s.
+937bcf|Różnica w cenie zostanie zaliczona przy następnym odnowieniu.
+bd4a14|Kontynuować?
+cd1df7|Tak, pobierz %s
+6abb41|Tak, zmień plan
+17129e|Chcesz zapłacić inną kartą? Otwórz „Zarządzaj subskrypcją”, zaktualizuj metodę płatności, a potem ponownie zmień plan.
+d4192d|kończąca się na %s
+d4fbfe|%1$s kończąca się na %2$s
+b24ce0|Free
+9086fc|Udostępnianie jest wstrzymane do czasu potwierdzenia Twojego adresu e-mail.
+dbf504|Potwierdź swój adres e-mail. Udostępnianie zostanie wstrzymane za %d dzień, jeśli tego nie zrobisz. ¦ Potwierdź swój adres e-mail. Udostępnianie zostanie wstrzymane za %d dni, jeśli tego nie zrobisz. ¦ Potwierdź swój adres e-mail. Udostępnianie zostanie wstrzymane za %d dni, jeśli tego nie zrobisz.
+933999|Wyślij link ponownie
+feb3a3|Nazwa użytkownika Bluesky
+65255b|Hasło aplikacji
+63d12d|Użyj hasła aplikacji, a nie głównego hasła do Bluesky. Mogą z niego korzystać tylko aplikacje takie jak ta, a Ty możesz je w każdej chwili usunąć w Bluesky.
+4adaf4|Jak uzyskać hasło aplikacji?
+5c312e|Otwórz %s (lub w Bluesky: Ustawienia > Prywatność i bezpieczeństwo > Hasła aplikacji).
+9a01be|Kliknij „Add App Password” i nadaj mu nazwę SmokyPost.
+61e507|Skopiuj hasło pokazane przez Bluesky i wklej je tutaj.
+bd4bac|Twój serwer Mastodon
+9279eb|Adres serwera, na którym jest Twoje konto, na przykład mastodon.social, lub Twoja pełna nazwa, np. @nazwa@mastodon.social. Zatwierdzisz SmokyPost na tym serwerze.
+f8b4c2|Zalogowano. Teraz wybierz konto, na którym ta witryna ma udostępniać.
+5bb110|Logowanie zostało anulowane.
+262cb9|Logowanie nie powiodło się. Spróbuj ponownie.
+bcbbc8|Warto wiedzieć:
+914602|SmokyPost automatycznie udostępnia nowe wpisy po opublikowaniu, także te tworzone przez inne wtyczki, importery lub REST API. Automatyczne udostępnianie możesz włączyć lub wyłączyć dla każdej platformy na jej karcie poniżej lub w Ustawieniach.
+78e981|Rozumiem
+bae082|Otwórz ustawienia
+8beb61|SmokyPost jest prawie gotowy.
+4f4267|Połącz tę witrynę
+2835b7|Nie masz uprawnień do wykonania tej czynności.
+811723|Podaj prawidłowy adres e-mail.
+4b52c9|Podaj hasło.
+cacd72|Użyj hasła o długości co najmniej 8 znaków.
+270228|Zaakceptuj Regulamin i Politykę prywatności.
+c570e4|Twoje konto jest gotowe, a ta witryna jest połączona. Wysłaliśmy Ci e-mail w celu potwierdzenia adresu.
+e4912d|Zalogowano. Ta witryna jest połączona.
+a41cc2|Podaj klucz licencyjny.
+1448bb|Licencja aktywowana. Ta witryna jest połączona.
+025e69|Jeśli dla tego adresu istnieje konto, wysłaliśmy link do zresetowania hasła.
+19d2aa|Ta witryna jest odłączona od SmokyPost.
+ee3077|Wybierz prawidłowe daty.
+12381e|Pierwsza data musi być wcześniejsza niż ostatnia.
+fd4f8f|Wyczyszczono %d element z historii. ¦ Wyczyszczono %d elementy z historii. ¦ Wyczyszczono %d elementów z historii.
+26d353|Nie było nic do wyczyszczenia. Elementy, które nadal są wysyłane, pozostają na liście.
+b9a702|Wysłaliśmy link potwierdzający ponownie.
+12bb90|Połączono. Teraz wybierz konto, na którym ta witryna ma udostępniać.
+c4effa|Ta zmiana planu wygasła. Wybierz plan ponownie.
+5e77be|Twój plan jest zmieniany. Może minąć minuta, zanim pojawi się tutaj.
+d8d639|Zwrot został zlecony, a subskrypcja anulowana. Paddle zwraca pieniądze na kartę użytą do płatności; może to potrwać kilka dni.
+82bf3a|%1$s jest teraz połączony z %2$s.
+9a7e58|Ustawienia zapisane.
+5677c1|Automatyczne udostępnianie w %s jest włączone.
+fa4524|Automatyczne udostępnianie w %s jest wyłączone.
+0a2f60|Nie udostępniono
+498cc4|Udostępnij przez SmokyPost
+90929c|%d element w kolejce do udostępnienia. ¦ %d elementy w kolejce do udostępnienia. ¦ %d elementów w kolejce do udostępnienia.
+81b7e8|%d elementu nie udało się udostępnić; zobacz kolumnę SmokyPost. ¦ %d elementów nie udało się udostępnić; zobacz kolumnę SmokyPost. ¦ %d elementów nie udało się udostępnić; zobacz kolumnę SmokyPost.
+f75f84|Ta witryna nie jest jeszcze połączona z SmokyPost.
+10112f|Obraz do udostępnienia
+e57b53|Wybrany do udostępnienia
+85eb5a|Wybierz inny obraz
+7cd243|Wybierz obraz
+f6b9f8|Użyj wyboru automatycznego
+4c8d06|Obrazy w tym elemencie:
+4f63a3|Użyj tego obrazu
+e6fce5|Aktualizacja elementu nie udostępnia go ponownie. Kliknij „Udostępnij teraz”, aby go udostępnić.
+52beb6|Obraz wyróżniający
+860133|Pierwszy obraz w treści (ten element nie ma obrazu wyróżniającego)
+662aa1|Obraz domyślny z ustawień SmokyPost (ten element nie ma obrazu)
+c28cf8|Instagram wymaga obrazu, a ten element go nie ma. Dodaj obraz wyróżniający lub obraz w treści, w przeciwnym razie nie zostanie udostępniony na Instagramie.
+1b1025|Udostępnij o (opcjonalnie)
+d9c5f4|Format: %1$s, w czasie Twojej witryny (%2$s). Zostaw puste, aby udostępnić od razu.
+03f222|To nie jest prawidłowa data i godzina. Użyj formatu RRRR-MM-DD GG:MM, na przykład 2026-12-31 18:30.
+25f734|Zaplanuj
+fe3b13|Anuluj zaplanowane udostępnienie
+87b913|Usuń udostępnione posty
+b21c60|Tak, usuń
+165825|Zapisz element, aby zastosować zmianę.
+9fb721|Nie masz uprawnień do udostępniania tego elementu.
+d0bfeb|Nie ma czego udostępniać: wybierz co najmniej jedną połączoną platformę.
+9b3811|Wysyłanie… Możesz opuścić tę stronę, udostępnianie trwa w tle.
+6a5c54|Zaplanowano na %s. Możesz opuścić tę stronę.
+97c806|Dla tego elementu nic nie jest zaplanowane.
+4e96d7|Zaplanowane udostępnienie zostało anulowane.
+2b0bb4|Nie ma czego anulować: już zostało wysłane.
+e4c50f|Usunąć udostępnione posty z %s? Sam element pozostaje w Twojej witrynie.
+fe2165|Postów w %s nie można usunąć stąd. Usuń je samodzielnie w aplikacji.
+0f2121|Nie masz uprawnień do zmiany tego elementu.
+605da5|Nie ma nic do usunięcia dla tego elementu.
+46dc65|Usuwanie… Możesz opuścić tę stronę, usuwanie trwa w tle.
+a3787e|Zakończono, ale coś się nie udało. Zobacz poniżej.
+f59405|Gotowe.
+50321d|Co 5 minut (SmokyPost)
+67cfe6|Nie udostępniono na Instagramie: Instagram wymaga obrazu, a ten element go nie ma. Dodaj obraz wyróżniający lub obraz w treści.
+398d9f|Nie udostępniono: wymaga obrazu
+e44fa2|Udostępniono (usuń samodzielnie w aplikacji)
+a6156e|Udostępniono
+d98139|Błąd: %s
+d7c8c8|Błąd
+a149e8|Anulowano
+e3f04d|Usuwanie…
+93f07b|Usunięto
+1c5338|Nie udało się usunąć: %s
+d581ce|Nie udało się usunąć
+6c7650|Oczekuje: osiągnięto dzienny limit, udostępnienie po północy
+ccef9c|Oczekuje: potwierdź swój adres e-mail
+a97547|Zaplanowano na %s
+923d48|Wkrótce ponowna próba
+7b2f31|W kolejce
+bc1f89|Połączenie wygasło. Połącz ponownie w SmokyPost.
+a608e9|Dla tej platformy nie wybrano strony ani konta.
+347591|Ta witryna nie jest już połączona z SmokyPost.
+ecd22a|Twoje konto lub licencja SmokyPost jest nieaktywne.
+4b472d|Ta platforma nie wchodzi w skład Twojego planu.
+852d39|Platforma nie zezwoliła na publikację. Sprawdź, czy nadal jesteś administratorem strony, i połącz ponownie.
+5e0173|Platforma zablokowała ten post.
+c939dc|Platforma odrzuciła ten post jako duplikat.
+b96b3f|Instagram wymaga obrazu. Dodaj obraz wyróżniający.
+191240|Platforma nie mogła użyć obrazu. Spróbuj obrazu JPEG lub PNG o szerokości co najmniej 600 pikseli.
+28b253|Nie udało się odczytać obrazu. Użyj obrazu JPEG, PNG lub WebP.
+08c673|Obraz jest zbyt mały. Użyj obrazu o szerokości co najmniej 600 pikseli.
+e99a00|SmokyPost nie mógł pobrać obrazu z Twojej witryny.
+7f8957|Nie udało się przygotować obrazu.
+7fa12c|Platforma była niedostępna. SmokyPost próbował kilka razy.
+bd9611|Nie udało się połączyć z platformą. SmokyPost próbował kilka razy.
+582ab1|Instagram nie zaakceptował obrazu na czas.
+c19c4c|Platforma odrzuciła post.
+8a0741|Konto, które opublikowało ten post, nie jest już połączone. Usuń post samodzielnie na platformie.
+ad0394|Tego posta nie można usunąć automatycznie. Usuń go samodzielnie na platformie.
+eb851e|SmokyPost – Automatyczne udostępnianie w mediach społecznościowych dla wpisów i stron
+6b6724|Automatycznie udostępniaj nowe i stare wpisy oraz strony na swoich kontach w mediach społecznościowych. Nie potrzebujesz kont deweloperskich ani kluczy API.
+a274f4|Powiadomienia
+777ca2|Wyślij mi e-mail, gdy
+28c682|udostępnienie się nie powiedzie
+ecb9b9|treść zostanie udostępniona
+8daff7|Dostajesz jeden e-mail na treść. Nieudane udostępnienie jest zgłaszane po kilku próbach SmokyPost, a ten sam problem na tej samej platformie jest zgłaszany raz dziennie. E-mail o wygaśnięciu połączenia jest wysyłany zawsze.
+ec7339|Wysyłaj e-maile na adresy
+939f28|Kilka adresów oddziel przecinkami. Zostaw puste, aby użyć adresu administratora tej witryny (%s).
+c2239a|SMTP
+00c7c2|Wysyłaj e-maile SmokyPost przez konto SMTP
+5efbcc|Użyj tego, jeśli e-maile z Twojej witryny nie docierają. Tylko e-maile SmokyPost korzystają z tego konta, pozostałe e-maile witryny pozostają bez zmian. Do SmokyPost nie potrzebujesz osobnej wtyczki SMTP.
+bdd48f|Serwer SMTP
+60aaf4|Port
+d7f261|Szyfrowanie
+413acc|TLS (zwykle port 587)
+68b181|SSL (zwykle port 465)
+151adf|Bez szyfrowania
+f6039d|Nazwa użytkownika
+c6e6fb|Hasło jest ustawione w pliku wp-config.php.
+0b5899|Hasło jest zapisane. Zostaw to pole puste, aby je zachować.
+d7381f|Usuń zapisane hasło
+7b710d|Hasło jest przechowywane w postaci zaszyfrowanej i nigdy więcej nie jest pokazywane. Dla Gmaila i Outlooka użyj hasła aplikacji.
+491147|E-mail nadawcy
+7508f2|Większość dostawców akceptuje tylko adres należący do konta.
+c3a7ea|Nazwa nadawcy
+f5d604|Zapisz zmiany
+f970b9|Wyślij testowy e-mail
+81f545|Testowy e-mail najpierw zapisuje powyższe wartości, a potem ich używa.
+1f2def|Testowy e-mail SmokyPost
+2738c4|To jest testowy e-mail z SmokyPost. Jeśli możesz go przeczytać, e-maile z SmokyPost do Ciebie docierają.
+170c1a|Testowy e-mail został wysłany na adres %s. Sprawdź skrzynkę odbiorczą i folder ze spamem.
+15a320|Nie udało się wysłać testowego e-maila: %s Sprawdź serwer, port i szyfrowanie.
+11d6a3|Nie udało się wysłać testowego e-maila. Sprawdź serwer, port i szyfrowanie.
+eb4da2|Połącz ponownie: %s
+97ec08|Połączenie z %1$s wygasło, więc nowe treści nie mogą być tam udostępniane. Połącz ponownie: %2$s
+e6a17f|Nie udało się udostępnić: %s
+4bde81|„%s” nie udało się udostępnić wszędzie:
+f7ca6b|Udostępniono: %s
+1c747d|Udostępniono „%s”:
+89ae90|SmokyPost: osiągnięto dzienny limit
+8b9f2b|Osiągnięto dzienny limit Twojego planu. Pozostałe treści zostaną udostępnione po północy.
+591804|Otwórz treść: %s
+f4f486|Historia: %s
+2396c6|Dostajesz ten e-mail, ponieważ powiadomienia SmokyPost są włączone dla %1$s. Zmień, kto je dostaje, lub wyłącz je tutaj: %2$s

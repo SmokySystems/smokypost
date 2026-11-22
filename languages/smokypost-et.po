@@ -1,0 +1,1429 @@
+# Copyright (C) 2026 SmokySystems
+# This file is distributed under the GPL-2.0-or-later.
+msgid ""
+msgstr ""
+"Project-Id-Version: SmokyPost\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Domain: smokypost\n"
+"Language: et\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: assets/js/editor.js:159 includes/Editor.php:199
+msgid "Connect your pages to share this item."
+msgstr "Ühenda oma lehed, et seda sisu jagada."
+
+#: assets/js/editor.js:160 includes/Editor.php:199
+msgid "Open SmokyPost"
+msgstr "Ava SmokyPost"
+
+#: assets/js/editor.js:178 includes/Admin/Page.php:76
+msgid "Still sending. Check the History tab in a few minutes."
+msgstr "Saatmine käib veel. Vaata paari minuti pärast vahekaarti Ajalugu."
+
+#: assets/js/editor.js:238 assets/js/editor.js:261 assets/js/editor.js:288 includes/Api.php:106
+msgid "SmokyPost could not be reached. Please try again in a few minutes."
+msgstr "SmokyPostiga ei õnnestunud ühendust saada. Proovi paari minuti pärast uuesti."
+
+#: assets/js/editor.js:298 includes/Editor.php:208
+msgid "Share now to:"
+msgstr "Jaga kohe siia:"
+
+#: assets/js/editor.js:298 includes/Editor.php:208
+msgid "Share when published to:"
+msgstr "Jaga avaldamisel siia:"
+
+#: assets/js/editor.js:300
+msgid "reconnect needed"
+msgstr "vajab uuesti ühendamist"
+
+#: assets/js/editor.js:313 includes/Editor.php:214
+msgid "Custom message (optional)"
+msgstr "Oma sõnum (valikuline)"
+
+#: assets/js/editor.js:314
+msgid "Leave empty to use your template."
+msgstr "Jäta tühjaks, et kasutada oma malli."
+
+#: assets/js/editor.js:333
+msgid "Shared to the ticked platforms when you publish."
+msgstr "Jagatakse avaldamisel märgitud platvormidel."
+
+#: assets/js/editor.js:336
+msgid "Shared automatically when it was published."
+msgstr "Jagatud avaldamisel automaatselt."
+
+#: assets/js/editor.js:339 includes/Editor.php:232
+msgid "Share now"
+msgstr "Jaga kohe"
+
+#: includes/Admin/Page.php:43 includes/Admin/Page.php:122
+msgid "Settings"
+msgstr "Seaded"
+
+#: includes/Admin/Page.php:74 includes/Status.php:87
+msgid "Sending…"
+msgstr "Saadan …"
+
+#: includes/Admin/Page.php:75 includes/Editor.php:150
+msgid "Deleting…"
+msgstr "Kustutan …"
+
+#: includes/Admin/Page.php:113
+msgid "A newer version of SmokyPost is required. Please update the plugin."
+msgstr "Vaja on SmokyPosti uuemat versiooni. Uuenda pistikprogrammi."
+
+#: includes/Admin/Page.php:121
+msgid "Platforms"
+msgstr "Platvormid"
+
+#: includes/Admin/Page.php:123
+msgid "History"
+msgstr "Ajalugu"
+
+#: includes/Admin/Page.php:124
+msgid "Notifications"
+msgstr "Teavitused"
+
+#: includes/Admin/Page.php:125 includes/Admin/Page.php:558
+msgid "Account"
+msgstr "Konto"
+
+#: includes/Admin/Page.php:156
+msgid "Terms of Service"
+msgstr "Kasutustingimused"
+
+#: includes/Admin/Page.php:157
+msgid "Privacy Policy"
+msgstr "Privaatsuspoliitika"
+
+#: includes/Admin/Page.php:158
+msgid "Share your posts and pages to your social media accounts automatically. Create a free account or sign in to connect this site."
+msgstr "Jaga oma postitusi ja lehti automaatselt oma sotsiaalvõrgustikes. Loo tasuta konto või logi sisse, et see sait ühendada."
+
+#: includes/Admin/Page.php:159
+msgid "When you connect, this site sends its address, WordPress and PHP versions, language and time zone to the SmokyPost service (www.smokypost.com). The content of each item you share is sent when it is shared."
+msgstr "Ühendamisel saadab see sait SmokyPosti teenusele (www.smokypost.com) oma aadressi, WordPressi ja PHP versiooni, keele ja ajavööndi. Iga jagatava sisu tekst saadetakse jagamise hetkel."
+
+#: includes/Admin/Page.php:163
+msgid "Create a free account"
+msgstr "Loo tasuta konto"
+
+#: includes/Admin/Page.php:165 includes/Admin/Page.php:174 includes/Admin/Page.php:187
+msgid "E-mail"
+msgstr "E-post"
+
+#: includes/Admin/Page.php:166
+msgid "Password (at least 8 characters)"
+msgstr "Parool (vähemalt 8 märki)"
+
+#. translators: 1: Terms of Service link, 2: Privacy Policy link
+#: includes/Admin/Page.php:168
+#, php-format
+msgid "I accept the %1$s and the %2$s."
+msgstr "Nõustun järgmisega: %1$s ja %2$s."
+
+#: includes/Admin/Page.php:169
+msgid "Create account and connect"
+msgstr "Loo konto ja ühenda"
+
+#: includes/Admin/Page.php:172
+msgid "I already have an account"
+msgstr "Mul on juba konto"
+
+#: includes/Admin/Page.php:175 includes/Admin/Page.php:445
+msgid "Password"
+msgstr "Parool"
+
+#: includes/Admin/Page.php:176
+msgid "Sign in and connect"
+msgstr "Logi sisse ja ühenda"
+
+#: includes/Admin/Page.php:179
+msgid "Use a license key instead"
+msgstr "Kasuta hoopis litsentsivõtit"
+
+#: includes/Admin/Page.php:182
+msgid "Connect with license key"
+msgstr "Ühenda litsentsivõtmega"
+
+#: includes/Admin/Page.php:185
+msgid "Forgot your password?"
+msgstr "Unustasid parooli?"
+
+#: includes/Admin/Page.php:188
+msgid "Send reset link"
+msgstr "Saada lähtestamislink"
+
+#: includes/Admin/Page.php:207
+msgid "Connect each platform and choose the page or account this site shares to."
+msgstr "Ühenda iga platvorm ja vali leht või konto, kuhu see sait jagab."
+
+#: includes/Admin/Page.php:222
+msgid "Not included in your plan."
+msgstr "Ei kuulu sinu paketti."
+
+#: includes/Admin/Page.php:226
+msgid "Temporarily unavailable. Please try again later."
+msgstr "Ajutiselt kättesaamatu. Proovi hiljem uuesti."
+
+#: includes/Admin/Page.php:237
+msgid "The connection has expired. Connect again to keep sharing."
+msgstr "Ühendus on aegunud. Ühenda uuesti, et jagamist jätkata."
+
+#: includes/Admin/Page.php:238
+msgid "Connect again"
+msgstr "Ühenda uuesti"
+
+#: includes/Admin/Page.php:241
+msgid "Change"
+msgstr "Muuda"
+
+#: includes/Admin/Page.php:243
+msgid "Remove"
+msgstr "Eemalda"
+
+#: includes/Admin/Page.php:247
+msgid "Not connected."
+msgstr "Pole ühendatud."
+
+#: includes/Admin/Page.php:249 includes/Admin/Page.php:341
+msgid "Connect"
+msgstr "Ühenda"
+
+#: includes/Admin/Page.php:253
+msgid "Choose from your Facebook login"
+msgstr "Vali oma Facebooki sisselogimisest"
+
+#: includes/Admin/Page.php:277
+msgid "Posts your text and a link to one of your Facebook Pages. You sign in with Facebook."
+msgstr "Avaldab sinu teksti ja lingi ühel sinu Facebooki lehel. Logid sisse Facebooki kaudu."
+
+#: includes/Admin/Page.php:279
+msgid "Needs an Instagram professional account linked to a Facebook Page. You sign in with Facebook."
+msgstr "Vajab Facebooki lehega seotud Instagrami ärikontot. Logid sisse Facebooki kaudu."
+
+#: includes/Admin/Page.php:281
+msgid "Posts your text and a link to one of your LinkedIn company pages. You sign in with LinkedIn."
+msgstr "Avaldab sinu teksti ja lingi ühel sinu LinkedIni ettevõtte lehel. Logid sisse LinkedIni kaudu."
+
+#: includes/Admin/Page.php:283
+msgid "Posts your text, hashtags and a link card with the picture to your Bluesky account. You connect with your handle and an app password."
+msgstr "Avaldab sinu teksti, teemaviited ja pildiga linkikaardi sinu Blueskyi kontol. Ühendad kasutajanime ja rakenduseparooliga."
+
+#: includes/Admin/Page.php:285
+msgid "Posts your text, hashtags and a link to your Mastodon account on any Mastodon server. You approve SmokyPost on your own server."
+msgstr "Avaldab sinu teksti, teemaviited ja lingi sinu Mastodoni kontol mis tahes Mastodoni serveris. Kinnitad SmokyPosti oma serveris."
+
+#: includes/Admin/Page.php:287
+msgid "Posts your text and a link card to your Threads profile. You sign in with Threads."
+msgstr "Avaldab sinu teksti ja linkikaardi sinu Threadsi profiilil. Logid sisse Threadsi kaudu."
+
+#: includes/Admin/Page.php:289
+msgid "Posts your text, tags and a link card with the picture to one of your Tumblr blogs. You sign in with Tumblr."
+msgstr "Avaldab sinu teksti, sildid ja pildiga linkikaardi ühes sinu Tumblri blogis. Logid sisse Tumblri kaudu."
+
+#: includes/Admin/Page.php:304
+msgid "Automatic sharing:"
+msgstr "Automaatne jagamine:"
+
+#: includes/Admin/Page.php:304
+msgid "On"
+msgstr "Sees"
+
+#: includes/Admin/Page.php:304
+msgid "Off"
+msgstr "Väljas"
+
+#: includes/Admin/Page.php:305
+msgid "Turn off"
+msgstr "Lülita välja"
+
+#: includes/Admin/Page.php:305
+msgid "Turn on"
+msgstr "Lülita sisse"
+
+#: includes/Admin/Page.php:306
+msgid "New items are shared here when they are published."
+msgstr "Uus sisu jagatakse siia avaldamisel."
+
+#: includes/Admin/Page.php:306
+msgid "Only shared when you click \"Share now\"."
+msgstr "Jagatakse ainult siis, kui klõpsad nupul „Jaga kohe“."
+
+#. translators: %s: reason
+#: includes/Admin/Page.php:322
+#, php-format
+msgid "You are signed in, but your accounts could not be listed: %s"
+msgstr "Oled sisse logitud, kuid sinu kontosid ei õnnestunud loetleda: %s"
+
+#: includes/Admin/Page.php:323
+msgid "Try again"
+msgstr "Proovi uuesti"
+
+#: includes/Admin/Page.php:323 includes/Admin/Page.php:361 includes/Admin/Page.php:524 includes/Admin/Page.php:576 includes/Admin/Page.php:716 includes/Admin/Page.php:772 includes/Editor.php:149 includes/Editor.php:481
+msgid "Cancel"
+msgstr "Tühista"
+
+#: includes/Admin/Page.php:328
+msgid "Connect your account first."
+msgstr "Ühenda kõigepealt oma konto."
+
+#: includes/Admin/Page.php:328
+msgid "Sign in first to see your pages."
+msgstr "Logi kõigepealt sisse, et oma lehti näha."
+
+#: includes/Admin/Page.php:329
+msgid "No page or account with posting rights was found for this login."
+msgstr "Selle sisselogimise jaoks ei leitud lehte ega kontot, kuhu saad avaldada."
+
+#: includes/Admin/Page.php:331
+msgid "Check that your Instagram account is a professional account and is linked to one of your Facebook Pages."
+msgstr "Veendu, et sinu Instagrami konto on äri- või loojakonto ja seotud ühe sinu Facebooki lehega."
+
+#. translators: %s: name of the person who signed in
+#: includes/Admin/Page.php:355
+#, php-format
+msgid "(via %s)"
+msgstr "(%s kaudu)"
+
+#: includes/Admin/Page.php:360
+msgid "Use this account"
+msgstr "Kasuta seda kontot"
+
+#: includes/Admin/Page.php:363
+msgid "Missing a page?"
+msgstr "Ei näe õiget lehte?"
+
+#: includes/Admin/Page.php:364
+msgid "Sign in with another account"
+msgstr "Logi sisse teise kontoga"
+
+#: includes/Admin/Page.php:377
+msgid "Content types"
+msgstr "Sisutüübid"
+
+#: includes/Admin/Page.php:381
+msgid "Only these types are shared automatically and get the SmokyPost box in the editor."
+msgstr "Automaatselt jagatakse ainult neid tüüpe ja ainult nendel on redaktoris SmokyPosti kast."
+
+#: includes/Admin/Page.php:383
+msgid "Automatic sharing"
+msgstr "Automaatne jagamine"
+
+#: includes/Admin/Page.php:384
+msgid "Share new items automatically when they are published to:"
+msgstr "Jaga uut sisu avaldamisel automaatselt siia:"
+
+#: includes/Admin/Page.php:386
+msgid "not connected"
+msgstr "pole ühendatud"
+
+#: includes/Admin/Page.php:389
+msgid "Untick a platform to stop automatic sharing to it. Untick all to turn automatic sharing off. You can still share any item yourself with \"Share now\" in the editor or the post list, and untick a platform for a single item in the editor."
+msgstr "Võta platvormilt märge maha, et sinna enam automaatselt mitte jagada. Võta kõigilt märge maha, et automaatne jagamine välja lülitada. Võid alati ise sisu jagada redaktori või postituste loendi nupuga „Jaga kohe“ ning võtta redaktoris üksiku sisu puhul platvormilt märke maha."
+
+#: includes/Admin/Page.php:391
+msgid "Automatically created items"
+msgstr "Automaatselt loodud sisu"
+
+#: includes/Admin/Page.php:391
+msgid "Also share items published by other plugins, importers, the REST API or WP-CLI"
+msgstr "Jaga ka teiste pistikprogrammide, importijate, REST API või WP-CLI avaldatud sisu"
+
+#: includes/Admin/Page.php:392
+msgid "On by default. Items created by code (for example an autoblog or a feed importer) are shared to the platforms above. Turn this off if you only want to share what you publish in the editor."
+msgstr "Vaikimisi sees. Koodi loodud sisu (näiteks automaatblogi või voogude importija) jagatakse ülaltoodud platvormidel. Lülita välja, kui soovid jagada ainult seda, mille avaldad redaktoris."
+
+#: includes/Admin/Page.php:393
+msgid "Skip imported items older than"
+msgstr "Jäta vahele imporditud sisu, mis on vanem kui"
+
+#: includes/Admin/Page.php:393
+msgid "hours"
+msgstr "t"
+
+#: includes/Admin/Page.php:395
+msgid "Deleting items"
+msgstr "Sisu kustutamine"
+
+#: includes/Admin/Page.php:395
+msgid "Delete the shared posts when the item is deleted"
+msgstr "Kustuta jagatud postitused, kui sisu kustutatakse"
+
+#: includes/Admin/Page.php:396
+msgid "Off by default. When you move an item to the trash or delete it, SmokyPost also removes its posts from Facebook, LinkedIn, Bluesky, Mastodon, Threads and Tumblr. Instagram does not allow other apps to delete posts, so those have to be deleted in the Instagram app. Restoring an item from the trash does not bring the social posts back."
+msgstr "Vaikimisi väljas. Kui viid sisu prügikasti või kustutad selle, kustutab SmokyPost ka selle postitused Facebookis, LinkedInis, Blueskys, Mastodonis, Threadsis ja Tumblris. Instagram ei luba teistel rakendustel postitusi kustutada, seega tuleb need kustutada Instagrami rakenduses. Sisu taastamine prügikastist ei taasta postitusi sotsiaalvõrgustikes."
+
+#: includes/Admin/Page.php:398
+msgid "Message template"
+msgstr "Sõnumi mall"
+
+#: includes/Admin/Page.php:400
+msgid "Placeholders:"
+msgstr "Kohatäited:"
+
+#: includes/Admin/Page.php:400
+msgid "The link is added by each platform as a preview card; on Instagram it is added to the end of the text."
+msgstr "Iga platvorm lisab lingi eelvaatekaardina; Instagramis lisatakse see teksti lõppu."
+
+#: includes/Admin/Page.php:401
+msgid "Turn post tags into hashtags for {hashtags}"
+msgstr "Muuda postituse sildid teemaviideteks platvormidele {hashtags}"
+
+#: includes/Admin/Page.php:403
+msgid "Default image"
+msgstr "Vaikepilt"
+
+#: includes/Admin/Page.php:404
+msgid "Used when an item has no featured image and no image in its content. Instagram always needs an image."
+msgstr "Kasutatakse siis, kui sisul pole esiletõstetud pilti ega pilti sisus. Instagram nõuab alati pilti."
+
+#: includes/Admin/Page.php:418
+msgid "E-mail me when"
+msgstr "Saada mulle e-kiri, kui"
+
+#: includes/Admin/Page.php:419
+msgid "a share fails"
+msgstr "jagamine ebaõnnestub"
+
+#: includes/Admin/Page.php:420
+msgid "an item was shared"
+msgstr "sisu on jagatud"
+
+#: includes/Admin/Page.php:421
+msgid "You get one e-mail per item. A failed share is reported after SmokyPost has tried several times, and the same problem on the same platform is reported once a day. An e-mail that a connection has expired is always sent."
+msgstr "Saate ühe e-kirja sisu kohta. Ebaõnnestunud jagamisest teatatakse pärast seda, kui SmokyPost on mitu korda proovinud, ning sama probleemist samal platvormil kord päevas. E-kiri ühenduse aegumise kohta saadetakse alati."
+
+#: includes/Admin/Page.php:423
+msgid "Send e-mails to"
+msgstr "Saada e-kirjad aadressidele"
+
+#. translators: %s: e-mail address
+#: includes/Admin/Page.php:426
+#, php-format
+msgid "Separate several addresses with commas. Leave empty to use the administrator address of this site (%s)."
+msgstr "Eraldage mitu aadressi komadega. Jätke tühjaks, et kasutada saidi administraatori aadressi (%s)."
+
+#: includes/Admin/Page.php:428
+msgid "SMTP"
+msgstr "SMTP"
+
+#: includes/Admin/Page.php:429
+msgid "Send SmokyPost e-mails through an SMTP account"
+msgstr "Saada SmokyPosti e-kirjad SMTP-konto kaudu"
+
+#: includes/Admin/Page.php:430
+msgid "Use this when e-mails from your site do not arrive. Only the e-mails of SmokyPost use this account, other e-mails of your site stay as they are. You do not need a separate SMTP plugin for SmokyPost."
+msgstr "Kasutage seda, kui teie saidi e-kirjad ei jõua kohale. Seda kontot kasutavad ainult SmokyPosti e-kirjad, saidi muud e-kirjad jäävad muutmata. SmokyPosti jaoks ei ole vaja eraldi SMTP-pistikprogrammi."
+
+#: includes/Admin/Page.php:432
+msgid "SMTP server"
+msgstr "SMTP-server"
+
+#: includes/Admin/Page.php:433
+msgid "Port"
+msgstr "Port"
+
+#: includes/Admin/Page.php:434
+msgid "Encryption"
+msgstr "Krüpteerimine"
+
+#: includes/Admin/Page.php:436
+msgid "TLS (usually port 587)"
+msgstr "TLS (tavaliselt port 587)"
+
+#: includes/Admin/Page.php:437
+msgid "SSL (usually port 465)"
+msgstr "SSL (tavaliselt port 465)"
+
+#: includes/Admin/Page.php:438
+msgid "No encryption"
+msgstr "Krüpteerimiseta"
+
+#: includes/Admin/Page.php:443
+msgid "Username"
+msgstr "Kasutajanimi"
+
+#: includes/Admin/Page.php:447
+msgid "The password is set in wp-config.php."
+msgstr "Parool on määratud failis wp-config.php."
+
+#: includes/Admin/Page.php:451
+msgid "A password is saved. Leave this empty to keep it."
+msgstr "Parool on salvestatud. Selle säilitamiseks jätke väli tühjaks."
+
+#: includes/Admin/Page.php:451
+msgid "Remove the saved password"
+msgstr "Eemalda salvestatud parool"
+
+#: includes/Admin/Page.php:453
+msgid "The password is stored encrypted and never shown again. For Gmail and Outlook use an app password."
+msgstr "Parool salvestatakse krüpteeritult ja seda ei näidata enam kunagi. Gmaili ja Outlooki jaoks kasutage rakenduse parooli."
+
+#: includes/Admin/Page.php:457
+msgid "From e-mail"
+msgstr "Saatja e-posti aadress"
+
+#: includes/Admin/Page.php:458
+msgid "Most providers only accept an address that belongs to the account."
+msgstr "Enamik teenusepakkujaid võtab vastu ainult kontole kuuluva aadressi."
+
+#: includes/Admin/Page.php:459
+msgid "From name"
+msgstr "Saatja nimi"
+
+#: includes/Admin/Page.php:462
+msgid "Save Changes"
+msgstr "Salvesta muudatused"
+
+#: includes/Admin/Page.php:463
+msgid "Send a test e-mail"
+msgstr "Saada testkiri"
+
+#: includes/Admin/Page.php:464
+msgid "The test e-mail saves the values above first and then uses them."
+msgstr "Testkiri salvestab enne ülaltoodud väärtused ja kasutab neid seejärel."
+
+#. translators: %d: number of days
+#: includes/Admin/Page.php:479
+#, php-format
+msgid "Shares of the last %d day."
+msgid_plural "Shares of the last %d days."
+msgstr[0] "Jagamised viimase %d päeva jooksul."
+msgstr[1] "Jagamised viimase %d päeva jooksul."
+
+#: includes/Admin/Page.php:491
+msgid "Date"
+msgstr "Kuupäev"
+
+#: includes/Admin/Page.php:491
+msgid "Item"
+msgstr "Sisu"
+
+#: includes/Admin/Page.php:491
+msgid "Result"
+msgstr "Tulemus"
+
+#: includes/Admin/Page.php:507
+msgid "Nothing shared yet."
+msgstr "Midagi pole veel jagatud."
+
+#: includes/Admin/Page.php:516
+msgid "Clear history"
+msgstr "Tühjenda ajalugu"
+
+#: includes/Admin/Page.php:516
+msgid "Clear the history for the dates you choose, or all of it? What was already shared stays on your social accounts. Cleared items no longer show in this list."
+msgstr "Kas tühjendada ajalugu teatud kuupäevade kohta või täielikult? See, mis on juba jagatud, jääb sinu sotsiaalvõrgustikesse. Tühjendatud kirjeid selles loendis enam ei kuvata."
+
+#: includes/Admin/Page.php:518
+msgid "From"
+msgstr "Alates"
+
+#: includes/Admin/Page.php:520
+msgid "To"
+msgstr "Kuni"
+
+#: includes/Admin/Page.php:523
+msgid "Leave the date empty to start at the first item or end today."
+msgstr "Jäta kuupäev tühjaks, et alustada esimesest kirjest või lõpetada tänasega."
+
+#: includes/Admin/Page.php:524
+msgid "Clear these dates"
+msgstr "Tühjenda need kuupäevad"
+
+#: includes/Admin/Page.php:524
+msgid "Clear all history"
+msgstr "Tühjenda kogu ajalugu"
+
+#: includes/Admin/Page.php:534 includes/Admin/Page.php:534
+msgid "Day"
+msgstr "Päev"
+
+#: includes/Admin/Page.php:538 includes/Admin/Page.php:538
+msgid "Month"
+msgstr "Kuu"
+
+#: includes/Admin/Page.php:542 includes/Admin/Page.php:542
+msgid "Year"
+msgstr "Aasta"
+
+#: includes/Admin/Page.php:559 includes/Admin/Page.php:670
+msgid "Plan"
+msgstr "Pakett"
+
+#: includes/Admin/Page.php:560
+msgid "License key"
+msgstr "Litsentsivõti"
+
+#: includes/Admin/Page.php:561
+msgid "Shared today"
+msgstr "Täna jagatud"
+
+#. translators: 1: items used, 2: daily limit
+#: includes/Admin/Page.php:564 includes/Admin/Page.php:566
+#, php-format
+msgid "%1$d of %2$d items"
+msgstr "%1$d / %2$d sisuühikut"
+
+#: includes/Admin/Page.php:569
+msgid "This site"
+msgstr "See sait"
+
+#: includes/Admin/Page.php:574
+msgid "Disconnect this site"
+msgstr "Katkesta selle saidi ühendus"
+
+#: includes/Admin/Page.php:574
+msgid "Disconnect this site from SmokyPost? Sharing stops until you sign in again."
+msgstr "Kas katkestada selle saidi ühendus SmokyPostiga? Jagamine peatub, kuni logid uuesti sisse."
+
+#: includes/Admin/Page.php:576
+msgid "Yes, disconnect"
+msgstr "Jah, katkesta ühendus"
+
+#: includes/Admin/Page.php:585
+msgid "How Pro works"
+msgstr "Kuidas Pro töötab"
+
+#: includes/Admin/Page.php:586
+msgid "Pay securely through Paddle."
+msgstr "Maksa turvaliselt Paddle'i kaudu."
+
+#: includes/Admin/Page.php:587
+msgid "Download SmokyPost Pro with the button below."
+msgstr "Laadi SmokyPost Pro alla allolevast nupust."
+
+#: includes/Admin/Page.php:587
+msgid "Come back to this page. A \"Download SmokyPost Pro\" button appears, and we e-mail you the same link."
+msgstr "Tule sellele lehele tagasi. Ilmub nupp „Laadi SmokyPost Pro alla“ ning saadame sama lingi sulle ka e-postiga."
+
+#: includes/Admin/Page.php:588
+msgid "Install it under Plugins > Add New > Upload Plugin and activate it. Your license is picked up automatically, there is no key to enter."
+msgstr "Paigalda see menüüst Pistikprogrammid > Lisa uus > Laadi pistikprogramm üles ja aktiveeri. Sinu litsents leitakse automaatselt, võtit pole vaja sisestada."
+
+#: includes/Admin/Page.php:589
+msgid "SmokyPost Pro is a second plugin that works together with SmokyPost: keep both active. It takes about a minute. Full refund within 14 days of your first payment."
+msgstr "SmokyPost Pro on teine pistikprogramm, mis töötab koos SmokyPostiga: hoia mõlemad aktiivsena. See võtab umbes minuti. Täielik tagasimakse 14 päeva jooksul pärast esimest makset."
+
+#: includes/Admin/Page.php:603
+msgid "Your payment is taking longer than usual to show here. Reload this page in a few minutes. If your plan is still Free after an hour, write to info@smokypost.com."
+msgstr "Sinu makse ilmumine siia võtab tavalisest kauem aega. Laadi leht paari minuti pärast uuesti. Kui tunni aja pärast on sinu pakett endiselt Free, kirjuta aadressil info@smokypost.com."
+
+#: includes/Admin/Page.php:607
+msgid "Payment received. Your plan will be active in a moment, this page checks again by itself."
+msgstr "Makse on kätte saadud. Sinu pakett aktiveerub peagi ja see leht kontrollib seda ise."
+
+#: includes/Admin/Page.php:619
+msgid "SmokyPost Pro"
+msgstr "SmokyPost Pro"
+
+#. translators: %s: version number
+#: includes/Admin/Page.php:622
+#, php-format
+msgid "SmokyPost Pro %s is installed and active."
+msgstr "SmokyPost Pro %s on paigaldatud ja aktiivne."
+
+#: includes/Admin/Page.php:623
+msgid "Its settings are under SmokyPost > Pro, the calendar under SmokyPost > Calendar. It updates itself."
+msgstr "Selle seaded asuvad menüüs SmokyPost > Pro ja kalender menüüs SmokyPost > Kalender. See uueneb ise."
+
+#: includes/Admin/Page.php:630
+msgid "SmokyPost Pro is installed but not active. Activate it on the Plugins page."
+msgstr "SmokyPost Pro on paigaldatud, kuid mitte aktiivne. Aktiveeri see lehel Pistikprogrammid."
+
+#: includes/Admin/Page.php:630
+msgid "Open Plugins"
+msgstr "Ava Pistikprogrammid"
+
+#: includes/Admin/Page.php:635
+msgid "Download SmokyPost Pro"
+msgstr "Laadi SmokyPost Pro alla"
+
+#: includes/Admin/Page.php:636
+msgid "The link works for an hour. You can come back here and get a new one any time."
+msgstr "Link kehtib ühe tunni. Võid alati siia tagasi tulla uue saamiseks."
+
+#: includes/Admin/Page.php:646 includes/Admin/Page.php:1266 includes/Api.php:127
+msgid "Something went wrong. Please try again."
+msgstr "Midagi läks valesti. Proovi uuesti."
+
+#: includes/Admin/Page.php:665
+msgid "Plans"
+msgstr "Paketid"
+
+#: includes/Admin/Page.php:670
+msgid "Sites"
+msgstr "Saidid"
+
+#: includes/Admin/Page.php:670
+msgid "Items per day"
+msgstr "Sisuühikuid päevas"
+
+#: includes/Admin/Page.php:670
+msgid "Price"
+msgstr "Hind"
+
+#. translators: %s: price, for example $39
+#: includes/Admin/Page.php:678
+#, php-format
+msgid "%s per year"
+msgstr "%s aastas"
+
+#: includes/Admin/Page.php:680
+msgid "Current plan"
+msgstr "Praegune pakett"
+
+#: includes/Admin/Page.php:683
+msgid "Switch to this plan"
+msgstr "Vaheta sellele paketile"
+
+#: includes/Admin/Page.php:683
+msgid "Upgrade"
+msgstr "Uuenda"
+
+#: includes/Admin/Page.php:688
+msgid "Payments are handled securely by Paddle. Prices are in US dollars, taxes are added at checkout where they apply."
+msgstr "Makseid töötleb turvaliselt Paddle. Hinnad on USA dollarites ja maksud lisatakse kassas seal, kus need kehtivad."
+
+#: includes/Admin/Page.php:690
+msgid "A plan change applies right away. You will see the exact amount and confirm it before anything is charged."
+msgstr "Paketi vahetus jõustub kohe. Näed täpset summat ja kinnitad selle enne, kui midagi maha võetakse."
+
+#: includes/Admin/Page.php:692 includes/Admin/Page.php:776
+msgid "Manage subscription"
+msgstr "Halda tellimust"
+
+#: includes/Admin/Page.php:703
+msgid "Cancel and refund"
+msgstr "Tühista ja saa raha tagasi"
+
+#: includes/Admin/Page.php:705
+msgid "Refunds are available within 14 days of your first payment. You can stop the renewal at any time from Manage subscription."
+msgstr "Tagasimakse on võimalik 14 päeva jooksul pärast esimest makset. Uuenemise võid alati peatada jaotises „Halda tellimust“."
+
+#: includes/Admin/Page.php:706 includes/Admin/Page.php:717
+msgid "Questions about a payment? Write to info@smokypost.com."
+msgstr "Küsimusi makse kohta? Kirjuta aadressil info@smokypost.com."
+
+#. translators: %s: date
+#: includes/Admin/Page.php:712
+#, php-format
+msgid "You can cancel and get a full refund until %s."
+msgstr "Võid tühistada ja saada täieliku tagasimakse kuni %s."
+
+#: includes/Admin/Page.php:714
+msgid "Cancel and get a refund"
+msgstr "Tühista ja saa tagasimakse"
+
+#: includes/Admin/Page.php:714
+msgid "Cancel your subscription and get a full refund? Everything you paid is returned to the card you paid with. Nothing is deducted for the days you used. Your plan ends right away and this site goes back to Free."
+msgstr "Kas tühistada tellimus ja saada täielik tagasimakse? Kõik, mida maksid, tagastatakse kaardile, millega maksid. Kasutatud päevade eest ei peeta midagi kinni. Sinu pakett lõpeb kohe ja see sait läheb tagasi paketile Free."
+
+#: includes/Admin/Page.php:716
+msgid "Yes, cancel and refund"
+msgstr "Jah, tühista ja maksa tagasi"
+
+#: includes/Admin/Page.php:730 includes/Admin/Page.php:814
+msgid "Starter"
+msgstr "Starter"
+
+#: includes/Admin/Page.php:731 includes/Admin/Page.php:815
+msgid "Pro"
+msgstr "Pro"
+
+#: includes/Admin/Page.php:732 includes/Admin/Page.php:816
+msgid "Agency"
+msgstr "Agency"
+
+#. translators: %s: plan name
+#: includes/Admin/Page.php:741
+#, php-format
+msgid "Switch to the %s plan"
+msgstr "Vaheta paketile %s"
+
+#. translators: 1: amount, for example $30.00, 2: card, for example Visa ending in 4242
+#: includes/Admin/Page.php:747
+#, php-format
+msgid "You will be charged %1$s today on the card you paid with (%2$s)."
+msgstr "Täna võetakse kaardilt, millega maksid, maha %1$s (%2$s)."
+
+#. translators: %s: amount, for example $30.00
+#: includes/Admin/Page.php:750
+#, php-format
+msgid "You will be charged %s today on the card you paid with."
+msgstr "Täna võetakse kaardilt, millega maksid, maha %s."
+
+#. translators: %s: date
+#: includes/Admin/Page.php:755
+#, php-format
+msgid "Your next renewal stays on %s."
+msgstr "Järgmine uuenemine jääb kuupäevale %s."
+
+#: includes/Admin/Page.php:758
+msgid "Nothing is charged today."
+msgstr "Täna ei võeta midagi maha."
+
+#. translators: %s: date
+#: includes/Admin/Page.php:762
+#, php-format
+msgid "The price difference is credited at your next renewal on %s."
+msgstr "Hinnavahe arvestatakse maha järgmisel uuenemisel, %s."
+
+#: includes/Admin/Page.php:764
+msgid "The price difference is credited at your next renewal."
+msgstr "Hinnavahe arvestatakse maha järgmisel uuenemisel."
+
+#: includes/Admin/Page.php:767
+msgid "Shall we continue?"
+msgstr "Kas jätkata?"
+
+#. translators: %s: amount, for example $30.00
+#: includes/Admin/Page.php:770
+#, php-format
+msgid "Yes, charge %s"
+msgstr "Jah, võta maha %s"
+
+#: includes/Admin/Page.php:770
+msgid "Yes, switch plan"
+msgstr "Jah, vaheta pakett"
+
+#: includes/Admin/Page.php:774
+msgid "Want to pay with another card? Open Manage subscription, update your payment method, then switch plans again."
+msgstr "Soovid maksta teise kaardiga? Ava „Halda tellimust“, uuenda makseviisi ja vaheta seejärel pakett uuesti."
+
+#. translators: %s: last four digits of a card
+#: includes/Admin/Page.php:802
+#, php-format
+msgid "ending in %s"
+msgstr "lõpeb numbritega %s"
+
+#. translators: 1: card brand, for example Visa, 2: last four digits
+#: includes/Admin/Page.php:805
+#, php-format
+msgid "%1$s ending in %2$s"
+msgstr "%1$s, lõpeb numbritega %2$s"
+
+#: includes/Admin/Page.php:813
+msgid "Free"
+msgstr "Free"
+
+#: includes/Admin/Page.php:831
+msgid "Sharing is paused until you confirm your e-mail address."
+msgstr "Jagamine on peatatud, kuni kinnitad oma e-posti aadressi."
+
+#. translators: %d: days left
+#: includes/Admin/Page.php:833
+#, php-format
+msgid "Please confirm your e-mail address. Sharing pauses in %d day if you do not."
+msgid_plural "Please confirm your e-mail address. Sharing pauses in %d days if you do not."
+msgstr[0] "Kinnita oma e-posti aadress. Jagamine peatatakse %d päeva pärast, kui seda ei tee."
+msgstr[1] "Kinnita oma e-posti aadress. Jagamine peatatakse %d päeva pärast, kui seda ei tee."
+
+#: includes/Admin/Page.php:836
+msgid "Send the link again"
+msgstr "Saada link uuesti"
+
+#: includes/Admin/Page.php:869
+msgid "Bluesky handle"
+msgstr "Blueskyi kasutajanimi"
+
+#: includes/Admin/Page.php:870
+msgid "App password"
+msgstr "Rakenduseparool"
+
+#: includes/Admin/Page.php:871
+msgid "Use an app password, not your main Bluesky password. It can only be used by apps like this one and you can delete it in Bluesky at any time."
+msgstr "Kasuta rakenduseparooli, mitte oma Blueskyi põhiparooli. Seda saavad kasutada ainult sellised rakendused ja sa võid selle Blueskys igal ajal kustutada."
+
+#: includes/Admin/Page.php:872
+msgid "How do I get an app password?"
+msgstr "Kuidas rakenduseparooli saada?"
+
+#. translators: %s: link to the Bluesky app password page
+#: includes/Admin/Page.php:873
+#, php-format
+msgid "Open %s (or Settings > Privacy and security > App passwords in Bluesky)."
+msgstr "Ava %s (või Blueskys: Seaded > Privaatsus ja turvalisus > Rakenduseparoolid)."
+
+#: includes/Admin/Page.php:874
+msgid "Click \"Add App Password\" and name it SmokyPost."
+msgstr "Klõpsa „Add App Password“ ja pane sellele nimeks SmokyPost."
+
+#: includes/Admin/Page.php:875
+msgid "Copy the password Bluesky shows and paste it here."
+msgstr "Kopeeri Blueskyi näidatud parool ja kleebi see siia."
+
+#: includes/Admin/Page.php:881
+msgid "Your Mastodon server"
+msgstr "Sinu Mastodoni server"
+
+#: includes/Admin/Page.php:882
+msgid "The address of the server your account is on, for example mastodon.social, or your full name like @name@mastodon.social. You will approve SmokyPost on that server."
+msgstr "Selle serveri aadress, kus sinu konto asub, näiteks mastodon.social, või sinu täisnimi kujul @nimi@mastodon.social. Kinnitad SmokyPosti selles serveris."
+
+#: includes/Admin/Page.php:921
+msgid "Signed in. Now choose the account this site shares to."
+msgstr "Sisse logitud. Nüüd vali konto, kuhu see sait jagab."
+
+#: includes/Admin/Page.php:923
+msgid "The sign-in was cancelled."
+msgstr "Sisselogimine tühistati."
+
+#: includes/Admin/Page.php:924
+msgid "The sign-in did not work. Please try again."
+msgstr "Sisselogimine ebaõnnestus. Proovi uuesti."
+
+#: includes/Admin/Page.php:940
+msgid "Good to know:"
+msgstr "Hea teada:"
+
+#: includes/Admin/Page.php:940
+msgid "SmokyPost shares new posts automatically when they are published, including posts created by other plugins, importers or the REST API. You can turn automatic sharing on or off for each platform on its card below or under Settings."
+msgstr "SmokyPost jagab uusi postitusi automaatselt avaldamisel, sealhulgas teiste pistikprogrammide, importijate või REST API loodud postitusi. Automaatset jagamist saad iga platvormi jaoks sisse või välja lülitada selle kaardil allpool või jaotises Seaded."
+
+#: includes/Admin/Page.php:942
+msgid "Got it"
+msgstr "Sain aru"
+
+#: includes/Admin/Page.php:942
+msgid "Open settings"
+msgstr "Ava seaded"
+
+#: includes/Admin/Page.php:954
+msgid "SmokyPost is almost ready."
+msgstr "SmokyPost on peaaegu valmis."
+
+#: includes/Admin/Page.php:954
+msgid "Connect this site"
+msgstr "Ühenda see sait"
+
+#: includes/Admin/Page.php:967
+msgid "You are not allowed to do this."
+msgstr "Sul pole selleks luba."
+
+#: includes/Admin/Page.php:1013 includes/Admin/Page.php:1081
+msgid "Please enter a valid e-mail address."
+msgstr "Sisesta kehtiv e-posti aadress."
+
+#: includes/Admin/Page.php:1015
+msgid "Please enter your password."
+msgstr "Sisesta parool."
+
+#: includes/Admin/Page.php:1017
+msgid "Please use a password with at least 8 characters."
+msgstr "Kasuta vähemalt 8-märgilist parooli."
+
+#: includes/Admin/Page.php:1019
+msgid "Please accept the Terms of Service and the Privacy Policy."
+msgstr "Nõustu kasutustingimuste ja privaatsuspoliitikaga."
+
+#: includes/Admin/Page.php:1042
+msgid "Your account is ready and this site is connected. We sent you an e-mail to confirm your address."
+msgstr "Sinu konto on valmis ja see sait on ühendatud. Saatsime sulle e-kirja aadressi kinnitamiseks."
+
+#: includes/Admin/Page.php:1058
+msgid "Signed in. This site is connected."
+msgstr "Sisse logitud. See sait on ühendatud."
+
+#: includes/Admin/Page.php:1064
+msgid "Please enter your license key."
+msgstr "Sisesta litsentsivõti."
+
+#: includes/Admin/Page.php:1075
+msgid "License activated. This site is connected."
+msgstr "Litsents on aktiveeritud. See sait on ühendatud."
+
+#: includes/Admin/Page.php:1084
+msgid "If an account exists for this address, we sent a link to reset the password."
+msgstr "Kui sellel aadressil on konto, saatsime parooli lähtestamise lingi."
+
+#: includes/Admin/Page.php:1092
+msgid "This site is disconnected from SmokyPost."
+msgstr "See sait on SmokyPostist lahti ühendatud."
+
+#: includes/Admin/Page.php:1117
+msgid "Please choose valid dates."
+msgstr "Vali kehtivad kuupäevad."
+
+#: includes/Admin/Page.php:1121
+msgid "The first date must be before the last date."
+msgstr "Esimene kuupäev peab olema enne viimast."
+
+#. translators: %d: number of items
+#: includes/Admin/Page.php:1135
+#, php-format
+msgid "Cleared %d item from the history."
+msgid_plural "Cleared %d items from the history."
+msgstr[0] "Ajaloost tühjendati %d kirje."
+msgstr[1] "Ajaloost tühjendati %d kirjet."
+
+#: includes/Admin/Page.php:1135
+msgid "There was nothing to clear. Items that are still being sent stay in the list."
+msgstr "Tühjendada polnud midagi. Kirjed, mida veel saadetakse, jäävad loendisse."
+
+#: includes/Admin/Page.php:1143
+msgid "We sent the confirmation link again."
+msgstr "Saatsime kinnituslingi uuesti."
+
+#: includes/Admin/Page.php:1193
+msgid "Connected. Now choose the account this site shares to."
+msgstr "Ühendatud. Nüüd vali konto, kuhu see sait jagab."
+
+#: includes/Admin/Page.php:1228
+msgid "That plan change has expired. Please choose the plan again."
+msgstr "See paketivahetus on aegunud. Vali pakett uuesti."
+
+#: includes/Admin/Page.php:1240
+msgid "Your plan is being changed. It can take a minute to show here."
+msgstr "Sinu paketti vahetatakse. Siin ilmumine võib võtta minuti."
+
+#: includes/Admin/Page.php:1257
+msgid "Your refund has been requested and your subscription is cancelled. Paddle returns the money to the card you paid with; it can take a few days to show."
+msgstr "Tagasimakset on taotletud ja tellimus tühistatud. Paddle maksab raha tagasi kaardile, millega maksid; see võib võtta paar päeva."
+
+#. translators: 1: page name, 2: platform name
+#: includes/Admin/Page.php:1279
+#, php-format
+msgid "%1$s is now connected to %2$s."
+msgstr "%1$s on nüüd ühendatud kontoga %2$s."
+
+#: includes/Admin/Page.php:1295 includes/Admin/Page.php:1305
+msgid "Settings saved."
+msgstr "Seaded salvestatud."
+
+#: includes/Admin/Page.php:1313
+msgid "SmokyPost test e-mail"
+msgstr "SmokyPosti testkiri"
+
+#: includes/Admin/Page.php:1314
+msgid "This is a test e-mail from SmokyPost. If you can read it, e-mails from SmokyPost reach you."
+msgstr "See on SmokyPosti testkiri. Kui saate seda lugeda, jõuavad SmokyPosti e-kirjad teieni."
+
+#. translators: %s: e-mail addresses
+#: includes/Admin/Page.php:1318
+#, php-format
+msgid "The test e-mail was sent to %s. Check your inbox and spam folder."
+msgstr "Testkiri saadeti aadressile %s. Kontrollige sissetulevaid kirju ja rämpsposti kausta."
+
+#. translators: %s: error from the mail server
+#: includes/Admin/Page.php:1325
+#, php-format
+msgid "The test e-mail could not be sent: %s Check the server, port and encryption."
+msgstr "Testkirja ei õnnestunud saata: %s Kontrollige serverit, porti ja krüpteerimist."
+
+#: includes/Admin/Page.php:1326
+msgid "The test e-mail could not be sent. Check the server, port and encryption."
+msgstr "Testkirja ei õnnestunud saata. Kontrollige serverit, porti ja krüpteerimist."
+
+#. translators: %s: platform name
+#: includes/Admin/Page.php:1341
+#, php-format
+msgid "Automatic sharing to %s is on."
+msgstr "Automaatne jagamine platvormile %s on sees."
+
+#. translators: %s: platform name
+#: includes/Admin/Page.php:1343
+#, php-format
+msgid "Automatic sharing to %s is off."
+msgstr "Automaatne jagamine platvormile %s on väljas."
+
+#: includes/Admin/PostList.php:59 includes/Status.php:60
+msgid "Not shared"
+msgstr "Jagamata"
+
+#: includes/Admin/PostList.php:100 includes/Admin/PostList.php:113
+msgid "Share with SmokyPost"
+msgstr "Jaga SmokyPostiga"
+
+#. translators: %d: number of items
+#: includes/Admin/PostList.php:154
+#, php-format
+msgid "%d item queued for sharing."
+msgid_plural "%d items queued for sharing."
+msgstr[0] "%d sisuühik pandi jagamise järjekorda."
+msgstr[1] "%d sisuühikut pandi jagamise järjekorda."
+
+#. translators: %d: number of items
+#: includes/Admin/PostList.php:157
+#, php-format
+msgid "%d item could not be shared; see the SmokyPost column."
+msgid_plural "%d items could not be shared; see the SmokyPost column."
+msgstr[0] "%d sisuühikut ei õnnestunud jagada; vaata SmokyPosti veergu."
+msgstr[1] "%d sisuühikut ei õnnestunud jagada; vaata SmokyPosti veergu."
+
+#: includes/Api.php:85
+msgid "This site is not connected to SmokyPost yet."
+msgstr "See sait pole veel SmokyPostiga ühendatud."
+
+#: includes/Editor.php:117 includes/Editor.php:124
+msgid "Image to share"
+msgstr "Jagatav pilt"
+
+#: includes/Editor.php:118
+msgid "Chosen for sharing"
+msgstr "Valitud jagamiseks"
+
+#: includes/Editor.php:119
+msgid "Choose another image"
+msgstr "Vali teine pilt"
+
+#: includes/Editor.php:120
+msgid "Choose an image"
+msgstr "Vali pilt"
+
+#: includes/Editor.php:121
+msgid "Use the automatic choice"
+msgstr "Kasuta automaatset valikut"
+
+#: includes/Editor.php:122
+msgid "Images in this item:"
+msgstr "Selle sisu pildid:"
+
+#: includes/Editor.php:123
+msgid "Use this image"
+msgstr "Kasuta seda pilti"
+
+#: includes/Editor.php:125
+msgid "Updating this item does not share it again. Click \"Share now\" to share it."
+msgstr "Sisu uuendamine ei jaga seda uuesti. Jagamiseks klõpsa „Jaga kohe“."
+
+#: includes/Editor.php:126
+msgid "Featured image"
+msgstr "Postituse esiletõstetud pilt"
+
+#: includes/Editor.php:127
+msgid "First image in the content (this item has no featured image)"
+msgstr "Esimene pilt sisus (sellel sisul pole esiletõstetud pilti)"
+
+#: includes/Editor.php:128
+msgid "Default image from the SmokyPost settings (this item has no image)"
+msgstr "SmokyPosti seadete vaikepilt (sellel sisul pole pilti)"
+
+#: includes/Editor.php:130
+msgid "Instagram needs an image, and this item has none. Add a featured image or an image in the content, otherwise it is not shared to Instagram."
+msgstr "Instagram nõuab pilti ja sellel sisul seda pole. Lisa esiletõstetud pilt või pilt sisusse, vastasel juhul seda Instagramis ei jagata."
+
+#: includes/Editor.php:135
+msgid "Share at (optional)"
+msgstr "Jaga ajal (valikuline)"
+
+#. translators: 1: example date and time, 2: time zone name
+#: includes/Editor.php:137
+#, php-format
+msgid "Format: %1$s, in your site time (%2$s). Leave empty to share right away."
+msgstr "Vorming: %1$s, sinu saidi aja järgi (%2$s). Jäta tühjaks, et jagada kohe."
+
+#: includes/Editor.php:138
+msgid "This is not a valid date and time. Use the format YYYY-MM-DD HH:MM, for example 2026-12-31 18:30."
+msgstr "See ei näi kuupäeva ja kellaajana. Kasuta vormingut AAAA-KK-PP HH:MM, näiteks 2026-12-31 18:30."
+
+#: includes/Editor.php:139
+msgid "Schedule"
+msgstr "Ajasta"
+
+#: includes/Editor.php:140
+msgid "Cancel the scheduled share"
+msgstr "Tühista ajastatud jagamine"
+
+#: includes/Editor.php:147 includes/Editor.php:478
+msgid "Delete shared posts"
+msgstr "Kustuta jagatud postitused"
+
+#: includes/Editor.php:148 includes/Editor.php:480
+msgid "Yes, delete"
+msgstr "Jah, kustuta"
+
+#: includes/Editor.php:266
+msgid "Save the item to apply the change."
+msgstr "Muudatuse rakendamiseks salvesta sisu."
+
+#: includes/Editor.php:352 includes/Editor.php:415 includes/Editor.php:530
+msgid "You are not allowed to share this item."
+msgstr "Sul pole luba seda sisu jagada."
+
+#: includes/Editor.php:378
+msgid "Nothing to share: choose at least one connected platform."
+msgstr "Pole midagi jagada: vali vähemalt üks ühendatud platvorm."
+
+#: includes/Editor.php:383
+msgid "Sending… You can leave this page, sharing continues in the background."
+msgstr "Saadan … Võid selle lehe sulgeda, jagamine jätkub taustal."
+
+#. translators: %s: date and time
+#: includes/Editor.php:388
+#, php-format
+msgid "Scheduled for %s. You can leave this page."
+msgstr "Ajastatud ajaks %s. Võid selle lehe sulgeda."
+
+#: includes/Editor.php:419
+msgid "Nothing is scheduled for this item."
+msgstr "Selle sisu jaoks pole midagi ajastatud."
+
+#: includes/Editor.php:437
+msgid "The scheduled share is cancelled."
+msgstr "Ajastatud jagamine tühistati."
+
+#: includes/Editor.php:437
+msgid "Nothing to cancel: it was already sent."
+msgstr "Pole midagi tühistada: see on juba saadetud."
+
+#. translators: %s: platform names, for example "Facebook, Bluesky"
+#: includes/Editor.php:456
+#, php-format
+msgid "Delete the shared posts from %s? The item itself stays on your site."
+msgstr "Kas kustutada jagatud postitused platvormilt %s? Sisu ise jääb sinu saidile."
+
+#. translators: %s: platform names, for example "Instagram"
+#: includes/Editor.php:459 includes/Editor.php:511
+#, php-format
+msgid "Posts on %s cannot be deleted from here. Delete them in the app yourself."
+msgstr "Platvormi %s postitusi ei saa siit kustutada. Kustuta need ise rakenduses."
+
+#: includes/Editor.php:493
+msgid "You are not allowed to change this item."
+msgstr "Sul pole luba seda sisu muuta."
+
+#: includes/Editor.php:499
+msgid "There is nothing to delete for this item."
+msgstr "Selle sisu jaoks pole midagi kustutada."
+
+#: includes/Editor.php:508
+msgid "Deleting… You can leave this page, it continues in the background."
+msgstr "Kustutan … Võid selle lehe sulgeda, kustutamine jätkub taustal."
+
+#: includes/Editor.php:550
+msgid "Finished, but something failed. See below."
+msgstr "Valmis, kuid midagi ebaõnnestus. Vaata allpool."
+
+#: includes/Editor.php:550
+msgid "Done."
+msgstr "Valmis."
+
+#. translators: %s: platform name
+#: includes/Notifier.php:87
+#, php-format
+msgid "Connect %s again"
+msgstr "Ühendage %s uuesti"
+
+#. translators: 1: platform name, 2: link
+#: includes/Notifier.php:89
+#, php-format
+msgid "The connection to %1$s has expired, so new items cannot be shared there. Connect it again: %2$s"
+msgstr "Ühendus teenusega %1$s on aegunud, seega ei saa uut sisu seal jagada. Ühendage uuesti: %2$s"
+
+#. translators: %s: item title
+#: includes/Notifier.php:102
+#, php-format
+msgid "Could not share: %s"
+msgstr "Jagamine ebaõnnestus: %s"
+
+#. translators: %s: item title
+#: includes/Notifier.php:104
+#, php-format
+msgid "\"%s\" could not be shared everywhere:"
+msgstr "„%s“ ei õnnestunud kõikjal jagada:"
+
+#. translators: %s: item title
+#: includes/Notifier.php:108
+#, php-format
+msgid "Shared: %s"
+msgstr "Jagatud: %s"
+
+#. translators: %s: item title
+#: includes/Notifier.php:110
+#, php-format
+msgid "\"%s\" was shared:"
+msgstr "„%s“ jagati:"
+
+#: includes/Notifier.php:124
+msgid "SmokyPost: daily limit reached"
+msgstr "SmokyPost: päevalimiit on täis"
+
+#: includes/Notifier.php:125
+msgid "The daily limit of your plan is reached. The remaining items are shared after midnight."
+msgstr "Teie paketi päevalimiit on täis. Ülejäänud sisu jagatakse pärast südaööd."
+
+#. translators: %s: link
+#: includes/Notifier.php:175
+#, php-format
+msgid "Open the item: %s"
+msgstr "Ava sisu: %s"
+
+#. translators: %s: link
+#: includes/Notifier.php:177
+#, php-format
+msgid "History: %s"
+msgstr "Ajalugu: %s"
+
+#. translators: 1: site name, 2: link
+#: includes/Notifier.php:224
+#, php-format
+msgid "You get this e-mail because SmokyPost notifications are on for %1$s. Change who gets them, or turn them off, here: %2$s"
+msgstr "Saate selle e-kirja, sest SmokyPosti teavitused on saidi %1$s jaoks sisse lülitatud. Siin saate muuta, kes neid saab, või need välja lülitada: %2$s"
+
+#: includes/Sharer.php:55
+msgid "Every 5 minutes (SmokyPost)"
+msgstr "Iga 5 minuti järel (SmokyPost)"
+
+#: includes/Sharer.php:494
+msgid "Not shared to Instagram: Instagram needs an image, and this item has none. Add a featured image or an image in the content."
+msgstr "Instagramis jagamata: Instagram nõuab pilti ja sellel sisul seda pole. Lisa esiletõstetud pilt või pilt sisusse."
+
+#: includes/Status.php:60
+msgid "Not shared: needs an image"
+msgstr "Jagamata: vaja on pilti"
+
+#: includes/Status.php:74
+msgid "Shared (delete it in the app yourself)"
+msgstr "Jagatud (kustuta ise rakenduses)"
+
+#: includes/Status.php:74
+msgid "Shared"
+msgstr "Jagatud"
+
+#. translators: %s: reason
+#: includes/Status.php:76
+#, php-format
+msgid "Failed: %s"
+msgstr "Viga: %s"
+
+#: includes/Status.php:76
+msgid "Failed"
+msgstr "Viga"
+
+#: includes/Status.php:78
+msgid "Cancelled"
+msgstr "Tühistatud"
+
+#: includes/Status.php:81
+msgid "Removing…"
+msgstr "Kustutan …"
+
+#: includes/Status.php:83
+msgid "Removed"
+msgstr "Kustutatud"
+
+#. translators: %s: reason
+#: includes/Status.php:85
+#, php-format
+msgid "Could not be removed: %s"
+msgstr "Kustutamine ebaõnnestus: %s"
+
+#: includes/Status.php:85
+msgid "Could not be removed"
+msgstr "Kustutamine ebaõnnestus"
+
+#: includes/Status.php:90
+msgid "Waiting: daily limit reached, shares after midnight"
+msgstr "Ootel: päevalimiit on täis, jagatakse pärast keskööd"
+
+#: includes/Status.php:93
+msgid "Waiting: please confirm your e-mail address"
+msgstr "Ootel: kinnita oma e-posti aadress"
+
+#. translators: %s: date and time
+#: includes/Status.php:98
+#, php-format
+msgid "Scheduled for %s"
+msgstr "Ajastatud ajaks %s"
+
+#: includes/Status.php:102
+msgid "Retrying soon"
+msgstr "Proovin peagi uuesti"
+
+#: includes/Status.php:102
+msgid "Queued"
+msgstr "Järjekorras"
+
+#: includes/Status.php:114 includes/Status.php:115 includes/Status.php:116
+msgid "The connection has expired. Connect again in SmokyPost."
+msgstr "Ühendus on aegunud. Ühenda uuesti SmokyPostis."
+
+#: includes/Status.php:117
+msgid "No page or account is selected for this platform."
+msgstr "Selle platvormi jaoks pole lehte ega kontot valitud."
+
+#: includes/Status.php:118
+msgid "This site is no longer connected to SmokyPost."
+msgstr "See sait pole enam SmokyPostiga ühendatud."
+
+#: includes/Status.php:119
+msgid "Your SmokyPost account or license is not active."
+msgstr "Sinu SmokyPosti konto või litsents ei ole aktiivne."
+
+#: includes/Status.php:120
+msgid "This platform is not included in your plan."
+msgstr "See platvorm ei kuulu sinu paketti."
+
+#: includes/Status.php:121
+msgid "The platform did not allow the post. Check that you are still an admin of the page and connect again."
+msgstr "Platvorm ei lubanud avaldamist. Veendu, et oled endiselt lehe administraator, ja ühenda uuesti."
+
+#: includes/Status.php:122
+msgid "The platform blocked this post."
+msgstr "Platvorm blokeeris selle postituse."
+
+#: includes/Status.php:123
+msgid "The platform rejected this post as a duplicate."
+msgstr "Platvorm lükkas selle postituse duplikaadina tagasi."
+
+#: includes/Status.php:124
+msgid "Instagram needs an image. Add a featured image."
+msgstr "Instagram nõuab pilti. Lisa postitusele esiletõstetud pilt."
+
+#: includes/Status.php:125
+msgid "The platform could not use the image. Try a JPEG or PNG image at least 600 pixels wide."
+msgstr "Platvorm ei saanud pilti kasutada. Proovi JPEG- või PNG-pilti, mis on vähemalt 600 pikslit lai."
+
+#: includes/Status.php:126
+msgid "The image could not be read. Use a JPEG, PNG or WebP image."
+msgstr "Pilti ei õnnestunud lugeda. Kasuta JPEG-, PNG- või WebP-pilti."
+
+#: includes/Status.php:127
+msgid "The image is too small. Use an image at least 600 pixels wide."
+msgstr "Pilt on liiga väike. Kasuta pilti, mis on vähemalt 600 pikslit lai."
+
+#: includes/Status.php:128
+msgid "SmokyPost could not download the image from your site."
+msgstr "SmokyPost ei saanud pilti sinu saidilt alla laadida."
+
+#: includes/Status.php:129
+msgid "The image could not be prepared."
+msgstr "Pilti ei õnnestunud ette valmistada."
+
+#: includes/Status.php:130
+msgid "The platform was not available. SmokyPost tried several times."
+msgstr "Platvorm ei olnud kättesaadav. SmokyPost proovis mitu korda."
+
+#: includes/Status.php:131
+msgid "The platform could not be reached. SmokyPost tried several times."
+msgstr "Platvormiga ei õnnestunud ühendust saada. SmokyPost proovis mitu korda."
+
+#: includes/Status.php:132
+msgid "Instagram did not accept the image in time."
+msgstr "Instagram ei võtnud pilti õigel ajal vastu."
+
+#: includes/Status.php:133
+msgid "The platform rejected the post."
+msgstr "Platvorm lükkas postituse tagasi."
+
+#: includes/Status.php:134
+msgid "The account that published this post is no longer connected. Delete the post on the platform yourself."
+msgstr "Konto, mis selle postituse avaldas, pole enam ühendatud. Kustuta postitus ise platvormil."
+
+#: includes/Status.php:135
+msgid "This post cannot be deleted automatically. Delete it on the platform yourself."
+msgstr "Seda postitust ei saa automaatselt kustutada. Kustuta see ise platvormil."
+
+#. Name of the plugin
+#: smokypost.php:3
+msgid "SmokyPost – Social Auto Share for Posts and Pages"
+msgstr "SmokyPost – Automaatne jagamine sotsiaalmeedias postituste ja lehtede jaoks"
+
+#. Description of the plugin
+#: smokypost.php:5
+msgid "Automatically share new and old posts and pages to your social media accounts. No developer accounts or API keys needed."
+msgstr "Jaga uusi ja vanu postitusi ning lehti automaatselt oma sotsiaalmeedia kontodel. Arendajakontosid ega API võtmeid pole vaja."

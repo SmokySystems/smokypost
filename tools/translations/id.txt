@@ -1,0 +1,330 @@
+3b6e56|Hubungkan halaman Anda untuk membagikan item ini.
+c27b34|Buka SmokyPost
+bc871d|Masih dikirim. Periksa tab Riwayat dalam beberapa menit.
+118c47|Tidak dapat terhubung ke SmokyPost. Coba lagi dalam beberapa menit.
+b090f4|Bagikan sekarang ke:
+d5c6d5|Bagikan saat dipublikasikan ke:
+b82400|Perlu dihubungkan ulang
+016408|Pesan khusus (opsional)
+06651c|Kosongkan untuk memakai templat Anda.
+1d6da0|Akan dibagikan ke platform yang dipilih saat dipublikasikan.
+5b18fc|Dibagikan otomatis saat dipublikasikan.
+04b478|Bagikan sekarang
+f4f707|Pengaturan
+4d01e8|Mengirim…
+834915|Menghapus…
+34b1ef|Diperlukan versi SmokyPost yang lebih baru. Perbarui plugin.
+ed49a3|Platform
+16d2b3|Riwayat
+08bd40|Akun
+3b6c2b|Ketentuan Layanan
+fa2ead|Kebijakan Privasi
+777353|Bagikan artikel dan halaman Anda secara otomatis ke media sosial. Buat akun gratis atau masuk untuk menghubungkan situs ini.
+e05afd|Saat terhubung, situs ini mengirim alamatnya, versi WordPress dan PHP, bahasa, dan zona waktu ke layanan SmokyPost (www.smokypost.com). Konten setiap item yang Anda bagikan dikirim pada saat dibagikan.
+8ea211|Buat akun gratis
+1e884e|Email
+6c2c15|Kata sandi (minimal 8 karakter)
+9ec73e|Saya menyetujui %1$s dan %2$s.
+5853d4|Buat akun dan hubungkan
+3b2aee|Saya sudah punya akun
+dc647e|Kata sandi
+ac6560|Masuk dan hubungkan
+422172|Gunakan kunci lisensi
+52f88a|Hubungkan dengan kunci lisensi
+01a569|Lupa kata sandi?
+733ae3|Kirim tautan atur ulang
+0efe04|Hubungkan setiap platform dan pilih halaman atau akun yang akan menjadi tujuan berbagi situs ini.
+43b540|Tidak termasuk dalam paket Anda.
+4e7193|Sementara tidak tersedia. Coba lagi nanti.
+b9ba1a|Koneksi telah kedaluwarsa. Hubungkan ulang untuk terus berbagi.
+cf0b67|Hubungkan ulang
+f4ec5f|Ubah
+1063e3|Hapus
+7dcd97|Tidak terhubung.
+49ab28|Hubungkan
+2bf7da|Pilih dari login Facebook Anda
+6330d1|Memposting teks dan tautan Anda ke salah satu Halaman Facebook Anda. Anda masuk dengan Facebook.
+e33490|Memerlukan akun profesional Instagram yang terhubung ke Halaman Facebook. Anda masuk dengan Facebook.
+1abbcd|Memposting teks dan tautan Anda ke salah satu halaman perusahaan LinkedIn Anda. Anda masuk dengan LinkedIn.
+328737|Memposting teks, tagar, dan kartu tautan dengan gambar ke akun Bluesky Anda. Anda terhubung dengan nama pengguna dan kata sandi aplikasi.
+9d078b|Memposting teks, tagar, dan tautan ke akun Mastodon Anda di server Mastodon mana pun. Anda mengizinkan SmokyPost di server Anda sendiri.
+b2d2d7|Memposting teks dan kartu tautan ke profil Threads Anda. Anda masuk dengan Threads.
+5f2e71|Memposting teks, tag, dan kartu tautan dengan gambar ke salah satu blog Tumblr Anda. Anda masuk dengan Tumblr.
+b4f827|Berbagi otomatis:
+521c36|Aktif
+d15305|Nonaktif
+8e61d9|Matikan
+d154a5|Nyalakan
+647bd1|Item baru dibagikan ke sini saat dipublikasikan.
+7f9833|Hanya dibagikan saat Anda mengeklik "Bagikan sekarang".
+bb7926|Anda sudah masuk, tetapi akun Anda tidak dapat ditampilkan: %s
+f915a9|Coba lagi
+ea4788|Batal
+0bfd8d|Hubungkan akun Anda terlebih dahulu.
+f85f84|Masuk terlebih dahulu untuk melihat halaman Anda.
+f595ba|Tidak ditemukan halaman atau akun yang dapat Anda gunakan untuk memposting dengan login ini.
+19c3d3|Pastikan akun Instagram Anda adalah akun profesional dan terhubung ke salah satu Halaman Facebook Anda.
+5e5f56|(melalui %s)
+f64a44|Gunakan akun ini
+6c803a|Tidak melihat halaman yang Anda cari?
+09a44d|Masuk dengan akun lain
+04d144|Jenis konten
+725f6c|Hanya jenis ini yang dibagikan otomatis, dan hanya jenis ini yang menampilkan kotak SmokyPost di editor.
+6b0402|Berbagi otomatis
+280dc2|Bagikan item baru secara otomatis saat dipublikasikan ke:
+b3b6ce|Tidak terhubung
+daf9e6|Hapus centang platform untuk berhenti berbagi otomatis ke sana. Hapus centang semuanya untuk menonaktifkan berbagi otomatis. Anda selalu dapat membagikan item sendiri dengan tombol "Bagikan sekarang" di editor atau daftar tulisan, dan Anda juga dapat menghapus centang platform untuk satu item di editor.
+be518a|Item yang dibuat otomatis
+766287|Bagikan juga item yang dipublikasikan oleh plugin lain, alat impor, REST API, atau WP-CLI
+f5c261|Aktif secara default. Item yang dibuat oleh kode (misalnya blog otomatis atau alat impor feed) dibagikan ke platform di atas. Matikan jika Anda hanya ingin membagikan yang dipublikasikan di editor.
+1aaf15|Lewati item impor yang lebih lama dari
+73cddd|jam
+29327b|Penghapusan item
+295b79|Hapus postingan yang dibagikan saat item dihapus
+0d9342|Nonaktif secara default. Saat Anda memindahkan item ke tempat sampah atau menghapusnya, SmokyPost juga menghapus postingannya di Facebook, LinkedIn, Bluesky, Mastodon, Threads, dan Tumblr. Instagram tidak mengizinkan aplikasi lain menghapus postingan, jadi Anda harus menghapusnya sendiri di aplikasi Instagram. Memulihkan item dari tempat sampah tidak memulihkan postingan di media sosial.
+cb393c|Templat pesan
+6c08da|Placeholder:
+ffe7a1|Setiap platform menambahkan tautan sebagai kartu pratinjau; di Instagram tautan ditambahkan di akhir teks.
+caebe1|Ubah tag tulisan menjadi tagar untuk {hashtags}
+f784d5|Gambar default
+b89f80|Digunakan saat item tidak memiliki gambar unggulan maupun gambar di konten. Instagram selalu memerlukan gambar.
+ef1486|Berbagi dalam %d hari terakhir.
+447497|Tanggal
+7d74f3|Item
+8eea62|Hasil
+902952|Belum ada yang dibagikan.
+5da05b|Hapus riwayat
+5ca182|Hapus riwayat untuk tanggal tertentu atau seluruhnya? Yang sudah dibagikan tetap ada di media sosial Anda. Entri yang dihapus tidak akan muncul lagi di daftar ini.
+5da618|Dari
+e12167|Sampai
+95b928|Kosongkan tanggal untuk mulai dari entri pertama atau berakhir hari ini.
+17cddf|Hapus tanggal ini
+808768|Hapus seluruh riwayat
+03727a|Hari
+7cbb88|Bulan
+537c66|Tahun
+0b6cbd|Paket
+a77d15|Kunci lisensi
+6db829|Dibagikan hari ini
+b362bb|%1$d dari %2$d item
+494eb5|Situs ini
+efb548|Putuskan situs ini
+4fdc17|Putuskan situs ini dari SmokyPost? Berbagi akan berhenti sampai Anda masuk lagi.
+e54633|Ya, putuskan
+e2e646|Cara kerja Pro
+377a68|Bayar dengan aman melalui Paddle.
+fbc905|Unduh SmokyPost Pro dengan tombol di bawah.
+7f189b|Kembali ke halaman ini. Tombol "Unduh SmokyPost Pro" akan muncul, dan kami juga mengirim tautan yang sama lewat email.
+53f719|Instal melalui Plugin > Tambah Baru > Unggah Plugin, lalu aktifkan. Lisensi Anda terdeteksi otomatis, jadi Anda tidak perlu memasukkan kunci.
+eb475d|SmokyPost Pro adalah plugin kedua yang bekerja bersama SmokyPost: biarkan keduanya aktif. Prosesnya sekitar satu menit. Pengembalian dana penuh dalam 14 hari sejak pembayaran pertama.
+9fa65e|Pembayaran Anda butuh waktu lebih lama dari biasanya untuk muncul di sini. Muat ulang halaman dalam beberapa menit. Jika paket Anda masih Free setelah satu jam, tulis ke info@smokypost.com.
+bec297|Pembayaran diterima. Paket Anda akan segera aktif, dan halaman ini memeriksanya sendiri.
+2c80f9|SmokyPost Pro
+b81f3c|SmokyPost Pro %s telah diinstal dan diaktifkan.
+d25d87|Pengaturannya ada di SmokyPost > Pro, dan kalender di SmokyPost > Kalender. Plugin ini diperbarui otomatis.
+85e962|SmokyPost Pro terinstal tetapi belum diaktifkan. Aktifkan di halaman Plugin.
+a3bd33|Buka Plugin
+386940|Unduh SmokyPost Pro
+500b65|Tautan berlaku selama satu jam. Anda dapat kembali ke sini kapan saja untuk mendapatkan yang baru.
+e9f36d|Terjadi kesalahan. Coba lagi.
+6956cc|Paket
+3faa64|Situs
+a97de4|Item per hari
+360114|Harga
+124864|%s per tahun
+441f54|Paket saat ini
+690969|Beralih ke paket ini
+f68358|Tingkatkan
+5d6316|Pembayaran diproses dengan aman oleh Paddle. Harga dalam dolar AS, dan pajak ditambahkan saat checkout jika berlaku.
+be0482|Perubahan paket berlaku segera. Anda akan melihat dan menyetujui jumlah pastinya sebelum ada yang ditagihkan.
+97788c|Kelola langganan
+1a7066|Batalkan dan minta pengembalian dana
+b2c3ec|Pengembalian dana tersedia dalam 14 hari sejak pembayaran pertama. Anda dapat menghentikan perpanjangan kapan saja di "Kelola langganan".
+b1c55c|Pertanyaan tentang penagihan? Tulis ke info@smokypost.com.
+a0d458|Anda dapat membatalkan dan mendapat pengembalian dana penuh hingga %s.
+361f28|Batalkan dan minta pengembalian dana
+9b3448|Batalkan langganan dan minta pengembalian dana penuh? Seluruh pembayaran Anda dikembalikan ke kartu yang digunakan. Tidak ada potongan untuk hari yang telah dipakai. Paket Anda berakhir segera dan situs ini kembali ke Free.
+1e81d7|Ya, batalkan dan kembalikan dana
+ee6085|Starter
+abd900|Pro
+75ec3e|Agency
+0222db|Beralih ke %s
+71d986|Hari ini %1$s (%2$s) akan ditagihkan ke kartu yang Anda gunakan untuk membayar.
+a503a7|Hari ini %s akan ditagihkan ke kartu yang Anda gunakan untuk membayar.
+237ece|Perpanjangan berikutnya tetap pada %s.
+cb540f|Tidak ada yang ditagihkan hari ini.
+1d46af|Selisih harga akan diperhitungkan pada perpanjangan berikutnya, %s.
+937bcf|Selisih harga akan diperhitungkan pada perpanjangan berikutnya.
+bd4a14|Lanjutkan?
+cd1df7|Ya, tagih %s
+6abb41|Ya, ubah paket
+17129e|Ingin membayar dengan kartu lain? Buka "Kelola langganan", perbarui metode pembayaran, lalu ubah paket lagi.
+d4192d|berakhiran %s
+d4fbfe|%1$s, berakhiran %2$s
+b24ce0|Free
+9086fc|Berbagi dijeda sampai Anda mengonfirmasi alamat email Anda.
+dbf504|Konfirmasi alamat email Anda. Jika tidak, berbagi akan dijeda dalam %d hari.
+933999|Kirim ulang tautan
+feb3a3|Nama pengguna Bluesky
+65255b|Kata sandi aplikasi
+63d12d|Gunakan kata sandi aplikasi, bukan kata sandi utama Bluesky. Kata sandi ini hanya dapat dipakai oleh aplikasi seperti ini dan dapat Anda hapus kapan saja di Bluesky.
+4adaf4|Bagaimana cara mendapatkan kata sandi aplikasi?
+5c312e|Buka %s (atau di Bluesky: Pengaturan > Privasi dan Keamanan > Kata Sandi Aplikasi).
+9a01be|Klik "Add App Password" dan beri nama SmokyPost.
+61e507|Salin kata sandi yang ditampilkan Bluesky dan tempel di sini.
+bd4bac|Server Mastodon Anda
+9279eb|Alamat server tempat akun Anda berada, misalnya mastodon.social, atau nama lengkap Anda dalam format @nama@mastodon.social. Anda akan mengizinkan SmokyPost di server tersebut.
+f8b4c2|Anda sudah masuk. Sekarang pilih akun yang akan menjadi tujuan berbagi situs ini.
+5bb110|Login dibatalkan.
+262cb9|Login gagal. Coba lagi.
+bcbbc8|Perlu diketahui:
+914602|SmokyPost membagikan tulisan baru secara otomatis saat dipublikasikan, termasuk yang dibuat oleh plugin lain, alat impor, atau REST API. Anda dapat menyalakan atau mematikan berbagi otomatis per platform di kartu masing-masing di bawah atau di Pengaturan.
+78e981|Mengerti
+bae082|Buka Pengaturan
+8beb61|SmokyPost hampir siap.
+4f4267|Hubungkan situs ini
+2835b7|Anda tidak diizinkan melakukan tindakan ini.
+811723|Masukkan alamat email yang valid.
+4b52c9|Masukkan kata sandi Anda.
+cacd72|Gunakan kata sandi minimal 8 karakter.
+270228|Setujui Ketentuan Layanan dan Kebijakan Privasi.
+c570e4|Akun Anda sudah siap dan situs ini terhubung. Kami mengirim email agar Anda dapat mengonfirmasi alamat Anda.
+e4912d|Anda sudah masuk. Situs ini terhubung.
+a41cc2|Masukkan kunci lisensi Anda.
+1448bb|Lisensi diaktifkan. Situs ini terhubung.
+025e69|Jika ada akun dengan alamat itu, kami telah mengirim tautan untuk mengatur ulang kata sandi.
+19d2aa|Situs ini telah diputuskan dari SmokyPost.
+ee3077|Pilih tanggal yang valid.
+12381e|Tanggal mulai harus sebelum tanggal akhir.
+fd4f8f|%d entri dihapus dari riwayat.
+26d353|Tidak ada yang dihapus. Entri yang masih dikirim tetap ada di daftar.
+b9a702|Kami mengirim ulang tautan konfirmasi.
+12bb90|Terhubung. Sekarang pilih akun yang akan menjadi tujuan berbagi situs ini.
+c4effa|Perubahan paket ini telah kedaluwarsa. Pilih paket lagi.
+5e77be|Paket Anda sedang diubah. Mungkin perlu satu menit hingga muncul di sini.
+d8d639|Pengembalian dana diminta dan langganan dibatalkan. Paddle mengembalikan uang ke kartu yang Anda gunakan; ini bisa memakan waktu beberapa hari.
+82bf3a|%1$s sekarang terhubung ke %2$s.
+9a7e58|Pengaturan disimpan.
+5677c1|Berbagi otomatis ke %s dinyalakan.
+fa4524|Berbagi otomatis ke %s dimatikan.
+0a2f60|Tidak dibagikan
+498cc4|Bagikan dengan SmokyPost
+90929c|%d item ditambahkan ke antrean berbagi.
+81b7e8|%d item gagal dibagikan; periksa kolom SmokyPost.
+f75f84|Situs ini belum terhubung ke SmokyPost.
+10112f|Gambar untuk dibagikan
+e57b53|Dipilih untuk dibagikan
+85eb5a|Pilih gambar lain
+7cd243|Pilih gambar
+f6b9f8|Gunakan pilihan otomatis
+4c8d06|Gambar di item ini:
+4f63a3|Gunakan gambar ini
+e6fce5|Memperbarui item tidak membagikannya lagi. Klik "Bagikan sekarang" untuk membagikannya.
+52beb6|Gambar unggulan tulisan
+860133|Gambar pertama di konten (item ini tidak memiliki gambar unggulan)
+662aa1|Gambar default dari pengaturan SmokyPost (item ini tidak memiliki gambar)
+c28cf8|Instagram memerlukan gambar dan item ini tidak memilikinya. Tambahkan gambar unggulan atau gambar di konten, atau item ini tidak akan dibagikan ke Instagram.
+1b1025|Bagikan pada (opsional)
+d9c5f4|Format: %1$s, dalam waktu situs Anda (%2$s). Kosongkan untuk berbagi segera.
+03f222|Ini tidak terlihat seperti tanggal dan waktu. Gunakan format YYYY-MM-DD HH:MM, misalnya 2026-12-31 18:30.
+25f734|Jadwalkan
+fe3b13|Batalkan jadwal berbagi
+87b913|Hapus postingan yang dibagikan
+b21c60|Ya, hapus
+165825|Simpan item untuk menerapkan perubahan.
+9fb721|Anda tidak diizinkan membagikan item ini.
+d0bfeb|Tidak ada yang dibagikan: pilih setidaknya satu platform yang terhubung.
+9b3811|Mengirim… Anda boleh meninggalkan halaman ini, berbagi berlanjut di latar belakang.
+6a5c54|Dijadwalkan pada %s. Anda boleh meninggalkan halaman ini.
+97c806|Tidak ada jadwal berbagi untuk item ini.
+4e96d7|Jadwal berbagi dibatalkan.
+2b0bb4|Tidak ada yang dibatalkan: sudah dikirim.
+e4c50f|Hapus postingan yang dibagikan dari %s? Itemnya sendiri tetap ada di situs Anda.
+fe2165|Postingan di %s tidak dapat dihapus dari sini. Hapus sendiri di aplikasinya.
+0f2121|Anda tidak diizinkan mengubah item ini.
+605da5|Tidak ada yang dapat dihapus untuk item ini.
+46dc65|Menghapus… Anda boleh meninggalkan halaman ini, penghapusan berlanjut di latar belakang.
+a3787e|Selesai, tetapi ada yang gagal. Lihat di bawah.
+f59405|Selesai.
+50321d|Setiap 5 menit (SmokyPost)
+67cfe6|Tidak dibagikan ke Instagram: Instagram memerlukan gambar dan item ini tidak memilikinya. Tambahkan gambar unggulan atau gambar di konten.
+398d9f|Tidak dibagikan: perlu gambar
+e44fa2|Dibagikan (hapus sendiri di aplikasi)
+a6156e|Dibagikan
+d98139|Kesalahan: %s
+d7c8c8|Kesalahan
+a149e8|Dibatalkan
+e3f04d|Menghapus…
+93f07b|Dihapus
+1c5338|Penghapusan gagal: %s
+d581ce|Penghapusan gagal
+6c7650|Menunggu: batas harian tercapai, akan dibagikan setelah tengah malam
+ccef9c|Menunggu: konfirmasi alamat email Anda
+a97547|Dijadwalkan pada %s
+923d48|Akan dicoba lagi sebentar lagi
+7b2f31|Dalam antrean
+bc1f89|Koneksi telah kedaluwarsa. Hubungkan ulang di SmokyPost.
+a608e9|Tidak ada halaman atau akun yang dipilih untuk platform ini.
+347591|Situs ini tidak lagi terhubung ke SmokyPost.
+ecd22a|Akun atau lisensi SmokyPost Anda tidak aktif.
+4b472d|Platform ini tidak termasuk dalam paket Anda.
+852d39|Platform tidak mengizinkan posting. Pastikan Anda masih admin halaman tersebut dan hubungkan ulang.
+5e0173|Platform memblokir postingan ini.
+c939dc|Platform menolak postingan ini sebagai duplikat.
+b96b3f|Instagram memerlukan gambar. Tambahkan gambar unggulan ke tulisan.
+191240|Platform tidak dapat menggunakan gambar. Coba gambar JPEG atau PNG dengan lebar minimal 600 piksel.
+28b253|Gambar tidak dapat dibaca. Gunakan JPEG, PNG, atau WebP.
+08c673|Gambar terlalu kecil. Gunakan gambar dengan lebar minimal 600 piksel.
+e99a00|SmokyPost tidak dapat mengunduh gambar dari situs Anda.
+7f8957|Gambar tidak dapat disiapkan.
+7fa12c|Platform tidak tersedia. SmokyPost sudah mencoba beberapa kali.
+bd9611|Tidak dapat terhubung ke platform. SmokyPost sudah mencoba beberapa kali.
+582ab1|Instagram tidak menerima gambar tepat waktu.
+c19c4c|Platform menolak postingan.
+8a0741|Akun yang memposting ini tidak lagi terhubung. Hapus postingan sendiri di platform.
+ad0394|Postingan ini tidak dapat dihapus otomatis. Hapus sendiri di platform.
+eb851e|SmokyPost – Berbagi Otomatis ke Media Sosial untuk Pos dan Halaman
+6b6724|Bagikan pos dan halaman baru maupun lama secara otomatis ke akun media sosial Anda. Tidak perlu akun pengembang atau kunci API.
+a274f4|Notifikasi
+777ca2|Kirimi saya e-mail saat
+28c682|pembagian gagal
+ecb9b9|konten berhasil dibagikan
+8daff7|Anda menerima satu e-mail per konten. Pembagian yang gagal dilaporkan setelah SmokyPost mencoba beberapa kali, dan masalah yang sama di platform yang sama dilaporkan sekali sehari. E-mail bahwa koneksi telah kedaluwarsa selalu dikirim.
+ec7339|Kirim e-mail ke
+939f28|Pisahkan beberapa alamat dengan koma. Biarkan kosong untuk memakai alamat administrator situs ini (%s).
+c2239a|SMTP
+00c7c2|Kirim e-mail SmokyPost melalui akun SMTP
+5efbcc|Gunakan ini jika e-mail dari situs Anda tidak sampai. Hanya e-mail SmokyPost yang memakai akun ini, e-mail lain dari situs Anda tidak berubah. Anda tidak memerlukan plugin SMTP terpisah untuk SmokyPost.
+bdd48f|Server SMTP
+60aaf4|Port
+d7f261|Enkripsi
+413acc|TLS (biasanya port 587)
+68b181|SSL (biasanya port 465)
+151adf|Tanpa enkripsi
+f6039d|Nama pengguna
+c6e6fb|Kata sandi diatur di wp-config.php.
+0b5899|Sebuah kata sandi tersimpan. Biarkan kosong untuk mempertahankannya.
+d7381f|Hapus kata sandi yang tersimpan
+7b710d|Kata sandi disimpan terenkripsi dan tidak pernah ditampilkan lagi. Untuk Gmail dan Outlook, gunakan kata sandi aplikasi.
+491147|E-mail pengirim
+7508f2|Sebagian besar penyedia hanya menerima alamat yang termasuk dalam akun.
+c3a7ea|Nama pengirim
+f5d604|Simpan perubahan
+f970b9|Kirim e-mail uji
+81f545|E-mail uji menyimpan nilai di atas terlebih dahulu, lalu memakainya.
+1f2def|E-mail uji SmokyPost
+2738c4|Ini adalah e-mail uji dari SmokyPost. Jika Anda bisa membacanya, e-mail dari SmokyPost sampai kepada Anda.
+170c1a|E-mail uji dikirim ke %s. Periksa kotak masuk dan folder spam Anda.
+15a320|E-mail uji tidak dapat dikirim: %s Periksa server, port, dan enkripsi.
+11d6a3|E-mail uji tidak dapat dikirim. Periksa server, port, dan enkripsi.
+eb4da2|Hubungkan %s kembali
+97ec08|Koneksi ke %1$s telah kedaluwarsa, sehingga konten baru tidak dapat dibagikan ke sana. Hubungkan kembali: %2$s
+e6a17f|Tidak dapat membagikan: %s
+4bde81|“%s” tidak dapat dibagikan ke semua tempat:
+f7ca6b|Dibagikan: %s
+1c747d|“%s” telah dibagikan:
+89ae90|SmokyPost: batas harian tercapai
+8b9f2b|Batas harian paket Anda telah tercapai. Konten yang tersisa dibagikan setelah tengah malam.
+591804|Buka konten: %s
+f4f486|Riwayat: %s
+2396c6|Anda menerima e-mail ini karena notifikasi SmokyPost aktif untuk %1$s. Ubah siapa yang menerimanya, atau matikan di sini: %2$s

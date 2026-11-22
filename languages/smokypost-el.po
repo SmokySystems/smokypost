@@ -1,0 +1,1429 @@
+# Copyright (C) 2026 SmokySystems
+# This file is distributed under the GPL-2.0-or-later.
+msgid ""
+msgstr ""
+"Project-Id-Version: SmokyPost\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Domain: smokypost\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+
+#: assets/js/editor.js:159 includes/Editor.php:199
+msgid "Connect your pages to share this item."
+msgstr "Συνδέστε τις σελίδες σας για να κοινοποιήσετε αυτό το στοιχείο."
+
+#: assets/js/editor.js:160 includes/Editor.php:199
+msgid "Open SmokyPost"
+msgstr "Άνοιγμα του SmokyPost"
+
+#: assets/js/editor.js:178 includes/Admin/Page.php:76
+msgid "Still sending. Check the History tab in a few minutes."
+msgstr "Η αποστολή βρίσκεται ακόμη σε εξέλιξη. Ελέγξτε την καρτέλα Ιστορικό σε λίγα λεπτά."
+
+#: assets/js/editor.js:238 assets/js/editor.js:261 assets/js/editor.js:288 includes/Api.php:106
+msgid "SmokyPost could not be reached. Please try again in a few minutes."
+msgstr "Δεν ήταν δυνατή η σύνδεση με το SmokyPost. Δοκιμάστε ξανά σε λίγα λεπτά."
+
+#: assets/js/editor.js:298 includes/Editor.php:208
+msgid "Share now to:"
+msgstr "Κοινοποίηση τώρα σε:"
+
+#: assets/js/editor.js:298 includes/Editor.php:208
+msgid "Share when published to:"
+msgstr "Κοινοποίηση κατά τη δημοσίευση σε:"
+
+#: assets/js/editor.js:300
+msgid "reconnect needed"
+msgstr "απαιτείται επανασύνδεση"
+
+#: assets/js/editor.js:313 includes/Editor.php:214
+msgid "Custom message (optional)"
+msgstr "Προσαρμοσμένο μήνυμα (προαιρετικό)"
+
+#: assets/js/editor.js:314
+msgid "Leave empty to use your template."
+msgstr "Αφήστε το κενό για να χρησιμοποιηθεί το πρότυπό σας."
+
+#: assets/js/editor.js:333
+msgid "Shared to the ticked platforms when you publish."
+msgstr "Θα κοινοποιηθεί στις επιλεγμένες πλατφόρμες κατά τη δημοσίευση."
+
+#: assets/js/editor.js:336
+msgid "Shared automatically when it was published."
+msgstr "Κοινοποιήθηκε αυτόματα κατά τη δημοσίευση."
+
+#: assets/js/editor.js:339 includes/Editor.php:232
+msgid "Share now"
+msgstr "Κοινοποίηση τώρα"
+
+#: includes/Admin/Page.php:43 includes/Admin/Page.php:122
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+#: includes/Admin/Page.php:74 includes/Status.php:87
+msgid "Sending…"
+msgstr "Αποστολή…"
+
+#: includes/Admin/Page.php:75 includes/Editor.php:150
+msgid "Deleting…"
+msgstr "Διαγραφή…"
+
+#: includes/Admin/Page.php:113
+msgid "A newer version of SmokyPost is required. Please update the plugin."
+msgstr "Απαιτείται νεότερη έκδοση του SmokyPost. Ενημερώστε το πρόσθετο."
+
+#: includes/Admin/Page.php:121
+msgid "Platforms"
+msgstr "Πλατφόρμες"
+
+#: includes/Admin/Page.php:123
+msgid "History"
+msgstr "Ιστορικό"
+
+#: includes/Admin/Page.php:124
+msgid "Notifications"
+msgstr "Ειδοποιήσεις"
+
+#: includes/Admin/Page.php:125 includes/Admin/Page.php:558
+msgid "Account"
+msgstr "Λογαριασμός"
+
+#: includes/Admin/Page.php:156
+msgid "Terms of Service"
+msgstr "Όροι χρήσης"
+
+#: includes/Admin/Page.php:157
+msgid "Privacy Policy"
+msgstr "Πολιτική απορρήτου"
+
+#: includes/Admin/Page.php:158
+msgid "Share your posts and pages to your social media accounts automatically. Create a free account or sign in to connect this site."
+msgstr "Κοινοποιήστε αυτόματα τα άρθρα και τις σελίδες σας στα κοινωνικά σας δίκτυα. Δημιουργήστε έναν δωρεάν λογαριασμό ή συνδεθείτε για να συνδέσετε αυτόν τον ιστότοπο."
+
+#: includes/Admin/Page.php:159
+msgid "When you connect, this site sends its address, WordPress and PHP versions, language and time zone to the SmokyPost service (www.smokypost.com). The content of each item you share is sent when it is shared."
+msgstr "Κατά τη σύνδεση, αυτός ο ιστότοπος στέλνει στην υπηρεσία SmokyPost (www.smokypost.com) τη διεύθυνσή του, τις εκδόσεις WordPress και PHP, τη γλώσσα και τη ζώνη ώρας. Το περιεχόμενο κάθε στοιχείου που κοινοποιείτε αποστέλλεται τη στιγμή της κοινοποίησης."
+
+#: includes/Admin/Page.php:163
+msgid "Create a free account"
+msgstr "Δημιουργία δωρεάν λογαριασμού"
+
+#: includes/Admin/Page.php:165 includes/Admin/Page.php:174 includes/Admin/Page.php:187
+msgid "E-mail"
+msgstr "Email"
+
+#: includes/Admin/Page.php:166
+msgid "Password (at least 8 characters)"
+msgstr "Κωδικός πρόσβασης (τουλάχιστον 8 χαρακτήρες)"
+
+#. translators: 1: Terms of Service link, 2: Privacy Policy link
+#: includes/Admin/Page.php:168
+#, php-format
+msgid "I accept the %1$s and the %2$s."
+msgstr "Αποδέχομαι: %1$s και %2$s."
+
+#: includes/Admin/Page.php:169
+msgid "Create account and connect"
+msgstr "Δημιουργία λογαριασμού και σύνδεση"
+
+#: includes/Admin/Page.php:172
+msgid "I already have an account"
+msgstr "Έχω ήδη λογαριασμό"
+
+#: includes/Admin/Page.php:175 includes/Admin/Page.php:445
+msgid "Password"
+msgstr "Κωδικός πρόσβασης"
+
+#: includes/Admin/Page.php:176
+msgid "Sign in and connect"
+msgstr "Είσοδος και σύνδεση"
+
+#: includes/Admin/Page.php:179
+msgid "Use a license key instead"
+msgstr "Χρήση κλειδιού άδειας χρήσης"
+
+#: includes/Admin/Page.php:182
+msgid "Connect with license key"
+msgstr "Σύνδεση με κλειδί άδειας χρήσης"
+
+#: includes/Admin/Page.php:185
+msgid "Forgot your password?"
+msgstr "Ξεχάσατε τον κωδικό σας;"
+
+#: includes/Admin/Page.php:188
+msgid "Send reset link"
+msgstr "Αποστολή συνδέσμου επαναφοράς"
+
+#: includes/Admin/Page.php:207
+msgid "Connect each platform and choose the page or account this site shares to."
+msgstr "Συνδέστε κάθε πλατφόρμα και επιλέξτε τη σελίδα ή τον λογαριασμό στον οποίο θα κοινοποιεί αυτός ο ιστότοπος."
+
+#: includes/Admin/Page.php:222
+msgid "Not included in your plan."
+msgstr "Δεν περιλαμβάνεται στο πρόγραμμά σας."
+
+#: includes/Admin/Page.php:226
+msgid "Temporarily unavailable. Please try again later."
+msgstr "Προσωρινά μη διαθέσιμο. Δοκιμάστε ξανά αργότερα."
+
+#: includes/Admin/Page.php:237
+msgid "The connection has expired. Connect again to keep sharing."
+msgstr "Η σύνδεση έληξε. Συνδεθείτε ξανά για να συνεχίσετε τις κοινοποιήσεις."
+
+#: includes/Admin/Page.php:238
+msgid "Connect again"
+msgstr "Επανασύνδεση"
+
+#: includes/Admin/Page.php:241
+msgid "Change"
+msgstr "Αλλαγή"
+
+#: includes/Admin/Page.php:243
+msgid "Remove"
+msgstr "Αφαίρεση"
+
+#: includes/Admin/Page.php:247
+msgid "Not connected."
+msgstr "Δεν είναι συνδεδεμένο."
+
+#: includes/Admin/Page.php:249 includes/Admin/Page.php:341
+msgid "Connect"
+msgstr "Σύνδεση"
+
+#: includes/Admin/Page.php:253
+msgid "Choose from your Facebook login"
+msgstr "Επιλογή από τη σύνδεσή σας στο Facebook"
+
+#: includes/Admin/Page.php:277
+msgid "Posts your text and a link to one of your Facebook Pages. You sign in with Facebook."
+msgstr "Δημοσιεύει το κείμενο και τον σύνδεσμό σας σε μία από τις σελίδες σας στο Facebook. Συνδέεστε μέσω Facebook."
+
+#: includes/Admin/Page.php:279
+msgid "Needs an Instagram professional account linked to a Facebook Page. You sign in with Facebook."
+msgstr "Απαιτεί επαγγελματικό λογαριασμό Instagram συνδεδεμένο με σελίδα Facebook. Συνδέεστε μέσω Facebook."
+
+#: includes/Admin/Page.php:281
+msgid "Posts your text and a link to one of your LinkedIn company pages. You sign in with LinkedIn."
+msgstr "Δημοσιεύει το κείμενο και τον σύνδεσμό σας σε μία από τις εταιρικές σας σελίδες στο LinkedIn. Συνδέεστε μέσω LinkedIn."
+
+#: includes/Admin/Page.php:283
+msgid "Posts your text, hashtags and a link card with the picture to your Bluesky account. You connect with your handle and an app password."
+msgstr "Δημοσιεύει το κείμενο, τα hashtag και μια κάρτα συνδέσμου με εικόνα στον λογαριασμό σας στο Bluesky. Συνδέεστε με το όνομα χρήστη και έναν κωδικό εφαρμογής."
+
+#: includes/Admin/Page.php:285
+msgid "Posts your text, hashtags and a link to your Mastodon account on any Mastodon server. You approve SmokyPost on your own server."
+msgstr "Δημοσιεύει το κείμενο, τα hashtag και τον σύνδεσμό σας στον λογαριασμό σας στο Mastodon, σε οποιονδήποτε διακομιστή Mastodon. Εγκρίνετε το SmokyPost στον δικό σας διακομιστή."
+
+#: includes/Admin/Page.php:287
+msgid "Posts your text and a link card to your Threads profile. You sign in with Threads."
+msgstr "Δημοσιεύει το κείμενο και μια κάρτα συνδέσμου στο προφίλ σας στο Threads. Συνδέεστε μέσω Threads."
+
+#: includes/Admin/Page.php:289
+msgid "Posts your text, tags and a link card with the picture to one of your Tumblr blogs. You sign in with Tumblr."
+msgstr "Δημοσιεύει το κείμενο, τις ετικέτες και μια κάρτα συνδέσμου με εικόνα σε ένα από τα ιστολόγιά σας στο Tumblr. Συνδέεστε μέσω Tumblr."
+
+#: includes/Admin/Page.php:304
+msgid "Automatic sharing:"
+msgstr "Αυτόματη κοινοποίηση:"
+
+#: includes/Admin/Page.php:304
+msgid "On"
+msgstr "Ενεργή"
+
+#: includes/Admin/Page.php:304
+msgid "Off"
+msgstr "Ανενεργή"
+
+#: includes/Admin/Page.php:305
+msgid "Turn off"
+msgstr "Απενεργοποίηση"
+
+#: includes/Admin/Page.php:305
+msgid "Turn on"
+msgstr "Ενεργοποίηση"
+
+#: includes/Admin/Page.php:306
+msgid "New items are shared here when they are published."
+msgstr "Τα νέα στοιχεία κοινοποιούνται εδώ μόλις δημοσιευτούν."
+
+#: includes/Admin/Page.php:306
+msgid "Only shared when you click \"Share now\"."
+msgstr "Κοινοποιείται μόνο όταν πατήσετε «Κοινοποίηση τώρα»."
+
+#. translators: %s: reason
+#: includes/Admin/Page.php:322
+#, php-format
+msgid "You are signed in, but your accounts could not be listed: %s"
+msgstr "Έχετε συνδεθεί, αλλά δεν ήταν δυνατή η εμφάνιση των λογαριασμών σας: %s"
+
+#: includes/Admin/Page.php:323
+msgid "Try again"
+msgstr "Δοκιμάστε ξανά"
+
+#: includes/Admin/Page.php:323 includes/Admin/Page.php:361 includes/Admin/Page.php:524 includes/Admin/Page.php:576 includes/Admin/Page.php:716 includes/Admin/Page.php:772 includes/Editor.php:149 includes/Editor.php:481
+msgid "Cancel"
+msgstr "Ακύρωση"
+
+#: includes/Admin/Page.php:328
+msgid "Connect your account first."
+msgstr "Συνδέστε πρώτα τον λογαριασμό σας."
+
+#: includes/Admin/Page.php:328
+msgid "Sign in first to see your pages."
+msgstr "Συνδεθείτε πρώτα για να δείτε τις σελίδες σας."
+
+#: includes/Admin/Page.php:329
+msgid "No page or account with posting rights was found for this login."
+msgstr "Δεν βρέθηκε σελίδα ή λογαριασμός με δικαίωμα δημοσίευσης για αυτή τη σύνδεση."
+
+#: includes/Admin/Page.php:331
+msgid "Check that your Instagram account is a professional account and is linked to one of your Facebook Pages."
+msgstr "Βεβαιωθείτε ότι ο λογαριασμός σας στο Instagram είναι επαγγελματικός και συνδεδεμένος με μία από τις σελίδες σας στο Facebook."
+
+#. translators: %s: name of the person who signed in
+#: includes/Admin/Page.php:355
+#, php-format
+msgid "(via %s)"
+msgstr "(μέσω %s)"
+
+#: includes/Admin/Page.php:360
+msgid "Use this account"
+msgstr "Χρήση αυτού του λογαριασμού"
+
+#: includes/Admin/Page.php:363
+msgid "Missing a page?"
+msgstr "Δεν βλέπετε τη σελίδα που θέλετε;"
+
+#: includes/Admin/Page.php:364
+msgid "Sign in with another account"
+msgstr "Είσοδος με άλλον λογαριασμό"
+
+#: includes/Admin/Page.php:377
+msgid "Content types"
+msgstr "Τύποι περιεχομένου"
+
+#: includes/Admin/Page.php:381
+msgid "Only these types are shared automatically and get the SmokyPost box in the editor."
+msgstr "Μόνο αυτοί οι τύποι κοινοποιούνται αυτόματα και μόνο αυτοί έχουν το πλαίσιο SmokyPost στον επεξεργαστή."
+
+#: includes/Admin/Page.php:383
+msgid "Automatic sharing"
+msgstr "Αυτόματη κοινοποίηση"
+
+#: includes/Admin/Page.php:384
+msgid "Share new items automatically when they are published to:"
+msgstr "Αυτόματη κοινοποίηση των νέων στοιχείων κατά τη δημοσίευση σε:"
+
+#: includes/Admin/Page.php:386
+msgid "not connected"
+msgstr "δεν είναι συνδεδεμένο"
+
+#: includes/Admin/Page.php:389
+msgid "Untick a platform to stop automatic sharing to it. Untick all to turn automatic sharing off. You can still share any item yourself with \"Share now\" in the editor or the post list, and untick a platform for a single item in the editor."
+msgstr "Καταργήστε την επιλογή μιας πλατφόρμας για να σταματήσει η αυτόματη κοινοποίηση σε αυτήν. Καταργήστε όλες τις επιλογές για να απενεργοποιήσετε την αυτόματη κοινοποίηση. Μπορείτε πάντα να κοινοποιήσετε μόνοι σας οποιοδήποτε στοιχείο με το κουμπί «Κοινοποίηση τώρα» στον επεξεργαστή ή στη λίστα άρθρων και να καταργήσετε μια πλατφόρμα για ένα μεμονωμένο στοιχείο στον επεξεργαστή."
+
+#: includes/Admin/Page.php:391
+msgid "Automatically created items"
+msgstr "Στοιχεία που δημιουργούνται αυτόματα"
+
+#: includes/Admin/Page.php:391
+msgid "Also share items published by other plugins, importers, the REST API or WP-CLI"
+msgstr "Κοινοποίηση και των στοιχείων που δημοσιεύονται από άλλα πρόσθετα, εργαλεία εισαγωγής, το REST API ή το WP-CLI"
+
+#: includes/Admin/Page.php:392
+msgid "On by default. Items created by code (for example an autoblog or a feed importer) are shared to the platforms above. Turn this off if you only want to share what you publish in the editor."
+msgstr "Ενεργό από προεπιλογή. Τα στοιχεία που δημιουργούνται από κώδικα (για παράδειγμα από ένα autoblog ή ένα εργαλείο εισαγωγής ροών) κοινοποιούνται στις παραπάνω πλατφόρμες. Απενεργοποιήστε το αν θέλετε να κοινοποιείτε μόνο ό,τι δημοσιεύετε στον επεξεργαστή."
+
+#: includes/Admin/Page.php:393
+msgid "Skip imported items older than"
+msgstr "Παράλειψη εισαγόμενων στοιχείων παλαιότερων από"
+
+#: includes/Admin/Page.php:393
+msgid "hours"
+msgstr "ώρες"
+
+#: includes/Admin/Page.php:395
+msgid "Deleting items"
+msgstr "Διαγραφή στοιχείων"
+
+#: includes/Admin/Page.php:395
+msgid "Delete the shared posts when the item is deleted"
+msgstr "Διαγραφή των κοινοποιημένων αναρτήσεων όταν διαγράφεται το στοιχείο"
+
+#: includes/Admin/Page.php:396
+msgid "Off by default. When you move an item to the trash or delete it, SmokyPost also removes its posts from Facebook, LinkedIn, Bluesky, Mastodon, Threads and Tumblr. Instagram does not allow other apps to delete posts, so those have to be deleted in the Instagram app. Restoring an item from the trash does not bring the social posts back."
+msgstr "Ανενεργό από προεπιλογή. Όταν μετακινείτε ένα στοιχείο στον κάδο ή το διαγράφετε, το SmokyPost διαγράφει και τις αναρτήσεις του σε Facebook, LinkedIn, Bluesky, Mastodon, Threads και Tumblr. Το Instagram δεν επιτρέπει σε άλλες εφαρμογές να διαγράφουν αναρτήσεις, γι' αυτό πρέπει να τις διαγράψετε στην εφαρμογή Instagram. Η επαναφορά ενός στοιχείου από τον κάδο δεν επαναφέρει τις αναρτήσεις στα κοινωνικά δίκτυα."
+
+#: includes/Admin/Page.php:398
+msgid "Message template"
+msgstr "Πρότυπο μηνύματος"
+
+#: includes/Admin/Page.php:400
+msgid "Placeholders:"
+msgstr "Δεσμευτικά θέσης:"
+
+#: includes/Admin/Page.php:400
+msgid "The link is added by each platform as a preview card; on Instagram it is added to the end of the text."
+msgstr "Ο σύνδεσμος προστίθεται από κάθε πλατφόρμα ως κάρτα προεπισκόπησης· στο Instagram προστίθεται στο τέλος του κειμένου."
+
+#: includes/Admin/Page.php:401
+msgid "Turn post tags into hashtags for {hashtags}"
+msgstr "Μετατροπή των ετικετών του άρθρου σε hashtag για {hashtags}"
+
+#: includes/Admin/Page.php:403
+msgid "Default image"
+msgstr "Προεπιλεγμένη εικόνα"
+
+#: includes/Admin/Page.php:404
+msgid "Used when an item has no featured image and no image in its content. Instagram always needs an image."
+msgstr "Χρησιμοποιείται όταν ένα στοιχείο δεν έχει εικόνα προβολής ούτε εικόνα στο περιεχόμενο. Το Instagram απαιτεί πάντα εικόνα."
+
+#: includes/Admin/Page.php:418
+msgid "E-mail me when"
+msgstr "Στείλε μου email όταν"
+
+#: includes/Admin/Page.php:419
+msgid "a share fails"
+msgstr "αποτύχει μια κοινοποίηση"
+
+#: includes/Admin/Page.php:420
+msgid "an item was shared"
+msgstr "κοινοποιηθεί ένα περιεχόμενο"
+
+#: includes/Admin/Page.php:421
+msgid "You get one e-mail per item. A failed share is reported after SmokyPost has tried several times, and the same problem on the same platform is reported once a day. An e-mail that a connection has expired is always sent."
+msgstr "Λαμβάνετε ένα email ανά περιεχόμενο. Μια αποτυχημένη κοινοποίηση αναφέρεται αφού το SmokyPost έχει δοκιμάσει πολλές φορές, και το ίδιο πρόβλημα στην ίδια πλατφόρμα αναφέρεται μία φορά την ημέρα. Το email για λήξη σύνδεσης στέλνεται πάντα."
+
+#: includes/Admin/Page.php:423
+msgid "Send e-mails to"
+msgstr "Αποστολή email στις διευθύνσεις"
+
+#. translators: %s: e-mail address
+#: includes/Admin/Page.php:426
+#, php-format
+msgid "Separate several addresses with commas. Leave empty to use the administrator address of this site (%s)."
+msgstr "Χωρίστε πολλές διευθύνσεις με κόμματα. Αφήστε κενό για να χρησιμοποιηθεί η διεύθυνση διαχειριστή του ιστότοπου (%s)."
+
+#: includes/Admin/Page.php:428
+msgid "SMTP"
+msgstr "SMTP"
+
+#: includes/Admin/Page.php:429
+msgid "Send SmokyPost e-mails through an SMTP account"
+msgstr "Αποστολή των email του SmokyPost μέσω λογαριασμού SMTP"
+
+#: includes/Admin/Page.php:430
+msgid "Use this when e-mails from your site do not arrive. Only the e-mails of SmokyPost use this account, other e-mails of your site stay as they are. You do not need a separate SMTP plugin for SmokyPost."
+msgstr "Χρησιμοποιήστε το όταν τα email του ιστότοπού σας δεν φτάνουν. Μόνο τα email του SmokyPost χρησιμοποιούν αυτόν τον λογαριασμό, τα υπόλοιπα email του ιστότοπου παραμένουν ως έχουν. Δεν χρειάζεστε ξεχωριστό πρόσθετο SMTP για το SmokyPost."
+
+#: includes/Admin/Page.php:432
+msgid "SMTP server"
+msgstr "Διακομιστής SMTP"
+
+#: includes/Admin/Page.php:433
+msgid "Port"
+msgstr "Θύρα"
+
+#: includes/Admin/Page.php:434
+msgid "Encryption"
+msgstr "Κρυπτογράφηση"
+
+#: includes/Admin/Page.php:436
+msgid "TLS (usually port 587)"
+msgstr "TLS (συνήθως θύρα 587)"
+
+#: includes/Admin/Page.php:437
+msgid "SSL (usually port 465)"
+msgstr "SSL (συνήθως θύρα 465)"
+
+#: includes/Admin/Page.php:438
+msgid "No encryption"
+msgstr "Χωρίς κρυπτογράφηση"
+
+#: includes/Admin/Page.php:443
+msgid "Username"
+msgstr "Όνομα χρήστη"
+
+#: includes/Admin/Page.php:447
+msgid "The password is set in wp-config.php."
+msgstr "Ο κωδικός πρόσβασης έχει οριστεί στο wp-config.php."
+
+#: includes/Admin/Page.php:451
+msgid "A password is saved. Leave this empty to keep it."
+msgstr "Υπάρχει αποθηκευμένος κωδικός. Αφήστε το πεδίο κενό για να τον κρατήσετε."
+
+#: includes/Admin/Page.php:451
+msgid "Remove the saved password"
+msgstr "Αφαίρεση του αποθηκευμένου κωδικού"
+
+#: includes/Admin/Page.php:453
+msgid "The password is stored encrypted and never shown again. For Gmail and Outlook use an app password."
+msgstr "Ο κωδικός αποθηκεύεται κρυπτογραφημένος και δεν εμφανίζεται ποτέ ξανά. Για Gmail και Outlook χρησιμοποιήστε κωδικό εφαρμογής."
+
+#: includes/Admin/Page.php:457
+msgid "From e-mail"
+msgstr "Email αποστολέα"
+
+#: includes/Admin/Page.php:458
+msgid "Most providers only accept an address that belongs to the account."
+msgstr "Οι περισσότεροι πάροχοι δέχονται μόνο διεύθυνση που ανήκει στον λογαριασμό."
+
+#: includes/Admin/Page.php:459
+msgid "From name"
+msgstr "Όνομα αποστολέα"
+
+#: includes/Admin/Page.php:462
+msgid "Save Changes"
+msgstr "Αποθήκευση αλλαγών"
+
+#: includes/Admin/Page.php:463
+msgid "Send a test e-mail"
+msgstr "Αποστολή δοκιμαστικού email"
+
+#: includes/Admin/Page.php:464
+msgid "The test e-mail saves the values above first and then uses them."
+msgstr "Το δοκιμαστικό email αποθηκεύει πρώτα τις παραπάνω τιμές και μετά τις χρησιμοποιεί."
+
+#. translators: %d: number of days
+#: includes/Admin/Page.php:479
+#, php-format
+msgid "Shares of the last %d day."
+msgid_plural "Shares of the last %d days."
+msgstr[0] "Κοινοποιήσεις της τελευταίας %d ημέρας."
+msgstr[1] "Κοινοποιήσεις των τελευταίων %d ημερών."
+
+#: includes/Admin/Page.php:491
+msgid "Date"
+msgstr "Ημερομηνία"
+
+#: includes/Admin/Page.php:491
+msgid "Item"
+msgstr "Στοιχείο"
+
+#: includes/Admin/Page.php:491
+msgid "Result"
+msgstr "Αποτέλεσμα"
+
+#: includes/Admin/Page.php:507
+msgid "Nothing shared yet."
+msgstr "Δεν έχει κοινοποιηθεί τίποτα ακόμη."
+
+#: includes/Admin/Page.php:516
+msgid "Clear history"
+msgstr "Εκκαθάριση ιστορικού"
+
+#: includes/Admin/Page.php:516
+msgid "Clear the history for the dates you choose, or all of it? What was already shared stays on your social accounts. Cleared items no longer show in this list."
+msgstr "Εκκαθάριση του ιστορικού για ορισμένες ημερομηνίες ή ολόκληρου; Ό,τι έχει ήδη κοινοποιηθεί παραμένει στα κοινωνικά σας δίκτυα. Οι εγγραφές που εκκαθαρίζονται δεν εμφανίζονται πλέον σε αυτή τη λίστα."
+
+#: includes/Admin/Page.php:518
+msgid "From"
+msgstr "Από"
+
+#: includes/Admin/Page.php:520
+msgid "To"
+msgstr "Έως"
+
+#: includes/Admin/Page.php:523
+msgid "Leave the date empty to start at the first item or end today."
+msgstr "Αφήστε μια ημερομηνία κενή για να ξεκινήσετε από την πρώτη εγγραφή ή να τελειώσετε στη σημερινή μέρα."
+
+#: includes/Admin/Page.php:524
+msgid "Clear these dates"
+msgstr "Εκκαθάριση αυτών των ημερομηνιών"
+
+#: includes/Admin/Page.php:524
+msgid "Clear all history"
+msgstr "Εκκαθάριση όλου του ιστορικού"
+
+#: includes/Admin/Page.php:534 includes/Admin/Page.php:534
+msgid "Day"
+msgstr "Ημέρα"
+
+#: includes/Admin/Page.php:538 includes/Admin/Page.php:538
+msgid "Month"
+msgstr "Μήνας"
+
+#: includes/Admin/Page.php:542 includes/Admin/Page.php:542
+msgid "Year"
+msgstr "Έτος"
+
+#: includes/Admin/Page.php:559 includes/Admin/Page.php:670
+msgid "Plan"
+msgstr "Πρόγραμμα"
+
+#: includes/Admin/Page.php:560
+msgid "License key"
+msgstr "Κλειδί άδειας χρήσης"
+
+#: includes/Admin/Page.php:561
+msgid "Shared today"
+msgstr "Κοινοποιήθηκαν σήμερα"
+
+#. translators: 1: items used, 2: daily limit
+#: includes/Admin/Page.php:564 includes/Admin/Page.php:566
+#, php-format
+msgid "%1$d of %2$d items"
+msgstr "%1$d από %2$d στοιχεία"
+
+#: includes/Admin/Page.php:569
+msgid "This site"
+msgstr "Αυτός ο ιστότοπος"
+
+#: includes/Admin/Page.php:574
+msgid "Disconnect this site"
+msgstr "Αποσύνδεση αυτού του ιστότοπου"
+
+#: includes/Admin/Page.php:574
+msgid "Disconnect this site from SmokyPost? Sharing stops until you sign in again."
+msgstr "Αποσύνδεση αυτού του ιστότοπου από το SmokyPost; Οι κοινοποιήσεις σταματούν μέχρι να συνδεθείτε ξανά."
+
+#: includes/Admin/Page.php:576
+msgid "Yes, disconnect"
+msgstr "Ναι, αποσύνδεση"
+
+#: includes/Admin/Page.php:585
+msgid "How Pro works"
+msgstr "Πώς λειτουργεί το Pro"
+
+#: includes/Admin/Page.php:586
+msgid "Pay securely through Paddle."
+msgstr "Πληρώστε με ασφάλεια μέσω Paddle."
+
+#: includes/Admin/Page.php:587
+msgid "Download SmokyPost Pro with the button below."
+msgstr "Κατεβάστε το SmokyPost Pro με το παρακάτω κουμπί."
+
+#: includes/Admin/Page.php:587
+msgid "Come back to this page. A \"Download SmokyPost Pro\" button appears, and we e-mail you the same link."
+msgstr "Επιστρέψτε σε αυτή τη σελίδα. Θα εμφανιστεί το κουμπί «Λήψη του SmokyPost Pro» και θα σας στείλουμε τον ίδιο σύνδεσμο με email."
+
+#: includes/Admin/Page.php:588
+msgid "Install it under Plugins > Add New > Upload Plugin and activate it. Your license is picked up automatically, there is no key to enter."
+msgstr "Εγκαταστήστε το από Πρόσθετα > Προσθήκη νέου > Μεταφόρτωση πρόσθετου και ενεργοποιήστε το. Η άδειά σας εντοπίζεται αυτόματα, δεν χρειάζεται να εισαγάγετε κλειδί."
+
+#: includes/Admin/Page.php:589
+msgid "SmokyPost Pro is a second plugin that works together with SmokyPost: keep both active. It takes about a minute. Full refund within 14 days of your first payment."
+msgstr "Το SmokyPost Pro είναι ένα δεύτερο πρόσθετο που λειτουργεί μαζί με το SmokyPost: κρατήστε και τα δύο ενεργά. Διαρκεί περίπου ένα λεπτό. Πλήρης επιστροφή χρημάτων εντός 14 ημερών από την πρώτη πληρωμή."
+
+#: includes/Admin/Page.php:603
+msgid "Your payment is taking longer than usual to show here. Reload this page in a few minutes. If your plan is still Free after an hour, write to info@smokypost.com."
+msgstr "Η πληρωμή σας αργεί να εμφανιστεί εδώ περισσότερο απ' ό,τι συνήθως. Ανανεώστε τη σελίδα σε λίγα λεπτά. Αν μετά από μία ώρα το πρόγραμμά σας εξακολουθεί να είναι Free, γράψτε στο info@smokypost.com."
+
+#: includes/Admin/Page.php:607
+msgid "Payment received. Your plan will be active in a moment, this page checks again by itself."
+msgstr "Η πληρωμή ελήφθη. Το πρόγραμμά σας θα ενεργοποιηθεί σύντομα και αυτή η σελίδα θα το ελέγξει μόνη της."
+
+#: includes/Admin/Page.php:619
+msgid "SmokyPost Pro"
+msgstr "SmokyPost Pro"
+
+#. translators: %s: version number
+#: includes/Admin/Page.php:622
+#, php-format
+msgid "SmokyPost Pro %s is installed and active."
+msgstr "Το SmokyPost Pro %s είναι εγκατεστημένο και ενεργό."
+
+#: includes/Admin/Page.php:623
+msgid "Its settings are under SmokyPost > Pro, the calendar under SmokyPost > Calendar. It updates itself."
+msgstr "Οι ρυθμίσεις του βρίσκονται στο SmokyPost > Pro και το ημερολόγιο στο SmokyPost > Ημερολόγιο. Ενημερώνεται μόνο του."
+
+#: includes/Admin/Page.php:630
+msgid "SmokyPost Pro is installed but not active. Activate it on the Plugins page."
+msgstr "Το SmokyPost Pro είναι εγκατεστημένο αλλά δεν είναι ενεργό. Ενεργοποιήστε το από τη σελίδα Πρόσθετα."
+
+#: includes/Admin/Page.php:630
+msgid "Open Plugins"
+msgstr "Άνοιγμα των Πρόσθετων"
+
+#: includes/Admin/Page.php:635
+msgid "Download SmokyPost Pro"
+msgstr "Λήψη του SmokyPost Pro"
+
+#: includes/Admin/Page.php:636
+msgid "The link works for an hour. You can come back here and get a new one any time."
+msgstr "Ο σύνδεσμος ισχύει για μία ώρα. Μπορείτε να επιστρέψετε εδώ ανά πάσα στιγμή για νέο."
+
+#: includes/Admin/Page.php:646 includes/Admin/Page.php:1266 includes/Api.php:127
+msgid "Something went wrong. Please try again."
+msgstr "Κάτι πήγε στραβά. Δοκιμάστε ξανά."
+
+#: includes/Admin/Page.php:665
+msgid "Plans"
+msgstr "Προγράμματα"
+
+#: includes/Admin/Page.php:670
+msgid "Sites"
+msgstr "Ιστότοποι"
+
+#: includes/Admin/Page.php:670
+msgid "Items per day"
+msgstr "Στοιχεία ανά ημέρα"
+
+#: includes/Admin/Page.php:670
+msgid "Price"
+msgstr "Τιμή"
+
+#. translators: %s: price, for example $39
+#: includes/Admin/Page.php:678
+#, php-format
+msgid "%s per year"
+msgstr "%s ανά έτος"
+
+#: includes/Admin/Page.php:680
+msgid "Current plan"
+msgstr "Τρέχον πρόγραμμα"
+
+#: includes/Admin/Page.php:683
+msgid "Switch to this plan"
+msgstr "Μετάβαση σε αυτό το πρόγραμμα"
+
+#: includes/Admin/Page.php:683
+msgid "Upgrade"
+msgstr "Αναβάθμιση"
+
+#: includes/Admin/Page.php:688
+msgid "Payments are handled securely by Paddle. Prices are in US dollars, taxes are added at checkout where they apply."
+msgstr "Οι πληρωμές διεκπεραιώνονται με ασφάλεια από το Paddle. Οι τιμές είναι σε δολάρια ΗΠΑ και οι φόροι προστίθενται στο ταμείο όπου ισχύουν."
+
+#: includes/Admin/Page.php:690
+msgid "A plan change applies right away. You will see the exact amount and confirm it before anything is charged."
+msgstr "Η αλλαγή προγράμματος ισχύει αμέσως. Θα δείτε το ακριβές ποσό και θα το επιβεβαιώσετε πριν γίνει οποιαδήποτε χρέωση."
+
+#: includes/Admin/Page.php:692 includes/Admin/Page.php:776
+msgid "Manage subscription"
+msgstr "Διαχείριση συνδρομής"
+
+#: includes/Admin/Page.php:703
+msgid "Cancel and refund"
+msgstr "Ακύρωση και επιστροφή χρημάτων"
+
+#: includes/Admin/Page.php:705
+msgid "Refunds are available within 14 days of your first payment. You can stop the renewal at any time from Manage subscription."
+msgstr "Η επιστροφή χρημάτων είναι δυνατή εντός 14 ημερών από την πρώτη πληρωμή. Μπορείτε να σταματήσετε την ανανέωση ανά πάσα στιγμή από τη «Διαχείριση συνδρομής»."
+
+#: includes/Admin/Page.php:706 includes/Admin/Page.php:717
+msgid "Questions about a payment? Write to info@smokypost.com."
+msgstr "Ερωτήσεις για την πληρωμή; Γράψτε στο info@smokypost.com."
+
+#. translators: %s: date
+#: includes/Admin/Page.php:712
+#, php-format
+msgid "You can cancel and get a full refund until %s."
+msgstr "Μπορείτε να ακυρώσετε και να λάβετε πλήρη επιστροφή χρημάτων έως τις %s."
+
+#: includes/Admin/Page.php:714
+msgid "Cancel and get a refund"
+msgstr "Ακύρωση και επιστροφή χρημάτων"
+
+#: includes/Admin/Page.php:714
+msgid "Cancel your subscription and get a full refund? Everything you paid is returned to the card you paid with. Nothing is deducted for the days you used. Your plan ends right away and this site goes back to Free."
+msgstr "Ακύρωση της συνδρομής και πλήρης επιστροφή χρημάτων; Ό,τι πληρώσατε επιστρέφεται στην κάρτα με την οποία πληρώσατε. Δεν παρακρατείται τίποτα για τις ημέρες που χρησιμοποιήσατε. Το πρόγραμμά σας τελειώνει αμέσως και αυτός ο ιστότοπος επιστρέφει στο Free."
+
+#: includes/Admin/Page.php:716
+msgid "Yes, cancel and refund"
+msgstr "Ναι, ακύρωση και επιστροφή χρημάτων"
+
+#: includes/Admin/Page.php:730 includes/Admin/Page.php:814
+msgid "Starter"
+msgstr "Starter"
+
+#: includes/Admin/Page.php:731 includes/Admin/Page.php:815
+msgid "Pro"
+msgstr "Pro"
+
+#: includes/Admin/Page.php:732 includes/Admin/Page.php:816
+msgid "Agency"
+msgstr "Agency"
+
+#. translators: %s: plan name
+#: includes/Admin/Page.php:741
+#, php-format
+msgid "Switch to the %s plan"
+msgstr "Μετάβαση στο %s"
+
+#. translators: 1: amount, for example $30.00, 2: card, for example Visa ending in 4242
+#: includes/Admin/Page.php:747
+#, php-format
+msgid "You will be charged %1$s today on the card you paid with (%2$s)."
+msgstr "Σήμερα θα χρεωθούν %1$s (%2$s) στην κάρτα με την οποία πληρώσατε."
+
+#. translators: %s: amount, for example $30.00
+#: includes/Admin/Page.php:750
+#, php-format
+msgid "You will be charged %s today on the card you paid with."
+msgstr "Σήμερα θα χρεωθούν %s στην κάρτα με την οποία πληρώσατε."
+
+#. translators: %s: date
+#: includes/Admin/Page.php:755
+#, php-format
+msgid "Your next renewal stays on %s."
+msgstr "Η επόμενη ανανέωση παραμένει στις %s."
+
+#: includes/Admin/Page.php:758
+msgid "Nothing is charged today."
+msgstr "Σήμερα δεν θα γίνει καμία χρέωση."
+
+#. translators: %s: date
+#: includes/Admin/Page.php:762
+#, php-format
+msgid "The price difference is credited at your next renewal on %s."
+msgstr "Η διαφορά τιμής θα πιστωθεί στην επόμενη ανανέωση, στις %s."
+
+#: includes/Admin/Page.php:764
+msgid "The price difference is credited at your next renewal."
+msgstr "Η διαφορά τιμής θα πιστωθεί στην επόμενη ανανέωση."
+
+#: includes/Admin/Page.php:767
+msgid "Shall we continue?"
+msgstr "Συνέχεια;"
+
+#. translators: %s: amount, for example $30.00
+#: includes/Admin/Page.php:770
+#, php-format
+msgid "Yes, charge %s"
+msgstr "Ναι, χρέωση %s"
+
+#: includes/Admin/Page.php:770
+msgid "Yes, switch plan"
+msgstr "Ναι, αλλαγή προγράμματος"
+
+#: includes/Admin/Page.php:774
+msgid "Want to pay with another card? Open Manage subscription, update your payment method, then switch plans again."
+msgstr "Θέλετε να πληρώσετε με άλλη κάρτα; Ανοίξτε τη «Διαχείριση συνδρομής», ενημερώστε τον τρόπο πληρωμής και αλλάξτε ξανά πρόγραμμα."
+
+#. translators: %s: last four digits of a card
+#: includes/Admin/Page.php:802
+#, php-format
+msgid "ending in %s"
+msgstr "που λήγει σε %s"
+
+#. translators: 1: card brand, for example Visa, 2: last four digits
+#: includes/Admin/Page.php:805
+#, php-format
+msgid "%1$s ending in %2$s"
+msgstr "%1$s που λήγει σε %2$s"
+
+#: includes/Admin/Page.php:813
+msgid "Free"
+msgstr "Free"
+
+#: includes/Admin/Page.php:831
+msgid "Sharing is paused until you confirm your e-mail address."
+msgstr "Οι κοινοποιήσεις είναι σε παύση μέχρι να επιβεβαιώσετε τη διεύθυνση email σας."
+
+#. translators: %d: days left
+#: includes/Admin/Page.php:833
+#, php-format
+msgid "Please confirm your e-mail address. Sharing pauses in %d day if you do not."
+msgid_plural "Please confirm your e-mail address. Sharing pauses in %d days if you do not."
+msgstr[0] "Επιβεβαιώστε τη διεύθυνση email σας. Οι κοινοποιήσεις θα σταματήσουν σε %d ημέρα αν δεν το κάνετε."
+msgstr[1] "Επιβεβαιώστε τη διεύθυνση email σας. Οι κοινοποιήσεις θα σταματήσουν σε %d ημέρες αν δεν το κάνετε."
+
+#: includes/Admin/Page.php:836
+msgid "Send the link again"
+msgstr "Αποστολή συνδέσμου ξανά"
+
+#: includes/Admin/Page.php:869
+msgid "Bluesky handle"
+msgstr "Όνομα χρήστη Bluesky"
+
+#: includes/Admin/Page.php:870
+msgid "App password"
+msgstr "Κωδικός εφαρμογής"
+
+#: includes/Admin/Page.php:871
+msgid "Use an app password, not your main Bluesky password. It can only be used by apps like this one and you can delete it in Bluesky at any time."
+msgstr "Χρησιμοποιήστε κωδικό εφαρμογής, όχι τον κύριο κωδικό σας στο Bluesky. Μπορούν να τον χρησιμοποιήσουν μόνο εφαρμογές σαν αυτή και μπορείτε να τον διαγράψετε ανά πάσα στιγμή στο Bluesky."
+
+#: includes/Admin/Page.php:872
+msgid "How do I get an app password?"
+msgstr "Πώς θα αποκτήσω κωδικό εφαρμογής;"
+
+#. translators: %s: link to the Bluesky app password page
+#: includes/Admin/Page.php:873
+#, php-format
+msgid "Open %s (or Settings > Privacy and security > App passwords in Bluesky)."
+msgstr "Ανοίξτε το %s (ή στο Bluesky: Ρυθμίσεις > Απόρρητο και ασφάλεια > Κωδικοί εφαρμογών)."
+
+#: includes/Admin/Page.php:874
+msgid "Click \"Add App Password\" and name it SmokyPost."
+msgstr "Πατήστε «Add App Password» και ονομάστε τον SmokyPost."
+
+#: includes/Admin/Page.php:875
+msgid "Copy the password Bluesky shows and paste it here."
+msgstr "Αντιγράψτε τον κωδικό που εμφανίζει το Bluesky και επικολλήστε τον εδώ."
+
+#: includes/Admin/Page.php:881
+msgid "Your Mastodon server"
+msgstr "Ο διακομιστής σας Mastodon"
+
+#: includes/Admin/Page.php:882
+msgid "The address of the server your account is on, for example mastodon.social, or your full name like @name@mastodon.social. You will approve SmokyPost on that server."
+msgstr "Η διεύθυνση του διακομιστή όπου βρίσκεται ο λογαριασμός σας, για παράδειγμα mastodon.social, ή το πλήρες όνομά σας, της μορφής @όνομα@mastodon.social. Θα εγκρίνετε το SmokyPost σε εκείνον τον διακομιστή."
+
+#: includes/Admin/Page.php:921
+msgid "Signed in. Now choose the account this site shares to."
+msgstr "Έχετε συνδεθεί. Τώρα επιλέξτε τον λογαριασμό στον οποίο θα κοινοποιεί αυτός ο ιστότοπος."
+
+#: includes/Admin/Page.php:923
+msgid "The sign-in was cancelled."
+msgstr "Η σύνδεση ακυρώθηκε."
+
+#: includes/Admin/Page.php:924
+msgid "The sign-in did not work. Please try again."
+msgstr "Η σύνδεση απέτυχε. Δοκιμάστε ξανά."
+
+#: includes/Admin/Page.php:940
+msgid "Good to know:"
+msgstr "Καλό είναι να ξέρετε:"
+
+#: includes/Admin/Page.php:940
+msgid "SmokyPost shares new posts automatically when they are published, including posts created by other plugins, importers or the REST API. You can turn automatic sharing on or off for each platform on its card below or under Settings."
+msgstr "Το SmokyPost κοινοποιεί αυτόματα τα νέα άρθρα μόλις δημοσιευτούν, συμπεριλαμβανομένων όσων δημιουργούνται από άλλα πρόσθετα, εργαλεία εισαγωγής ή το REST API. Μπορείτε να ενεργοποιήσετε ή να απενεργοποιήσετε την αυτόματη κοινοποίηση για κάθε πλατφόρμα στην κάρτα της παρακάτω ή στις Ρυθμίσεις."
+
+#: includes/Admin/Page.php:942
+msgid "Got it"
+msgstr "Κατάλαβα"
+
+#: includes/Admin/Page.php:942
+msgid "Open settings"
+msgstr "Άνοιγμα ρυθμίσεων"
+
+#: includes/Admin/Page.php:954
+msgid "SmokyPost is almost ready."
+msgstr "Το SmokyPost είναι σχεδόν έτοιμο."
+
+#: includes/Admin/Page.php:954
+msgid "Connect this site"
+msgstr "Σύνδεση αυτού του ιστότοπου"
+
+#: includes/Admin/Page.php:967
+msgid "You are not allowed to do this."
+msgstr "Δεν έχετε δικαίωμα να το κάνετε αυτό."
+
+#: includes/Admin/Page.php:1013 includes/Admin/Page.php:1081
+msgid "Please enter a valid e-mail address."
+msgstr "Εισαγάγετε μια έγκυρη διεύθυνση email."
+
+#: includes/Admin/Page.php:1015
+msgid "Please enter your password."
+msgstr "Εισαγάγετε έναν κωδικό πρόσβασης."
+
+#: includes/Admin/Page.php:1017
+msgid "Please use a password with at least 8 characters."
+msgstr "Χρησιμοποιήστε κωδικό πρόσβασης τουλάχιστον 8 χαρακτήρων."
+
+#: includes/Admin/Page.php:1019
+msgid "Please accept the Terms of Service and the Privacy Policy."
+msgstr "Αποδεχτείτε τους Όρους χρήσης και την Πολιτική απορρήτου."
+
+#: includes/Admin/Page.php:1042
+msgid "Your account is ready and this site is connected. We sent you an e-mail to confirm your address."
+msgstr "Ο λογαριασμός σας είναι έτοιμος και αυτός ο ιστότοπος είναι συνδεδεμένος. Σας στείλαμε ένα email για να επιβεβαιώσετε τη διεύθυνσή σας."
+
+#: includes/Admin/Page.php:1058
+msgid "Signed in. This site is connected."
+msgstr "Έχετε συνδεθεί. Αυτός ο ιστότοπος είναι συνδεδεμένος."
+
+#: includes/Admin/Page.php:1064
+msgid "Please enter your license key."
+msgstr "Εισαγάγετε ένα κλειδί άδειας χρήσης."
+
+#: includes/Admin/Page.php:1075
+msgid "License activated. This site is connected."
+msgstr "Η άδεια χρήσης ενεργοποιήθηκε. Αυτός ο ιστότοπος είναι συνδεδεμένος."
+
+#: includes/Admin/Page.php:1084
+msgid "If an account exists for this address, we sent a link to reset the password."
+msgstr "Αν υπάρχει λογαριασμός για αυτή τη διεύθυνση, στείλαμε έναν σύνδεσμο επαναφοράς κωδικού."
+
+#: includes/Admin/Page.php:1092
+msgid "This site is disconnected from SmokyPost."
+msgstr "Αυτός ο ιστότοπος αποσυνδέθηκε από το SmokyPost."
+
+#: includes/Admin/Page.php:1117
+msgid "Please choose valid dates."
+msgstr "Επιλέξτε έγκυρες ημερομηνίες."
+
+#: includes/Admin/Page.php:1121
+msgid "The first date must be before the last date."
+msgstr "Η πρώτη ημερομηνία πρέπει να είναι πριν από την τελευταία."
+
+#. translators: %d: number of items
+#: includes/Admin/Page.php:1135
+#, php-format
+msgid "Cleared %d item from the history."
+msgid_plural "Cleared %d items from the history."
+msgstr[0] "Εκκαθαρίστηκε %d στοιχείο από το ιστορικό."
+msgstr[1] "Εκκαθαρίστηκαν %d στοιχεία από το ιστορικό."
+
+#: includes/Admin/Page.php:1135
+msgid "There was nothing to clear. Items that are still being sent stay in the list."
+msgstr "Δεν υπήρχε τίποτα για εκκαθάριση. Τα στοιχεία που εξακολουθούν να αποστέλλονται παραμένουν στη λίστα."
+
+#: includes/Admin/Page.php:1143
+msgid "We sent the confirmation link again."
+msgstr "Στείλαμε ξανά τον σύνδεσμο επιβεβαίωσης."
+
+#: includes/Admin/Page.php:1193
+msgid "Connected. Now choose the account this site shares to."
+msgstr "Συνδέθηκε. Τώρα επιλέξτε τον λογαριασμό στον οποίο θα κοινοποιεί αυτός ο ιστότοπος."
+
+#: includes/Admin/Page.php:1228
+msgid "That plan change has expired. Please choose the plan again."
+msgstr "Αυτή η αλλαγή προγράμματος έληξε. Επιλέξτε ξανά πρόγραμμα."
+
+#: includes/Admin/Page.php:1240
+msgid "Your plan is being changed. It can take a minute to show here."
+msgstr "Το πρόγραμμά σας αλλάζει. Μπορεί να χρειαστεί ένα λεπτό για να εμφανιστεί εδώ."
+
+#: includes/Admin/Page.php:1257
+msgid "Your refund has been requested and your subscription is cancelled. Paddle returns the money to the card you paid with; it can take a few days to show."
+msgstr "Ζητήθηκε επιστροφή χρημάτων και η συνδρομή ακυρώθηκε. Το Paddle επιστρέφει τα χρήματα στην κάρτα με την οποία πληρώσατε· μπορεί να χρειαστούν μερικές ημέρες."
+
+#. translators: 1: page name, 2: platform name
+#: includes/Admin/Page.php:1279
+#, php-format
+msgid "%1$s is now connected to %2$s."
+msgstr "Το %1$s είναι πλέον συνδεδεμένο με το %2$s."
+
+#: includes/Admin/Page.php:1295 includes/Admin/Page.php:1305
+msgid "Settings saved."
+msgstr "Οι ρυθμίσεις αποθηκεύτηκαν."
+
+#: includes/Admin/Page.php:1313
+msgid "SmokyPost test e-mail"
+msgstr "Δοκιμαστικό email SmokyPost"
+
+#: includes/Admin/Page.php:1314
+msgid "This is a test e-mail from SmokyPost. If you can read it, e-mails from SmokyPost reach you."
+msgstr "Αυτό είναι ένα δοκιμαστικό email από το SmokyPost. Αν μπορείτε να το διαβάσετε, τα email του SmokyPost σας φτάνουν."
+
+#. translators: %s: e-mail addresses
+#: includes/Admin/Page.php:1318
+#, php-format
+msgid "The test e-mail was sent to %s. Check your inbox and spam folder."
+msgstr "Το δοκιμαστικό email εστάλη στη διεύθυνση %s. Ελέγξτε τα εισερχόμενα και τον φάκελο ανεπιθύμητων."
+
+#. translators: %s: error from the mail server
+#: includes/Admin/Page.php:1325
+#, php-format
+msgid "The test e-mail could not be sent: %s Check the server, port and encryption."
+msgstr "Το δοκιμαστικό email δεν μπόρεσε να σταλεί: %s Ελέγξτε τον διακομιστή, τη θύρα και την κρυπτογράφηση."
+
+#: includes/Admin/Page.php:1326
+msgid "The test e-mail could not be sent. Check the server, port and encryption."
+msgstr "Το δοκιμαστικό email δεν μπόρεσε να σταλεί. Ελέγξτε τον διακομιστή, τη θύρα και την κρυπτογράφηση."
+
+#. translators: %s: platform name
+#: includes/Admin/Page.php:1341
+#, php-format
+msgid "Automatic sharing to %s is on."
+msgstr "Η αυτόματη κοινοποίηση στο %s είναι ενεργή."
+
+#. translators: %s: platform name
+#: includes/Admin/Page.php:1343
+#, php-format
+msgid "Automatic sharing to %s is off."
+msgstr "Η αυτόματη κοινοποίηση στο %s είναι ανενεργή."
+
+#: includes/Admin/PostList.php:59 includes/Status.php:60
+msgid "Not shared"
+msgstr "Δεν κοινοποιήθηκε"
+
+#: includes/Admin/PostList.php:100 includes/Admin/PostList.php:113
+msgid "Share with SmokyPost"
+msgstr "Κοινοποίηση με το SmokyPost"
+
+#. translators: %d: number of items
+#: includes/Admin/PostList.php:154
+#, php-format
+msgid "%d item queued for sharing."
+msgid_plural "%d items queued for sharing."
+msgstr[0] "%d στοιχείο μπήκε στην ουρά για κοινοποίηση."
+msgstr[1] "%d στοιχεία μπήκαν στην ουρά για κοινοποίηση."
+
+#. translators: %d: number of items
+#: includes/Admin/PostList.php:157
+#, php-format
+msgid "%d item could not be shared; see the SmokyPost column."
+msgid_plural "%d items could not be shared; see the SmokyPost column."
+msgstr[0] "%d στοιχείο δεν μπόρεσε να κοινοποιηθεί· δείτε τη στήλη SmokyPost."
+msgstr[1] "%d στοιχεία δεν μπόρεσαν να κοινοποιηθούν· δείτε τη στήλη SmokyPost."
+
+#: includes/Api.php:85
+msgid "This site is not connected to SmokyPost yet."
+msgstr "Αυτός ο ιστότοπος δεν είναι ακόμη συνδεδεμένος με το SmokyPost."
+
+#: includes/Editor.php:117 includes/Editor.php:124
+msgid "Image to share"
+msgstr "Εικόνα για κοινοποίηση"
+
+#: includes/Editor.php:118
+msgid "Chosen for sharing"
+msgstr "Επιλέχθηκε για κοινοποίηση"
+
+#: includes/Editor.php:119
+msgid "Choose another image"
+msgstr "Επιλογή άλλης εικόνας"
+
+#: includes/Editor.php:120
+msgid "Choose an image"
+msgstr "Επιλογή εικόνας"
+
+#: includes/Editor.php:121
+msgid "Use the automatic choice"
+msgstr "Χρήση αυτόματης επιλογής"
+
+#: includes/Editor.php:122
+msgid "Images in this item:"
+msgstr "Εικόνες σε αυτό το στοιχείο:"
+
+#: includes/Editor.php:123
+msgid "Use this image"
+msgstr "Χρήση αυτής της εικόνας"
+
+#: includes/Editor.php:125
+msgid "Updating this item does not share it again. Click \"Share now\" to share it."
+msgstr "Η ενημέρωση ενός στοιχείου δεν το κοινοποιεί ξανά. Πατήστε «Κοινοποίηση τώρα» για να το κοινοποιήσετε."
+
+#: includes/Editor.php:126
+msgid "Featured image"
+msgstr "Εικόνα προβολής του άρθρου"
+
+#: includes/Editor.php:127
+msgid "First image in the content (this item has no featured image)"
+msgstr "Η πρώτη εικόνα στο περιεχόμενο (αυτό το στοιχείο δεν έχει εικόνα προβολής)"
+
+#: includes/Editor.php:128
+msgid "Default image from the SmokyPost settings (this item has no image)"
+msgstr "Η προεπιλεγμένη εικόνα από τις ρυθμίσεις του SmokyPost (αυτό το στοιχείο δεν έχει εικόνα)"
+
+#: includes/Editor.php:130
+msgid "Instagram needs an image, and this item has none. Add a featured image or an image in the content, otherwise it is not shared to Instagram."
+msgstr "Το Instagram απαιτεί εικόνα και αυτό το στοιχείο δεν έχει. Προσθέστε εικόνα προβολής ή εικόνα στο περιεχόμενο, αλλιώς δεν θα κοινοποιηθεί στο Instagram."
+
+#: includes/Editor.php:135
+msgid "Share at (optional)"
+msgstr "Κοινοποίηση στις (προαιρετικό)"
+
+#. translators: 1: example date and time, 2: time zone name
+#: includes/Editor.php:137
+#, php-format
+msgid "Format: %1$s, in your site time (%2$s). Leave empty to share right away."
+msgstr "Μορφή: %1$s, με την ώρα του ιστότοπού σας (%2$s). Αφήστε το κενό για άμεση κοινοποίηση."
+
+#: includes/Editor.php:138
+msgid "This is not a valid date and time. Use the format YYYY-MM-DD HH:MM, for example 2026-12-31 18:30."
+msgstr "Αυτό δεν μοιάζει με ημερομηνία και ώρα. Χρησιμοποιήστε τη μορφή ΕΕΕΕ-ΜΜ-ΗΗ ωω:λλ, για παράδειγμα 2026-12-31 18:30."
+
+#: includes/Editor.php:139
+msgid "Schedule"
+msgstr "Προγραμματισμός"
+
+#: includes/Editor.php:140
+msgid "Cancel the scheduled share"
+msgstr "Ακύρωση προγραμματισμένης κοινοποίησης"
+
+#: includes/Editor.php:147 includes/Editor.php:478
+msgid "Delete shared posts"
+msgstr "Διαγραφή κοινοποιημένων αναρτήσεων"
+
+#: includes/Editor.php:148 includes/Editor.php:480
+msgid "Yes, delete"
+msgstr "Ναι, διαγραφή"
+
+#: includes/Editor.php:266
+msgid "Save the item to apply the change."
+msgstr "Αποθηκεύστε το στοιχείο για να εφαρμοστεί η αλλαγή."
+
+#: includes/Editor.php:352 includes/Editor.php:415 includes/Editor.php:530
+msgid "You are not allowed to share this item."
+msgstr "Δεν έχετε δικαίωμα να κοινοποιήσετε αυτό το στοιχείο."
+
+#: includes/Editor.php:378
+msgid "Nothing to share: choose at least one connected platform."
+msgstr "Δεν υπάρχει τίποτα για κοινοποίηση: επιλέξτε τουλάχιστον μία συνδεδεμένη πλατφόρμα."
+
+#: includes/Editor.php:383
+msgid "Sending… You can leave this page, sharing continues in the background."
+msgstr "Αποστολή… Μπορείτε να φύγετε από αυτή τη σελίδα, η κοινοποίηση συνεχίζεται στο παρασκήνιο."
+
+#. translators: %s: date and time
+#: includes/Editor.php:388
+#, php-format
+msgid "Scheduled for %s. You can leave this page."
+msgstr "Προγραμματίστηκε για %s. Μπορείτε να φύγετε από αυτή τη σελίδα."
+
+#: includes/Editor.php:419
+msgid "Nothing is scheduled for this item."
+msgstr "Δεν υπάρχει τίποτα προγραμματισμένο για αυτό το στοιχείο."
+
+#: includes/Editor.php:437
+msgid "The scheduled share is cancelled."
+msgstr "Η προγραμματισμένη κοινοποίηση ακυρώθηκε."
+
+#: includes/Editor.php:437
+msgid "Nothing to cancel: it was already sent."
+msgstr "Δεν υπάρχει τίποτα για ακύρωση: έχει ήδη σταλεί."
+
+#. translators: %s: platform names, for example "Facebook, Bluesky"
+#: includes/Editor.php:456
+#, php-format
+msgid "Delete the shared posts from %s? The item itself stays on your site."
+msgstr "Διαγραφή των κοινοποιημένων αναρτήσεων από το %s; Το ίδιο το στοιχείο παραμένει στον ιστότοπό σας."
+
+#. translators: %s: platform names, for example "Instagram"
+#: includes/Editor.php:459 includes/Editor.php:511
+#, php-format
+msgid "Posts on %s cannot be deleted from here. Delete them in the app yourself."
+msgstr "Οι αναρτήσεις στο %s δεν μπορούν να διαγραφούν από εδώ. Διαγράψτε τις μόνοι σας στην εφαρμογή."
+
+#: includes/Editor.php:493
+msgid "You are not allowed to change this item."
+msgstr "Δεν έχετε δικαίωμα να αλλάξετε αυτό το στοιχείο."
+
+#: includes/Editor.php:499
+msgid "There is nothing to delete for this item."
+msgstr "Δεν υπάρχει τίποτα για διαγραφή για αυτό το στοιχείο."
+
+#: includes/Editor.php:508
+msgid "Deleting… You can leave this page, it continues in the background."
+msgstr "Διαγραφή… Μπορείτε να φύγετε από αυτή τη σελίδα, η διαγραφή συνεχίζεται στο παρασκήνιο."
+
+#: includes/Editor.php:550
+msgid "Finished, but something failed. See below."
+msgstr "Ολοκληρώθηκε, αλλά κάτι απέτυχε. Δείτε παρακάτω."
+
+#: includes/Editor.php:550
+msgid "Done."
+msgstr "Έτοιμο."
+
+#. translators: %s: platform name
+#: includes/Notifier.php:87
+#, php-format
+msgid "Connect %s again"
+msgstr "Συνδέστε ξανά το %s"
+
+#. translators: 1: platform name, 2: link
+#: includes/Notifier.php:89
+#, php-format
+msgid "The connection to %1$s has expired, so new items cannot be shared there. Connect it again: %2$s"
+msgstr "Η σύνδεση με το %1$s έληξε, οπότε νέα περιεχόμενα δεν μπορούν να κοινοποιηθούν εκεί. Συνδεθείτε ξανά: %2$s"
+
+#. translators: %s: item title
+#: includes/Notifier.php:102
+#, php-format
+msgid "Could not share: %s"
+msgstr "Δεν ήταν δυνατή η κοινοποίηση: %s"
+
+#. translators: %s: item title
+#: includes/Notifier.php:104
+#, php-format
+msgid "\"%s\" could not be shared everywhere:"
+msgstr "Το «%s» δεν κοινοποιήθηκε παντού:"
+
+#. translators: %s: item title
+#: includes/Notifier.php:108
+#, php-format
+msgid "Shared: %s"
+msgstr "Κοινοποιήθηκε: %s"
+
+#. translators: %s: item title
+#: includes/Notifier.php:110
+#, php-format
+msgid "\"%s\" was shared:"
+msgstr "Το «%s» κοινοποιήθηκε:"
+
+#: includes/Notifier.php:124
+msgid "SmokyPost: daily limit reached"
+msgstr "SmokyPost: συμπληρώθηκε το ημερήσιο όριο"
+
+#: includes/Notifier.php:125
+msgid "The daily limit of your plan is reached. The remaining items are shared after midnight."
+msgstr "Συμπληρώθηκε το ημερήσιο όριο του πακέτου σας. Τα υπόλοιπα περιεχόμενα κοινοποιούνται μετά τα μεσάνυχτα."
+
+#. translators: %s: link
+#: includes/Notifier.php:175
+#, php-format
+msgid "Open the item: %s"
+msgstr "Άνοιγμα περιεχομένου: %s"
+
+#. translators: %s: link
+#: includes/Notifier.php:177
+#, php-format
+msgid "History: %s"
+msgstr "Ιστορικό: %s"
+
+#. translators: 1: site name, 2: link
+#: includes/Notifier.php:224
+#, php-format
+msgid "You get this e-mail because SmokyPost notifications are on for %1$s. Change who gets them, or turn them off, here: %2$s"
+msgstr "Λαμβάνετε αυτό το email επειδή οι ειδοποιήσεις του SmokyPost είναι ενεργές για το %1$s. Αλλάξτε ποιος τις λαμβάνει ή απενεργοποιήστε τις εδώ: %2$s"
+
+#: includes/Sharer.php:55
+msgid "Every 5 minutes (SmokyPost)"
+msgstr "Κάθε 5 λεπτά (SmokyPost)"
+
+#: includes/Sharer.php:494
+msgid "Not shared to Instagram: Instagram needs an image, and this item has none. Add a featured image or an image in the content."
+msgstr "Δεν κοινοποιήθηκε στο Instagram: το Instagram απαιτεί εικόνα και αυτό το στοιχείο δεν έχει. Προσθέστε εικόνα προβολής ή εικόνα στο περιεχόμενο."
+
+#: includes/Status.php:60
+msgid "Not shared: needs an image"
+msgstr "Δεν κοινοποιήθηκε: χρειάζεται εικόνα"
+
+#: includes/Status.php:74
+msgid "Shared (delete it in the app yourself)"
+msgstr "Κοινοποιήθηκε (διαγράψτε το μόνοι σας στην εφαρμογή)"
+
+#: includes/Status.php:74
+msgid "Shared"
+msgstr "Κοινοποιήθηκε"
+
+#. translators: %s: reason
+#: includes/Status.php:76
+#, php-format
+msgid "Failed: %s"
+msgstr "Σφάλμα: %s"
+
+#: includes/Status.php:76
+msgid "Failed"
+msgstr "Σφάλμα"
+
+#: includes/Status.php:78
+msgid "Cancelled"
+msgstr "Ακυρώθηκε"
+
+#: includes/Status.php:81
+msgid "Removing…"
+msgstr "Διαγραφή…"
+
+#: includes/Status.php:83
+msgid "Removed"
+msgstr "Διαγράφηκε"
+
+#. translators: %s: reason
+#: includes/Status.php:85
+#, php-format
+msgid "Could not be removed: %s"
+msgstr "Η διαγραφή απέτυχε: %s"
+
+#: includes/Status.php:85
+msgid "Could not be removed"
+msgstr "Η διαγραφή απέτυχε"
+
+#: includes/Status.php:90
+msgid "Waiting: daily limit reached, shares after midnight"
+msgstr "Σε αναμονή: συμπληρώθηκε το ημερήσιο όριο, κοινοποίηση μετά τα μεσάνυχτα"
+
+#: includes/Status.php:93
+msgid "Waiting: please confirm your e-mail address"
+msgstr "Σε αναμονή: επιβεβαιώστε τη διεύθυνση email σας"
+
+#. translators: %s: date and time
+#: includes/Status.php:98
+#, php-format
+msgid "Scheduled for %s"
+msgstr "Προγραμματίστηκε για %s"
+
+#: includes/Status.php:102
+msgid "Retrying soon"
+msgstr "Νέα προσπάθεια σύντομα"
+
+#: includes/Status.php:102
+msgid "Queued"
+msgstr "Στην ουρά"
+
+#: includes/Status.php:114 includes/Status.php:115 includes/Status.php:116
+msgid "The connection has expired. Connect again in SmokyPost."
+msgstr "Η σύνδεση έληξε. Συνδεθείτε ξανά στο SmokyPost."
+
+#: includes/Status.php:117
+msgid "No page or account is selected for this platform."
+msgstr "Δεν έχει επιλεγεί σελίδα ή λογαριασμός για αυτή την πλατφόρμα."
+
+#: includes/Status.php:118
+msgid "This site is no longer connected to SmokyPost."
+msgstr "Αυτός ο ιστότοπος δεν είναι πλέον συνδεδεμένος με το SmokyPost."
+
+#: includes/Status.php:119
+msgid "Your SmokyPost account or license is not active."
+msgstr "Ο λογαριασμός ή η άδεια χρήσης σας στο SmokyPost δεν είναι ενεργή."
+
+#: includes/Status.php:120
+msgid "This platform is not included in your plan."
+msgstr "Αυτή η πλατφόρμα δεν περιλαμβάνεται στο πρόγραμμά σας."
+
+#: includes/Status.php:121
+msgid "The platform did not allow the post. Check that you are still an admin of the page and connect again."
+msgstr "Η πλατφόρμα δεν επέτρεψε τη δημοσίευση. Βεβαιωθείτε ότι εξακολουθείτε να είστε διαχειριστής της σελίδας και συνδεθείτε ξανά."
+
+#: includes/Status.php:122
+msgid "The platform blocked this post."
+msgstr "Η πλατφόρμα απέκλεισε αυτή την ανάρτηση."
+
+#: includes/Status.php:123
+msgid "The platform rejected this post as a duplicate."
+msgstr "Η πλατφόρμα απέρριψε αυτή την ανάρτηση ως διπλότυπο."
+
+#: includes/Status.php:124
+msgid "Instagram needs an image. Add a featured image."
+msgstr "Το Instagram απαιτεί εικόνα. Προσθέστε εικόνα προβολής στο άρθρο."
+
+#: includes/Status.php:125
+msgid "The platform could not use the image. Try a JPEG or PNG image at least 600 pixels wide."
+msgstr "Η πλατφόρμα δεν μπόρεσε να χρησιμοποιήσει την εικόνα. Δοκιμάστε εικόνα JPEG ή PNG πλάτους τουλάχιστον 600 pixel."
+
+#: includes/Status.php:126
+msgid "The image could not be read. Use a JPEG, PNG or WebP image."
+msgstr "Δεν ήταν δυνατή η ανάγνωση της εικόνας. Χρησιμοποιήστε JPEG, PNG ή WebP."
+
+#: includes/Status.php:127
+msgid "The image is too small. Use an image at least 600 pixels wide."
+msgstr "Η εικόνα είναι πολύ μικρή. Χρησιμοποιήστε εικόνα πλάτους τουλάχιστον 600 pixel."
+
+#: includes/Status.php:128
+msgid "SmokyPost could not download the image from your site."
+msgstr "Το SmokyPost δεν μπόρεσε να κατεβάσει την εικόνα από τον ιστότοπό σας."
+
+#: includes/Status.php:129
+msgid "The image could not be prepared."
+msgstr "Δεν ήταν δυνατή η προετοιμασία της εικόνας."
+
+#: includes/Status.php:130
+msgid "The platform was not available. SmokyPost tried several times."
+msgstr "Η πλατφόρμα δεν ήταν διαθέσιμη. Το SmokyPost δοκίμασε αρκετές φορές."
+
+#: includes/Status.php:131
+msgid "The platform could not be reached. SmokyPost tried several times."
+msgstr "Δεν ήταν δυνατή η σύνδεση με την πλατφόρμα. Το SmokyPost δοκίμασε αρκετές φορές."
+
+#: includes/Status.php:132
+msgid "Instagram did not accept the image in time."
+msgstr "Το Instagram δεν αποδέχτηκε την εικόνα εγκαίρως."
+
+#: includes/Status.php:133
+msgid "The platform rejected the post."
+msgstr "Η πλατφόρμα απέρριψε την ανάρτηση."
+
+#: includes/Status.php:134
+msgid "The account that published this post is no longer connected. Delete the post on the platform yourself."
+msgstr "Ο λογαριασμός που δημοσίευσε αυτή την ανάρτηση δεν είναι πλέον συνδεδεμένος. Διαγράψτε την ανάρτηση μόνοι σας στην πλατφόρμα."
+
+#: includes/Status.php:135
+msgid "This post cannot be deleted automatically. Delete it on the platform yourself."
+msgstr "Αυτή η ανάρτηση δεν μπορεί να διαγραφεί αυτόματα. Διαγράψτε την μόνοι σας στην πλατφόρμα."
+
+#. Name of the plugin
+#: smokypost.php:3
+msgid "SmokyPost – Social Auto Share for Posts and Pages"
+msgstr "SmokyPost – Αυτόματη κοινοποίηση στα κοινωνικά δίκτυα για άρθρα και σελίδες"
+
+#. Description of the plugin
+#: smokypost.php:5
+msgid "Automatically share new and old posts and pages to your social media accounts. No developer accounts or API keys needed."
+msgstr "Κοινοποιήστε αυτόματα νέα και παλιά άρθρα και σελίδες στους λογαριασμούς σας στα μέσα κοινωνικής δικτύωσης. Δεν χρειάζονται λογαριασμοί προγραμματιστή ή κλειδιά API."

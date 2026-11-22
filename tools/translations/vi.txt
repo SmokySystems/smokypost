@@ -1,0 +1,330 @@
+3b6e56|Hãy kết nối các trang của bạn để chia sẻ mục này.
+c27b34|Mở SmokyPost
+bc871d|Vẫn đang gửi. Hãy kiểm tra tab Lịch sử sau vài phút.
+118c47|Không thể kết nối với SmokyPost. Hãy thử lại sau vài phút.
+b090f4|Chia sẻ ngay lên:
+d5c6d5|Chia sẻ khi đăng lên:
+b82400|Cần kết nối lại
+016408|Tin nhắn tùy chỉnh (không bắt buộc)
+06651c|Để trống để dùng mẫu của bạn.
+1d6da0|Sẽ được chia sẻ lên các nền tảng đã chọn khi đăng.
+5b18fc|Đã tự động chia sẻ khi đăng.
+04b478|Chia sẻ ngay
+f4f707|Cài đặt
+4d01e8|Đang gửi…
+834915|Đang xóa…
+34b1ef|Cần phiên bản SmokyPost mới hơn. Hãy cập nhật plugin.
+ed49a3|Nền tảng
+16d2b3|Lịch sử
+08bd40|Tài khoản
+3b6c2b|Điều khoản dịch vụ
+fa2ead|Chính sách quyền riêng tư
+777353|Tự động chia sẻ bài viết và trang của bạn lên mạng xã hội. Tạo tài khoản miễn phí hoặc đăng nhập để kết nối trang web này.
+e05afd|Khi kết nối, trang web này gửi địa chỉ, phiên bản WordPress và PHP, ngôn ngữ và múi giờ đến dịch vụ SmokyPost (www.smokypost.com). Nội dung của mỗi mục bạn chia sẻ được gửi vào lúc chia sẻ.
+8ea211|Tạo tài khoản miễn phí
+1e884e|Email
+6c2c15|Mật khẩu (ít nhất 8 ký tự)
+9ec73e|Tôi đồng ý với %1$s và %2$s.
+5853d4|Tạo tài khoản và kết nối
+3b2aee|Tôi đã có tài khoản
+dc647e|Mật khẩu
+ac6560|Đăng nhập và kết nối
+422172|Dùng khóa giấy phép
+52f88a|Kết nối bằng khóa giấy phép
+01a569|Quên mật khẩu?
+733ae3|Gửi liên kết đặt lại
+0efe04|Kết nối từng nền tảng và chọn trang hoặc tài khoản mà trang web này sẽ chia sẻ lên.
+43b540|Không có trong gói của bạn.
+4e7193|Tạm thời không khả dụng. Hãy thử lại sau.
+b9ba1a|Kết nối đã hết hạn. Hãy kết nối lại để tiếp tục chia sẻ.
+cf0b67|Kết nối lại
+f4ec5f|Thay đổi
+1063e3|Gỡ bỏ
+7dcd97|Chưa kết nối.
+49ab28|Kết nối
+2bf7da|Chọn từ đăng nhập Facebook của bạn
+6330d1|Đăng văn bản và liên kết của bạn lên một trong các Trang Facebook của bạn. Bạn đăng nhập bằng Facebook.
+e33490|Cần tài khoản Instagram chuyên nghiệp được liên kết với một Trang Facebook. Bạn đăng nhập bằng Facebook.
+1abbcd|Đăng văn bản và liên kết của bạn lên một trong các trang công ty LinkedIn của bạn. Bạn đăng nhập bằng LinkedIn.
+328737|Đăng văn bản, hashtag và thẻ liên kết kèm ảnh lên tài khoản Bluesky của bạn. Bạn kết nối bằng tên người dùng và mật khẩu ứng dụng.
+9d078b|Đăng văn bản, hashtag và liên kết lên tài khoản Mastodon của bạn trên bất kỳ máy chủ Mastodon nào. Bạn cho phép SmokyPost trên máy chủ của chính mình.
+b2d2d7|Đăng văn bản và thẻ liên kết lên hồ sơ Threads của bạn. Bạn đăng nhập bằng Threads.
+5f2e71|Đăng văn bản, thẻ và thẻ liên kết kèm ảnh lên một trong các blog Tumblr của bạn. Bạn đăng nhập bằng Tumblr.
+b4f827|Tự động chia sẻ:
+521c36|Bật
+d15305|Tắt
+8e61d9|Tắt
+d154a5|Bật
+647bd1|Các mục mới được chia sẻ tại đây khi đăng.
+7f9833|Chỉ chia sẻ khi bạn nhấp vào "Chia sẻ ngay".
+bb7926|Bạn đã đăng nhập nhưng không thể hiển thị tài khoản của mình: %s
+f915a9|Thử lại
+ea4788|Hủy
+0bfd8d|Hãy kết nối tài khoản của bạn trước.
+f85f84|Hãy đăng nhập trước để xem các trang của bạn.
+f595ba|Không tìm thấy trang hoặc tài khoản nào bạn có thể đăng bằng lần đăng nhập này.
+19c3d3|Hãy đảm bảo tài khoản Instagram của bạn là tài khoản chuyên nghiệp và được liên kết với một trong các Trang Facebook của bạn.
+5e5f56|(qua %s)
+f64a44|Dùng tài khoản này
+6c803a|Không thấy trang bạn cần?
+09a44d|Đăng nhập bằng tài khoản khác
+04d144|Loại nội dung
+725f6c|Chỉ các loại này được tự động chia sẻ, và chỉ các loại này hiển thị hộp SmokyPost trong trình soạn thảo.
+6b0402|Tự động chia sẻ
+280dc2|Tự động chia sẻ các mục mới khi đăng lên:
+b3b6ce|Chưa kết nối
+daf9e6|Bỏ chọn một nền tảng để ngừng tự động chia sẻ lên đó. Bỏ chọn tất cả để tắt tự động chia sẻ. Bạn luôn có thể tự chia sẻ một mục bằng nút "Chia sẻ ngay" trong trình soạn thảo hoặc danh sách bài viết, và cũng có thể bỏ chọn một nền tảng cho từng mục trong trình soạn thảo.
+be518a|Các mục được tạo tự động
+766287|Chia sẻ cả các mục được đăng bởi plugin khác, công cụ nhập, REST API hoặc WP-CLI
+f5c261|Mặc định là bật. Các mục do mã tạo ra (ví dụ blog tự động hoặc công cụ nhập nguồn cấp) được chia sẻ lên các nền tảng ở trên. Hãy tắt nếu bạn chỉ muốn chia sẻ những gì đăng trong trình soạn thảo.
+1aaf15|Bỏ qua các mục nhập cũ hơn
+73cddd|giờ
+29327b|Xóa mục
+295b79|Xóa các bài đã chia sẻ khi một mục bị xóa
+0d9342|Mặc định là tắt. Khi bạn chuyển một mục vào thùng rác hoặc xóa nó, SmokyPost cũng xóa các bài đăng của mục đó trên Facebook, LinkedIn, Bluesky, Mastodon, Threads và Tumblr. Instagram không cho phép ứng dụng khác xóa bài đăng, nên bạn phải tự xóa trong ứng dụng Instagram. Khôi phục một mục từ thùng rác không khôi phục các bài đăng trên mạng xã hội.
+cb393c|Mẫu tin nhắn
+6c08da|Ký hiệu thay thế:
+ffe7a1|Mỗi nền tảng thêm liên kết dưới dạng thẻ xem trước; trên Instagram, liên kết được thêm vào cuối văn bản.
+caebe1|Chuyển thẻ của bài viết thành hashtag cho {hashtags}
+f784d5|Ảnh mặc định
+b89f80|Được dùng khi mục không có ảnh đại diện và không có ảnh trong nội dung. Instagram luôn cần một ảnh.
+ef1486|Các lần chia sẻ trong %d ngày qua.
+447497|Ngày
+7d74f3|Mục
+8eea62|Kết quả
+902952|Chưa có gì được chia sẻ.
+5da05b|Xóa lịch sử
+5ca182|Xóa lịch sử cho một số ngày hay toàn bộ? Những gì đã chia sẻ vẫn còn trên mạng xã hội của bạn. Các mục đã xóa sẽ không còn hiển thị trong danh sách này.
+5da618|Từ
+e12167|Đến
+95b928|Để trống ngày để bắt đầu từ mục đầu tiên hoặc kết thúc ở hôm nay.
+17cddf|Xóa các ngày này
+808768|Xóa toàn bộ lịch sử
+03727a|Ngày
+7cbb88|Tháng
+537c66|Năm
+0b6cbd|Gói
+a77d15|Khóa giấy phép
+6db829|Đã chia sẻ hôm nay
+b362bb|%1$d trên %2$d mục
+494eb5|Trang web này
+efb548|Ngắt kết nối trang web này
+4fdc17|Ngắt kết nối trang web này khỏi SmokyPost? Việc chia sẻ sẽ dừng cho đến khi bạn đăng nhập lại.
+e54633|Có, ngắt kết nối
+e2e646|Cách Pro hoạt động
+377a68|Thanh toán an toàn qua Paddle.
+fbc905|Tải SmokyPost Pro bằng nút bên dưới.
+7f189b|Quay lại trang này. Nút "Tải SmokyPost Pro" sẽ xuất hiện, và chúng tôi cũng gửi cùng liên kết đó qua email.
+53f719|Cài đặt qua Plugin > Cài mới > Tải plugin lên, rồi kích hoạt. Giấy phép của bạn được nhận diện tự động nên bạn không cần nhập khóa.
+eb475d|SmokyPost Pro là plugin thứ hai hoạt động cùng SmokyPost: hãy để cả hai đều được kích hoạt. Mất khoảng một phút. Hoàn tiền đầy đủ trong 14 ngày kể từ lần thanh toán đầu tiên.
+9fa65e|Khoản thanh toán của bạn mất nhiều thời gian hơn bình thường để hiển thị ở đây. Hãy tải lại trang sau vài phút. Nếu gói vẫn là Free sau một giờ, hãy viết cho chúng tôi tại info@smokypost.com.
+bec297|Đã nhận thanh toán. Gói của bạn sẽ sớm được kích hoạt, và trang này tự kiểm tra.
+2c80f9|SmokyPost Pro
+b81f3c|SmokyPost Pro %s đã được cài đặt và kích hoạt.
+d25d87|Cài đặt của plugin nằm ở SmokyPost > Pro, và lịch ở SmokyPost > Lịch. Plugin tự động cập nhật.
+85e962|SmokyPost Pro đã được cài đặt nhưng chưa kích hoạt. Hãy kích hoạt tại trang Plugin.
+a3bd33|Mở Plugin
+386940|Tải SmokyPost Pro
+500b65|Liên kết có hiệu lực trong một giờ. Bạn có thể quay lại đây bất cứ lúc nào để lấy liên kết mới.
+e9f36d|Đã xảy ra lỗi. Hãy thử lại.
+6956cc|Các gói
+3faa64|Trang web
+a97de4|Mục mỗi ngày
+360114|Giá
+124864|%s mỗi năm
+441f54|Gói hiện tại
+690969|Chuyển sang gói này
+f68358|Nâng cấp
+5d6316|Thanh toán được Paddle xử lý an toàn. Giá tính bằng đô la Mỹ, và thuế được cộng thêm khi thanh toán ở nơi áp dụng.
+be0482|Thay đổi gói có hiệu lực ngay. Bạn sẽ thấy và xác nhận số tiền chính xác trước khi bị tính phí.
+97788c|Quản lý đăng ký
+1a7066|Hủy và hoàn tiền
+b2c3ec|Có thể hoàn tiền trong 14 ngày kể từ lần thanh toán đầu tiên. Bạn có thể ngừng gia hạn bất cứ lúc nào trong "Quản lý đăng ký".
+b1c55c|Câu hỏi về thanh toán? Hãy viết cho chúng tôi tại info@smokypost.com.
+a0d458|Bạn có thể hủy và được hoàn tiền đầy đủ đến hết %s.
+361f28|Hủy và nhận hoàn tiền
+9b3448|Hủy đăng ký và nhận hoàn tiền đầy đủ? Toàn bộ số tiền bạn đã trả được hoàn về thẻ đã dùng để thanh toán. Không khấu trừ cho những ngày đã dùng. Gói của bạn kết thúc ngay và trang web này quay về Free.
+1e81d7|Có, hủy và hoàn tiền
+ee6085|Starter
+abd900|Pro
+75ec3e|Agency
+0222db|Chuyển sang %s
+71d986|Hôm nay %1$s (%2$s) sẽ được tính vào thẻ bạn đã dùng để thanh toán.
+a503a7|Hôm nay %s sẽ được tính vào thẻ bạn đã dùng để thanh toán.
+237ece|Kỳ gia hạn tiếp theo vẫn là %s.
+cb540f|Hôm nay không bị tính phí gì.
+1d46af|Phần chênh lệch giá sẽ được tính vào kỳ gia hạn tiếp theo, %s.
+937bcf|Phần chênh lệch giá sẽ được tính vào kỳ gia hạn tiếp theo.
+bd4a14|Tiếp tục?
+cd1df7|Có, tính phí %s
+6abb41|Có, đổi gói
+17129e|Muốn thanh toán bằng thẻ khác? Hãy mở "Quản lý đăng ký", cập nhật phương thức thanh toán rồi đổi gói lại.
+d4192d|đuôi %s
+d4fbfe|%1$s, đuôi %2$s
+b24ce0|Free
+9086fc|Việc chia sẻ bị tạm dừng cho đến khi bạn xác nhận địa chỉ email.
+dbf504|Hãy xác nhận địa chỉ email của bạn. Nếu không, việc chia sẻ sẽ bị tạm dừng sau %d ngày.
+933999|Gửi lại liên kết
+feb3a3|Tên người dùng Bluesky
+65255b|Mật khẩu ứng dụng
+63d12d|Hãy dùng mật khẩu ứng dụng, không phải mật khẩu chính của Bluesky. Mật khẩu này chỉ dùng được bởi các ứng dụng như thế này và bạn có thể xóa nó trên Bluesky bất cứ lúc nào.
+4adaf4|Làm sao để có mật khẩu ứng dụng?
+5c312e|Mở %s (hoặc trong Bluesky: Cài đặt > Quyền riêng tư và bảo mật > Mật khẩu ứng dụng).
+9a01be|Nhấp vào "Add App Password" và đặt tên là SmokyPost.
+61e507|Sao chép mật khẩu mà Bluesky hiển thị và dán vào đây.
+bd4bac|Máy chủ Mastodon của bạn
+9279eb|Địa chỉ máy chủ nơi tài khoản của bạn tồn tại, ví dụ mastodon.social, hoặc tên đầy đủ của bạn theo dạng @tên@mastodon.social. Bạn sẽ cho phép SmokyPost trên máy chủ đó.
+f8b4c2|Bạn đã đăng nhập. Bây giờ hãy chọn tài khoản mà trang web này sẽ chia sẻ lên.
+5bb110|Đã hủy đăng nhập.
+262cb9|Đăng nhập thất bại. Hãy thử lại.
+bcbbc8|Cần biết:
+914602|SmokyPost tự động chia sẻ các bài viết mới khi đăng, kể cả những bài do plugin khác, công cụ nhập hoặc REST API tạo ra. Bạn có thể bật hoặc tắt tự động chia sẻ cho từng nền tảng ở thẻ của nền tảng đó bên dưới hoặc trong Cài đặt.
+78e981|Đã hiểu
+bae082|Mở Cài đặt
+8beb61|SmokyPost gần như đã sẵn sàng.
+4f4267|Kết nối trang web này
+2835b7|Bạn không có quyền thực hiện thao tác này.
+811723|Hãy nhập địa chỉ email hợp lệ.
+4b52c9|Hãy nhập mật khẩu của bạn.
+cacd72|Hãy dùng mật khẩu có ít nhất 8 ký tự.
+270228|Hãy đồng ý với Điều khoản dịch vụ và Chính sách quyền riêng tư.
+c570e4|Tài khoản của bạn đã sẵn sàng và trang web này đã được kết nối. Chúng tôi đã gửi email để bạn xác nhận địa chỉ.
+e4912d|Bạn đã đăng nhập. Trang web này đã được kết nối.
+a41cc2|Hãy nhập khóa giấy phép của bạn.
+1448bb|Giấy phép đã được kích hoạt. Trang web này đã được kết nối.
+025e69|Nếu có tài khoản với địa chỉ đó, chúng tôi đã gửi liên kết đặt lại mật khẩu.
+19d2aa|Trang web này đã được ngắt kết nối khỏi SmokyPost.
+ee3077|Hãy chọn ngày hợp lệ.
+12381e|Ngày bắt đầu phải trước ngày kết thúc.
+fd4f8f|Đã xóa %d mục khỏi lịch sử.
+26d353|Không có gì để xóa. Các mục vẫn đang gửi sẽ còn trong danh sách.
+b9a702|Chúng tôi đã gửi lại liên kết xác nhận.
+12bb90|Đã kết nối. Bây giờ hãy chọn tài khoản mà trang web này sẽ chia sẻ lên.
+c4effa|Thay đổi gói này đã hết hạn. Hãy chọn lại gói.
+5e77be|Gói của bạn đang được thay đổi. Có thể mất một phút để hiển thị ở đây.
+d8d639|Đã yêu cầu hoàn tiền và đăng ký đã bị hủy. Paddle hoàn tiền về thẻ bạn đã dùng; việc này có thể mất vài ngày.
+82bf3a|%1$s hiện đã được kết nối với %2$s.
+9a7e58|Đã lưu cài đặt.
+5677c1|Đã bật tự động chia sẻ lên %s.
+fa4524|Đã tắt tự động chia sẻ lên %s.
+0a2f60|Chưa chia sẻ
+498cc4|Chia sẻ với SmokyPost
+90929c|Đã thêm %d mục vào hàng đợi chia sẻ.
+81b7e8|Không thể chia sẻ %d mục; hãy xem cột SmokyPost.
+f75f84|Trang web này chưa được kết nối với SmokyPost.
+10112f|Ảnh để chia sẻ
+e57b53|Đã chọn để chia sẻ
+85eb5a|Chọn ảnh khác
+7cd243|Chọn ảnh
+f6b9f8|Dùng lựa chọn tự động
+4c8d06|Ảnh trong mục này:
+4f63a3|Dùng ảnh này
+e6fce5|Cập nhật mục không chia sẻ lại nó. Nhấp vào "Chia sẻ ngay" để chia sẻ.
+52beb6|Ảnh đại diện của bài viết
+860133|Ảnh đầu tiên trong nội dung (mục này không có ảnh đại diện)
+662aa1|Ảnh mặc định từ cài đặt SmokyPost (mục này không có ảnh)
+c28cf8|Instagram cần một ảnh và mục này không có ảnh. Hãy thêm ảnh đại diện hoặc ảnh trong nội dung, nếu không mục này sẽ không được chia sẻ lên Instagram.
+1b1025|Chia sẻ vào (không bắt buộc)
+d9c5f4|Định dạng: %1$s, theo giờ của trang web (%2$s). Để trống để chia sẻ ngay.
+03f222|Đây không giống ngày và giờ. Hãy dùng định dạng YYYY-MM-DD HH:MM, ví dụ 2026-12-31 18:30.
+25f734|Lên lịch
+fe3b13|Hủy lịch chia sẻ
+87b913|Xóa các bài đã chia sẻ
+b21c60|Có, xóa
+165825|Hãy lưu mục để áp dụng thay đổi.
+9fb721|Bạn không có quyền chia sẻ mục này.
+d0bfeb|Không có gì để chia sẻ: hãy chọn ít nhất một nền tảng đã kết nối.
+9b3811|Đang gửi… Bạn có thể rời trang này, việc chia sẻ vẫn tiếp tục ở chế độ nền.
+6a5c54|Đã lên lịch vào %s. Bạn có thể rời trang này.
+97c806|Mục này không có lịch chia sẻ nào.
+4e96d7|Đã hủy lịch chia sẻ.
+2b0bb4|Không có gì để hủy: đã được gửi.
+e4c50f|Xóa các bài đã chia sẻ khỏi %s? Bản thân mục vẫn còn trên trang web của bạn.
+fe2165|Không thể xóa bài đăng trên %s từ đây. Hãy tự xóa trong ứng dụng.
+0f2121|Bạn không có quyền thay đổi mục này.
+605da5|Không có gì để xóa cho mục này.
+46dc65|Đang xóa… Bạn có thể rời trang này, việc xóa vẫn tiếp tục ở chế độ nền.
+a3787e|Đã xong, nhưng có mục thất bại. Xem bên dưới.
+f59405|Đã xong.
+50321d|Mỗi 5 phút (SmokyPost)
+67cfe6|Không chia sẻ lên Instagram: Instagram cần một ảnh và mục này không có ảnh. Hãy thêm ảnh đại diện hoặc ảnh trong nội dung.
+398d9f|Chưa chia sẻ: cần ảnh
+e44fa2|Đã chia sẻ (hãy tự xóa trong ứng dụng)
+a6156e|Đã chia sẻ
+d98139|Lỗi: %s
+d7c8c8|Lỗi
+a149e8|Đã hủy
+e3f04d|Đang xóa…
+93f07b|Đã xóa
+1c5338|Xóa thất bại: %s
+d581ce|Xóa thất bại
+6c7650|Đang chờ: đã đạt giới hạn hằng ngày, sẽ chia sẻ sau nửa đêm
+ccef9c|Đang chờ: hãy xác nhận địa chỉ email của bạn
+a97547|Đã lên lịch vào %s
+923d48|Sẽ thử lại sớm
+7b2f31|Trong hàng đợi
+bc1f89|Kết nối đã hết hạn. Hãy kết nối lại trong SmokyPost.
+a608e9|Chưa chọn trang hoặc tài khoản nào cho nền tảng này.
+347591|Trang web này không còn được kết nối với SmokyPost.
+ecd22a|Tài khoản hoặc giấy phép SmokyPost của bạn không còn hoạt động.
+4b472d|Nền tảng này không có trong gói của bạn.
+852d39|Nền tảng không cho phép đăng. Hãy chắc rằng bạn vẫn là quản trị viên của trang và kết nối lại.
+5e0173|Nền tảng đã chặn bài đăng này.
+c939dc|Nền tảng đã từ chối bài đăng này vì trùng lặp.
+b96b3f|Instagram cần một ảnh. Hãy thêm ảnh đại diện cho bài viết.
+191240|Nền tảng không thể dùng ảnh này. Hãy thử ảnh JPEG hoặc PNG có chiều rộng ít nhất 600 pixel.
+28b253|Không thể đọc ảnh. Hãy dùng JPEG, PNG hoặc WebP.
+08c673|Ảnh quá nhỏ. Hãy dùng ảnh có chiều rộng ít nhất 600 pixel.
+e99a00|SmokyPost không thể tải ảnh từ trang web của bạn.
+7f8957|Không thể chuẩn bị ảnh.
+7fa12c|Nền tảng không khả dụng. SmokyPost đã thử nhiều lần.
+bd9611|Không thể kết nối với nền tảng. SmokyPost đã thử nhiều lần.
+582ab1|Instagram không nhận ảnh kịp thời.
+c19c4c|Nền tảng đã từ chối bài đăng.
+8a0741|Tài khoản đã đăng bài này không còn được kết nối. Hãy tự xóa bài đăng trên nền tảng.
+ad0394|Không thể tự động xóa bài đăng này. Hãy tự xóa trên nền tảng.
+eb851e|SmokyPost – Tự động chia sẻ lên mạng xã hội cho bài viết và trang
+6b6724|Tự động chia sẻ bài viết và trang mới lẫn cũ lên các tài khoản mạng xã hội của bạn. Không cần tài khoản nhà phát triển hay khóa API.
+a274f4|Thông báo
+777ca2|Gửi email cho tôi khi
+28c682|một lượt chia sẻ thất bại
+ecb9b9|một nội dung đã được chia sẻ
+8daff7|Bạn nhận một email cho mỗi nội dung. Lượt chia sẻ thất bại được báo sau khi SmokyPost đã thử nhiều lần, và cùng một sự cố trên cùng một nền tảng chỉ được báo một lần mỗi ngày. Email báo kết nối hết hạn luôn được gửi.
+ec7339|Gửi email tới
+939f28|Phân tách nhiều địa chỉ bằng dấu phẩy. Để trống để dùng địa chỉ quản trị viên của trang web này (%s).
+c2239a|SMTP
+00c7c2|Gửi email của SmokyPost qua tài khoản SMTP
+5efbcc|Hãy dùng khi email từ trang web của bạn không đến nơi. Chỉ email của SmokyPost dùng tài khoản này, các email khác của trang web giữ nguyên. Bạn không cần plugin SMTP riêng cho SmokyPost.
+bdd48f|Máy chủ SMTP
+60aaf4|Cổng
+d7f261|Mã hóa
+413acc|TLS (thường là cổng 587)
+68b181|SSL (thường là cổng 465)
+151adf|Không mã hóa
+f6039d|Tên người dùng
+c6e6fb|Mật khẩu được đặt trong wp-config.php.
+0b5899|Đã lưu một mật khẩu. Để trống để giữ nguyên.
+d7381f|Xóa mật khẩu đã lưu
+7b710d|Mật khẩu được lưu ở dạng mã hóa và không bao giờ hiển thị lại. Với Gmail và Outlook, hãy dùng mật khẩu ứng dụng.
+491147|Email người gửi
+7508f2|Hầu hết nhà cung cấp chỉ chấp nhận địa chỉ thuộc về tài khoản.
+c3a7ea|Tên người gửi
+f5d604|Lưu thay đổi
+f970b9|Gửi email thử
+81f545|Email thử sẽ lưu các giá trị ở trên trước, rồi mới dùng chúng.
+1f2def|Email thử của SmokyPost
+2738c4|Đây là email thử từ SmokyPost. Nếu bạn đọc được, email của SmokyPost đã đến được với bạn.
+170c1a|Đã gửi email thử tới %s. Hãy kiểm tra hộp thư đến và thư mục spam.
+15a320|Không gửi được email thử: %s Hãy kiểm tra máy chủ, cổng và mã hóa.
+11d6a3|Không gửi được email thử. Hãy kiểm tra máy chủ, cổng và mã hóa.
+eb4da2|Kết nối lại %s
+97ec08|Kết nối với %1$s đã hết hạn nên không thể chia sẻ nội dung mới tới đó. Hãy kết nối lại: %2$s
+e6a17f|Không thể chia sẻ: %s
+4bde81|Không thể chia sẻ “%s” ở mọi nơi:
+f7ca6b|Đã chia sẻ: %s
+1c747d|Đã chia sẻ “%s”:
+89ae90|SmokyPost: đã đạt giới hạn hằng ngày
+8b9f2b|Đã đạt giới hạn hằng ngày của gói. Các nội dung còn lại sẽ được chia sẻ sau nửa đêm.
+591804|Mở nội dung: %s
+f4f486|Lịch sử: %s
+2396c6|Bạn nhận email này vì thông báo của SmokyPost đang bật cho %1$s. Thay đổi người nhận hoặc tắt thông báo tại đây: %2$s

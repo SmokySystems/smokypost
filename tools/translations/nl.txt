@@ -1,0 +1,330 @@
+3b6e56|Koppel uw pagina’s om dit item te delen.
+c27b34|SmokyPost openen
+bc871d|Wordt nog verzonden. Bekijk over enkele minuten het tabblad Geschiedenis.
+118c47|SmokyPost is niet bereikbaar. Probeer het over enkele minuten opnieuw.
+b090f4|Nu delen op:
+d5c6d5|Delen bij publicatie op:
+b82400|opnieuw koppelen nodig
+016408|Eigen bericht (optioneel)
+06651c|Laat leeg om uw sjabloon te gebruiken.
+1d6da0|Wordt bij publicatie gedeeld op de aangevinkte platforms.
+5b18fc|Automatisch gedeeld bij publicatie.
+04b478|Nu delen
+f4f707|Instellingen
+4d01e8|Verzenden…
+834915|Verwijderen…
+34b1ef|Een nieuwere versie van SmokyPost is vereist. Werk de plugin bij.
+ed49a3|Platforms
+16d2b3|Geschiedenis
+08bd40|Account
+3b6c2b|Servicevoorwaarden
+fa2ead|Privacybeleid
+777353|Deel uw berichten en pagina’s automatisch op uw socialmedia-accounts. Maak een gratis account aan of log in om deze site te koppelen.
+e05afd|Bij het koppelen stuurt deze site het adres, de WordPress- en PHP-versie, de taal en de tijdzone naar de SmokyPost-dienst (www.smokypost.com). De inhoud van elk item dat u deelt, wordt verzonden op het moment van delen.
+8ea211|Gratis account aanmaken
+1e884e|E-mail
+6c2c15|Wachtwoord (minimaal 8 tekens)
+9ec73e|Ik ga akkoord met de %1$s en het %2$s.
+5853d4|Account aanmaken en koppelen
+3b2aee|Ik heb al een account
+dc647e|Wachtwoord
+ac6560|Inloggen en koppelen
+422172|Gebruik in plaats daarvan een licentiesleutel
+52f88a|Koppelen met licentiesleutel
+01a569|Wachtwoord vergeten?
+733ae3|Herstellink verzenden
+0efe04|Koppel elk platform en kies de pagina of het account waarop deze site deelt.
+43b540|Niet inbegrepen in uw abonnement.
+4e7193|Tijdelijk niet beschikbaar. Probeer het later opnieuw.
+b9ba1a|De koppeling is verlopen. Koppel opnieuw om te blijven delen.
+cf0b67|Opnieuw koppelen
+f4ec5f|Wijzigen
+1063e3|Verwijderen
+7dcd97|Niet gekoppeld.
+49ab28|Koppelen
+2bf7da|Kies uit uw Facebook-login
+6330d1|Plaatst uw tekst en een link op een van uw Facebook-pagina’s. U logt in met Facebook.
+e33490|Vereist een zakelijk Instagram-account dat is gekoppeld aan een Facebook-pagina. U logt in met Facebook.
+1abbcd|Plaatst uw tekst en een link op een van uw LinkedIn-bedrijfspagina’s. U logt in met LinkedIn.
+328737|Plaatst uw tekst, hashtags en een linkkaart met de afbeelding op uw Bluesky-account. U koppelt met uw handle en een app-wachtwoord.
+9d078b|Plaatst uw tekst, hashtags en een link op uw Mastodon-account op elke Mastodon-server. U keurt SmokyPost goed op uw eigen server.
+b2d2d7|Plaatst uw tekst en een linkkaart op uw Threads-profiel. U logt in met Threads.
+5f2e71|Plaatst uw tekst, tags en een linkkaart met de afbeelding op een van uw Tumblr-blogs. U logt in met Tumblr.
+b4f827|Automatisch delen:
+521c36|Aan
+d15305|Uit
+8e61d9|Uitschakelen
+d154a5|Inschakelen
+647bd1|Nieuwe items worden hier gedeeld wanneer ze worden gepubliceerd.
+7f9833|Wordt alleen gedeeld wanneer u op “Nu delen” klikt.
+bb7926|U bent ingelogd, maar uw accounts konden niet worden opgehaald: %s
+f915a9|Opnieuw proberen
+ea4788|Annuleren
+0bfd8d|Koppel eerst uw account.
+f85f84|Log eerst in om uw pagina’s te zien.
+f595ba|Voor deze login is geen pagina of account met publicatierechten gevonden.
+19c3d3|Controleer of uw Instagram-account een zakelijk account is en is gekoppeld aan een van uw Facebook-pagina’s.
+5e5f56|(via %s)
+f64a44|Dit account gebruiken
+6c803a|Ontbreekt er een pagina?
+09a44d|Inloggen met een ander account
+04d144|Inhoudstypen
+725f6c|Alleen deze typen worden automatisch gedeeld en tonen het SmokyPost-vak in de editor.
+6b0402|Automatisch delen
+280dc2|Nieuwe items automatisch delen bij publicatie op:
+b3b6ce|niet gekoppeld
+daf9e6|Vink een platform uit om het automatisch delen daarop te stoppen. Vink alles uit om automatisch delen uit te schakelen. U kunt nog steeds elk item zelf delen met “Nu delen” in de editor of de berichtenlijst, en in de editor een platform uitvinken voor één item.
+be518a|Automatisch aangemaakte items
+766287|Ook items delen die zijn gepubliceerd door andere plugins, importers, de REST API of WP-CLI
+f5c261|Standaard ingeschakeld. Items die door code zijn aangemaakt (bijvoorbeeld een autoblog of feed-importer) worden gedeeld op de bovenstaande platforms. Schakel dit uit als u alleen wilt delen wat u in de editor publiceert.
+1aaf15|Geïmporteerde items overslaan die ouder zijn dan
+73cddd|uur
+29327b|Items verwijderen
+295b79|Gedeelde berichten verwijderen wanneer het item wordt verwijderd
+0d9342|Standaard uitgeschakeld. Wanneer u een item naar de prullenbak verplaatst of verwijdert, verwijdert SmokyPost ook de bijbehorende berichten van Facebook, LinkedIn, Bluesky, Mastodon, Threads en Tumblr. Instagram staat niet toe dat andere apps berichten verwijderen, dus die moet u in de Instagram-app verwijderen. Een item uit de prullenbak herstellen brengt de socialmediaberichten niet terug.
+cb393c|Berichtsjabloon
+6c08da|Plaatshouders:
+ffe7a1|De link wordt door elk platform toegevoegd als voorbeeldkaart; op Instagram wordt hij aan het einde van de tekst toegevoegd.
+caebe1|Berichttags omzetten in hashtags voor {hashtags}
+f784d5|Standaardafbeelding
+b89f80|Wordt gebruikt wanneer een item geen uitgelichte afbeelding en geen afbeelding in de inhoud heeft. Instagram heeft altijd een afbeelding nodig.
+ef1486|Gedeeld in de afgelopen %d dag. ¦ Gedeeld in de afgelopen %d dagen.
+447497|Datum
+7d74f3|Item
+8eea62|Resultaat
+902952|Nog niets gedeeld.
+5da05b|Geschiedenis wissen
+5ca182|De geschiedenis wissen voor de gekozen data, of alles? Wat al is gedeeld, blijft op uw socialmedia-accounts staan. Gewiste items verschijnen niet meer in deze lijst.
+5da618|Van
+e12167|Tot
+95b928|Laat de datum leeg om bij het eerste item te beginnen of vandaag te eindigen.
+17cddf|Deze data wissen
+808768|Alle geschiedenis wissen
+03727a|Dag
+7cbb88|Maand
+537c66|Jaar
+0b6cbd|Abonnement
+a77d15|Licentiesleutel
+6db829|Vandaag gedeeld
+b362bb|%1$d van %2$d items
+494eb5|Deze site
+efb548|Deze site ontkoppelen
+4fdc17|Deze site ontkoppelen van SmokyPost? Het delen stopt totdat u opnieuw inlogt.
+e54633|Ja, ontkoppelen
+e2e646|Hoe Pro werkt
+377a68|Betaal veilig via Paddle.
+fbc905|Download SmokyPost Pro met de knop hieronder.
+7f189b|Kom terug naar deze pagina. Er verschijnt een knop “SmokyPost Pro downloaden” en we mailen u dezelfde link.
+53f719|Installeer het via Plugins > Nieuwe plugin > Plugin uploaden en activeer het. Uw licentie wordt automatisch herkend, er hoeft geen sleutel te worden ingevoerd.
+eb475d|SmokyPost Pro is een tweede plugin die samenwerkt met SmokyPost: houd beide actief. Het duurt ongeveer een minuut. Volledige terugbetaling binnen 14 dagen na uw eerste betaling.
+9fa65e|Uw betaling verschijnt hier trager dan gewoonlijk. Laad deze pagina over enkele minuten opnieuw. Als uw abonnement na een uur nog steeds Free is, schrijf dan naar info@smokypost.com.
+bec297|Betaling ontvangen. Uw abonnement is zo actief, deze pagina controleert zelf opnieuw.
+2c80f9|SmokyPost Pro
+b81f3c|SmokyPost Pro %s is geïnstalleerd en actief.
+d25d87|De instellingen staan onder SmokyPost > Pro, de agenda onder SmokyPost > Agenda. Het werkt zichzelf bij.
+85e962|SmokyPost Pro is geïnstalleerd maar niet actief. Activeer het op de pagina Plugins.
+a3bd33|Plugins openen
+386940|SmokyPost Pro downloaden
+500b65|De link werkt een uur. U kunt altijd hier terugkomen om een nieuwe te krijgen.
+e9f36d|Er is iets misgegaan. Probeer het opnieuw.
+6956cc|Abonnementen
+3faa64|Sites
+a97de4|Items per dag
+360114|Prijs
+124864|%s per jaar
+441f54|Huidig abonnement
+690969|Overstappen op dit abonnement
+f68358|Upgraden
+5d6316|Betalingen worden veilig afgehandeld door Paddle. Prijzen zijn in Amerikaanse dollars, belastingen worden waar van toepassing bij het afrekenen toegevoegd.
+be0482|Een abonnementswijziging gaat direct in. U ziet het exacte bedrag en bevestigt het voordat er iets wordt afgeschreven.
+97788c|Abonnement beheren
+1a7066|Annuleren en terugbetalen
+b2c3ec|Terugbetalingen zijn mogelijk binnen 14 dagen na uw eerste betaling. U kunt de verlenging op elk moment stoppen via “Abonnement beheren”.
+b1c55c|Vragen over een betaling? Schrijf naar info@smokypost.com.
+a0d458|U kunt tot %s annuleren en het volledige bedrag terugkrijgen.
+361f28|Annuleren en terugbetaling ontvangen
+9b3448|Uw abonnement annuleren en het volledige bedrag terugkrijgen? Alles wat u hebt betaald, wordt teruggestort op de kaart waarmee u hebt betaald. Er wordt niets ingehouden voor de gebruikte dagen. Uw abonnement eindigt direct en deze site gaat terug naar Free.
+1e81d7|Ja, annuleren en terugbetalen
+ee6085|Starter
+abd900|Pro
+75ec3e|Agency
+0222db|Overstappen op het abonnement %s
+71d986|Er wordt vandaag %1$s afgeschreven van de kaart waarmee u hebt betaald (%2$s).
+a503a7|Er wordt vandaag %s afgeschreven van de kaart waarmee u hebt betaald.
+237ece|Uw volgende verlenging blijft op %s staan.
+cb540f|Vandaag wordt er niets afgeschreven.
+1d46af|Het prijsverschil wordt bij uw volgende verlenging op %s verrekend.
+937bcf|Het prijsverschil wordt bij uw volgende verlenging verrekend.
+bd4a14|Doorgaan?
+cd1df7|Ja, %s afschrijven
+6abb41|Ja, abonnement wijzigen
+17129e|Wilt u met een andere kaart betalen? Open “Abonnement beheren”, werk uw betaalmethode bij en wijzig daarna opnieuw van abonnement.
+d4192d|eindigend op %s
+d4fbfe|%1$s eindigend op %2$s
+b24ce0|Free
+9086fc|Delen is gepauzeerd totdat u uw e-mailadres bevestigt.
+dbf504|Bevestig uw e-mailadres. Delen wordt over %d dag gepauzeerd als u dat niet doet. ¦ Bevestig uw e-mailadres. Delen wordt over %d dagen gepauzeerd als u dat niet doet.
+933999|Link opnieuw verzenden
+feb3a3|Bluesky-handle
+65255b|App-wachtwoord
+63d12d|Gebruik een app-wachtwoord, niet uw hoofdwachtwoord van Bluesky. Het kan alleen worden gebruikt door apps zoals deze en u kunt het op elk moment in Bluesky verwijderen.
+4adaf4|Hoe krijg ik een app-wachtwoord?
+5c312e|Open %s (of in Bluesky: Instellingen > Privacy en beveiliging > App-wachtwoorden).
+9a01be|Klik op “Add App Password” en noem het SmokyPost.
+61e507|Kopieer het wachtwoord dat Bluesky toont en plak het hier.
+bd4bac|Uw Mastodon-server
+9279eb|Het adres van de server waarop uw account staat, bijvoorbeeld mastodon.social, of uw volledige naam zoals @naam@mastodon.social. U keurt SmokyPost goed op die server.
+f8b4c2|Ingelogd. Kies nu het account waarop deze site deelt.
+5bb110|De login is geannuleerd.
+262cb9|De login is mislukt. Probeer het opnieuw.
+bcbbc8|Goed om te weten:
+914602|SmokyPost deelt nieuwe berichten automatisch wanneer ze worden gepubliceerd, ook berichten die door andere plugins, importers of de REST API zijn aangemaakt. U kunt automatisch delen voor elk platform in- of uitschakelen op de kaart hieronder of onder Instellingen.
+78e981|Begrepen
+bae082|Instellingen openen
+8beb61|SmokyPost is bijna klaar.
+4f4267|Deze site koppelen
+2835b7|U heeft hiervoor geen toestemming.
+811723|Voer een geldig e-mailadres in.
+4b52c9|Voer uw wachtwoord in.
+cacd72|Gebruik een wachtwoord van minimaal 8 tekens.
+270228|Ga akkoord met de Servicevoorwaarden en het Privacybeleid.
+c570e4|Uw account is klaar en deze site is gekoppeld. We hebben u een e-mail gestuurd om uw adres te bevestigen.
+e4912d|Ingelogd. Deze site is gekoppeld.
+a41cc2|Voer uw licentiesleutel in.
+1448bb|Licentie geactiveerd. Deze site is gekoppeld.
+025e69|Als er een account bestaat voor dit adres, hebben we een link gestuurd om het wachtwoord opnieuw in te stellen.
+19d2aa|Deze site is losgekoppeld van SmokyPost.
+ee3077|Kies geldige data.
+12381e|De eerste datum moet vóór de laatste datum liggen.
+fd4f8f|%d item uit de geschiedenis gewist. ¦ %d items uit de geschiedenis gewist.
+26d353|Er was niets om te wissen. Items die nog worden verzonden, blijven in de lijst.
+b9a702|We hebben de bevestigingslink opnieuw verzonden.
+12bb90|Gekoppeld. Kies nu het account waarop deze site deelt.
+c4effa|Die abonnementswijziging is verlopen. Kies het abonnement opnieuw.
+5e77be|Uw abonnement wordt gewijzigd. Het kan een minuut duren voordat het hier verschijnt.
+d8d639|Uw terugbetaling is aangevraagd en uw abonnement is geannuleerd. Paddle stort het geld terug op de kaart waarmee u hebt betaald; het kan enkele dagen duren voordat het zichtbaar is.
+82bf3a|%1$s is nu gekoppeld aan %2$s.
+9a7e58|Instellingen opgeslagen.
+5677c1|Automatisch delen op %s is ingeschakeld.
+fa4524|Automatisch delen op %s is uitgeschakeld.
+0a2f60|Niet gedeeld
+498cc4|Delen met SmokyPost
+90929c|%d item in de wachtrij om te delen. ¦ %d items in de wachtrij om te delen.
+81b7e8|%d item kon niet worden gedeeld; zie de kolom SmokyPost. ¦ %d items konden niet worden gedeeld; zie de kolom SmokyPost.
+f75f84|Deze site is nog niet gekoppeld aan SmokyPost.
+10112f|Afbeelding om te delen
+e57b53|Gekozen om te delen
+85eb5a|Andere afbeelding kiezen
+7cd243|Afbeelding kiezen
+f6b9f8|Automatische keuze gebruiken
+4c8d06|Afbeeldingen in dit item:
+4f63a3|Deze afbeelding gebruiken
+e6fce5|Een item bijwerken deelt het niet opnieuw. Klik op “Nu delen” om het te delen.
+52beb6|Uitgelichte afbeelding
+860133|Eerste afbeelding in de inhoud (dit item heeft geen uitgelichte afbeelding)
+662aa1|Standaardafbeelding uit de SmokyPost-instellingen (dit item heeft geen afbeelding)
+c28cf8|Instagram heeft een afbeelding nodig en dit item heeft er geen. Voeg een uitgelichte afbeelding of een afbeelding in de inhoud toe, anders wordt het niet op Instagram gedeeld.
+1b1025|Delen op (optioneel)
+d9c5f4|Formaat: %1$s, in de tijd van uw site (%2$s). Laat leeg om direct te delen.
+03f222|Dit is geen geldige datum en tijd. Gebruik het formaat JJJJ-MM-DD UU:MM, bijvoorbeeld 2026-12-31 18:30.
+25f734|Plannen
+fe3b13|Het geplande delen annuleren
+87b913|Gedeelde berichten verwijderen
+b21c60|Ja, verwijderen
+165825|Sla het item op om de wijziging toe te passen.
+9fb721|U mag dit item niet delen.
+d0bfeb|Niets om te delen: kies ten minste één gekoppeld platform.
+9b3811|Verzenden… U kunt deze pagina verlaten, het delen gaat op de achtergrond door.
+6a5c54|Gepland voor %s. U kunt deze pagina verlaten.
+97c806|Er is niets gepland voor dit item.
+4e96d7|Het geplande delen is geannuleerd.
+2b0bb4|Niets te annuleren: het is al verzonden.
+e4c50f|De gedeelde berichten op %s verwijderen? Het item zelf blijft op uw site staan.
+fe2165|Berichten op %s kunnen hier niet worden verwijderd. Verwijder ze zelf in de app.
+0f2121|U mag dit item niet wijzigen.
+605da5|Er is niets te verwijderen voor dit item.
+46dc65|Verwijderen… U kunt deze pagina verlaten, het gaat op de achtergrond door.
+a3787e|Klaar, maar er is iets misgegaan. Zie hieronder.
+f59405|Klaar.
+50321d|Elke 5 minuten (SmokyPost)
+67cfe6|Niet gedeeld op Instagram: Instagram heeft een afbeelding nodig en dit item heeft er geen. Voeg een uitgelichte afbeelding of een afbeelding in de inhoud toe.
+398d9f|Niet gedeeld: afbeelding nodig
+e44fa2|Gedeeld (zelf verwijderen in de app)
+a6156e|Gedeeld
+d98139|Mislukt: %s
+d7c8c8|Mislukt
+a149e8|Geannuleerd
+e3f04d|Verwijderen…
+93f07b|Verwijderd
+1c5338|Kon niet worden verwijderd: %s
+d581ce|Kon niet worden verwijderd
+6c7650|Wachten: dagelijkse limiet bereikt, deelt na middernacht
+ccef9c|Wachten: bevestig uw e-mailadres
+a97547|Gepland voor %s
+923d48|Wordt binnenkort opnieuw geprobeerd
+7b2f31|In de wachtrij
+bc1f89|De koppeling is verlopen. Koppel opnieuw in SmokyPost.
+a608e9|Er is geen pagina of account geselecteerd voor dit platform.
+347591|Deze site is niet meer gekoppeld aan SmokyPost.
+ecd22a|Uw SmokyPost-account of -licentie is niet actief.
+4b472d|Dit platform is niet inbegrepen in uw abonnement.
+852d39|Het platform heeft het bericht niet toegestaan. Controleer of u nog beheerder van de pagina bent en koppel opnieuw.
+5e0173|Het platform heeft dit bericht geblokkeerd.
+c939dc|Het platform heeft dit bericht als duplicaat afgewezen.
+b96b3f|Instagram heeft een afbeelding nodig. Voeg een uitgelichte afbeelding toe.
+191240|Het platform kon de afbeelding niet gebruiken. Probeer een JPEG- of PNG-afbeelding van minimaal 600 pixels breed.
+28b253|De afbeelding kon niet worden gelezen. Gebruik een JPEG-, PNG- of WebP-afbeelding.
+08c673|De afbeelding is te klein. Gebruik een afbeelding van minimaal 600 pixels breed.
+e99a00|SmokyPost kon de afbeelding niet downloaden van uw site.
+7f8957|De afbeelding kon niet worden voorbereid.
+7fa12c|Het platform was niet beschikbaar. SmokyPost heeft het meerdere keren geprobeerd.
+bd9611|Het platform was niet bereikbaar. SmokyPost heeft het meerdere keren geprobeerd.
+582ab1|Instagram heeft de afbeelding niet op tijd geaccepteerd.
+c19c4c|Het platform heeft het bericht afgewezen.
+8a0741|Het account dat dit bericht heeft gepubliceerd is niet meer gekoppeld. Verwijder het bericht zelf op het platform.
+ad0394|Dit bericht kan niet automatisch worden verwijderd. Verwijder het zelf op het platform.
+eb851e|SmokyPost – Automatisch delen op sociale media voor berichten en pagina's
+6b6724|Deel nieuwe en oude berichten en pagina's automatisch op uw socialemediaaccounts. Geen ontwikkelaarsaccounts of API-sleutels nodig.
+a274f4|Meldingen
+777ca2|Stuur me een e-mail wanneer
+28c682|een deling mislukt
+ecb9b9|een bericht is gedeeld
+8daff7|Je krijgt één e-mail per bericht. Een mislukte deling wordt gemeld nadat SmokyPost het meerdere keren heeft geprobeerd, en hetzelfde probleem op hetzelfde platform wordt één keer per dag gemeld. Een e-mail dat een koppeling is verlopen wordt altijd verstuurd.
+ec7339|Stuur e-mails naar
+939f28|Scheid meerdere adressen met komma’s. Laat leeg om het beheerdersadres van deze site (%s) te gebruiken.
+c2239a|SMTP
+00c7c2|SmokyPost-e-mails versturen via een SMTP-account
+5efbcc|Gebruik dit als e-mails van je site niet aankomen. Alleen de e-mails van SmokyPost gebruiken dit account, de overige e-mails van je site blijven ongewijzigd. Je hebt geen aparte SMTP-plugin nodig voor SmokyPost.
+bdd48f|SMTP-server
+60aaf4|Poort
+d7f261|Versleuteling
+413acc|TLS (meestal poort 587)
+68b181|SSL (meestal poort 465)
+151adf|Geen versleuteling
+f6039d|Gebruikersnaam
+c6e6fb|Het wachtwoord is ingesteld in wp-config.php.
+0b5899|Er is een wachtwoord opgeslagen. Laat dit leeg om het te behouden.
+d7381f|Opgeslagen wachtwoord verwijderen
+7b710d|Het wachtwoord wordt versleuteld opgeslagen en nooit meer getoond. Gebruik voor Gmail en Outlook een app-wachtwoord.
+491147|Afzender-e-mail
+7508f2|De meeste providers accepteren alleen een adres dat bij het account hoort.
+c3a7ea|Afzendernaam
+f5d604|Wijzigingen opslaan
+f970b9|Een test-e-mail versturen
+81f545|De test-e-mail slaat eerst de bovenstaande waarden op en gebruikt ze daarna.
+1f2def|SmokyPost-test-e-mail
+2738c4|Dit is een test-e-mail van SmokyPost. Als je dit kunt lezen, komen e-mails van SmokyPost bij je aan.
+170c1a|De test-e-mail is verstuurd naar %s. Controleer je inbox en spammap.
+15a320|De test-e-mail kon niet worden verstuurd: %s Controleer de server, poort en versleuteling.
+11d6a3|De test-e-mail kon niet worden verstuurd. Controleer de server, poort en versleuteling.
+eb4da2|Koppel %s opnieuw
+97ec08|De koppeling met %1$s is verlopen, dus nieuwe berichten kunnen daar niet worden gedeeld. Koppel opnieuw: %2$s
+e6a17f|Delen mislukt: %s
+4bde81|‘%s’ kon niet overal worden gedeeld:
+f7ca6b|Gedeeld: %s
+1c747d|‘%s’ is gedeeld:
+89ae90|SmokyPost: daglimiet bereikt
+8b9f2b|De daglimiet van je abonnement is bereikt. De overige berichten worden na middernacht gedeeld.
+591804|Bericht openen: %s
+f4f486|Geschiedenis: %s
+2396c6|Je krijgt deze e-mail omdat de SmokyPost-meldingen aanstaan voor %1$s. Wijzig wie ze krijgt, of zet ze uit, hier: %2$s

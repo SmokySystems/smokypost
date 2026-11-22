@@ -1,0 +1,330 @@
+3b6e56|Povežite svoje stranice kako biste podijelili ovaj sadržaj.
+c27b34|Otvori SmokyPost
+bc871d|Slanje je još u tijeku. Provjerite karticu Povijest za nekoliko minuta.
+118c47|Nije moguće povezati se sa SmokyPostom. Pokušajte ponovno za nekoliko minuta.
+b090f4|Podijeli sada na:
+d5c6d5|Podijeli pri objavi na:
+b82400|potrebno je ponovno povezivanje
+016408|Vlastita poruka (neobavezno)
+06651c|Ostavite prazno za korištenje vašeg predloška.
+1d6da0|Bit će podijeljeno na označenim platformama pri objavi.
+5b18fc|Automatski podijeljeno pri objavi.
+04b478|Podijeli sada
+f4f707|Postavke
+4d01e8|Slanje…
+834915|Brisanje…
+34b1ef|Potrebna je novija verzija SmokyPosta. Ažurirajte dodatak.
+ed49a3|Platforme
+16d2b3|Povijest
+08bd40|Račun
+3b6c2b|Uvjeti korištenja
+fa2ead|Pravila privatnosti
+777353|Automatski dijelite svoje objave i stranice na društvenim mrežama. Izradite besplatan račun ili se prijavite kako biste povezali ovo web-mjesto.
+e05afd|Pri povezivanju ovo web-mjesto šalje usluzi SmokyPost (www.smokypost.com) svoju adresu, verzije WordPressa i PHP-a, jezik i vremensku zonu. Sadržaj svake stavke koju dijelite šalje se u trenutku dijeljenja.
+8ea211|Izradi besplatan račun
+1e884e|E-pošta
+6c2c15|Zaporka (najmanje 8 znakova)
+9ec73e|Prihvaćam sljedeće dokumente: %1$s i %2$s.
+5853d4|Izradi račun i poveži
+3b2aee|Već imam račun
+dc647e|Zaporka
+ac6560|Prijavi se i poveži
+422172|Umjesto toga koristi licencni ključ
+52f88a|Poveži licencnim ključem
+01a569|Zaboravili ste zaporku?
+733ae3|Pošalji poveznicu za ponovno postavljanje
+0efe04|Povežite svaku platformu i odaberite stranicu ili račun na koji će ovo web-mjesto dijeliti.
+43b540|Nije uključeno u vaš paket.
+4e7193|Privremeno nedostupno. Pokušajte ponovno kasnije.
+b9ba1a|Veza je istekla. Povežite se ponovno kako biste nastavili dijeliti.
+cf0b67|Poveži ponovno
+f4ec5f|Promijeni
+1063e3|Ukloni
+7dcd97|Nije povezano.
+49ab28|Poveži
+2bf7da|Odaberite iz svoje prijave na Facebook
+6330d1|Objavljuje vaš tekst i poveznicu na jednoj od vaših stranica na Facebooku. Prijavljujete se putem Facebooka.
+e33490|Zahtijeva profesionalni račun na Instagramu povezan sa stranicom na Facebooku. Prijavljujete se putem Facebooka.
+1abbcd|Objavljuje vaš tekst i poveznicu na jednoj od vaših tvrtkinih stranica na LinkedInu. Prijavljujete se putem LinkedIna.
+328737|Objavljuje vaš tekst, hashtagove i karticu poveznice sa slikom na vašem računu na Blueskyju. Povezujete se korisničkim imenom i zaporkom aplikacije.
+9d078b|Objavljuje vaš tekst, hashtagove i poveznicu na vašem računu na Mastodonu na bilo kojem Mastodon poslužitelju. SmokyPost odobravate na vlastitom poslužitelju.
+b2d2d7|Objavljuje vaš tekst i karticu poveznice na vašem profilu na Threadsu. Prijavljujete se putem Threadsa.
+5f2e71|Objavljuje vaš tekst, oznake i karticu poveznice sa slikom na jednom od vaših blogova na Tumblru. Prijavljujete se putem Tumblra.
+b4f827|Automatsko dijeljenje:
+521c36|Uklj.
+d15305|Isklj.
+8e61d9|Isključi
+d154a5|Uključi
+647bd1|Nove se stavke ovdje dijele pri objavi.
+7f9833|Dijeli se samo kad kliknete „Podijeli sada”.
+bb7926|Prijavljeni ste, ali nije bilo moguće prikazati vaše račune: %s
+f915a9|Pokušaj ponovno
+ea4788|Odustani
+0bfd8d|Najprije povežite svoj račun.
+f85f84|Najprije se prijavite kako biste vidjeli svoje stranice.
+f595ba|Za ovu prijavu nije pronađena stranica ili račun na koji možete objavljivati.
+19c3d3|Provjerite je li vaš račun na Instagramu profesionalni i povezan s jednom od vaših stranica na Facebooku.
+5e5f56|(putem %s)
+f64a44|Koristi ovaj račun
+6c803a|Ne vidite pravu stranicu?
+09a44d|Prijavi se drugim računom
+04d144|Vrste sadržaja
+725f6c|Automatski se dijele samo ove vrste i samo one imaju okvir SmokyPosta u uredniku.
+6b0402|Automatsko dijeljenje
+280dc2|Automatski dijeli nove stavke pri objavi na:
+b3b6ce|nije povezano
+daf9e6|Poništite oznaku platforme kako biste prestali automatski dijeliti na njoj. Poništite sve oznake kako biste isključili automatsko dijeljenje. Svaku stavku uvijek možete sami podijeliti gumbom „Podijeli sada” u uredniku ili na popisu objava, a u uredniku možete poništiti oznaku platforme za pojedinu stavku.
+be518a|Automatski izrađene stavke
+766287|Dijeli i stavke koje objave drugi dodaci, uvoznici, REST API ili WP-CLI
+f5c261|Prema zadanim postavkama uključeno. Stavke koje izrađuje kôd (na primjer autoblog ili uvoznik feedova) dijele se na gore navedenim platformama. Isključite ako želite dijeliti samo ono što objavite u uredniku.
+1aaf15|Preskoči uvezene stavke starije od
+73cddd|h
+29327b|Brisanje stavki
+295b79|Briši podijeljene objave kad se stavka izbriše
+0d9342|Prema zadanim postavkama isključeno. Kad stavku premjestite u smeće ili je izbrišete, SmokyPost briše i njezine objave na Facebooku, LinkedInu, Blueskyju, Mastodonu, Threadsu i Tumblru. Instagram ne dopušta drugim aplikacijama brisanje objava, pa ih morate izbrisati u aplikaciji Instagram. Vraćanje stavke iz smeća ne vraća objave na društvenim mrežama.
+cb393c|Predložak poruke
+6c08da|Rezervirana mjesta:
+ffe7a1|Poveznicu svaka platforma dodaje kao karticu pregleda; na Instagramu se dodaje na kraj teksta.
+caebe1|Pretvori oznake objave u hashtagove za {hashtags}
+f784d5|Zadana slika
+b89f80|Koristi se kad stavka nema istaknutu sliku ni sliku u sadržaju. Instagram uvijek zahtijeva sliku.
+ef1486|Dijeljenja u posljednjih %d dan. ¦ Dijeljenja u posljednja %d dana. ¦ Dijeljenja u posljednjih %d dana.
+447497|Datum
+7d74f3|Stavka
+8eea62|Rezultat
+902952|Još ništa nije podijeljeno.
+5da05b|Očisti povijest
+5ca182|Želite li očistiti povijest za određene datume ili cijelu? Ono što je već podijeljeno ostaje na vašim društvenim mrežama. Očišćeni zapisi više se ne prikazuju na ovom popisu.
+5da618|Od
+e12167|Do
+95b928|Ostavite datum praznim kako biste započeli od prvog zapisa ili završili današnjim danom.
+17cddf|Očisti ove datume
+808768|Očisti cijelu povijest
+03727a|Dan
+7cbb88|Mjesec
+537c66|Godina
+0b6cbd|Paket
+a77d15|Licencni ključ
+6db829|Danas podijeljeno
+b362bb|%1$d od %2$d stavki
+494eb5|Ovo web-mjesto
+efb548|Odspoji ovo web-mjesto
+4fdc17|Odspojiti ovo web-mjesto od SmokyPosta? Dijeljenje se zaustavlja dok se ponovno ne prijavite.
+e54633|Da, odspoji
+e2e646|Kako Pro funkcionira
+377a68|Platite sigurno putem Paddlea.
+fbc905|Preuzmite SmokyPost Pro gumbom u nastavku.
+7f189b|Vratite se na ovu stranicu. Pojavit će se gumb „Preuzmi SmokyPost Pro”, a istu poveznicu poslat ćemo vam i e-poštom.
+53f719|Instalirajte ga u Dodaci > Dodaj novi > Učitaj dodatak i aktivirajte ga. Vaša se licenca prepoznaje automatski, ne morate unositi ključ.
+eb475d|SmokyPost Pro drugi je dodatak koji radi zajedno sa SmokyPostom: ostavite oba aktivna. Traje otprilike minutu. Potpuni povrat novca unutar 14 dana od prve uplate.
+9fa65e|Vašoj se uplati duže nego inače treba pojaviti ovdje. Osvježite stranicu za nekoliko minuta. Ako je vaš paket nakon sat vremena i dalje Free, pišite na info@smokypost.com.
+bec297|Uplata je primljena. Vaš će paket uskoro postati aktivan, a ova će stranica to sama provjeriti.
+2c80f9|SmokyPost Pro
+b81f3c|SmokyPost Pro %s instaliran je i aktivan.
+d25d87|Njegove postavke nalaze se u SmokyPost > Pro, a kalendar u SmokyPost > Kalendar. Ažurira se sam.
+85e962|SmokyPost Pro instaliran je, ali nije aktivan. Aktivirajte ga na stranici Dodaci.
+a3bd33|Otvori Dodatke
+386940|Preuzmi SmokyPost Pro
+500b65|Poveznica vrijedi jedan sat. Uvijek se možete vratiti ovdje po novu.
+e9f36d|Nešto je pošlo po zlu. Pokušajte ponovno.
+6956cc|Paketi
+3faa64|Web-mjesta
+a97de4|Stavki dnevno
+360114|Cijena
+124864|%s godišnje
+441f54|Trenutačni paket
+690969|Prijeđi na ovaj paket
+f68358|Nadogradi
+5d6316|Plaćanja sigurno obrađuje Paddle. Cijene su u američkim dolarima, a porezi se dodaju pri plaćanju gdje se primjenjuju.
+be0482|Promjena paketa vrijedi odmah. Vidjet ćete točan iznos i potvrditi ga prije nego što se bilo što naplati.
+97788c|Upravljaj pretplatom
+1a7066|Otkaži i vrati novac
+b2c3ec|Povrat novca moguć je unutar 14 dana od prve uplate. Obnavljanje možete u svakom trenutku zaustaviti u „Upravljaj pretplatom”.
+b1c55c|Pitanja o uplati? Pišite na info@smokypost.com.
+a0d458|Možete otkazati i dobiti potpuni povrat novca do %s.
+361f28|Otkaži i zatraži povrat novca
+9b3448|Otkazati pretplatu i dobiti potpuni povrat novca? Sve što ste platili vraća se na karticu kojom ste platili. Za iskorištene dane ništa se ne zadržava. Vaš paket završava odmah, a ovo se web-mjesto vraća na Free.
+1e81d7|Da, otkaži i vrati novac
+ee6085|Starter
+abd900|Pro
+75ec3e|Agency
+0222db|Prijeđi na %s
+71d986|Danas će se s kartice kojom ste platili naplatiti %1$s (%2$s).
+a503a7|Danas će se s kartice kojom ste platili naplatiti %s.
+237ece|Sljedeće obnavljanje ostaje na %s.
+cb540f|Danas se ništa ne naplaćuje.
+1d46af|Razlika u cijeni bit će odobrena pri sljedećem obnavljanju, %s.
+937bcf|Razlika u cijeni bit će odobrena pri sljedećem obnavljanju.
+bd4a14|Nastaviti?
+cd1df7|Da, naplati %s
+6abb41|Da, promijeni paket
+17129e|Želite platiti drugom karticom? Otvorite „Upravljaj pretplatom”, ažurirajte način plaćanja i zatim ponovno promijenite paket.
+d4192d|koja završava na %s
+d4fbfe|%1$s, završava na %2$s
+b24ce0|Free
+9086fc|Dijeljenje je pauzirano dok ne potvrdite svoju adresu e-pošte.
+dbf504|Potvrdite svoju adresu e-pošte. Dijeljenje će se pauzirati za %d dan ako to ne učinite. ¦ Potvrdite svoju adresu e-pošte. Dijeljenje će se pauzirati za %d dana ako to ne učinite. ¦ Potvrdite svoju adresu e-pošte. Dijeljenje će se pauzirati za %d dana ako to ne učinite.
+933999|Pošalji poveznicu ponovno
+feb3a3|Korisničko ime na Blueskyju
+65255b|Zaporka aplikacije
+63d12d|Koristite zaporku aplikacije, a ne svoju glavnu zaporku za Bluesky. Mogu je koristiti samo aplikacije poput ove, a možete je u bilo kojem trenutku izbrisati na Blueskyju.
+4adaf4|Kako dobiti zaporku aplikacije?
+5c312e|Otvorite %s (ili na Blueskyju: Postavke > Privatnost i sigurnost > Zaporke aplikacija).
+9a01be|Kliknite „Add App Password” i nazovite je SmokyPost.
+61e507|Kopirajte zaporku koju Bluesky prikaže i zalijepite je ovdje.
+bd4bac|Vaš Mastodon poslužitelj
+9279eb|Adresa poslužitelja na kojem je vaš račun, na primjer mastodon.social, ili vaše puno ime u obliku @ime@mastodon.social. SmokyPost ćete odobriti na tom poslužitelju.
+f8b4c2|Prijavljeni ste. Sada odaberite račun na koji će ovo web-mjesto dijeliti.
+5bb110|Prijava je otkazana.
+262cb9|Prijava nije uspjela. Pokušajte ponovno.
+bcbbc8|Dobro je znati:
+914602|SmokyPost automatski dijeli nove objave pri objavi, uključujući one koje izrade drugi dodaci, uvoznici ili REST API. Automatsko dijeljenje možete uključiti ili isključiti za svaku platformu na njezinoj kartici u nastavku ili u Postavkama.
+78e981|Razumijem
+bae082|Otvori postavke
+8beb61|SmokyPost je gotovo spreman.
+4f4267|Poveži ovo web-mjesto
+2835b7|Nemate dopuštenje za ovu radnju.
+811723|Unesite valjanu adresu e-pošte.
+4b52c9|Unesite zaporku.
+cacd72|Koristite zaporku od najmanje 8 znakova.
+270228|Prihvatite Uvjete korištenja i Pravila privatnosti.
+c570e4|Vaš je račun spreman, a ovo je web-mjesto povezano. Poslali smo vam e-poštu za potvrdu adrese.
+e4912d|Prijavljeni ste. Ovo je web-mjesto povezano.
+a41cc2|Unesite licencni ključ.
+1448bb|Licenca je aktivirana. Ovo je web-mjesto povezano.
+025e69|Ako za ovu adresu postoji račun, poslali smo poveznicu za ponovno postavljanje zaporke.
+19d2aa|Ovo je web-mjesto odspojeno od SmokyPosta.
+ee3077|Odaberite valjane datume.
+12381e|Prvi datum mora biti prije posljednjeg.
+fd4f8f|Iz povijesti je očišćena %d stavka. ¦ Iz povijesti su očišćene %d stavke. ¦ Iz povijesti je očišćeno %d stavki.
+26d353|Nije bilo što očistiti. Zapisi koji se još šalju ostaju na popisu.
+b9a702|Ponovno smo poslali poveznicu za potvrdu.
+12bb90|Povezano. Sada odaberite račun na koji će ovo web-mjesto dijeliti.
+c4effa|Ova je promjena paketa istekla. Ponovno odaberite paket.
+5e77be|Vaš se paket mijenja. Može proći minuta dok se ovdje ne pojavi.
+d8d639|Povrat novca je zatražen, a pretplata otkazana. Paddle vraća novac na karticu kojom ste platili; može potrajati nekoliko dana.
+82bf3a|%1$s sada je povezan s %2$s.
+9a7e58|Postavke su spremljene.
+5677c1|Automatsko dijeljenje na %s je uključeno.
+fa4524|Automatsko dijeljenje na %s je isključeno.
+0a2f60|Nije podijeljeno
+498cc4|Podijeli putem SmokyPosta
+90929c|%d stavka stavljena je u red za dijeljenje. ¦ %d stavke stavljene su u red za dijeljenje. ¦ %d stavki stavljeno je u red za dijeljenje.
+81b7e8|%d stavku nije bilo moguće podijeliti; pogledajte stupac SmokyPost. ¦ %d stavke nije bilo moguće podijeliti; pogledajte stupac SmokyPost. ¦ %d stavki nije bilo moguće podijeliti; pogledajte stupac SmokyPost.
+f75f84|Ovo web-mjesto još nije povezano sa SmokyPostom.
+10112f|Slika za dijeljenje
+e57b53|Odabrano za dijeljenje
+85eb5a|Odaberi drugu sliku
+7cd243|Odaberi sliku
+f6b9f8|Koristi automatski odabir
+4c8d06|Slike u ovoj stavci:
+4f63a3|Koristi ovu sliku
+e6fce5|Ažuriranje stavke ne dijeli je ponovno. Kliknite „Podijeli sada” kako biste je podijelili.
+52beb6|Istaknuta slika objave
+860133|Prva slika u sadržaju (ova stavka nema istaknutu sliku)
+662aa1|Zadana slika iz postavki SmokyPosta (ova stavka nema sliku)
+c28cf8|Instagram zahtijeva sliku, a ova stavka je nema. Dodajte istaknutu sliku ili sliku u sadržaj, inače se neće podijeliti na Instagramu.
+1b1025|Podijeli u (neobavezno)
+d9c5f4|Format: %1$s, prema vremenu vašeg web-mjesta (%2$s). Ostavite prazno za trenutačno dijeljenje.
+03f222|To ne izgleda kao datum i vrijeme. Koristite format GGGG-MM-DD HH:MM, na primjer 2026-12-31 18:30.
+25f734|Zakaži
+fe3b13|Otkaži zakazano dijeljenje
+87b913|Izbriši podijeljene objave
+b21c60|Da, izbriši
+165825|Spremite stavku kako bi se promjena primijenila.
+9fb721|Nemate dopuštenje za dijeljenje ove stavke.
+d0bfeb|Nema što podijeliti: odaberite barem jednu povezanu platformu.
+9b3811|Slanje… Možete napustiti ovu stranicu, dijeljenje se nastavlja u pozadini.
+6a5c54|Zakazano za %s. Možete napustiti ovu stranicu.
+97c806|Za ovu stavku ništa nije zakazano.
+4e96d7|Zakazano dijeljenje je otkazano.
+2b0bb4|Nema što otkazati: već je poslano.
+e4c50f|Izbrisati podijeljene objave s platforme %s? Sama stavka ostaje na vašem web-mjestu.
+fe2165|Objave na platformi %s ne mogu se odavde izbrisati. Izbrišite ih sami u aplikaciji.
+0f2121|Nemate dopuštenje za promjenu ove stavke.
+605da5|Za ovu stavku nema što brisati.
+46dc65|Brisanje… Možete napustiti ovu stranicu, brisanje se nastavlja u pozadini.
+a3787e|Dovršeno, ali nešto nije uspjelo. Pogledajte u nastavku.
+f59405|Gotovo.
+50321d|Svakih 5 minuta (SmokyPost)
+67cfe6|Nije podijeljeno na Instagramu: Instagram zahtijeva sliku, a ova stavka je nema. Dodajte istaknutu sliku ili sliku u sadržaj.
+398d9f|Nije podijeljeno: potrebna je slika
+e44fa2|Podijeljeno (izbrišite sami u aplikaciji)
+a6156e|Podijeljeno
+d98139|Pogreška: %s
+d7c8c8|Pogreška
+a149e8|Otkazano
+e3f04d|Brisanje…
+93f07b|Izbrisano
+1c5338|Brisanje nije uspjelo: %s
+d581ce|Brisanje nije uspjelo
+6c7650|Na čekanju: dosegnuto je dnevno ograničenje, dijeli se nakon ponoći
+ccef9c|Na čekanju: potvrdite svoju adresu e-pošte
+a97547|Zakazano za %s
+923d48|Uskoro novi pokušaj
+7b2f31|U redu čekanja
+bc1f89|Veza je istekla. Ponovno se povežite u SmokyPostu.
+a608e9|Za ovu platformu nije odabrana stranica ili račun.
+347591|Ovo web-mjesto više nije povezano sa SmokyPostom.
+ecd22a|Vaš SmokyPost račun ili licenca nije aktivna.
+4b472d|Ova platforma nije uključena u vaš paket.
+852d39|Platforma nije dopustila objavu. Provjerite jeste li još uvijek administrator stranice i ponovno se povežite.
+5e0173|Platforma je blokirala ovu objavu.
+c939dc|Platforma je odbila ovu objavu kao duplikat.
+b96b3f|Instagram zahtijeva sliku. Dodajte objavi istaknutu sliku.
+191240|Platforma nije mogla upotrijebiti sliku. Isprobajte JPEG ili PNG sliku široku najmanje 600 piksela.
+28b253|Sliku nije bilo moguće pročitati. Koristite JPEG, PNG ili WebP.
+08c673|Slika je premala. Koristite sliku široku najmanje 600 piksela.
+e99a00|SmokyPost nije mogao preuzeti sliku s vašeg web-mjesta.
+7f8957|Sliku nije bilo moguće pripremiti.
+7fa12c|Platforma je bila nedostupna. SmokyPost je pokušao nekoliko puta.
+bd9611|Nije bilo moguće povezati se s platformom. SmokyPost je pokušao nekoliko puta.
+582ab1|Instagram nije na vrijeme prihvatio sliku.
+c19c4c|Platforma je odbila objavu.
+8a0741|Račun koji je objavio ovu objavu više nije povezan. Izbrišite objavu sami na platformi.
+ad0394|Ova se objava ne može automatski izbrisati. Izbrišite je sami na platformi.
+eb851e|SmokyPost – Automatsko dijeljenje na društvenim mrežama za objave i stranice
+6b6724|Automatski dijelite nove i stare objave i stranice na svoje račune na društvenim mrežama. Nisu potrebni razvojni računi ni API ključevi.
+a274f4|Obavijesti
+777ca2|Pošalji mi e-poštu kada
+28c682|dijeljenje ne uspije
+ecb9b9|sadržaj bude podijeljen
+8daff7|Dobivate jednu e-poštu po sadržaju. Neuspjelo dijeljenje prijavljuje se nakon što SmokyPost pokuša nekoliko puta, a isti problem na istoj platformi prijavljuje se jednom dnevno. E-pošta o isteku veze uvijek se šalje.
+ec7339|Šalji e-poštu na
+939f28|Više adresa odvojite zarezima. Ostavite prazno za adresu administratora ove web-stranice (%s).
+c2239a|SMTP
+00c7c2|Šalji SmokyPostovu e-poštu putem SMTP računa
+5efbcc|Koristite ovo ako e-pošta s vaše web-stranice ne stiže. Samo SmokyPostova e-pošta koristi ovaj račun, ostala e-pošta stranice ostaje nepromijenjena. Za SmokyPost vam ne treba poseban SMTP dodatak.
+bdd48f|SMTP poslužitelj
+60aaf4|Port
+d7f261|Šifriranje
+413acc|TLS (obično port 587)
+68b181|SSL (obično port 465)
+151adf|Bez šifriranja
+f6039d|Korisničko ime
+c6e6fb|Lozinka je postavljena u datoteci wp-config.php.
+0b5899|Lozinka je spremljena. Ostavite prazno da je zadržite.
+d7381f|Ukloni spremljenu lozinku
+7b710d|Lozinka se sprema šifrirana i više se nikada ne prikazuje. Za Gmail i Outlook koristite lozinku za aplikaciju.
+491147|E-pošta pošiljatelja
+7508f2|Većina pružatelja prihvaća samo adresu koja pripada računu.
+c3a7ea|Ime pošiljatelja
+f5d604|Spremi promjene
+f970b9|Pošalji probnu e-poštu
+81f545|Probna e-pošta prvo sprema gornje vrijednosti, a zatim ih koristi.
+1f2def|SmokyPost probna e-pošta
+2738c4|Ovo je probna e-pošta iz SmokyPosta. Ako je možete pročitati, SmokyPostova e-pošta stiže do vas.
+170c1a|Probna e-pošta poslana je na %s. Provjerite pristiglu poštu i mapu neželjene pošte.
+15a320|Probnu e-poštu nije bilo moguće poslati: %s Provjerite poslužitelj, port i šifriranje.
+11d6a3|Probnu e-poštu nije bilo moguće poslati. Provjerite poslužitelj, port i šifriranje.
+eb4da2|Ponovno povežite %s
+97ec08|Veza s uslugom %1$s je istekla, pa se novi sadržaj tamo ne može dijeliti. Ponovno povežite: %2$s
+e6a17f|Dijeljenje nije uspjelo: %s
+4bde81|„%s” nije bilo moguće podijeliti posvuda:
+f7ca6b|Podijeljeno: %s
+1c747d|„%s” je podijeljeno:
+89ae90|SmokyPost: dosegnuto je dnevno ograničenje
+8b9f2b|Dosegnuto je dnevno ograničenje vašeg paketa. Preostali sadržaj dijeli se nakon ponoći.
+591804|Otvori sadržaj: %s
+f4f486|Povijest: %s
+2396c6|Ovu e-poštu dobivate jer su SmokyPost obavijesti uključene za %1$s. Ovdje promijenite tko ih dobiva ili ih isključite: %2$s

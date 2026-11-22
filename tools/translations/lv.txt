@@ -1,0 +1,330 @@
+3b6e56|Pievienojiet savas lapas, lai kopīgotu šo saturu.
+c27b34|Atvērt SmokyPost
+bc871d|Sūtīšana vēl notiek. Pēc dažām minūtēm pārbaudiet cilni Vēsture.
+118c47|Neizdevās sazināties ar SmokyPost. Mēģiniet vēlreiz pēc dažām minūtēm.
+b090f4|Kopīgot tūlīt:
+d5c6d5|Kopīgot publicējot:
+b82400|nepieciešama atkārtota savienošana
+016408|Pašu ziņa (neobligāti)
+06651c|Atstājiet tukšu, lai izmantotu savu veidni.
+1d6da0|Publicējot tiks kopīgots atzīmētajās platformās.
+5b18fc|Publicējot kopīgots automātiski.
+04b478|Kopīgot tūlīt
+f4f707|Iestatījumi
+4d01e8|Sūta…
+834915|Dzēš…
+34b1ef|Nepieciešama jaunāka SmokyPost versija. Atjauniniet spraudni.
+ed49a3|Platformas
+16d2b3|Vēsture
+08bd40|Konts
+3b6c2b|Lietošanas noteikumi
+fa2ead|Privātuma politika
+777353|Automātiski kopīgojiet savus rakstus un lapas sociālajos tīklos. Izveidojiet bezmaksas kontu vai pierakstieties, lai savienotu šo vietni.
+e05afd|Savienojot šī vietne nosūta SmokyPost pakalpojumam (www.smokypost.com) savu adresi, WordPress un PHP versijas, valodu un laika joslu. Katra kopīgotā vienuma saturs tiek nosūtīts kopīgošanas brīdī.
+8ea211|Izveidot bezmaksas kontu
+1e884e|E-pasts
+6c2c15|Parole (vismaz 8 rakstzīmes)
+9ec73e|Piekrītu šiem dokumentiem: %1$s un %2$s.
+5853d4|Izveidot kontu un savienot
+3b2aee|Man jau ir konts
+dc647e|Parole
+ac6560|Pierakstīties un savienot
+422172|Tā vietā izmantot licences atslēgu
+52f88a|Savienot ar licences atslēgu
+01a569|Aizmirsāt paroli?
+733ae3|Sūtīt atiestatīšanas saiti
+0efe04|Savienojiet katru platformu un izvēlieties lapu vai kontu, kurā šī vietne kopīgos.
+43b540|Nav iekļauts jūsu plānā.
+4e7193|Īslaicīgi nav pieejams. Mēģiniet vēlāk.
+b9ba1a|Savienojuma derīgums beidzies. Savienojiet vēlreiz, lai turpinātu kopīgot.
+cf0b67|Savienot vēlreiz
+f4ec5f|Mainīt
+1063e3|Noņemt
+7dcd97|Nav savienots.
+49ab28|Savienot
+2bf7da|Izvēlēties no jūsu Facebook pierakstīšanās
+6330d1|Publicē jūsu tekstu un saiti vienā no jūsu Facebook lapām. Jūs pierakstāties, izmantojot Facebook.
+e33490|Nepieciešams profesionāls Instagram konts, kas saistīts ar Facebook lapu. Jūs pierakstāties, izmantojot Facebook.
+1abbcd|Publicē jūsu tekstu un saiti vienā no jūsu LinkedIn uzņēmuma lapām. Jūs pierakstāties, izmantojot LinkedIn.
+328737|Publicē jūsu tekstu, tēmturus un saites karti ar attēlu jūsu Bluesky kontā. Jūs savienojaties ar lietotājvārdu un lietotnes paroli.
+9d078b|Publicē jūsu tekstu, tēmturus un saiti jūsu Mastodon kontā jebkurā Mastodon serverī. SmokyPost apstiprināt savā serverī.
+b2d2d7|Publicē jūsu tekstu un saites karti jūsu Threads profilā. Jūs pierakstāties, izmantojot Threads.
+5f2e71|Publicē jūsu tekstu, atzīmes un saites karti ar attēlu vienā no jūsu Tumblr emuāriem. Jūs pierakstāties, izmantojot Tumblr.
+b4f827|Automātiska kopīgošana:
+521c36|Ieslēgta
+d15305|Izslēgta
+8e61d9|Izslēgt
+d154a5|Ieslēgt
+647bd1|Jaunie vienumi šeit tiek kopīgoti publicējot.
+7f9833|Kopīgo tikai tad, kad noklikšķināt uz “Kopīgot tūlīt”.
+bb7926|Jūs esat pierakstījies, taču jūsu kontus neizdevās parādīt: %s
+f915a9|Mēģināt vēlreiz
+ea4788|Atcelt
+0bfd8d|Vispirms savienojiet savu kontu.
+f85f84|Vispirms pierakstieties, lai redzētu savas lapas.
+f595ba|Šai pierakstīšanās reizei nav atrasta lapa vai konts, kurā varat publicēt.
+19c3d3|Pārliecinieties, ka jūsu Instagram konts ir profesionāls un saistīts ar vienu no jūsu Facebook lapām.
+5e5f56|(izmantojot %s)
+f64a44|Izmantot šo kontu
+6c803a|Neredzat īsto lapu?
+09a44d|Pierakstīties ar citu kontu
+04d144|Satura veidi
+725f6c|Automātiski tiek kopīgoti tikai šie veidi, un tikai tiem redaktorā ir SmokyPost lodziņš.
+6b0402|Automātiska kopīgošana
+280dc2|Automātiski kopīgot jaunos vienumus, tos publicējot:
+b3b6ce|nav savienots
+daf9e6|Noņemiet atzīmi platformai, lai tajā pārtrauktu automātisku kopīgošanu. Noņemiet visas atzīmes, lai izslēgtu automātisko kopīgošanu. Jebkuru vienumu vienmēr varat kopīgot pats ar pogu “Kopīgot tūlīt” redaktorā vai ierakstu sarakstā, un redaktorā varat noņemt platformas atzīmi atsevišķam vienumam.
+be518a|Automātiski izveidoti vienumi
+766287|Kopīgot arī vienumus, ko publicē citi spraudņi, importētāji, REST API vai WP-CLI
+f5c261|Pēc noklusējuma ieslēgts. Koda izveidotie vienumi (piemēram, automātiskais emuārs vai plūsmu importētājs) tiek kopīgoti iepriekš norādītajās platformās. Izslēdziet, ja vēlaties kopīgot tikai to, ko publicējat redaktorā.
+1aaf15|Izlaist importētos vienumus, kas vecāki par
+73cddd|st.
+29327b|Vienumu dzēšana
+295b79|Dzēst kopīgotos ierakstus, kad vienums tiek dzēsts
+0d9342|Pēc noklusējuma izslēgts. Kad vienumu pārvietojat uz atkritni vai izdzēšat, SmokyPost izdzēš arī tā ierakstus Facebook, LinkedIn, Bluesky, Mastodon, Threads un Tumblr. Instagram neatļauj citām lietotnēm dzēst ierakstus, tāpēc tie jāizdzēš Instagram lietotnē. Vienuma atjaunošana no atkritnes neatjauno ierakstus sociālajos tīklos.
+cb393c|Ziņas veidne
+6c08da|Vietturi:
+ffe7a1|Saiti katra platforma pievieno kā priekšskatījuma karti; Instagram tā tiek pievienota teksta beigās.
+caebe1|Pārvērst ieraksta atzīmes tēmturos platformām {hashtags}
+f784d5|Noklusējuma attēls
+b89f80|Izmanto, ja vienumam nav izceltā attēla un attēla saturā. Instagram vienmēr nepieciešams attēls.
+ef1486|Kopīgojumi pēdējā %d dienā. ¦ Kopīgojumi pēdējās %d dienās. ¦ Kopīgojumi pēdējās %d dienās.
+447497|Datums
+7d74f3|Vienums
+8eea62|Rezultāts
+902952|Vēl nekas nav kopīgots.
+5da05b|Notīrīt vēsturi
+5ca182|Vai notīrīt vēsturi noteiktiem datumiem vai visu? Tas, kas jau kopīgots, paliek jūsu sociālajos tīklos. Notīrītie ieraksti šajā sarakstā vairs netiek rādīti.
+5da618|No
+e12167|Līdz
+95b928|Atstājiet datumu tukšu, lai sāktu ar pirmo ierakstu vai beigtu ar šodienu.
+17cddf|Notīrīt šos datumus
+808768|Notīrīt visu vēsturi
+03727a|Diena
+7cbb88|Mēnesis
+537c66|Gads
+0b6cbd|Plāns
+a77d15|Licences atslēga
+6db829|Šodien kopīgots
+b362bb|%1$d no %2$d vienumiem
+494eb5|Šī vietne
+efb548|Atvienot šo vietni
+4fdc17|Vai atvienot šo vietni no SmokyPost? Kopīgošana apstāsies, līdz pierakstīsities vēlreiz.
+e54633|Jā, atvienot
+e2e646|Kā darbojas Pro
+377a68|Maksājiet droši, izmantojot Paddle.
+fbc905|Lejupielādējiet SmokyPost Pro ar pogu zemāk.
+7f189b|Atgriezieties šajā lapā. Parādīsies poga “Lejupielādēt SmokyPost Pro”, un to pašu saiti mēs nosūtīsim arī e-pastā.
+53f719|Instalējiet to sadaļā Spraudņi > Pievienot jaunu > Augšupielādēt spraudni un aktivizējiet. Jūsu licence tiek atpazīta automātiski, atslēga nav jāievada.
+eb475d|SmokyPost Pro ir otrs spraudnis, kas darbojas kopā ar SmokyPost: atstājiet aktīvus abus. Tas aizņem apmēram minūti. Pilna naudas atmaksa 14 dienu laikā pēc pirmā maksājuma.
+9fa65e|Jūsu maksājums šeit parādās ilgāk nekā parasti. Pēc dažām minūtēm pārlādējiet lapu. Ja pēc stundas jūsu plāns joprojām ir Free, rakstiet uz info@smokypost.com.
+bec297|Maksājums saņemts. Jūsu plāns drīz kļūs aktīvs, un šī lapa to pārbaudīs pati.
+2c80f9|SmokyPost Pro
+b81f3c|SmokyPost Pro %s ir instalēts un aktīvs.
+d25d87|Tā iestatījumi atrodas sadaļā SmokyPost > Pro, bet kalendārs sadaļā SmokyPost > Kalendārs. Tas atjaunojas pats.
+85e962|SmokyPost Pro ir instalēts, bet nav aktīvs. Aktivizējiet to lapā Spraudņi.
+a3bd33|Atvērt Spraudņus
+386940|Lejupielādēt SmokyPost Pro
+500b65|Saite ir derīga vienu stundu. Vienmēr varat atgriezties šeit pēc jaunas.
+e9f36d|Kaut kas nogāja greizi. Mēģiniet vēlreiz.
+6956cc|Plāni
+3faa64|Vietnes
+a97de4|Vienumi dienā
+360114|Cena
+124864|%s gadā
+441f54|Pašreizējais plāns
+690969|Pāriet uz šo plānu
+f68358|Uzlabot
+5d6316|Maksājumus droši apstrādā Paddle. Cenas ir ASV dolāros, un nodokļi tiek pievienoti apmaksas brīdī, kur tie ir piemērojami.
+be0482|Plāna maiņa stājas spēkā uzreiz. Precīzo summu jūs redzēsiet un apstiprināsiet, pirms tiek norakstīts jebkas.
+97788c|Pārvaldīt abonementu
+1a7066|Atcelt un saņemt naudu atpakaļ
+b2c3ec|Naudas atmaksa ir iespējama 14 dienu laikā pēc pirmā maksājuma. Atjaunošanu varat jebkurā brīdī apturēt sadaļā “Pārvaldīt abonementu”.
+b1c55c|Jautājumi par maksājumu? Rakstiet uz info@smokypost.com.
+a0d458|Jūs varat atcelt abonementu un saņemt pilnu naudas atmaksu līdz %s.
+361f28|Atcelt un saņemt atmaksu
+9b3448|Vai atcelt abonementu un saņemt pilnu naudas atmaksu? Viss, ko esat samaksājis, tiks atmaksāts uz karti, ar kuru maksājāt. Par izmantotajām dienām nekas netiek ieturēts. Jūsu plāns beidzas uzreiz, un šī vietne atgriežas pie Free.
+1e81d7|Jā, atcelt un atmaksāt
+ee6085|Starter
+abd900|Pro
+75ec3e|Agency
+0222db|Pāriet uz %s
+71d986|Šodien no kartes, ar kuru maksājāt, tiks norakstīti %1$s (%2$s).
+a503a7|Šodien no kartes, ar kuru maksājāt, tiks norakstīti %s.
+237ece|Nākamā atjaunošana paliek %s.
+cb540f|Šodien nekas netiek norakstīts.
+1d46af|Cenu starpība tiks ieskaitīta nākamajā atjaunošanā, %s.
+937bcf|Cenu starpība tiks ieskaitīta nākamajā atjaunošanā.
+bd4a14|Vai turpināt?
+cd1df7|Jā, norakstīt %s
+6abb41|Jā, mainīt plānu
+17129e|Vēlaties maksāt ar citu karti? Atveriet “Pārvaldīt abonementu”, atjauniniet maksājuma veidu un tad vēlreiz mainiet plānu.
+d4192d|kas beidzas ar %s
+d4fbfe|%1$s, kas beidzas ar %2$s
+b24ce0|Free
+9086fc|Kopīgošana ir apturēta, līdz apstiprināsiet savu e-pasta adresi.
+dbf504|Apstipriniet savu e-pasta adresi. Ja to nedarīsiet, kopīgošana tiks apturēta pēc %d dienas. ¦ Apstipriniet savu e-pasta adresi. Ja to nedarīsiet, kopīgošana tiks apturēta pēc %d dienām. ¦ Apstipriniet savu e-pasta adresi. Ja to nedarīsiet, kopīgošana tiks apturēta pēc %d dienām.
+933999|Sūtīt saiti vēlreiz
+feb3a3|Bluesky lietotājvārds
+65255b|Lietotnes parole
+63d12d|Izmantojiet lietotnes paroli, nevis savu galveno Bluesky paroli. To var izmantot tikai tādas lietotnes kā šī, un jūs to jebkurā laikā varat izdzēst Bluesky.
+4adaf4|Kā iegūt lietotnes paroli?
+5c312e|Atveriet %s (vai Bluesky: Iestatījumi > Privātums un drošība > Lietotņu paroles).
+9a01be|Noklikšķiniet uz “Add App Password” un nosauciet to SmokyPost.
+61e507|Nokopējiet paroli, ko parāda Bluesky, un ielīmējiet to šeit.
+bd4bac|Jūsu Mastodon serveris
+9279eb|Servera adrese, kurā atrodas jūsu konts, piemēram, mastodon.social, vai jūsu pilnais vārds formā @vārds@mastodon.social. SmokyPost apstiprināsiet šajā serverī.
+f8b4c2|Pierakstīšanās veiksmīga. Tagad izvēlieties kontu, kurā šī vietne kopīgos.
+5bb110|Pierakstīšanās tika atcelta.
+262cb9|Pierakstīties neizdevās. Mēģiniet vēlreiz.
+bcbbc8|Labi zināt:
+914602|SmokyPost automātiski kopīgo jaunos ierakstus, tos publicējot, tostarp tos, ko izveido citi spraudņi, importētāji vai REST API. Automātisko kopīgošanu katrai platformai varat ieslēgt vai izslēgt tās kartē zemāk vai sadaļā Iestatījumi.
+78e981|Sapratu
+bae082|Atvērt iestatījumus
+8beb61|SmokyPost ir gandrīz gatavs.
+4f4267|Savienot šo vietni
+2835b7|Jums nav atļaujas veikt šo darbību.
+811723|Ievadiet derīgu e-pasta adresi.
+4b52c9|Ievadiet paroli.
+cacd72|Izmantojiet paroli ar vismaz 8 rakstzīmēm.
+270228|Piekrītiet Lietošanas noteikumiem un Privātuma politikai.
+c570e4|Jūsu konts ir gatavs, un šī vietne ir savienota. Mēs nosūtījām jums e-pastu adreses apstiprināšanai.
+e4912d|Pierakstīšanās veiksmīga. Šī vietne ir savienota.
+a41cc2|Ievadiet licences atslēgu.
+1448bb|Licence aktivizēta. Šī vietne ir savienota.
+025e69|Ja šai adresei ir konts, mēs nosūtījām paroles atiestatīšanas saiti.
+19d2aa|Šī vietne ir atvienota no SmokyPost.
+ee3077|Izvēlieties derīgus datumus.
+12381e|Pirmajam datumam jābūt pirms pēdējā.
+fd4f8f|No vēstures notīrīts %d vienums. ¦ No vēstures notīrīti %d vienumi. ¦ No vēstures notīrīti %d vienumi.
+26d353|Nebija ko tīrīt. Ieraksti, kas vēl tiek sūtīti, paliek sarakstā.
+b9a702|Apstiprinājuma saiti nosūtījām vēlreiz.
+12bb90|Savienots. Tagad izvēlieties kontu, kurā šī vietne kopīgos.
+c4effa|Šīs plāna maiņas derīgums beidzies. Izvēlieties plānu vēlreiz.
+5e77be|Jūsu plāns tiek mainīts. Var paiet minūte, līdz tas parādīsies šeit.
+d8d639|Naudas atmaksa pieprasīta, abonements atcelts. Paddle atmaksā naudu uz karti, ar kuru maksājāt; tas var aizņemt dažas dienas.
+82bf3a|%1$s tagad ir savienots ar %2$s.
+9a7e58|Iestatījumi saglabāti.
+5677c1|Automātiska kopīgošana platformā %s ir ieslēgta.
+fa4524|Automātiska kopīgošana platformā %s ir izslēgta.
+0a2f60|Nav kopīgots
+498cc4|Kopīgot ar SmokyPost
+90929c|%d vienums ievietots kopīgošanas rindā. ¦ %d vienumi ievietoti kopīgošanas rindā. ¦ %d vienumi ievietoti kopīgošanas rindā.
+81b7e8|%d vienumu neizdevās kopīgot; skatiet SmokyPost kolonnu. ¦ %d vienumus neizdevās kopīgot; skatiet SmokyPost kolonnu. ¦ %d vienumus neizdevās kopīgot; skatiet SmokyPost kolonnu.
+f75f84|Šī vietne vēl nav savienota ar SmokyPost.
+10112f|Kopīgojamais attēls
+e57b53|Izvēlēts kopīgošanai
+85eb5a|Izvēlēties citu attēlu
+7cd243|Izvēlēties attēlu
+f6b9f8|Izmantot automātisko izvēli
+4c8d06|Attēli šajā vienumā:
+4f63a3|Izmantot šo attēlu
+e6fce5|Vienuma atjaunināšana to atkārtoti nekopīgo. Noklikšķiniet uz “Kopīgot tūlīt”, lai to kopīgotu.
+52beb6|Ieraksta izceltais attēls
+860133|Pirmais attēls saturā (šim vienumam nav izceltā attēla)
+662aa1|Noklusējuma attēls no SmokyPost iestatījumiem (šim vienumam nav attēla)
+c28cf8|Instagram nepieciešams attēls, bet šim vienumam tā nav. Pievienojiet izcelto attēlu vai attēlu saturā, citādi tas netiks kopīgots Instagram.
+1b1025|Kopīgot plkst. (neobligāti)
+d9c5f4|Formāts: %1$s, pēc jūsu vietnes laika (%2$s). Atstājiet tukšu, lai kopīgotu uzreiz.
+03f222|Tas neizskatās pēc datuma un laika. Izmantojiet formātu GGGG-MM-DD SS:MM, piemēram, 2026-12-31 18:30.
+25f734|Ieplānot
+fe3b13|Atcelt ieplānoto kopīgošanu
+87b913|Dzēst kopīgotos ierakstus
+b21c60|Jā, dzēst
+165825|Saglabājiet vienumu, lai izmaiņas stātos spēkā.
+9fb721|Jums nav atļaujas kopīgot šo vienumu.
+d0bfeb|Nav ko kopīgot: izvēlieties vismaz vienu savienotu platformu.
+9b3811|Sūta… Varat pamest šo lapu, kopīgošana turpinās fonā.
+6a5c54|Ieplānots uz %s. Varat pamest šo lapu.
+97c806|Šim vienumam nekas nav ieplānots.
+4e96d7|Ieplānotā kopīgošana tika atcelta.
+2b0bb4|Nav ko atcelt: tas jau ir nosūtīts.
+e4c50f|Vai dzēst kopīgotos ierakstus no %s? Pats vienums paliek jūsu vietnē.
+fe2165|Ierakstus platformā %s no šejienes dzēst nevar. Izdzēsiet tos paši lietotnē.
+0f2121|Jums nav atļaujas mainīt šo vienumu.
+605da5|Šim vienumam nav ko dzēst.
+46dc65|Dzēš… Varat pamest šo lapu, dzēšana turpinās fonā.
+a3787e|Pabeigts, taču kaut kas neizdevās. Skatiet zemāk.
+f59405|Gatavs.
+50321d|Ik pēc 5 minūtēm (SmokyPost)
+67cfe6|Nav kopīgots Instagram: Instagram nepieciešams attēls, bet šim vienumam tā nav. Pievienojiet izcelto attēlu vai attēlu saturā.
+398d9f|Nav kopīgots: nepieciešams attēls
+e44fa2|Kopīgots (izdzēsiet paši lietotnē)
+a6156e|Kopīgots
+d98139|Kļūda: %s
+d7c8c8|Kļūda
+a149e8|Atcelts
+e3f04d|Dzēš…
+93f07b|Izdzēsts
+1c5338|Dzēšana neizdevās: %s
+d581ce|Dzēšana neizdevās
+6c7650|Gaida: sasniegts dienas ierobežojums, kopīgos pēc pusnakts
+ccef9c|Gaida: apstipriniet savu e-pasta adresi
+a97547|Ieplānots uz %s
+923d48|Drīz mēģinās vēlreiz
+7b2f31|Rindā
+bc1f89|Savienojuma derīgums beidzies. Savienojiet vēlreiz SmokyPost.
+a608e9|Šai platformai nav izvēlēta lapa vai konts.
+347591|Šī vietne vairs nav savienota ar SmokyPost.
+ecd22a|Jūsu SmokyPost konts vai licence nav aktīva.
+4b472d|Šī platforma nav iekļauta jūsu plānā.
+852d39|Platforma publicēšanu neatļāva. Pārliecinieties, ka joprojām esat lapas administrators, un savienojiet vēlreiz.
+5e0173|Platforma šo ierakstu bloķēja.
+c939dc|Platforma šo ierakstu noraidīja kā dublikātu.
+b96b3f|Instagram nepieciešams attēls. Pievienojiet ierakstam izcelto attēlu.
+191240|Platforma nevarēja izmantot attēlu. Izmēģiniet JPEG vai PNG attēlu, kura platums ir vismaz 600 pikseļu.
+28b253|Attēlu neizdevās nolasīt. Izmantojiet JPEG, PNG vai WebP.
+08c673|Attēls ir pārāk mazs. Izmantojiet attēlu, kura platums ir vismaz 600 pikseļu.
+e99a00|SmokyPost nevarēja lejupielādēt attēlu no jūsu vietnes.
+7f8957|Attēlu neizdevās sagatavot.
+7fa12c|Platforma nebija pieejama. SmokyPost mēģināja vairākas reizes.
+bd9611|Neizdevās sazināties ar platformu. SmokyPost mēģināja vairākas reizes.
+582ab1|Instagram laikus nepieņēma attēlu.
+c19c4c|Platforma noraidīja ierakstu.
+8a0741|Konts, kas publicēja šo ierakstu, vairs nav savienots. Izdzēsiet ierakstu paši platformā.
+ad0394|Šo ierakstu nevar izdzēst automātiski. Izdzēsiet to paši platformā.
+eb851e|SmokyPost – Automātiska kopīgošana sociālajos tīklos ierakstiem un lapām
+6b6724|Automātiski kopīgojiet jaunus un vecus ierakstus un lapas savos sociālo tīklu kontos. Izstrādātāju kontu vai API atslēgu nav nepieciešams.
+a274f4|Paziņojumi
+777ca2|Sūtīt man e-pastu, kad
+28c682|kopīgošana neizdodas
+ecb9b9|saturs ir kopīgots
+8daff7|Jūs saņemat vienu e-pastu par saturu. Par neizdevušos kopīgošanu paziņo pēc tam, kad SmokyPost ir mēģinājis vairākas reizes, bet par to pašu problēmu tajā pašā platformā — reizi dienā. E-pasts par savienojuma derīguma beigām tiek sūtīts vienmēr.
+ec7339|Sūtīt e-pastus uz
+939f28|Vairākas adreses atdaliet ar komatiem. Atstājiet tukšu, lai izmantotu vietnes administratora adresi (%s).
+c2239a|SMTP
+00c7c2|Sūtīt SmokyPost e-pastus, izmantojot SMTP kontu
+5efbcc|Izmantojiet, ja jūsu vietnes e-pasti nenonāk līdz adresātam. Šo kontu izmanto tikai SmokyPost e-pasti, citi vietnes e-pasti netiek mainīti. SmokyPost nav nepieciešams atsevišķs SMTP spraudnis.
+bdd48f|SMTP serveris
+60aaf4|Ports
+d7f261|Šifrēšana
+413acc|TLS (parasti ports 587)
+68b181|SSL (parasti ports 465)
+151adf|Bez šifrēšanas
+f6039d|Lietotājvārds
+c6e6fb|Parole ir iestatīta failā wp-config.php.
+0b5899|Parole ir saglabāta. Atstājiet lauku tukšu, lai to paturētu.
+d7381f|Noņemt saglabāto paroli
+7b710d|Parole tiek glabāta šifrētā veidā un vairs nekad netiek rādīta. Gmail un Outlook izmantojiet lietotnes paroli.
+491147|Sūtītāja e-pasts
+7508f2|Lielākā daļa pakalpojumu sniedzēju pieņem tikai kontam piederošu adresi.
+c3a7ea|Sūtītāja vārds
+f5d604|Saglabāt izmaiņas
+f970b9|Sūtīt testa e-pastu
+81f545|Testa e-pasts vispirms saglabā iepriekš norādītās vērtības un pēc tam tās izmanto.
+1f2def|SmokyPost testa e-pasts
+2738c4|Šis ir SmokyPost testa e-pasts. Ja varat to izlasīt, SmokyPost e-pasti jūs sasniedz.
+170c1a|Testa e-pasts nosūtīts uz %s. Pārbaudiet iesūtni un surogātpasta mapi.
+15a320|Testa e-pastu neizdevās nosūtīt: %s Pārbaudiet serveri, portu un šifrēšanu.
+11d6a3|Testa e-pastu neizdevās nosūtīt. Pārbaudiet serveri, portu un šifrēšanu.
+eb4da2|Savienojiet %s vēlreiz
+97ec08|Savienojuma ar %1$s derīgums ir beidzies, tāpēc jaunu saturu tur kopīgot nevar. Savienojiet vēlreiz: %2$s
+e6a17f|Neizdevās kopīgot: %s
+4bde81|„%s” neizdevās kopīgot visur:
+f7ca6b|Kopīgots: %s
+1c747d|„%s” tika kopīgots:
+89ae90|SmokyPost: sasniegts dienas ierobežojums
+8b9f2b|Jūsu plāna dienas ierobežojums ir sasniegts. Atlikušais saturs tiek kopīgots pēc pusnakts.
+591804|Atvērt saturu: %s
+f4f486|Vēsture: %s
+2396c6|Jūs saņemat šo e-pastu, jo SmokyPost paziņojumi ir ieslēgti vietnei %1$s. Šeit varat mainīt, kas tos saņem, vai izslēgt tos: %2$s
