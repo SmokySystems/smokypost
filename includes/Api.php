@@ -60,6 +60,7 @@ final class Api {
 			'php_version'    => PHP_VERSION,
 			'locale'         => get_locale(),
 			'timezone'       => wp_timezone_string(),
+			'cron_url'       => site_url( 'wp-cron.php' ),
 		);
 	}
 
@@ -79,6 +80,8 @@ final class Api {
 			'X-SmokyPost-WP-Version'     => get_bloginfo( 'version' ),
 			'X-SmokyPost-PHP-Version'    => PHP_VERSION,
 			'X-SmokyPost-Timezone'       => wp_timezone_string(),
+			// SmokyPost calls this address every few minutes so that WP-Cron runs on quiet sites too.
+			'X-SmokyPost-Cron-Url'       => site_url( 'wp-cron.php' ),
 		);
 		if ( $auth ) {
 			if ( ! self::is_connected() ) {
