@@ -3,7 +3,7 @@
  * Plugin Name:       SmokyPost – Social Auto Share for Posts and Pages
  * Plugin URI:        https://www.smokypost.com/
  * Description:       Automatically share new and old posts and pages to your social media accounts. No developer accounts or API keys needed.
- * Version:           0.3.1
+ * Version:           0.3.2
  * Requires at least: 6.2
  * Requires PHP:      7.4
  * Author:            SmokySystems
@@ -18,7 +18,7 @@
 
 defined( 'ABSPATH' ) || exit;
 
-define( 'SMOKYPOST_VERSION', '0.3.1' );
+define( 'SMOKYPOST_VERSION', '0.3.2' );
 define( 'SMOKYPOST_FILE', __FILE__ );
 define( 'SMOKYPOST_DIR', plugin_dir_path( __FILE__ ) );
 define( 'SMOKYPOST_URL', plugin_dir_url( __FILE__ ) );
