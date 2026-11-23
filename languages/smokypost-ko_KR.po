@@ -22,7 +22,7 @@ msgstr "SmokyPost 열기"
 msgid "Still sending. Check the History tab in a few minutes."
 msgstr "아직 전송 중입니다. 몇 분 후 '기록' 탭을 확인하세요."
 
-#: assets/js/editor.js:238 assets/js/editor.js:261 assets/js/editor.js:288 includes/Api.php:106
+#: assets/js/editor.js:238 assets/js/editor.js:261 assets/js/editor.js:288 includes/Api.php:109
 msgid "SmokyPost could not be reached. Please try again in a few minutes."
 msgstr "SmokyPost에 연결할 수 없습니다. 몇 분 후 다시 시도하세요."
 
@@ -645,7 +645,7 @@ msgstr "SmokyPost Pro 다운로드"
 msgid "The link works for an hour. You can come back here and get a new one any time."
 msgstr "링크는 한 시간 동안 유효합니다. 언제든지 여기로 돌아와 새 링크를 받을 수 있습니다."
 
-#: includes/Admin/Page.php:646 includes/Admin/Page.php:1266 includes/Api.php:127
+#: includes/Admin/Page.php:646 includes/Admin/Page.php:1266 includes/Api.php:130
 msgid "Something went wrong. Please try again."
 msgstr "문제가 발생했습니다. 다시 시도하세요."
 
@@ -1049,7 +1049,7 @@ msgid "%d item could not be shared; see the SmokyPost column."
 msgid_plural "%d items could not be shared; see the SmokyPost column."
 msgstr[0] "%d개 항목을 공유하지 못했습니다. SmokyPost 열을 확인하세요."
 
-#: includes/Api.php:85
+#: includes/Api.php:88
 msgid "This site is not connected to SmokyPost yet."
 msgstr "이 사이트는 아직 SmokyPost에 연결되지 않았습니다."
 
@@ -1198,63 +1198,63 @@ msgid "Done."
 msgstr "완료되었습니다."
 
 #. translators: %s: platform name
-#: includes/Notifier.php:87
+#: includes/Notifier.php:92
 #, php-format
 msgid "Connect %s again"
 msgstr "%s 다시 연결하기"
 
 #. translators: 1: platform name, 2: link
-#: includes/Notifier.php:89
+#: includes/Notifier.php:94
 #, php-format
 msgid "The connection to %1$s has expired, so new items cannot be shared there. Connect it again: %2$s"
 msgstr "%1$s 연결이 만료되어 새 콘텐츠를 공유할 수 없습니다. 다시 연결하세요: %2$s"
 
 #. translators: %s: item title
-#: includes/Notifier.php:102
+#: includes/Notifier.php:107
 #, php-format
 msgid "Could not share: %s"
 msgstr "공유하지 못했습니다: %s"
 
 #. translators: %s: item title
-#: includes/Notifier.php:104
+#: includes/Notifier.php:109
 #, php-format
 msgid "\"%s\" could not be shared everywhere:"
 msgstr "“%s”을(를) 모든 곳에 공유하지 못했습니다:"
 
 #. translators: %s: item title
-#: includes/Notifier.php:108
+#: includes/Notifier.php:113
 #, php-format
 msgid "Shared: %s"
 msgstr "공유됨: %s"
 
 #. translators: %s: item title
-#: includes/Notifier.php:110
+#: includes/Notifier.php:115
 #, php-format
 msgid "\"%s\" was shared:"
 msgstr "“%s”이(가) 공유되었습니다:"
 
-#: includes/Notifier.php:124
+#: includes/Notifier.php:140
 msgid "SmokyPost: daily limit reached"
 msgstr "SmokyPost: 일일 한도에 도달했습니다"
 
-#: includes/Notifier.php:125
+#: includes/Notifier.php:141
 msgid "The daily limit of your plan is reached. The remaining items are shared after midnight."
 msgstr "요금제의 일일 한도에 도달했습니다. 남은 콘텐츠는 자정 이후에 공유됩니다."
 
 #. translators: %s: link
-#: includes/Notifier.php:175
+#: includes/Notifier.php:191
 #, php-format
 msgid "Open the item: %s"
 msgstr "콘텐츠 열기: %s"
 
 #. translators: %s: link
-#: includes/Notifier.php:177
+#: includes/Notifier.php:193
 #, php-format
 msgid "History: %s"
 msgstr "기록: %s"
 
 #. translators: 1: site name, 2: link
-#: includes/Notifier.php:224
+#: includes/Notifier.php:240
 #, php-format
 msgid "You get this e-mail because SmokyPost notifications are on for %1$s. Change who gets them, or turn them off, here: %2$s"
 msgstr "%1$s에서 SmokyPost 알림이 켜져 있어 이 이메일을 받으셨습니다. 수신자를 바꾸거나 알림을 끄려면 여기로 가세요: %2$s"

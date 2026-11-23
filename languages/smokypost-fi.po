@@ -22,7 +22,7 @@ msgstr "Avaa SmokyPost"
 msgid "Still sending. Check the History tab in a few minutes."
 msgstr "Lähetys on yhä käynnissä. Tarkista Historia-välilehti muutaman minuutin kuluttua."
 
-#: assets/js/editor.js:238 assets/js/editor.js:261 assets/js/editor.js:288 includes/Api.php:106
+#: assets/js/editor.js:238 assets/js/editor.js:261 assets/js/editor.js:288 includes/Api.php:109
 msgid "SmokyPost could not be reached. Please try again in a few minutes."
 msgstr "SmokyPostiin ei saatu yhteyttä. Yritä uudelleen muutaman minuutin kuluttua."
 
@@ -646,7 +646,7 @@ msgstr "Lataa SmokyPost Pro"
 msgid "The link works for an hour. You can come back here and get a new one any time."
 msgstr "Linkki toimii tunnin. Voit aina palata tänne hakemaan uuden."
 
-#: includes/Admin/Page.php:646 includes/Admin/Page.php:1266 includes/Api.php:127
+#: includes/Admin/Page.php:646 includes/Admin/Page.php:1266 includes/Api.php:130
 msgid "Something went wrong. Please try again."
 msgstr "Jokin meni pieleen. Yritä uudelleen."
 
@@ -1054,7 +1054,7 @@ msgid_plural "%d items could not be shared; see the SmokyPost column."
 msgstr[0] "%d sisältöä ei voitu jakaa; katso SmokyPost-sarake."
 msgstr[1] "%d sisältöä ei voitu jakaa; katso SmokyPost-sarake."
 
-#: includes/Api.php:85
+#: includes/Api.php:88
 msgid "This site is not connected to SmokyPost yet."
 msgstr "Tätä sivustoa ei ole vielä yhdistetty SmokyPostiin."
 
@@ -1203,63 +1203,63 @@ msgid "Done."
 msgstr "Valmis."
 
 #. translators: %s: platform name
-#: includes/Notifier.php:87
+#: includes/Notifier.php:92
 #, php-format
 msgid "Connect %s again"
 msgstr "Yhdistä %s uudelleen"
 
 #. translators: 1: platform name, 2: link
-#: includes/Notifier.php:89
+#: includes/Notifier.php:94
 #, php-format
 msgid "The connection to %1$s has expired, so new items cannot be shared there. Connect it again: %2$s"
 msgstr "Yhteys palveluun %1$s on vanhentunut, joten uusia sisältöjä ei voi jakaa sinne. Yhdistä uudelleen: %2$s"
 
 #. translators: %s: item title
-#: includes/Notifier.php:102
+#: includes/Notifier.php:107
 #, php-format
 msgid "Could not share: %s"
 msgstr "Jakaminen epäonnistui: %s"
 
 #. translators: %s: item title
-#: includes/Notifier.php:104
+#: includes/Notifier.php:109
 #, php-format
 msgid "\"%s\" could not be shared everywhere:"
 msgstr "”%s” ei voitu jakaa kaikkialle:"
 
 #. translators: %s: item title
-#: includes/Notifier.php:108
+#: includes/Notifier.php:113
 #, php-format
 msgid "Shared: %s"
 msgstr "Jaettu: %s"
 
 #. translators: %s: item title
-#: includes/Notifier.php:110
+#: includes/Notifier.php:115
 #, php-format
 msgid "\"%s\" was shared:"
 msgstr "”%s” jaettiin:"
 
-#: includes/Notifier.php:124
+#: includes/Notifier.php:140
 msgid "SmokyPost: daily limit reached"
 msgstr "SmokyPost: päivittäinen raja saavutettu"
 
-#: includes/Notifier.php:125
+#: includes/Notifier.php:141
 msgid "The daily limit of your plan is reached. The remaining items are shared after midnight."
 msgstr "Tilauksesi päivittäinen raja on saavutettu. Loput sisällöt jaetaan keskiyön jälkeen."
 
 #. translators: %s: link
-#: includes/Notifier.php:175
+#: includes/Notifier.php:191
 #, php-format
 msgid "Open the item: %s"
 msgstr "Avaa sisältö: %s"
 
 #. translators: %s: link
-#: includes/Notifier.php:177
+#: includes/Notifier.php:193
 #, php-format
 msgid "History: %s"
 msgstr "Historia: %s"
 
 #. translators: 1: site name, 2: link
-#: includes/Notifier.php:224
+#: includes/Notifier.php:240
 #, php-format
 msgid "You get this e-mail because SmokyPost notifications are on for %1$s. Change who gets them, or turn them off, here: %2$s"
 msgstr "Saat tämän sähköpostin, koska SmokyPostin ilmoitukset ovat käytössä sivustolla %1$s. Muuta tästä, kuka niitä saa, tai poista ne käytöstä: %2$s"

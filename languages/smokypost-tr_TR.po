@@ -22,7 +22,7 @@ msgstr "SmokyPost'u aç"
 msgid "Still sending. Check the History tab in a few minutes."
 msgstr "Hâlâ gönderiliyor. Birkaç dakika sonra Geçmiş sekmesine bakın."
 
-#: assets/js/editor.js:238 assets/js/editor.js:261 assets/js/editor.js:288 includes/Api.php:106
+#: assets/js/editor.js:238 assets/js/editor.js:261 assets/js/editor.js:288 includes/Api.php:109
 msgid "SmokyPost could not be reached. Please try again in a few minutes."
 msgstr "SmokyPost'a ulaşılamadı. Lütfen birkaç dakika sonra tekrar deneyin."
 
@@ -92,7 +92,7 @@ msgstr "Hesap"
 
 #: includes/Admin/Page.php:156
 msgid "Terms of Service"
-msgstr "Hizmet Şartları"
+msgstr "Hizmet koşulları"
 
 #: includes/Admin/Page.php:157
 msgid "Privacy Policy"
@@ -198,7 +198,7 @@ msgstr "Facebook girişinizden seçin"
 
 #: includes/Admin/Page.php:277
 msgid "Posts your text and a link to one of your Facebook Pages. You sign in with Facebook."
-msgstr "Metninizi ve bir bağlantıyı Facebook Sayfalarınızdan birine paylaşır. Facebook ile giriş yaparsınız."
+msgstr "Metninizi ve bir bağlantıyı Facebook sayfalarınızdan birine paylaşır. Facebook ile giriş yaparsınız."
 
 #: includes/Admin/Page.php:279
 msgid "Needs an Instagram professional account linked to a Facebook Page. You sign in with Facebook."
@@ -246,7 +246,7 @@ msgstr "Aç"
 
 #: includes/Admin/Page.php:306
 msgid "New items are shared here when they are published."
-msgstr "Yeni içerikler yayımlandığında burada paylaşılır."
+msgstr "Yeni ögeler yayımlandığında burada paylaşılır."
 
 #: includes/Admin/Page.php:306
 msgid "Only shared when you click \"Share now\"."
@@ -314,7 +314,7 @@ msgstr "Otomatik paylaşım"
 
 #: includes/Admin/Page.php:384
 msgid "Share new items automatically when they are published to:"
-msgstr "Yeni içerikler yayımlandığında şu platformlarda otomatik paylaşılsın:"
+msgstr "Yeni ögeler yayımlandığında şu platformlarda otomatik paylaşılsın:"
 
 #: includes/Admin/Page.php:386
 msgid "not connected"
@@ -330,7 +330,7 @@ msgstr "Otomatik oluşturulan içerikler"
 
 #: includes/Admin/Page.php:391
 msgid "Also share items published by other plugins, importers, the REST API or WP-CLI"
-msgstr "Başka eklentilerin, içe aktarıcıların, REST API'nin veya WP-CLI'nin yayımladığı içerikleri de paylaş"
+msgstr "Başka eklentilerin, içe aktarıcıların, REST API'nin veya WP-CLI'nin yayımladığı ögeleri de paylaş"
 
 #: includes/Admin/Page.php:392
 msgid "On by default. Items created by code (for example an autoblog or a feed importer) are shared to the platforms above. Turn this off if you only want to share what you publish in the editor."
@@ -338,7 +338,7 @@ msgstr "Varsayılan olarak açıktır. Kodla oluşturulan içerikler (örneğin 
 
 #: includes/Admin/Page.php:393
 msgid "Skip imported items older than"
-msgstr "Şundan eski içe aktarılan içerikleri atla:"
+msgstr "Şundan eski içe aktarılan ögeleri atla"
 
 #: includes/Admin/Page.php:393
 msgid "hours"
@@ -378,7 +378,7 @@ msgstr "Varsayılan görsel"
 
 #: includes/Admin/Page.php:404
 msgid "Used when an item has no featured image and no image in its content. Instagram always needs an image."
-msgstr "İçeriğin öne çıkarılmış görseli ya da metninde görsel yoksa kullanılır. Instagram her zaman görsel ister."
+msgstr "Ögenin öne çıkarılmış görseli ya da içeriğinde görsel yoksa kullanılır. Instagram her zaman görsel ister."
 
 #: includes/Admin/Page.php:418
 msgid "E-mail me when"
@@ -390,11 +390,11 @@ msgstr "paylaşım başarısız olduğunda"
 
 #: includes/Admin/Page.php:420
 msgid "an item was shared"
-msgstr "bir içerik paylaşıldığında"
+msgstr "bir öge paylaşıldığında"
 
 #: includes/Admin/Page.php:421
 msgid "You get one e-mail per item. A failed share is reported after SmokyPost has tried several times, and the same problem on the same platform is reported once a day. An e-mail that a connection has expired is always sent."
-msgstr "İçerik başına tek e-posta alırsınız. Başarısız bir paylaşım, SmokyPost birkaç kez denedikten sonra bildirilir; aynı platformdaki aynı sorun günde bir kez bildirilir. Bağlantının süresinin dolduğunu bildiren e-posta her zaman gönderilir."
+msgstr "Öge başına tek e-posta alırsınız. Başarısız bir paylaşım, SmokyPost birkaç kez denedikten sonra bildirilir; aynı platformdaki aynı sorun günde bir kez bildirilir. Bağlantının süresinin dolduğunu bildiren e-posta her zaman gönderilir."
 
 #: includes/Admin/Page.php:423
 msgid "Send e-mails to"
@@ -424,7 +424,7 @@ msgstr "SMTP sunucusu"
 
 #: includes/Admin/Page.php:433
 msgid "Port"
-msgstr "Port"
+msgstr "Bağlantı noktası"
 
 #: includes/Admin/Page.php:434
 msgid "Encryption"
@@ -500,7 +500,7 @@ msgstr "Tarih"
 
 #: includes/Admin/Page.php:491
 msgid "Item"
-msgstr "İçerik"
+msgstr "Öge"
 
 #: includes/Admin/Page.php:491
 msgid "Result"
@@ -614,7 +614,7 @@ msgstr "Ödemeniz burada her zamankinden geç görünüyor. Birkaç dakika sonra
 
 #: includes/Admin/Page.php:607
 msgid "Payment received. Your plan will be active in a moment, this page checks again by itself."
-msgstr "Ödeme alındı. Paketiniz birazdan etkinleşecek, bu sayfa kendiliğinden tekrar kontrol eder."
+msgstr "Ödeme alındı. Paketiniz birazdan etkinleşecek, bu sayfa kendiliğinden yeniden kontrol eder."
 
 #: includes/Admin/Page.php:619
 msgid "SmokyPost Pro"
@@ -646,9 +646,9 @@ msgstr "SmokyPost Pro'yu indir"
 msgid "The link works for an hour. You can come back here and get a new one any time."
 msgstr "Bağlantı bir saat geçerli. İstediğiniz zaman buraya dönüp yenisini alabilirsiniz."
 
-#: includes/Admin/Page.php:646 includes/Admin/Page.php:1266 includes/Api.php:127
+#: includes/Admin/Page.php:646 includes/Admin/Page.php:1266 includes/Api.php:130
 msgid "Something went wrong. Please try again."
-msgstr "Bir şeyler ters gitti. Lütfen tekrar deneyin."
+msgstr "Bir şeyler ters gitti. Lütfen yeniden deneyin."
 
 #: includes/Admin/Page.php:665
 msgid "Plans"
@@ -702,7 +702,7 @@ msgstr "İptal ve iade"
 
 #: includes/Admin/Page.php:705
 msgid "Refunds are available within 14 days of your first payment. You can stop the renewal at any time from Manage subscription."
-msgstr "İade, ilk ödemenizden sonraki 14 gün içinde yapılır. Yenilemeyi istediğiniz zaman Aboneliği yönet bölümünden durdurabilirsiniz."
+msgstr "İade, ilk ödemenizden sonraki 14 gün içinde yapılır. Yenilemeyi istediğiniz zaman aboneliği yönet bölümünden durdurabilirsiniz."
 
 #: includes/Admin/Page.php:706 includes/Admin/Page.php:717
 msgid "Questions about a payment? Write to info@smokypost.com."
@@ -720,7 +720,7 @@ msgstr "İptal et ve iade al"
 
 #: includes/Admin/Page.php:714
 msgid "Cancel your subscription and get a full refund? Everything you paid is returned to the card you paid with. Nothing is deducted for the days you used. Your plan ends right away and this site goes back to Free."
-msgstr "Aboneliği iptal edip tam iade almak istiyor musunuz? Ödediğiniz her şey, ödeme yaptığınız karta iade edilir. Kullandığınız günler için hiçbir kesinti yapılmaz. Paketiniz hemen sona erer ve bu site Ücretsiz pakete döner."
+msgstr "Aboneliği iptal edip tam iade almak istiyor musunuz? Ödediğiniz her şey, ödeme yaptığınız karta iade edilir. Kullandığınız günler için hiçbir kesinti yapılmaz. Paketiniz hemen sona erer ve bu site ücretsiz pakete döner."
 
 #: includes/Admin/Page.php:716
 msgid "Yes, cancel and refund"
@@ -728,7 +728,7 @@ msgstr "Evet, iptal et ve iade al"
 
 #: includes/Admin/Page.php:730 includes/Admin/Page.php:814
 msgid "Starter"
-msgstr "Starter"
+msgstr "Başlangıç"
 
 #: includes/Admin/Page.php:731 includes/Admin/Page.php:815
 msgid "Pro"
@@ -846,7 +846,7 @@ msgstr "Uygulama parolasını nereden alırım?"
 #: includes/Admin/Page.php:873
 #, php-format
 msgid "Open %s (or Settings > Privacy and security > App passwords in Bluesky)."
-msgstr "%s adresini açın (veya Bluesky'de Ayarlar > Gizlilik ve güvenlik > Uygulama şifreleri)."
+msgstr "%s adresini açın (veya Bluesky'de Ayarlar > Gizlilik ve güvenlik > Uygulama parolaları)."
 
 #: includes/Admin/Page.php:874
 msgid "Click \"Add App Password\" and name it SmokyPost."
@@ -874,7 +874,7 @@ msgstr "Giriş iptal edildi."
 
 #: includes/Admin/Page.php:924
 msgid "The sign-in did not work. Please try again."
-msgstr "Giriş başarısız oldu. Lütfen tekrar deneyin."
+msgstr "Giriş başarısız oldu. Lütfen yeniden deneyin."
 
 #: includes/Admin/Page.php:940
 msgid "Good to know:"
@@ -882,7 +882,7 @@ msgstr "Bilmeniz iyi olur:"
 
 #: includes/Admin/Page.php:940
 msgid "SmokyPost shares new posts automatically when they are published, including posts created by other plugins, importers or the REST API. You can turn automatic sharing on or off for each platform on its card below or under Settings."
-msgstr "SmokyPost yeni yazıları yayımlandıkları anda otomatik paylaşır; başka eklentilerin, içe aktarıcıların veya REST API'nin oluşturduğu yazılar da buna dahildir. Otomatik paylaşımı her platform için aşağıdaki kartından veya Ayarlar'dan açıp kapatabilirsiniz."
+msgstr "SmokyPost yeni yazıları yayımlandıkları anda otomatik paylaşır; başka eklentilerin, içe aktarıcıların veya REST API'nin oluşturduğu yazılar da buna dahildir. Otomatik paylaşımı her platform için aşağıdaki kartından veya ayarlar'dan açıp kapatabilirsiniz."
 
 #: includes/Admin/Page.php:942
 msgid "Got it"
@@ -918,7 +918,7 @@ msgstr "Lütfen en az 8 karakterli bir parola kullanın."
 
 #: includes/Admin/Page.php:1019
 msgid "Please accept the Terms of Service and the Privacy Policy."
-msgstr "Lütfen Hizmet Koşulları'nı ve Gizlilik Politikası'nı kabul edin."
+msgstr "Lütfen hizmet koşulları'nı ve gizlilik politikası'nı kabul edin."
 
 #: includes/Admin/Page.php:1042
 msgid "Your account is ready and this site is connected. We sent you an e-mail to confirm your address."
@@ -1006,7 +1006,7 @@ msgstr "Bu, SmokyPost'tan gönderilmiş bir deneme e-postasıdır. Bunu okuyabil
 #: includes/Admin/Page.php:1318
 #, php-format
 msgid "The test e-mail was sent to %s. Check your inbox and spam folder."
-msgstr "Deneme e-postası %s adresine gönderildi. Gelen kutunuza ve spam klasörünüze bakın."
+msgstr "Deneme e-postası %s adresine gönderildi. Gelen kutunuza ve istenmeyen klasörünüze bakın."
 
 #. translators: %s: error from the mail server
 #: includes/Admin/Page.php:1325
@@ -1054,7 +1054,7 @@ msgid_plural "%d items could not be shared; see the SmokyPost column."
 msgstr[0] "%d içerik paylaşılamadı; SmokyPost sütununa bakın."
 msgstr[1] "%d içerik paylaşılamadı; SmokyPost sütununa bakın."
 
-#: includes/Api.php:85
+#: includes/Api.php:88
 msgid "This site is not connected to SmokyPost yet."
 msgstr "Bu site henüz SmokyPost'a bağlı değil."
 
@@ -1088,7 +1088,7 @@ msgstr "Bu görseli kullan"
 
 #: includes/Editor.php:125
 msgid "Updating this item does not share it again. Click \"Share now\" to share it."
-msgstr "Bu içeriği güncellemek onu tekrar paylaşmaz. Paylaşmak için \"Şimdi paylaş\"a tıklayın."
+msgstr "Bu ögeyi güncellemek onu yeniden paylaşmaz. Paylaşmak için \"Şimdi paylaş\"a tıklayın."
 
 #: includes/Editor.php:126
 msgid "Featured image"
@@ -1096,7 +1096,7 @@ msgstr "Öne çıkan görsel"
 
 #: includes/Editor.php:127
 msgid "First image in the content (this item has no featured image)"
-msgstr "İçerikteki ilk görsel (bu içeriğin öne çıkarılmış görseli yok)"
+msgstr "İçerikteki ilk görsel (bu ögenin öne çıkarılmış görseli yok)"
 
 #: includes/Editor.php:128
 msgid "Default image from the SmokyPost settings (this item has no image)"
@@ -1104,7 +1104,7 @@ msgstr "SmokyPost ayarlarındaki varsayılan görsel (bu içeriğin görseli yok
 
 #: includes/Editor.php:130
 msgid "Instagram needs an image, and this item has none. Add a featured image or an image in the content, otherwise it is not shared to Instagram."
-msgstr "Instagram görsel istiyor ve bu içeriğin görseli yok. Bir öne çıkarılmış görsel ya da içeriğe bir görsel ekleyin; yoksa Instagram'da paylaşılmaz."
+msgstr "Instagram görsel istiyor ve bu ögenin görseli yok. Bir öne çıkarılmış görsel ya da içeriğe bir görsel ekleyin; yoksa Instagram'da paylaşılmaz."
 
 #: includes/Editor.php:135
 msgid "Share at (optional)"
@@ -1118,7 +1118,7 @@ msgstr "Biçim: %1$s, site saatinize göre (%2$s). Hemen paylaşmak için boş b
 
 #: includes/Editor.php:138
 msgid "This is not a valid date and time. Use the format YYYY-MM-DD HH:MM, for example 2026-12-31 18:30."
-msgstr "Geçerli bir tarih ve saat değil. YYYY-AA-GG SS:DD biçimini kullanın, örneğin 2026-12-31 18:30."
+msgstr "Geçerli bir tarih ve saat değil. YYYY-MM-DD HH:MM biçimini kullanın, örneğin 2026-12-31 18:30."
 
 #: includes/Editor.php:139
 msgid "Schedule"
@@ -1160,7 +1160,7 @@ msgstr "%s için zamanlandı. Bu sayfadan ayrılabilirsiniz."
 
 #: includes/Editor.php:419
 msgid "Nothing is scheduled for this item."
-msgstr "Bu içerik için zamanlanmış bir şey yok."
+msgstr "Bu öge için zamanlanmış bir şey yok."
 
 #: includes/Editor.php:437
 msgid "The scheduled share is cancelled."
@@ -1174,7 +1174,7 @@ msgstr "İptal edilecek bir şey yok: zaten gönderildi."
 #: includes/Editor.php:456
 #, php-format
 msgid "Delete the shared posts from %s? The item itself stays on your site."
-msgstr "Paylaşılan gönderiler %s üzerinden silinsin mi? İçeriğin kendisi sitenizde kalır."
+msgstr "Paylaşılan gönderiler %s üzerinden silinsin mi? Ögenin kendisi sitenizde kalır."
 
 #. translators: %s: platform names, for example "Instagram"
 #: includes/Editor.php:459 includes/Editor.php:511
@@ -1203,63 +1203,63 @@ msgid "Done."
 msgstr "Bitti."
 
 #. translators: %s: platform name
-#: includes/Notifier.php:87
+#: includes/Notifier.php:92
 #, php-format
 msgid "Connect %s again"
 msgstr "%s bağlantısını yeniden kurun"
 
 #. translators: 1: platform name, 2: link
-#: includes/Notifier.php:89
+#: includes/Notifier.php:94
 #, php-format
 msgid "The connection to %1$s has expired, so new items cannot be shared there. Connect it again: %2$s"
-msgstr "%1$s bağlantısının süresi doldu, bu yüzden yeni içerikler orada paylaşılamıyor. Yeniden bağlanın: %2$s"
+msgstr "%1$s bağlantısının süresi doldu, bu yüzden yeni ögeler orada paylaşılamıyor. Yeniden bağlanın: %2$s"
 
 #. translators: %s: item title
-#: includes/Notifier.php:102
+#: includes/Notifier.php:107
 #, php-format
 msgid "Could not share: %s"
 msgstr "Paylaşılamadı: %s"
 
 #. translators: %s: item title
-#: includes/Notifier.php:104
+#: includes/Notifier.php:109
 #, php-format
 msgid "\"%s\" could not be shared everywhere:"
 msgstr "\"%s\" her yerde paylaşılamadı:"
 
 #. translators: %s: item title
-#: includes/Notifier.php:108
+#: includes/Notifier.php:113
 #, php-format
 msgid "Shared: %s"
 msgstr "Paylaşıldı: %s"
 
 #. translators: %s: item title
-#: includes/Notifier.php:110
+#: includes/Notifier.php:115
 #, php-format
 msgid "\"%s\" was shared:"
 msgstr "\"%s\" paylaşıldı:"
 
-#: includes/Notifier.php:124
+#: includes/Notifier.php:140
 msgid "SmokyPost: daily limit reached"
 msgstr "SmokyPost: günlük sınıra ulaşıldı"
 
-#: includes/Notifier.php:125
+#: includes/Notifier.php:141
 msgid "The daily limit of your plan is reached. The remaining items are shared after midnight."
-msgstr "Paketinizin günlük sınırına ulaşıldı. Kalan içerikler gece yarısından sonra paylaşılır."
+msgstr "Paketinizin günlük sınırına ulaşıldı. Kalan ögeler gece yarısından sonra paylaşılır."
 
 #. translators: %s: link
-#: includes/Notifier.php:175
+#: includes/Notifier.php:191
 #, php-format
 msgid "Open the item: %s"
-msgstr "İçeriği aç: %s"
+msgstr "Ögeyi aç: %s"
 
 #. translators: %s: link
-#: includes/Notifier.php:177
+#: includes/Notifier.php:193
 #, php-format
 msgid "History: %s"
 msgstr "Geçmiş: %s"
 
 #. translators: 1: site name, 2: link
-#: includes/Notifier.php:224
+#: includes/Notifier.php:240
 #, php-format
 msgid "You get this e-mail because SmokyPost notifications are on for %1$s. Change who gets them, or turn them off, here: %2$s"
 msgstr "Bu e-postayı, %1$s için SmokyPost bildirimleri açık olduğu için alıyorsunuz. Kimlerin alacağını değiştirmek veya kapatmak için: %2$s"
@@ -1270,7 +1270,7 @@ msgstr "5 dakikada bir (SmokyPost)"
 
 #: includes/Sharer.php:494
 msgid "Not shared to Instagram: Instagram needs an image, and this item has none. Add a featured image or an image in the content."
-msgstr "Instagram'da paylaşılmadı: Instagram görsel istiyor ve bu içeriğin görseli yok. Bir öne çıkarılmış görsel ya da içeriğe bir görsel ekleyin."
+msgstr "Instagram'da paylaşılmadı: Instagram görsel istiyor ve bu ögenin görseli yok. Bir öne çıkarılmış görsel ya da içeriğe bir görsel ekleyin."
 
 #: includes/Status.php:60
 msgid "Not shared: needs an image"
@@ -1421,7 +1421,7 @@ msgstr "Bu gönderi otomatik silinemiyor. Platformdan kendiniz silin."
 #. Name of the plugin
 #: smokypost.php:3
 msgid "SmokyPost – Social Auto Share for Posts and Pages"
-msgstr "SmokyPost – Yazılar ve Sayfalar için Otomatik Sosyal Medya Paylaşımı"
+msgstr "SmokyPost – Yazılar ve sayfalar için otomatik sosyal medya paylaşımı"
 
 #. Description of the plugin
 #: smokypost.php:5

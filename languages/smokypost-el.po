@@ -22,7 +22,7 @@ msgstr "Άνοιγμα του SmokyPost"
 msgid "Still sending. Check the History tab in a few minutes."
 msgstr "Η αποστολή βρίσκεται ακόμη σε εξέλιξη. Ελέγξτε την καρτέλα Ιστορικό σε λίγα λεπτά."
 
-#: assets/js/editor.js:238 assets/js/editor.js:261 assets/js/editor.js:288 includes/Api.php:106
+#: assets/js/editor.js:238 assets/js/editor.js:261 assets/js/editor.js:288 includes/Api.php:109
 msgid "SmokyPost could not be reached. Please try again in a few minutes."
 msgstr "Δεν ήταν δυνατή η σύνδεση με το SmokyPost. Δοκιμάστε ξανά σε λίγα λεπτά."
 
@@ -646,7 +646,7 @@ msgstr "Λήψη του SmokyPost Pro"
 msgid "The link works for an hour. You can come back here and get a new one any time."
 msgstr "Ο σύνδεσμος ισχύει για μία ώρα. Μπορείτε να επιστρέψετε εδώ ανά πάσα στιγμή για νέο."
 
-#: includes/Admin/Page.php:646 includes/Admin/Page.php:1266 includes/Api.php:127
+#: includes/Admin/Page.php:646 includes/Admin/Page.php:1266 includes/Api.php:130
 msgid "Something went wrong. Please try again."
 msgstr "Κάτι πήγε στραβά. Δοκιμάστε ξανά."
 
@@ -1054,7 +1054,7 @@ msgid_plural "%d items could not be shared; see the SmokyPost column."
 msgstr[0] "%d στοιχείο δεν μπόρεσε να κοινοποιηθεί· δείτε τη στήλη SmokyPost."
 msgstr[1] "%d στοιχεία δεν μπόρεσαν να κοινοποιηθούν· δείτε τη στήλη SmokyPost."
 
-#: includes/Api.php:85
+#: includes/Api.php:88
 msgid "This site is not connected to SmokyPost yet."
 msgstr "Αυτός ο ιστότοπος δεν είναι ακόμη συνδεδεμένος με το SmokyPost."
 
@@ -1203,63 +1203,63 @@ msgid "Done."
 msgstr "Έτοιμο."
 
 #. translators: %s: platform name
-#: includes/Notifier.php:87
+#: includes/Notifier.php:92
 #, php-format
 msgid "Connect %s again"
 msgstr "Συνδέστε ξανά το %s"
 
 #. translators: 1: platform name, 2: link
-#: includes/Notifier.php:89
+#: includes/Notifier.php:94
 #, php-format
 msgid "The connection to %1$s has expired, so new items cannot be shared there. Connect it again: %2$s"
 msgstr "Η σύνδεση με το %1$s έληξε, οπότε νέα περιεχόμενα δεν μπορούν να κοινοποιηθούν εκεί. Συνδεθείτε ξανά: %2$s"
 
 #. translators: %s: item title
-#: includes/Notifier.php:102
+#: includes/Notifier.php:107
 #, php-format
 msgid "Could not share: %s"
 msgstr "Δεν ήταν δυνατή η κοινοποίηση: %s"
 
 #. translators: %s: item title
-#: includes/Notifier.php:104
+#: includes/Notifier.php:109
 #, php-format
 msgid "\"%s\" could not be shared everywhere:"
 msgstr "Το «%s» δεν κοινοποιήθηκε παντού:"
 
 #. translators: %s: item title
-#: includes/Notifier.php:108
+#: includes/Notifier.php:113
 #, php-format
 msgid "Shared: %s"
 msgstr "Κοινοποιήθηκε: %s"
 
 #. translators: %s: item title
-#: includes/Notifier.php:110
+#: includes/Notifier.php:115
 #, php-format
 msgid "\"%s\" was shared:"
 msgstr "Το «%s» κοινοποιήθηκε:"
 
-#: includes/Notifier.php:124
+#: includes/Notifier.php:140
 msgid "SmokyPost: daily limit reached"
 msgstr "SmokyPost: συμπληρώθηκε το ημερήσιο όριο"
 
-#: includes/Notifier.php:125
+#: includes/Notifier.php:141
 msgid "The daily limit of your plan is reached. The remaining items are shared after midnight."
 msgstr "Συμπληρώθηκε το ημερήσιο όριο του πακέτου σας. Τα υπόλοιπα περιεχόμενα κοινοποιούνται μετά τα μεσάνυχτα."
 
 #. translators: %s: link
-#: includes/Notifier.php:175
+#: includes/Notifier.php:191
 #, php-format
 msgid "Open the item: %s"
 msgstr "Άνοιγμα περιεχομένου: %s"
 
 #. translators: %s: link
-#: includes/Notifier.php:177
+#: includes/Notifier.php:193
 #, php-format
 msgid "History: %s"
 msgstr "Ιστορικό: %s"
 
 #. translators: 1: site name, 2: link
-#: includes/Notifier.php:224
+#: includes/Notifier.php:240
 #, php-format
 msgid "You get this e-mail because SmokyPost notifications are on for %1$s. Change who gets them, or turn them off, here: %2$s"
 msgstr "Λαμβάνετε αυτό το email επειδή οι ειδοποιήσεις του SmokyPost είναι ενεργές για το %1$s. Αλλάξτε ποιος τις λαμβάνει ή απενεργοποιήστε τις εδώ: %2$s"

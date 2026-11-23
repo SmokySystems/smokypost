@@ -22,7 +22,7 @@ msgstr "SmokyPost खोलें"
 msgid "Still sending. Check the History tab in a few minutes."
 msgstr "अभी भेजा जा रहा है। कुछ मिनट बाद इतिहास टैब देखें।"
 
-#: assets/js/editor.js:238 assets/js/editor.js:261 assets/js/editor.js:288 includes/Api.php:106
+#: assets/js/editor.js:238 assets/js/editor.js:261 assets/js/editor.js:288 includes/Api.php:109
 msgid "SmokyPost could not be reached. Please try again in a few minutes."
 msgstr "SmokyPost से कनेक्ट नहीं हो सका। कुछ मिनट बाद फिर कोशिश करें।"
 
@@ -646,7 +646,7 @@ msgstr "SmokyPost Pro डाउनलोड करें"
 msgid "The link works for an hour. You can come back here and get a new one any time."
 msgstr "लिंक एक घंटे के लिए मान्य है। नया लिंक पाने के लिए आप कभी भी यहाँ वापस आ सकते हैं।"
 
-#: includes/Admin/Page.php:646 includes/Admin/Page.php:1266 includes/Api.php:127
+#: includes/Admin/Page.php:646 includes/Admin/Page.php:1266 includes/Api.php:130
 msgid "Something went wrong. Please try again."
 msgstr "कुछ गड़बड़ हो गई। फिर कोशिश करें।"
 
@@ -1054,7 +1054,7 @@ msgid_plural "%d items could not be shared; see the SmokyPost column."
 msgstr[0] "%d आइटम साझा नहीं हो सका; SmokyPost कॉलम देखें।"
 msgstr[1] "%d आइटम साझा नहीं हो सके; SmokyPost कॉलम देखें।"
 
-#: includes/Api.php:85
+#: includes/Api.php:88
 msgid "This site is not connected to SmokyPost yet."
 msgstr "यह साइट अभी SmokyPost से कनेक्ट नहीं है।"
 
@@ -1203,63 +1203,63 @@ msgid "Done."
 msgstr "हो गया।"
 
 #. translators: %s: platform name
-#: includes/Notifier.php:87
+#: includes/Notifier.php:92
 #, php-format
 msgid "Connect %s again"
 msgstr "%s को फिर से कनेक्ट करें"
 
 #. translators: 1: platform name, 2: link
-#: includes/Notifier.php:89
+#: includes/Notifier.php:94
 #, php-format
 msgid "The connection to %1$s has expired, so new items cannot be shared there. Connect it again: %2$s"
 msgstr "%1$s का कनेक्शन समाप्त हो गया है, इसलिए नई सामग्री वहाँ शेयर नहीं हो सकती। फिर से कनेक्ट करें: %2$s"
 
 #. translators: %s: item title
-#: includes/Notifier.php:102
+#: includes/Notifier.php:107
 #, php-format
 msgid "Could not share: %s"
 msgstr "शेयर नहीं हो सका: %s"
 
 #. translators: %s: item title
-#: includes/Notifier.php:104
+#: includes/Notifier.php:109
 #, php-format
 msgid "\"%s\" could not be shared everywhere:"
 msgstr "“%s” हर जगह शेयर नहीं हो सका:"
 
 #. translators: %s: item title
-#: includes/Notifier.php:108
+#: includes/Notifier.php:113
 #, php-format
 msgid "Shared: %s"
 msgstr "शेयर किया गया: %s"
 
 #. translators: %s: item title
-#: includes/Notifier.php:110
+#: includes/Notifier.php:115
 #, php-format
 msgid "\"%s\" was shared:"
 msgstr "“%s” शेयर किया गया:"
 
-#: includes/Notifier.php:124
+#: includes/Notifier.php:140
 msgid "SmokyPost: daily limit reached"
 msgstr "SmokyPost: दैनिक सीमा पूरी हो गई"
 
-#: includes/Notifier.php:125
+#: includes/Notifier.php:141
 msgid "The daily limit of your plan is reached. The remaining items are shared after midnight."
 msgstr "आपके प्लान की दैनिक सीमा पूरी हो गई है। बाक़ी सामग्री आधी रात के बाद शेयर होगी।"
 
 #. translators: %s: link
-#: includes/Notifier.php:175
+#: includes/Notifier.php:191
 #, php-format
 msgid "Open the item: %s"
 msgstr "सामग्री खोलें: %s"
 
 #. translators: %s: link
-#: includes/Notifier.php:177
+#: includes/Notifier.php:193
 #, php-format
 msgid "History: %s"
 msgstr "इतिहास: %s"
 
 #. translators: 1: site name, 2: link
-#: includes/Notifier.php:224
+#: includes/Notifier.php:240
 #, php-format
 msgid "You get this e-mail because SmokyPost notifications are on for %1$s. Change who gets them, or turn them off, here: %2$s"
 msgstr "आपको यह ईमेल इसलिए मिल रहा है क्योंकि %1$s के लिए SmokyPost सूचनाएँ चालू हैं। यहाँ बदलें कि उन्हें कौन पाए, या उन्हें बंद करें: %2$s"

@@ -22,7 +22,7 @@ msgstr "Opna SmokyPost"
 msgid "Still sending. Check the History tab in a few minutes."
 msgstr "Sending stendur enn yfir. Athugaðu flipann Saga eftir nokkrar mínútur."
 
-#: assets/js/editor.js:238 assets/js/editor.js:261 assets/js/editor.js:288 includes/Api.php:106
+#: assets/js/editor.js:238 assets/js/editor.js:261 assets/js/editor.js:288 includes/Api.php:109
 msgid "SmokyPost could not be reached. Please try again in a few minutes."
 msgstr "Ekki náðist samband við SmokyPost. Reyndu aftur eftir nokkrar mínútur."
 
@@ -646,7 +646,7 @@ msgstr "Sækja SmokyPost Pro"
 msgid "The link works for an hour. You can come back here and get a new one any time."
 msgstr "Tengillinn gildir í eina klukkustund. Þú getur alltaf komið aftur hingað til að fá nýjan."
 
-#: includes/Admin/Page.php:646 includes/Admin/Page.php:1266 includes/Api.php:127
+#: includes/Admin/Page.php:646 includes/Admin/Page.php:1266 includes/Api.php:130
 msgid "Something went wrong. Please try again."
 msgstr "Eitthvað fór úrskeiðis. Reyndu aftur."
 
@@ -1054,7 +1054,7 @@ msgid_plural "%d items could not be shared; see the SmokyPost column."
 msgstr[0] "%d atriði tókst ekki að deila; sjá dálkinn SmokyPost."
 msgstr[1] "%d atriðum tókst ekki að deila; sjá dálkinn SmokyPost."
 
-#: includes/Api.php:85
+#: includes/Api.php:88
 msgid "This site is not connected to SmokyPost yet."
 msgstr "Þessi vefur er ekki enn tengdur við SmokyPost."
 
@@ -1203,63 +1203,63 @@ msgid "Done."
 msgstr "Tilbúið."
 
 #. translators: %s: platform name
-#: includes/Notifier.php:87
+#: includes/Notifier.php:92
 #, php-format
 msgid "Connect %s again"
 msgstr "Tengdu %s aftur"
 
 #. translators: 1: platform name, 2: link
-#: includes/Notifier.php:89
+#: includes/Notifier.php:94
 #, php-format
 msgid "The connection to %1$s has expired, so new items cannot be shared there. Connect it again: %2$s"
 msgstr "Tengingin við %1$s er útrunnin, svo ekki er hægt að deila nýju efni þar. Tengdu aftur: %2$s"
 
 #. translators: %s: item title
-#: includes/Notifier.php:102
+#: includes/Notifier.php:107
 #, php-format
 msgid "Could not share: %s"
 msgstr "Ekki tókst að deila: %s"
 
 #. translators: %s: item title
-#: includes/Notifier.php:104
+#: includes/Notifier.php:109
 #, php-format
 msgid "\"%s\" could not be shared everywhere:"
 msgstr "Ekki tókst að deila „%s“ alls staðar:"
 
 #. translators: %s: item title
-#: includes/Notifier.php:108
+#: includes/Notifier.php:113
 #, php-format
 msgid "Shared: %s"
 msgstr "Deilt: %s"
 
 #. translators: %s: item title
-#: includes/Notifier.php:110
+#: includes/Notifier.php:115
 #, php-format
 msgid "\"%s\" was shared:"
 msgstr "„%s“ var deilt:"
 
-#: includes/Notifier.php:124
+#: includes/Notifier.php:140
 msgid "SmokyPost: daily limit reached"
 msgstr "SmokyPost: dagsmörkum náð"
 
-#: includes/Notifier.php:125
+#: includes/Notifier.php:141
 msgid "The daily limit of your plan is reached. The remaining items are shared after midnight."
 msgstr "Dagsmörkum áskriftarinnar er náð. Efnið sem eftir er verður deilt eftir miðnætti."
 
 #. translators: %s: link
-#: includes/Notifier.php:175
+#: includes/Notifier.php:191
 #, php-format
 msgid "Open the item: %s"
 msgstr "Opna efnið: %s"
 
 #. translators: %s: link
-#: includes/Notifier.php:177
+#: includes/Notifier.php:193
 #, php-format
 msgid "History: %s"
 msgstr "Ferill: %s"
 
 #. translators: 1: site name, 2: link
-#: includes/Notifier.php:224
+#: includes/Notifier.php:240
 #, php-format
 msgid "You get this e-mail because SmokyPost notifications are on for %1$s. Change who gets them, or turn them off, here: %2$s"
 msgstr "Þú færð þennan tölvupóst vegna þess að tilkynningar SmokyPost eru virkar fyrir %1$s. Breyttu hér hverjir fá þær eða slökktu á þeim: %2$s"

@@ -22,7 +22,7 @@ msgstr "打开 SmokyPost"
 msgid "Still sending. Check the History tab in a few minutes."
 msgstr "仍在发送中。请几分钟后查看“历史记录”选项卡。"
 
-#: assets/js/editor.js:238 assets/js/editor.js:261 assets/js/editor.js:288 includes/Api.php:106
+#: assets/js/editor.js:238 assets/js/editor.js:261 assets/js/editor.js:288 includes/Api.php:109
 msgid "SmokyPost could not be reached. Please try again in a few minutes."
 msgstr "无法连接到 SmokyPost。请几分钟后重试。"
 
@@ -645,7 +645,7 @@ msgstr "下载 SmokyPost Pro"
 msgid "The link works for an hour. You can come back here and get a new one any time."
 msgstr "链接有效期为一小时。您随时可以回到这里获取新链接。"
 
-#: includes/Admin/Page.php:646 includes/Admin/Page.php:1266 includes/Api.php:127
+#: includes/Admin/Page.php:646 includes/Admin/Page.php:1266 includes/Api.php:130
 msgid "Something went wrong. Please try again."
 msgstr "出了点问题。请重试。"
 
@@ -1049,7 +1049,7 @@ msgid "%d item could not be shared; see the SmokyPost column."
 msgid_plural "%d items could not be shared; see the SmokyPost column."
 msgstr[0] "有 %d 项内容分享失败；请查看 SmokyPost 列。"
 
-#: includes/Api.php:85
+#: includes/Api.php:88
 msgid "This site is not connected to SmokyPost yet."
 msgstr "此站点尚未连接到 SmokyPost。"
 
@@ -1198,63 +1198,63 @@ msgid "Done."
 msgstr "完成。"
 
 #. translators: %s: platform name
-#: includes/Notifier.php:87
+#: includes/Notifier.php:92
 #, php-format
 msgid "Connect %s again"
 msgstr "重新连接 %s"
 
 #. translators: 1: platform name, 2: link
-#: includes/Notifier.php:89
+#: includes/Notifier.php:94
 #, php-format
 msgid "The connection to %1$s has expired, so new items cannot be shared there. Connect it again: %2$s"
 msgstr "与 %1$s 的连接已过期，因此无法在那里分享新内容。请重新连接：%2$s"
 
 #. translators: %s: item title
-#: includes/Notifier.php:102
+#: includes/Notifier.php:107
 #, php-format
 msgid "Could not share: %s"
 msgstr "无法分享：%s"
 
 #. translators: %s: item title
-#: includes/Notifier.php:104
+#: includes/Notifier.php:109
 #, php-format
 msgid "\"%s\" could not be shared everywhere:"
 msgstr "“%s”无法在所有平台分享："
 
 #. translators: %s: item title
-#: includes/Notifier.php:108
+#: includes/Notifier.php:113
 #, php-format
 msgid "Shared: %s"
 msgstr "已分享：%s"
 
 #. translators: %s: item title
-#: includes/Notifier.php:110
+#: includes/Notifier.php:115
 #, php-format
 msgid "\"%s\" was shared:"
 msgstr "已分享“%s”："
 
-#: includes/Notifier.php:124
+#: includes/Notifier.php:140
 msgid "SmokyPost: daily limit reached"
 msgstr "SmokyPost：已达到每日上限"
 
-#: includes/Notifier.php:125
+#: includes/Notifier.php:141
 msgid "The daily limit of your plan is reached. The remaining items are shared after midnight."
 msgstr "已达到您套餐的每日上限。剩余内容将在午夜之后分享。"
 
 #. translators: %s: link
-#: includes/Notifier.php:175
+#: includes/Notifier.php:191
 #, php-format
 msgid "Open the item: %s"
 msgstr "打开内容：%s"
 
 #. translators: %s: link
-#: includes/Notifier.php:177
+#: includes/Notifier.php:193
 #, php-format
 msgid "History: %s"
 msgstr "历史记录：%s"
 
 #. translators: 1: site name, 2: link
-#: includes/Notifier.php:224
+#: includes/Notifier.php:240
 #, php-format
 msgid "You get this e-mail because SmokyPost notifications are on for %1$s. Change who gets them, or turn them off, here: %2$s"
 msgstr "您收到此邮件，是因为 %1$s 已开启 SmokyPost 通知。在这里更改接收人或关闭通知：%2$s"

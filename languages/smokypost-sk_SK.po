@@ -22,7 +22,7 @@ msgstr "Otvoriť SmokyPost"
 msgid "Still sending. Check the History tab in a few minutes."
 msgstr "Odosielanie stále prebieha. O niekoľko minút skontrolujte kartu História."
 
-#: assets/js/editor.js:238 assets/js/editor.js:261 assets/js/editor.js:288 includes/Api.php:106
+#: assets/js/editor.js:238 assets/js/editor.js:261 assets/js/editor.js:288 includes/Api.php:109
 msgid "SmokyPost could not be reached. Please try again in a few minutes."
 msgstr "So SmokyPost sa nepodarilo spojiť. Skúste to znova o niekoľko minút."
 
@@ -647,7 +647,7 @@ msgstr "Stiahnuť SmokyPost Pro"
 msgid "The link works for an hour. You can come back here and get a new one any time."
 msgstr "Odkaz platí jednu hodinu. Kedykoľvek sa sem môžete vrátiť po nový."
 
-#: includes/Admin/Page.php:646 includes/Admin/Page.php:1266 includes/Api.php:127
+#: includes/Admin/Page.php:646 includes/Admin/Page.php:1266 includes/Api.php:130
 msgid "Something went wrong. Please try again."
 msgstr "Niečo sa pokazilo. Skúste to znova."
 
@@ -1059,7 +1059,7 @@ msgstr[0] "%d položku sa nepodarilo zdieľať; pozrite stĺpec SmokyPost."
 msgstr[1] "%d položky sa nepodarilo zdieľať; pozrite stĺpec SmokyPost."
 msgstr[2] "%d položiek sa nepodarilo zdieľať; pozrite stĺpec SmokyPost."
 
-#: includes/Api.php:85
+#: includes/Api.php:88
 msgid "This site is not connected to SmokyPost yet."
 msgstr "Táto stránka ešte nie je pripojená k SmokyPost."
 
@@ -1208,63 +1208,63 @@ msgid "Done."
 msgstr "Hotovo."
 
 #. translators: %s: platform name
-#: includes/Notifier.php:87
+#: includes/Notifier.php:92
 #, php-format
 msgid "Connect %s again"
 msgstr "Prepojte %s znova"
 
 #. translators: 1: platform name, 2: link
-#: includes/Notifier.php:89
+#: includes/Notifier.php:94
 #, php-format
 msgid "The connection to %1$s has expired, so new items cannot be shared there. Connect it again: %2$s"
 msgstr "Prepojenie s %1$s vypršalo, takže tam nemožno zdieľať nový obsah. Prepojte znova: %2$s"
 
 #. translators: %s: item title
-#: includes/Notifier.php:102
+#: includes/Notifier.php:107
 #, php-format
 msgid "Could not share: %s"
 msgstr "Zdieľanie zlyhalo: %s"
 
 #. translators: %s: item title
-#: includes/Notifier.php:104
+#: includes/Notifier.php:109
 #, php-format
 msgid "\"%s\" could not be shared everywhere:"
 msgstr "„%s“ sa nepodarilo zdieľať všade:"
 
 #. translators: %s: item title
-#: includes/Notifier.php:108
+#: includes/Notifier.php:113
 #, php-format
 msgid "Shared: %s"
 msgstr "Zdieľané: %s"
 
 #. translators: %s: item title
-#: includes/Notifier.php:110
+#: includes/Notifier.php:115
 #, php-format
 msgid "\"%s\" was shared:"
 msgstr "„%s“ bolo zdieľané:"
 
-#: includes/Notifier.php:124
+#: includes/Notifier.php:140
 msgid "SmokyPost: daily limit reached"
 msgstr "SmokyPost: dosiahnutý denný limit"
 
-#: includes/Notifier.php:125
+#: includes/Notifier.php:141
 msgid "The daily limit of your plan is reached. The remaining items are shared after midnight."
 msgstr "Denný limit vášho plánu bol dosiahnutý. Zvyšný obsah sa zdieľa po polnoci."
 
 #. translators: %s: link
-#: includes/Notifier.php:175
+#: includes/Notifier.php:191
 #, php-format
 msgid "Open the item: %s"
 msgstr "Otvoriť obsah: %s"
 
 #. translators: %s: link
-#: includes/Notifier.php:177
+#: includes/Notifier.php:193
 #, php-format
 msgid "History: %s"
 msgstr "História: %s"
 
 #. translators: 1: site name, 2: link
-#: includes/Notifier.php:224
+#: includes/Notifier.php:240
 #, php-format
 msgid "You get this e-mail because SmokyPost notifications are on for %1$s. Change who gets them, or turn them off, here: %2$s"
 msgstr "Tento e-mail dostávate, pretože sú pre %1$s zapnuté upozornenia SmokyPost. Tu môžete zmeniť, kto ich dostáva, alebo ich vypnúť: %2$s"
