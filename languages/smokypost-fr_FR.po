@@ -1421,7 +1421,7 @@ msgstr "Cette publication ne peut pas être supprimée automatiquement. Supprime
 #. Name of the plugin
 #: smokypost.php:3
 msgid "SmokyPost – Social Auto Share for Posts and Pages"
-msgstr "SmokyPost – Partage automatique sur les réseaux sociaux pour articles et pages"
+msgstr "SmokyPost – Partage Automatique sur les Réseaux Sociaux pour Articles et Pages"
 
 #. Description of the plugin
 #: smokypost.php:5

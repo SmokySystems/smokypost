@@ -283,7 +283,7 @@ bd9611|Det gick inte att nå plattformen. SmokyPost försökte flera gånger.
 c19c4c|Plattformen avvisade inlägget.
 8a0741|Kontot som publicerade det här inlägget är inte längre anslutet. Ta bort inlägget själv på plattformen.
 ad0394|Det här inlägget kan inte tas bort automatiskt. Ta bort det själv på plattformen.
-eb851e|SmokyPost – Automatisk delning på sociala medier för inlägg och sidor
+eb851e|SmokyPost – Automatisk Delning på Sociala Medier för Inlägg och Sidor
 6b6724|Dela nya och gamla inlägg och sidor automatiskt på dina konton i sociala medier. Inga utvecklarkonton eller API-nycklar behövs.
 a274f4|Aviseringar
 777ca2|Mejla mig när

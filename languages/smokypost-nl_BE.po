@@ -1421,7 +1421,7 @@ msgstr "Dit bericht kan niet automatisch worden verwijderd. Verwijder het zelf o
 #. Name of the plugin
 #: smokypost.php:3
 msgid "SmokyPost – Social Auto Share for Posts and Pages"
-msgstr "SmokyPost – Automatisch delen op sociale media voor berichten en pagina's"
+msgstr "SmokyPost – Automatisch Delen op Sociale Media voor Berichten en Pagina's"
 
 #. Description of the plugin
 #: smokypost.php:5

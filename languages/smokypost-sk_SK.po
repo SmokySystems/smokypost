@@ -1426,7 +1426,7 @@ msgstr "Tento príspevok nemožno zmazať automaticky. Zmažte ho sami na platfo
 #. Name of the plugin
 #: smokypost.php:3
 msgid "SmokyPost – Social Auto Share for Posts and Pages"
-msgstr "SmokyPost – Automatické zdieľanie na sociálnych sieťach pre príspevky a stránky"
+msgstr "SmokyPost – Automatické Zdieľanie na Sociálnych Sieťach pre Príspevky a Stránky"
 
 #. Description of the plugin
 #: smokypost.php:5

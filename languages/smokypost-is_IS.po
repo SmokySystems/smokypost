@@ -1421,7 +1421,7 @@ msgstr "Ekki er hægt að eyða þessari færslu sjálfkrafa. Eyddu henni sjálf
 #. Name of the plugin
 #: smokypost.php:3
 msgid "SmokyPost – Social Auto Share for Posts and Pages"
-msgstr "SmokyPost – Sjálfvirk deiling á samfélagsmiðlum fyrir færslur og síður"
+msgstr "SmokyPost – Sjálfvirk Deiling á Samfélagsmiðlum fyrir Færslur og Síður"
 
 #. Description of the plugin
 #: smokypost.php:5

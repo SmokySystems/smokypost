@@ -283,7 +283,7 @@ bd9611|Palveluun ei saatu yhteyttä. SmokyPost yritti useita kertoja.
 c19c4c|Palvelu hylkäsi julkaisun.
 8a0741|Tämän julkaisun tehnyt tili ei ole enää yhdistettynä. Poista julkaisu itse palvelussa.
 ad0394|Tätä julkaisua ei voi poistaa automaattisesti. Poista se itse palvelussa.
-eb851e|SmokyPost – Automaattinen jakaminen sosiaaliseen mediaan julkaisuille ja sivuille
+eb851e|SmokyPost – Automaattinen Jakaminen Sosiaaliseen Mediaan Julkaisuille ja Sivuille
 6b6724|Jaa uudet ja vanhat julkaisut ja sivut automaattisesti sosiaalisen median tileillesi. Kehittäjätilejä tai API-avaimia ei tarvita.
 a274f4|Ilmoitukset
 777ca2|Lähetä minulle sähköposti, kun

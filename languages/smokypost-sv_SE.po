@@ -1421,7 +1421,7 @@ msgstr "Det här inlägget kan inte tas bort automatiskt. Ta bort det själv på
 #. Name of the plugin
 #: smokypost.php:3
 msgid "SmokyPost – Social Auto Share for Posts and Pages"
-msgstr "SmokyPost – Automatisk delning på sociala medier för inlägg och sidor"
+msgstr "SmokyPost – Automatisk Delning på Sociala Medier för Inlägg och Sidor"
 
 #. Description of the plugin
 #: smokypost.php:5

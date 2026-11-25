@@ -283,7 +283,7 @@ bd9611|Platvormiga ei õnnestunud ühendust saada. SmokyPost proovis mitu korda.
 c19c4c|Platvorm lükkas postituse tagasi.
 8a0741|Konto, mis selle postituse avaldas, pole enam ühendatud. Kustuta postitus ise platvormil.
 ad0394|Seda postitust ei saa automaatselt kustutada. Kustuta see ise platvormil.
-eb851e|SmokyPost – Automaatne jagamine sotsiaalmeedias postituste ja lehtede jaoks
+eb851e|SmokyPost – Automaatne Jagamine Sotsiaalmeedias Postituste ja Lehtede Jaoks
 6b6724|Jaga uusi ja vanu postitusi ning lehti automaatselt oma sotsiaalmeedia kontodel. Arendajakontosid ega API võtmeid pole vaja.
 a274f4|Teavitused
 777ca2|Saada mulle e-kiri, kui

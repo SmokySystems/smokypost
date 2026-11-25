@@ -1421,7 +1421,7 @@ msgstr "Aquesta publicació no es pot suprimir automàticament. Suprimeix-la tu 
 #. Name of the plugin
 #: smokypost.php:3
 msgid "SmokyPost – Social Auto Share for Posts and Pages"
-msgstr "SmokyPost – Compartició automàtica a les xarxes socials per a entrades i pàgines"
+msgstr "SmokyPost – Compartició Automàtica a les Xarxes Socials per a Entrades i Pàgines"
 
 #. Description of the plugin
 #: smokypost.php:5

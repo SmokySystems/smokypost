@@ -1426,7 +1426,7 @@ msgstr "Цей допис не можна видалити автоматичн�
 #. Name of the plugin
 #: smokypost.php:3
 msgid "SmokyPost – Social Auto Share for Posts and Pages"
-msgstr "SmokyPost – Автоматичне поширення в соцмережах для дописів і сторінок"
+msgstr "SmokyPost – Автоматичне Поширення в Соцмережах для Дописів і Сторінок"
 
 #. Description of the plugin
 #: smokypost.php:5

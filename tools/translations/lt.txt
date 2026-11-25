@@ -283,7 +283,7 @@ bd9611|Nepavyko susisiekti su platforma. „SmokyPost“ bandė kelis kartus.
 c19c4c|Platforma atmetė įrašą.
 8a0741|Paskyra, paskelbusi šį įrašą, nebeprijungta. Ištrinkite įrašą patys platformoje.
 ad0394|Šio įrašo negalima ištrinti automatiškai. Ištrinkite jį patys platformoje.
-eb851e|SmokyPost – Automatinis dalijimasis socialiniuose tinkluose įrašams ir puslapiams
+eb851e|SmokyPost – Automatinis Dalijimasis Socialiniuose Tinkluose Įrašams ir Puslapiams
 6b6724|Automatiškai dalinkitės naujais ir senais įrašais bei puslapiais savo socialinių tinklų paskyrose. Kūrėjo paskyrų ar API raktų nereikia.
 a274f4|Pranešimai
 777ca2|Siųsti man el. laišką, kai

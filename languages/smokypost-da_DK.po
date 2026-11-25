@@ -1421,7 +1421,7 @@ msgstr "Dette opslag kan ikke slettes automatisk. Slet det selv på platformen."
 #. Name of the plugin
 #: smokypost.php:3
 msgid "SmokyPost – Social Auto Share for Posts and Pages"
-msgstr "SmokyPost – Automatisk deling på sociale medier af indlæg og sider"
+msgstr "SmokyPost – Automatisk Deling på Sociale Medier af Indlæg og Sider"
 
 #. Description of the plugin
 #: smokypost.php:5

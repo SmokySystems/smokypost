@@ -1426,7 +1426,7 @@ msgstr "Šo ierakstu nevar izdzēst automātiski. Izdzēsiet to paši platformā
 #. Name of the plugin
 #: smokypost.php:3
 msgid "SmokyPost – Social Auto Share for Posts and Pages"
-msgstr "SmokyPost – Automātiska kopīgošana sociālajos tīklos ierakstiem un lapām"
+msgstr "SmokyPost – Automātiska Kopīgošana Sociālajos Tīklos Ierakstiem un Lapām"
 
 #. Description of the plugin
 #: smokypost.php:5

@@ -1426,7 +1426,7 @@ msgstr "Ова објава се не може аутоматски обриса
 #. Name of the plugin
 #: smokypost.php:3
 msgid "SmokyPost – Social Auto Share for Posts and Pages"
-msgstr "SmokyPost – Аутоматско дељење на друштвеним мрежама за објаве и странице"
+msgstr "SmokyPost – Аутоматско Дељење на Друштвеним Мрежама за Објаве и Странице"
 
 #. Description of the plugin
 #: smokypost.php:5

@@ -283,7 +283,7 @@ bd9611|Neizdevās sazināties ar platformu. SmokyPost mēģināja vairākas reiz
 c19c4c|Platforma noraidīja ierakstu.
 8a0741|Konts, kas publicēja šo ierakstu, vairs nav savienots. Izdzēsiet ierakstu paši platformā.
 ad0394|Šo ierakstu nevar izdzēst automātiski. Izdzēsiet to paši platformā.
-eb851e|SmokyPost – Automātiska kopīgošana sociālajos tīklos ierakstiem un lapām
+eb851e|SmokyPost – Automātiska Kopīgošana Sociālajos Tīklos Ierakstiem un Lapām
 6b6724|Automātiski kopīgojiet jaunus un vecus ierakstus un lapas savos sociālo tīklu kontos. Izstrādātāju kontu vai API atslēgu nav nepieciešams.
 a274f4|Paziņojumi
 777ca2|Sūtīt man e-pastu, kad

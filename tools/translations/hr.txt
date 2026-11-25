@@ -283,7 +283,7 @@ bd9611|Nije bilo moguće povezati se s platformom. SmokyPost je pokušao nekolik
 c19c4c|Platforma je odbila objavu.
 8a0741|Račun koji je objavio ovu objavu više nije povezan. Izbrišite objavu sami na platformi.
 ad0394|Ova se objava ne može automatski izbrisati. Izbrišite je sami na platformi.
-eb851e|SmokyPost – Automatsko dijeljenje na društvenim mrežama za objave i stranice
+eb851e|SmokyPost – Automatsko Dijeljenje na Društvenim Mrežama za Objave i Stranice
 6b6724|Automatski dijelite nove i stare objave i stranice na svoje račune na društvenim mrežama. Nisu potrebni razvojni računi ni API ključevi.
 a274f4|Obavijesti
 777ca2|Pošalji mi e-poštu kada

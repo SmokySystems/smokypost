@@ -1421,7 +1421,7 @@ msgstr "Ezt a postot nem lehet automatikusan törölni. Töröld magad a platfor
 #. Name of the plugin
 #: smokypost.php:3
 msgid "SmokyPost – Social Auto Share for Posts and Pages"
-msgstr "SmokyPost – Automatikus megosztás közösségi médiában bejegyzésekhez és oldalakhoz"
+msgstr "SmokyPost – Automatikus Megosztás Közösségi Médiában Bejegyzésekhez és Oldalakhoz"
 
 #. Description of the plugin
 #: smokypost.php:5

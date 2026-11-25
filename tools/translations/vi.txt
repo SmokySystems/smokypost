@@ -283,7 +283,7 @@ bd9611|Không thể kết nối với nền tảng. SmokyPost đã thử nhiều
 c19c4c|Nền tảng đã từ chối bài đăng.
 8a0741|Tài khoản đã đăng bài này không còn được kết nối. Hãy tự xóa bài đăng trên nền tảng.
 ad0394|Không thể tự động xóa bài đăng này. Hãy tự xóa trên nền tảng.
-eb851e|SmokyPost – Tự động chia sẻ lên mạng xã hội cho bài viết và trang
+eb851e|SmokyPost – Tự Động Chia Sẻ Lên Mạng Xã Hội cho Bài Viết và Trang
 6b6724|Tự động chia sẻ bài viết và trang mới lẫn cũ lên các tài khoản mạng xã hội của bạn. Không cần tài khoản nhà phát triển hay khóa API.
 a274f4|Thông báo
 777ca2|Gửi email cho tôi khi

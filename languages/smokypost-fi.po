@@ -1421,7 +1421,7 @@ msgstr "Tätä julkaisua ei voi poistaa automaattisesti. Poista se itse palvelus
 #. Name of the plugin
 #: smokypost.php:3
 msgid "SmokyPost – Social Auto Share for Posts and Pages"
-msgstr "SmokyPost – Automaattinen jakaminen sosiaaliseen mediaan julkaisuille ja sivuille"
+msgstr "SmokyPost – Automaattinen Jakaminen Sosiaaliseen Mediaan Julkaisuille ja Sivuille"
 
 #. Description of the plugin
 #: smokypost.php:5

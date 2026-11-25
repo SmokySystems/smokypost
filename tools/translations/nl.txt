@@ -283,7 +283,7 @@ bd9611|Het platform was niet bereikbaar. SmokyPost heeft het meerdere keren gepr
 c19c4c|Het platform heeft het bericht afgewezen.
 8a0741|Het account dat dit bericht heeft gepubliceerd is niet meer gekoppeld. Verwijder het bericht zelf op het platform.
 ad0394|Dit bericht kan niet automatisch worden verwijderd. Verwijder het zelf op het platform.
-eb851e|SmokyPost – Automatisch delen op sociale media voor berichten en pagina's
+eb851e|SmokyPost – Automatisch Delen op Sociale Media voor Berichten en Pagina's
 6b6724|Deel nieuwe en oude berichten en pagina's automatisch op uw socialemediaaccounts. Geen ontwikkelaarsaccounts of API-sleutels nodig.
 a274f4|Meldingen
 777ca2|Stuur me een e-mail wanneer

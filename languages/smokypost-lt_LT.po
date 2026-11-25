@@ -1426,7 +1426,7 @@ msgstr "Šio įrašo negalima ištrinti automatiškai. Ištrinkite jį patys pla
 #. Name of the plugin
 #: smokypost.php:3
 msgid "SmokyPost – Social Auto Share for Posts and Pages"
-msgstr "SmokyPost – Automatinis dalijimasis socialiniuose tinkluose įrašams ir puslapiams"
+msgstr "SmokyPost – Automatinis Dalijimasis Socialiniuose Tinkluose Įrašams ir Puslapiams"
 
 #. Description of the plugin
 #: smokypost.php:5

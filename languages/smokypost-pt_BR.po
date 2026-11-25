@@ -1421,7 +1421,7 @@ msgstr "Este post não pode ser excluído automaticamente. Exclua-o você mesmo 
 #. Name of the plugin
 #: smokypost.php:3
 msgid "SmokyPost – Social Auto Share for Posts and Pages"
-msgstr "SmokyPost – Compartilhamento automático em redes sociais para posts e páginas"
+msgstr "SmokyPost – Compartilhamento Automático em Redes Sociais para Posts e Páginas"
 
 #. Description of the plugin
 #: smokypost.php:5

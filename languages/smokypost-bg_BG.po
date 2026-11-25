@@ -1421,7 +1421,7 @@ msgstr "Тази публикация не може да се изтрие ав�
 #. Name of the plugin
 #: smokypost.php:3
 msgid "SmokyPost – Social Auto Share for Posts and Pages"
-msgstr "SmokyPost – Автоматично споделяне в социалните мрежи за публикации и страници"
+msgstr "SmokyPost – Автоматично Споделяне в Социалните Мрежи за Публикации и Страници"
 
 #. Description of the plugin
 #: smokypost.php:5

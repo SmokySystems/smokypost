@@ -1431,7 +1431,7 @@ msgstr "Te objave ni mogoče samodejno izbrisati. Izbrišite jo sami na platform
 #. Name of the plugin
 #: smokypost.php:3
 msgid "SmokyPost – Social Auto Share for Posts and Pages"
-msgstr "SmokyPost – Samodejno deljenje na družbenih omrežjih za objave in strani"
+msgstr "SmokyPost – Samodejno Deljenje na Družbenih Omrežjih za Objave in Strani"
 
 #. Description of the plugin
 #: smokypost.php:5

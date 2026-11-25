@@ -1421,7 +1421,7 @@ msgstr "Dette innlegget kan ikke slettes automatisk. Slett det selv på plattfor
 #. Name of the plugin
 #: smokypost.php:3
 msgid "SmokyPost – Social Auto Share for Posts and Pages"
-msgstr "SmokyPost – Automatisk deling på sosiale medier for innlegg og sider"
+msgstr "SmokyPost – Automatisk Deling på Sosiale Medier for Innlegg og Sider"
 
 #. Description of the plugin
 #: smokypost.php:5

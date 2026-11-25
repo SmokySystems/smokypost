@@ -1421,7 +1421,7 @@ msgstr "Αυτή η ανάρτηση δεν μπορεί να διαγραφεί
 #. Name of the plugin
 #: smokypost.php:3
 msgid "SmokyPost – Social Auto Share for Posts and Pages"
-msgstr "SmokyPost – Αυτόματη κοινοποίηση στα κοινωνικά δίκτυα για άρθρα και σελίδες"
+msgstr "SmokyPost – Αυτόματη Κοινοποίηση στα Κοινωνικά Δίκτυα για Άρθρα και Σελίδες"
 
 #. Description of the plugin
 #: smokypost.php:5

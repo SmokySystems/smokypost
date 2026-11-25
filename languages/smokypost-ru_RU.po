@@ -1426,7 +1426,7 @@ msgstr "Этот пост нельзя удалить автоматически
 #. Name of the plugin
 #: smokypost.php:3
 msgid "SmokyPost – Social Auto Share for Posts and Pages"
-msgstr "SmokyPost – Автопубликация в соцсетях для записей и страниц"
+msgstr "SmokyPost – Автопубликация в Соцсетях для Записей и Страниц"
 
 #. Description of the plugin
 #: smokypost.php:5

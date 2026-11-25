@@ -1416,7 +1416,7 @@ msgstr "Không thể tự động xóa bài đăng này. Hãy tự xóa trên n�
 #. Name of the plugin
 #: smokypost.php:3
 msgid "SmokyPost – Social Auto Share for Posts and Pages"
-msgstr "SmokyPost – Tự động chia sẻ lên mạng xã hội cho bài viết và trang"
+msgstr "SmokyPost – Tự Động Chia Sẻ Lên Mạng Xã Hội cho Bài Viết và Trang"
 
 #. Description of the plugin
 #: smokypost.php:5

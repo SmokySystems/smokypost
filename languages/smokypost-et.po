@@ -1421,7 +1421,7 @@ msgstr "Seda postitust ei saa automaatselt kustutada. Kustuta see ise platvormil
 #. Name of the plugin
 #: smokypost.php:3
 msgid "SmokyPost – Social Auto Share for Posts and Pages"
-msgstr "SmokyPost – Automaatne jagamine sotsiaalmeedias postituste ja lehtede jaoks"
+msgstr "SmokyPost – Automaatne Jagamine Sotsiaalmeedias Postituste ja Lehtede Jaoks"
 
 #. Description of the plugin
 #: smokypost.php:5

@@ -283,7 +283,7 @@ bd9611|Não foi possível acessar a plataforma. O SmokyPost tentou várias vezes
 c19c4c|A plataforma rejeitou o post.
 8a0741|A conta que publicou este post não está mais conectada. Exclua o post você mesmo na plataforma.
 ad0394|Este post não pode ser excluído automaticamente. Exclua-o você mesmo na plataforma.
-eb851e|SmokyPost – Compartilhamento automático em redes sociais para posts e páginas
+eb851e|SmokyPost – Compartilhamento Automático em Redes Sociais para Posts e Páginas
 6b6724|Compartilhe automaticamente posts e páginas novos e antigos nas suas contas de redes sociais. Não são necessárias contas de desenvolvedor nem chaves de API.
 a274f4|Notificações
 777ca2|Enviar e-mail quando
