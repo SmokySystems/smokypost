@@ -4,7 +4,7 @@ Tags: auto post, social sharing, facebook, instagram, linkedin
 Requires at least: 6.2
 Tested up to: 7.1
 Requires PHP: 7.4
-Stable tag: 0.3.2
+Stable tag: 0.3.3
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -62,6 +62,7 @@ After you connect, the plugin sends:
 * when an item is shared: its ID, title, link, excerpt, the message text and the address of its image;
 * periodically: a request for the status of recent shares.
 * with each request: the address of the site's wp-cron.php. The service calls this address every few minutes, so status updates and e-mail notifications also go out on time on sites with few visitors.
+* when the site is disconnected: whether it was the Disconnect button or deleting the plugin.
 
 Your social account tokens are stored encrypted on the SmokyPost servers in Germany and are never stored on your site. The service then publishes to Facebook and Instagram (Meta Platforms), LinkedIn, Bluesky, Mastodon, Threads (Meta Platforms) and Tumblr on your behalf. For Bluesky it keeps the app password you enter, encrypted, and never your main password. When you remove a platform or disconnect the site, the connection is deleted from the service, and uninstalling the plugin disconnects the site. To have your account data deleted, write to info@smokypost.com or use https://www.smokypost.com/data-deletion/.
 
@@ -154,6 +155,9 @@ English is the original. Turkish is written and checked by the author, a native 
 5. Settings: content types, message template, hashtags, default image and rules for automatically created items.
 
 == Upgrade Notice ==
+
+= 0.3.3 =
+Deleting the plugin now reliably disconnects the site from SmokyPost.
 
 = 0.3.2 =
 Notifications go out on time on quiet sites, and the Turkish translation follows the review of the Turkish team.
@@ -249,6 +253,10 @@ After paying you are taken back to your own site.
 New: upgrade to a paid plan from the Account tab.
 
 == Changelog ==
+
+= 0.3.3 =
+* When the site is disconnected, the plugin tells SmokyPost whether it was the Disconnect button or deleting the plugin.
+* Deleting the plugin now reliably disconnects the site from SmokyPost.
 
 = 0.3.2 =
 * Status updates and e-mail notifications go out on time on sites with few visitors: the plugin tells SmokyPost the address of the site's wp-cron.php, and the service calls it every few minutes.

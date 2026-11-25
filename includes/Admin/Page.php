@@ -1087,7 +1087,7 @@ final class Page {
 
 	public static function handle_disconnect() {
 		self::verify( 'disconnect' );
-		Api::request( 'DELETE', '/site' );
+		Api::request( 'DELETE', '/site?reason=disconnect' );
 		Api::forget_token();
 		self::notice( 'success', __( 'This site is disconnected from SmokyPost.', 'smokypost' ) );
 		self::back();

@@ -12,11 +12,12 @@ $smokypost_token = (string) get_option( 'smokypost_site_token', '' );
 if ( '' !== $smokypost_token ) {
 	$smokypost_url = defined( 'SMOKYPOST_API_URL' ) ? SMOKYPOST_API_URL : 'https://www.smokypost.com/v1';
 	wp_remote_request(
-		untrailingslashit( $smokypost_url ) . '/site',
+		untrailingslashit( $smokypost_url ) . '/site?reason=uninstall',
 		array(
 			'method'   => 'DELETE',
 			'timeout'  => 5,
-			'blocking' => false,
+			// Wait for the answer: a request that is not waited for can be dropped before it is sent.
+			'blocking' => true,
 			'headers'  => array(
 				'Authorization'     => 'Bearer ' . $smokypost_token,
 				'X-SmokyPost-Token' => $smokypost_token,
