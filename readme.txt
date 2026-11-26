@@ -1,10 +1,10 @@
-=== SmokyPost – Social Auto Share for Posts and Pages ===
+=== SmokyPost – Social Auto Share ===
 Contributors: smokysystems
 Tags: auto post, social sharing, facebook, instagram, linkedin
 Requires at least: 6.2
 Tested up to: 7.1
 Requires PHP: 7.4
-Stable tag: 0.3.3
+Stable tag: 0.3.4
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -156,6 +156,9 @@ English is the original. Turkish is written and checked by the author, a native 
 
 == Upgrade Notice ==
 
+= 0.3.4 =
+Shorter plugin name and the SmokyPost logo in the admin menu.
+
 = 0.3.3 =
 Deleting the plugin now reliably disconnects the site from SmokyPost.
 
@@ -253,6 +256,11 @@ After paying you are taken back to your own site.
 New: upgrade to a paid plan from the Account tab.
 
 == Changelog ==
+
+= 0.3.4 =
+* Shorter plugin name: SmokyPost – Social Auto Share.
+* The admin menu shows the SmokyPost logo.
+* The plugin name in the bundled translations is written in title case.
 
 = 0.3.3 =
 * When the site is disconnected, the plugin tells SmokyPost whether it was the Disconnect button or deleting the plugin.

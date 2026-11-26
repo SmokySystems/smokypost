@@ -283,7 +283,7 @@ bd9611|Kunne ikke nå plattformen. SmokyPost prøvde flere ganger.
 c19c4c|Plattformen avviste innlegget.
 8a0741|Kontoen som publiserte dette innlegget, er ikke lenger tilkoblet. Slett innlegget selv på plattformen.
 ad0394|Dette innlegget kan ikke slettes automatisk. Slett det selv på plattformen.
-eb851e|SmokyPost – Automatisk Deling på Sosiale Medier for Innlegg og Sider
+72082c|SmokyPost – Automatisk Deling på Sosiale Medier
 6b6724|Del nye og gamle innlegg og sider automatisk på kontoene dine i sosiale medier. Du trenger ingen utviklerkontoer eller API-nøkler.
 a274f4|Varsler
 777ca2|Send meg e-post når

@@ -283,7 +283,7 @@ bd9611|Die Plattform war nicht erreichbar. SmokyPost hat es mehrmals versucht.
 c19c4c|Die Plattform hat den Post abgelehnt.
 8a0741|Das Konto, das diesen Post veröffentlicht hat, ist nicht mehr verbunden. Löschen Sie den Post selbst auf der Plattform.
 ad0394|Dieser Post kann nicht automatisch gelöscht werden. Löschen Sie ihn selbst auf der Plattform.
-eb851e|SmokyPost – Automatisches Teilen auf Social Media für Beiträge und Seiten
+72082c|SmokyPost – Automatisches Teilen auf Social Media
 6b6724|Teilen Sie neue und alte Beiträge und Seiten automatisch auf Ihren Social-Media-Konten. Keine Entwicklerkonten oder API-Schlüssel nötig.
 a274f4|Benachrichtigungen
 777ca2|E-Mail senden, wenn

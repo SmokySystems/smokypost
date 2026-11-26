@@ -283,7 +283,7 @@ bd9611|La piattaforma non era raggiungibile. SmokyPost ha riprovato più volte.
 c19c4c|La piattaforma ha rifiutato il post.
 8a0741|L’account che ha pubblicato questo post non è più collegato. Elimina il post tu stesso sulla piattaforma.
 ad0394|Questo post non può essere eliminato automaticamente. Eliminalo tu stesso sulla piattaforma.
-eb851e|SmokyPost – Condivisione Automatica sui Social per Articoli e Pagine
+72082c|SmokyPost – Condivisione Automatica sui Social
 6b6724|Condividi automaticamente articoli e pagine nuovi e vecchi sui tuoi account social. Non servono account sviluppatore né chiavi API.
 a274f4|Notifiche
 777ca2|Inviami un’e-mail quando

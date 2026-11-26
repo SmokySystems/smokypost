@@ -285,7 +285,7 @@ T = {
  'Open Plugins': 'Eklentileri aç',
  'Download SmokyPost Pro': "SmokyPost Pro'yu indir",
  'The link works for an hour. You can come back here and get a new one any time.': 'Bağlantı bir saat geçerli. İstediğiniz zaman buraya dönüp yenisini alabilirsiniz.',
- 'SmokyPost – Social Auto Share for Posts and Pages': 'SmokyPost – Yazılar ve sayfalar için otomatik sosyal medya paylaşımı',
+ 'SmokyPost – Social Auto Share': 'SmokyPost – Otomatik Sosyal Medya Paylaşımı',
  'Automatically share new and old posts and pages to your social media accounts. No developer accounts or API keys needed.': 'Yeni ve eski yazı ve sayfalarınızı sosyal medya hesaplarınızda otomatik olarak paylaşın. Geliştirici hesabı veya API anahtarı gerekmez.',
 "Notifications": "Bildirimler",
 "E-mail me when": "Şu durumlarda e-posta gönder",

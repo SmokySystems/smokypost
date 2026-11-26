@@ -18,7 +18,7 @@ msgstr "Connecta les teves pàgines per compartir aquest contingut."
 msgid "Open SmokyPost"
 msgstr "Obre SmokyPost"
 
-#: assets/js/editor.js:178 includes/Admin/Page.php:76
+#: assets/js/editor.js:178 includes/Admin/Page.php:77
 msgid "Still sending. Check the History tab in a few minutes."
 msgstr "L'enviament encara està en curs. Consulta la pestanya Historial d'aquí a uns minuts."
 
@@ -58,974 +58,974 @@ msgstr "Compartit automàticament en publicar."
 msgid "Share now"
 msgstr "Comparteix ara"
 
-#: includes/Admin/Page.php:43 includes/Admin/Page.php:122
+#: includes/Admin/Page.php:44 includes/Admin/Page.php:123
 msgid "Settings"
 msgstr "Configuració"
 
-#: includes/Admin/Page.php:74 includes/Status.php:87
+#: includes/Admin/Page.php:75 includes/Status.php:87
 msgid "Sending…"
 msgstr "S'està enviant…"
 
-#: includes/Admin/Page.php:75 includes/Editor.php:150
+#: includes/Admin/Page.php:76 includes/Editor.php:150
 msgid "Deleting…"
 msgstr "S'està suprimint…"
 
-#: includes/Admin/Page.php:113
+#: includes/Admin/Page.php:114
 msgid "A newer version of SmokyPost is required. Please update the plugin."
 msgstr "Cal una versió més recent de SmokyPost. Actualitza el connector."
 
-#: includes/Admin/Page.php:121
+#: includes/Admin/Page.php:122
 msgid "Platforms"
 msgstr "Plataformes"
 
-#: includes/Admin/Page.php:123
+#: includes/Admin/Page.php:124
 msgid "History"
 msgstr "Historial"
 
-#: includes/Admin/Page.php:124
+#: includes/Admin/Page.php:125
 msgid "Notifications"
 msgstr "Notificacions"
 
-#: includes/Admin/Page.php:125 includes/Admin/Page.php:558
+#: includes/Admin/Page.php:126 includes/Admin/Page.php:559
 msgid "Account"
 msgstr "Compte"
 
-#: includes/Admin/Page.php:156
+#: includes/Admin/Page.php:157
 msgid "Terms of Service"
 msgstr "Condicions d'ús"
 
-#: includes/Admin/Page.php:157
+#: includes/Admin/Page.php:158
 msgid "Privacy Policy"
 msgstr "Política de privadesa"
 
-#: includes/Admin/Page.php:158
+#: includes/Admin/Page.php:159
 msgid "Share your posts and pages to your social media accounts automatically. Create a free account or sign in to connect this site."
 msgstr "Comparteix automàticament les teves publicacions i pàgines a les teves xarxes socials. Crea un compte gratuït o inicia la sessió per connectar aquest lloc web."
 
-#: includes/Admin/Page.php:159
+#: includes/Admin/Page.php:160
 msgid "When you connect, this site sends its address, WordPress and PHP versions, language and time zone to the SmokyPost service (www.smokypost.com). The content of each item you share is sent when it is shared."
 msgstr "En connectar-se, aquest lloc web envia al servei SmokyPost (www.smokypost.com) la seva adreça, les versions de WordPress i PHP, l'idioma i la zona horària. El contingut de cada element que comparteixes s'envia en el moment de compartir-lo."
 
-#: includes/Admin/Page.php:163
+#: includes/Admin/Page.php:164
 msgid "Create a free account"
 msgstr "Crea un compte gratuït"
 
-#: includes/Admin/Page.php:165 includes/Admin/Page.php:174 includes/Admin/Page.php:187
+#: includes/Admin/Page.php:166 includes/Admin/Page.php:175 includes/Admin/Page.php:188
 msgid "E-mail"
 msgstr "Correu electrònic"
 
-#: includes/Admin/Page.php:166
+#: includes/Admin/Page.php:167
 msgid "Password (at least 8 characters)"
 msgstr "Contrasenya (almenys 8 caràcters)"
 
 #. translators: 1: Terms of Service link, 2: Privacy Policy link
-#: includes/Admin/Page.php:168
+#: includes/Admin/Page.php:169
 #, php-format
 msgid "I accept the %1$s and the %2$s."
 msgstr "Accepto els documents següents: %1$s i %2$s."
 
-#: includes/Admin/Page.php:169
+#: includes/Admin/Page.php:170
 msgid "Create account and connect"
 msgstr "Crea el compte i connecta"
 
-#: includes/Admin/Page.php:172
+#: includes/Admin/Page.php:173
 msgid "I already have an account"
 msgstr "Ja tinc un compte"
 
-#: includes/Admin/Page.php:175 includes/Admin/Page.php:445
+#: includes/Admin/Page.php:176 includes/Admin/Page.php:446
 msgid "Password"
 msgstr "Contrasenya"
 
-#: includes/Admin/Page.php:176
+#: includes/Admin/Page.php:177
 msgid "Sign in and connect"
 msgstr "Inicia la sessió i connecta"
 
-#: includes/Admin/Page.php:179
+#: includes/Admin/Page.php:180
 msgid "Use a license key instead"
 msgstr "Utilitza una clau de llicència"
 
-#: includes/Admin/Page.php:182
+#: includes/Admin/Page.php:183
 msgid "Connect with license key"
 msgstr "Connecta amb la clau de llicència"
 
-#: includes/Admin/Page.php:185
+#: includes/Admin/Page.php:186
 msgid "Forgot your password?"
 msgstr "Has oblidat la contrasenya?"
 
-#: includes/Admin/Page.php:188
+#: includes/Admin/Page.php:189
 msgid "Send reset link"
 msgstr "Envia l'enllaç de restabliment"
 
-#: includes/Admin/Page.php:207
+#: includes/Admin/Page.php:208
 msgid "Connect each platform and choose the page or account this site shares to."
 msgstr "Connecta cada plataforma i tria la pàgina o el compte on compartirà aquest lloc web."
 
-#: includes/Admin/Page.php:222
+#: includes/Admin/Page.php:223
 msgid "Not included in your plan."
 msgstr "No inclòs al teu pla."
 
-#: includes/Admin/Page.php:226
+#: includes/Admin/Page.php:227
 msgid "Temporarily unavailable. Please try again later."
 msgstr "Temporalment no disponible. Torna-ho a provar més tard."
 
-#: includes/Admin/Page.php:237
+#: includes/Admin/Page.php:238
 msgid "The connection has expired. Connect again to keep sharing."
 msgstr "La connexió ha caducat. Torna a connectar per continuar compartint."
 
-#: includes/Admin/Page.php:238
+#: includes/Admin/Page.php:239
 msgid "Connect again"
 msgstr "Torna a connectar"
 
-#: includes/Admin/Page.php:241
+#: includes/Admin/Page.php:242
 msgid "Change"
 msgstr "Canvia"
 
-#: includes/Admin/Page.php:243
+#: includes/Admin/Page.php:244
 msgid "Remove"
 msgstr "Elimina"
 
-#: includes/Admin/Page.php:247
+#: includes/Admin/Page.php:248
 msgid "Not connected."
 msgstr "No connectat."
 
-#: includes/Admin/Page.php:249 includes/Admin/Page.php:341
+#: includes/Admin/Page.php:250 includes/Admin/Page.php:342
 msgid "Connect"
 msgstr "Connecta"
 
-#: includes/Admin/Page.php:253
+#: includes/Admin/Page.php:254
 msgid "Choose from your Facebook login"
 msgstr "Tria des del teu inici de sessió a Facebook"
 
-#: includes/Admin/Page.php:277
+#: includes/Admin/Page.php:278
 msgid "Posts your text and a link to one of your Facebook Pages. You sign in with Facebook."
 msgstr "Publica el teu text i l'enllaç en una de les teves pàgines de Facebook. Inicies la sessió amb Facebook."
 
-#: includes/Admin/Page.php:279
+#: includes/Admin/Page.php:280
 msgid "Needs an Instagram professional account linked to a Facebook Page. You sign in with Facebook."
 msgstr "Requereix un compte professional d'Instagram vinculat a una pàgina de Facebook. Inicies la sessió amb Facebook."
 
-#: includes/Admin/Page.php:281
+#: includes/Admin/Page.php:282
 msgid "Posts your text and a link to one of your LinkedIn company pages. You sign in with LinkedIn."
 msgstr "Publica el teu text i l'enllaç en una de les teves pàgines d'empresa de LinkedIn. Inicies la sessió amb LinkedIn."
 
-#: includes/Admin/Page.php:283
+#: includes/Admin/Page.php:284
 msgid "Posts your text, hashtags and a link card with the picture to your Bluesky account. You connect with your handle and an app password."
 msgstr "Publica el teu text, les etiquetes i una targeta d'enllaç amb imatge al teu compte de Bluesky. Et connectes amb el nom d'usuari i una contrasenya d'aplicació."
 
-#: includes/Admin/Page.php:285
+#: includes/Admin/Page.php:286
 msgid "Posts your text, hashtags and a link to your Mastodon account on any Mastodon server. You approve SmokyPost on your own server."
 msgstr "Publica el teu text, les etiquetes i l'enllaç al teu compte de Mastodon en qualsevol servidor de Mastodon. Autoritzes SmokyPost al teu propi servidor."
 
-#: includes/Admin/Page.php:287
+#: includes/Admin/Page.php:288
 msgid "Posts your text and a link card to your Threads profile. You sign in with Threads."
 msgstr "Publica el teu text i una targeta d'enllaç al teu perfil de Threads. Inicies la sessió amb Threads."
 
-#: includes/Admin/Page.php:289
+#: includes/Admin/Page.php:290
 msgid "Posts your text, tags and a link card with the picture to one of your Tumblr blogs. You sign in with Tumblr."
 msgstr "Publica el teu text, les etiquetes i una targeta d'enllaç amb imatge en un dels teus blogs de Tumblr. Inicies la sessió amb Tumblr."
 
-#: includes/Admin/Page.php:304
+#: includes/Admin/Page.php:305
 msgid "Automatic sharing:"
 msgstr "Compartició automàtica:"
 
-#: includes/Admin/Page.php:304
+#: includes/Admin/Page.php:305
 msgid "On"
 msgstr "Activada"
 
-#: includes/Admin/Page.php:304
+#: includes/Admin/Page.php:305
 msgid "Off"
 msgstr "Desactivada"
 
-#: includes/Admin/Page.php:305
+#: includes/Admin/Page.php:306
 msgid "Turn off"
 msgstr "Desactiva"
 
-#: includes/Admin/Page.php:305
+#: includes/Admin/Page.php:306
 msgid "Turn on"
 msgstr "Activa"
 
-#: includes/Admin/Page.php:306
+#: includes/Admin/Page.php:307
 msgid "New items are shared here when they are published."
 msgstr "Els elements nous es comparteixen aquí en publicar-se."
 
-#: includes/Admin/Page.php:306
+#: includes/Admin/Page.php:307
 msgid "Only shared when you click \"Share now\"."
 msgstr "Només es comparteix quan fas clic a «Comparteix ara»."
 
 #. translators: %s: reason
-#: includes/Admin/Page.php:322
+#: includes/Admin/Page.php:323
 #, php-format
 msgid "You are signed in, but your accounts could not be listed: %s"
 msgstr "Has iniciat la sessió, però no s'han pogut llistar els teus comptes: %s"
 
-#: includes/Admin/Page.php:323
+#: includes/Admin/Page.php:324
 msgid "Try again"
 msgstr "Torna-ho a provar"
 
-#: includes/Admin/Page.php:323 includes/Admin/Page.php:361 includes/Admin/Page.php:524 includes/Admin/Page.php:576 includes/Admin/Page.php:716 includes/Admin/Page.php:772 includes/Editor.php:149 includes/Editor.php:481
+#: includes/Admin/Page.php:324 includes/Admin/Page.php:362 includes/Admin/Page.php:525 includes/Admin/Page.php:577 includes/Admin/Page.php:717 includes/Admin/Page.php:773 includes/Editor.php:149 includes/Editor.php:481
 msgid "Cancel"
 msgstr "Cancel·la"
 
-#: includes/Admin/Page.php:328
+#: includes/Admin/Page.php:329
 msgid "Connect your account first."
 msgstr "Connecta primer el teu compte."
 
-#: includes/Admin/Page.php:328
+#: includes/Admin/Page.php:329
 msgid "Sign in first to see your pages."
 msgstr "Inicia primer la sessió per veure les teves pàgines."
 
-#: includes/Admin/Page.php:329
+#: includes/Admin/Page.php:330
 msgid "No page or account with posting rights was found for this login."
 msgstr "No s'ha trobat cap pàgina o compte on puguis publicar amb aquest inici de sessió."
 
-#: includes/Admin/Page.php:331
+#: includes/Admin/Page.php:332
 msgid "Check that your Instagram account is a professional account and is linked to one of your Facebook Pages."
 msgstr "Comprova que el teu compte d'Instagram sigui professional i estigui vinculat a una de les teves pàgines de Facebook."
 
 #. translators: %s: name of the person who signed in
-#: includes/Admin/Page.php:355
+#: includes/Admin/Page.php:356
 #, php-format
 msgid "(via %s)"
 msgstr "(mitjançant %s)"
 
-#: includes/Admin/Page.php:360
+#: includes/Admin/Page.php:361
 msgid "Use this account"
 msgstr "Utilitza aquest compte"
 
-#: includes/Admin/Page.php:363
+#: includes/Admin/Page.php:364
 msgid "Missing a page?"
 msgstr "No veus la pàgina correcta?"
 
-#: includes/Admin/Page.php:364
+#: includes/Admin/Page.php:365
 msgid "Sign in with another account"
 msgstr "Inicia la sessió amb un altre compte"
 
-#: includes/Admin/Page.php:377
+#: includes/Admin/Page.php:378
 msgid "Content types"
 msgstr "Tipus de contingut"
 
-#: includes/Admin/Page.php:381
+#: includes/Admin/Page.php:382
 msgid "Only these types are shared automatically and get the SmokyPost box in the editor."
 msgstr "Només aquests tipus es comparteixen automàticament, i només ells tenen el quadre de SmokyPost a l'editor."
 
-#: includes/Admin/Page.php:383
+#: includes/Admin/Page.php:384
 msgid "Automatic sharing"
 msgstr "Compartició automàtica"
 
-#: includes/Admin/Page.php:384
+#: includes/Admin/Page.php:385
 msgid "Share new items automatically when they are published to:"
 msgstr "Comparteix automàticament els elements nous en publicar-los a:"
 
-#: includes/Admin/Page.php:386
+#: includes/Admin/Page.php:387
 msgid "not connected"
 msgstr "no connectat"
 
-#: includes/Admin/Page.php:389
+#: includes/Admin/Page.php:390
 msgid "Untick a platform to stop automatic sharing to it. Untick all to turn automatic sharing off. You can still share any item yourself with \"Share now\" in the editor or the post list, and untick a platform for a single item in the editor."
 msgstr "Desmarca una plataforma per deixar de compartir-hi automàticament. Desmarca-les totes per desactivar la compartició automàtica. Sempre pots compartir un element tu mateix amb el botó «Comparteix ara» de l'editor o de la llista d'entrades, i desmarcar una plataforma per a un sol element a l'editor."
 
-#: includes/Admin/Page.php:391
+#: includes/Admin/Page.php:392
 msgid "Automatically created items"
 msgstr "Elements creats automàticament"
 
-#: includes/Admin/Page.php:391
+#: includes/Admin/Page.php:392
 msgid "Also share items published by other plugins, importers, the REST API or WP-CLI"
 msgstr "Comparteix també els elements publicats per altres connectors, importadors, l'API REST o WP-CLI"
 
-#: includes/Admin/Page.php:392
+#: includes/Admin/Page.php:393
 msgid "On by default. Items created by code (for example an autoblog or a feed importer) are shared to the platforms above. Turn this off if you only want to share what you publish in the editor."
 msgstr "Activat per defecte. Els elements creats per codi (per exemple un autoblog o un importador de canals) es comparteixen a les plataformes anteriors. Desactiva-ho si només vols compartir el que publiques a l'editor."
 
-#: includes/Admin/Page.php:393
+#: includes/Admin/Page.php:394
 msgid "Skip imported items older than"
 msgstr "Omet els elements importats més antics de"
 
-#: includes/Admin/Page.php:393
+#: includes/Admin/Page.php:394
 msgid "hours"
 msgstr "h"
 
-#: includes/Admin/Page.php:395
+#: includes/Admin/Page.php:396
 msgid "Deleting items"
 msgstr "Supressió d'elements"
 
-#: includes/Admin/Page.php:395
+#: includes/Admin/Page.php:396
 msgid "Delete the shared posts when the item is deleted"
 msgstr "Suprimeix les publicacions compartides quan se suprimeixi l'element"
 
-#: includes/Admin/Page.php:396
+#: includes/Admin/Page.php:397
 msgid "Off by default. When you move an item to the trash or delete it, SmokyPost also removes its posts from Facebook, LinkedIn, Bluesky, Mastodon, Threads and Tumblr. Instagram does not allow other apps to delete posts, so those have to be deleted in the Instagram app. Restoring an item from the trash does not bring the social posts back."
 msgstr "Desactivat per defecte. Quan mous un element a la paperera o el suprimeixes, SmokyPost també suprimeix les seves publicacions a Facebook, LinkedIn, Bluesky, Mastodon, Threads i Tumblr. Instagram no permet que altres aplicacions suprimeixin publicacions, per això les has de suprimir a l'aplicació d'Instagram. Restaurar un element de la paperera no recupera les publicacions a les xarxes socials."
 
-#: includes/Admin/Page.php:398
+#: includes/Admin/Page.php:399
 msgid "Message template"
 msgstr "Plantilla de missatge"
 
-#: includes/Admin/Page.php:400
+#: includes/Admin/Page.php:401
 msgid "Placeholders:"
 msgstr "Marcadors de posició:"
 
-#: includes/Admin/Page.php:400
+#: includes/Admin/Page.php:401
 msgid "The link is added by each platform as a preview card; on Instagram it is added to the end of the text."
 msgstr "Cada plataforma afegeix l'enllaç com a targeta de previsualització; a Instagram s'afegeix al final del text."
 
-#: includes/Admin/Page.php:401
+#: includes/Admin/Page.php:402
 msgid "Turn post tags into hashtags for {hashtags}"
 msgstr "Converteix les etiquetes de l'entrada en etiquetes de xarxa per a {hashtags}"
 
-#: includes/Admin/Page.php:403
+#: includes/Admin/Page.php:404
 msgid "Default image"
 msgstr "Imatge per defecte"
 
-#: includes/Admin/Page.php:404
+#: includes/Admin/Page.php:405
 msgid "Used when an item has no featured image and no image in its content. Instagram always needs an image."
 msgstr "S'utilitza quan un element no té imatge destacada ni imatge al contingut. Instagram sempre requereix una imatge."
 
-#: includes/Admin/Page.php:418
+#: includes/Admin/Page.php:419
 msgid "E-mail me when"
 msgstr "Envia’m un correu quan"
 
-#: includes/Admin/Page.php:419
+#: includes/Admin/Page.php:420
 msgid "a share fails"
 msgstr "una publicació falli"
 
-#: includes/Admin/Page.php:420
+#: includes/Admin/Page.php:421
 msgid "an item was shared"
 msgstr "s’hagi compartit un contingut"
 
-#: includes/Admin/Page.php:421
+#: includes/Admin/Page.php:422
 msgid "You get one e-mail per item. A failed share is reported after SmokyPost has tried several times, and the same problem on the same platform is reported once a day. An e-mail that a connection has expired is always sent."
 msgstr "Reps un correu per contingut. Una publicació fallida s’avisa després que SmokyPost ho hagi provat diverses vegades, i el mateix problema a la mateixa plataforma s’avisa un cop al dia. El correu que avisa que una connexió ha caducat sempre s’envia."
 
-#: includes/Admin/Page.php:423
+#: includes/Admin/Page.php:424
 msgid "Send e-mails to"
 msgstr "Envia els correus a"
 
 #. translators: %s: e-mail address
-#: includes/Admin/Page.php:426
+#: includes/Admin/Page.php:427
 #, php-format
 msgid "Separate several addresses with commas. Leave empty to use the administrator address of this site (%s)."
 msgstr "Separa diverses adreces amb comes. Deixa-ho buit per utilitzar l’adreça de l’administrador d’aquest lloc (%s)."
 
-#: includes/Admin/Page.php:428
+#: includes/Admin/Page.php:429
 msgid "SMTP"
 msgstr "SMTP"
 
-#: includes/Admin/Page.php:429
+#: includes/Admin/Page.php:430
 msgid "Send SmokyPost e-mails through an SMTP account"
 msgstr "Envia els correus de SmokyPost amb un compte SMTP"
 
-#: includes/Admin/Page.php:430
+#: includes/Admin/Page.php:431
 msgid "Use this when e-mails from your site do not arrive. Only the e-mails of SmokyPost use this account, other e-mails of your site stay as they are. You do not need a separate SMTP plugin for SmokyPost."
 msgstr "Utilitza-ho si els correus del teu lloc no arriben. Només els correus de SmokyPost fan servir aquest compte; la resta de correus del lloc no canvien. No necessites un connector SMTP a part per a SmokyPost."
 
-#: includes/Admin/Page.php:432
+#: includes/Admin/Page.php:433
 msgid "SMTP server"
 msgstr "Servidor SMTP"
 
-#: includes/Admin/Page.php:433
+#: includes/Admin/Page.php:434
 msgid "Port"
 msgstr "Port"
 
-#: includes/Admin/Page.php:434
+#: includes/Admin/Page.php:435
 msgid "Encryption"
 msgstr "Xifratge"
 
-#: includes/Admin/Page.php:436
+#: includes/Admin/Page.php:437
 msgid "TLS (usually port 587)"
 msgstr "TLS (normalment port 587)"
 
-#: includes/Admin/Page.php:437
+#: includes/Admin/Page.php:438
 msgid "SSL (usually port 465)"
 msgstr "SSL (normalment port 465)"
 
-#: includes/Admin/Page.php:438
+#: includes/Admin/Page.php:439
 msgid "No encryption"
 msgstr "Sense xifratge"
 
-#: includes/Admin/Page.php:443
+#: includes/Admin/Page.php:444
 msgid "Username"
 msgstr "Nom d’usuari"
 
-#: includes/Admin/Page.php:447
+#: includes/Admin/Page.php:448
 msgid "The password is set in wp-config.php."
 msgstr "La contrasenya està definida a wp-config.php."
 
-#: includes/Admin/Page.php:451
+#: includes/Admin/Page.php:452
 msgid "A password is saved. Leave this empty to keep it."
 msgstr "Hi ha una contrasenya desada. Deixa-ho buit per conservar-la."
 
-#: includes/Admin/Page.php:451
+#: includes/Admin/Page.php:452
 msgid "Remove the saved password"
 msgstr "Elimina la contrasenya desada"
 
-#: includes/Admin/Page.php:453
+#: includes/Admin/Page.php:454
 msgid "The password is stored encrypted and never shown again. For Gmail and Outlook use an app password."
 msgstr "La contrasenya es desa xifrada i no es torna a mostrar mai. Per a Gmail i Outlook fes servir una contrasenya d’aplicació."
 
-#: includes/Admin/Page.php:457
+#: includes/Admin/Page.php:458
 msgid "From e-mail"
 msgstr "Correu del remitent"
 
-#: includes/Admin/Page.php:458
+#: includes/Admin/Page.php:459
 msgid "Most providers only accept an address that belongs to the account."
 msgstr "La majoria de proveïdors només accepten una adreça que pertanyi al compte."
 
-#: includes/Admin/Page.php:459
+#: includes/Admin/Page.php:460
 msgid "From name"
 msgstr "Nom del remitent"
 
-#: includes/Admin/Page.php:462
+#: includes/Admin/Page.php:463
 msgid "Save Changes"
 msgstr "Desa els canvis"
 
-#: includes/Admin/Page.php:463
+#: includes/Admin/Page.php:464
 msgid "Send a test e-mail"
 msgstr "Envia un correu de prova"
 
-#: includes/Admin/Page.php:464
+#: includes/Admin/Page.php:465
 msgid "The test e-mail saves the values above first and then uses them."
 msgstr "El correu de prova desa primer els valors de dalt i després els utilitza."
 
 #. translators: %d: number of days
-#: includes/Admin/Page.php:479
+#: includes/Admin/Page.php:480
 #, php-format
 msgid "Shares of the last %d day."
 msgid_plural "Shares of the last %d days."
 msgstr[0] "Comparticions de l'últim %d dia."
 msgstr[1] "Comparticions dels últims %d dies."
 
-#: includes/Admin/Page.php:491
+#: includes/Admin/Page.php:492
 msgid "Date"
 msgstr "Data"
 
-#: includes/Admin/Page.php:491
+#: includes/Admin/Page.php:492
 msgid "Item"
 msgstr "Element"
 
-#: includes/Admin/Page.php:491
+#: includes/Admin/Page.php:492
 msgid "Result"
 msgstr "Resultat"
 
-#: includes/Admin/Page.php:507
+#: includes/Admin/Page.php:508
 msgid "Nothing shared yet."
 msgstr "Encara no s'ha compartit res."
 
-#: includes/Admin/Page.php:516
+#: includes/Admin/Page.php:517
 msgid "Clear history"
 msgstr "Esborra l'historial"
 
-#: includes/Admin/Page.php:516
+#: includes/Admin/Page.php:517
 msgid "Clear the history for the dates you choose, or all of it? What was already shared stays on your social accounts. Cleared items no longer show in this list."
 msgstr "Vols esborrar l'historial per a unes dates concretes o tot? El que ja s'ha compartit es queda a les teves xarxes socials. Els registres esborrats ja no apareixen en aquesta llista."
 
-#: includes/Admin/Page.php:518
+#: includes/Admin/Page.php:519
 msgid "From"
 msgstr "Des de"
 
-#: includes/Admin/Page.php:520
+#: includes/Admin/Page.php:521
 msgid "To"
 msgstr "Fins a"
 
-#: includes/Admin/Page.php:523
+#: includes/Admin/Page.php:524
 msgid "Leave the date empty to start at the first item or end today."
 msgstr "Deixa una data en blanc per començar pel primer registre o acabar avui."
 
-#: includes/Admin/Page.php:524
+#: includes/Admin/Page.php:525
 msgid "Clear these dates"
 msgstr "Esborra aquestes dates"
 
-#: includes/Admin/Page.php:524
+#: includes/Admin/Page.php:525
 msgid "Clear all history"
 msgstr "Esborra tot l'historial"
 
-#: includes/Admin/Page.php:534 includes/Admin/Page.php:534
+#: includes/Admin/Page.php:535 includes/Admin/Page.php:535
 msgid "Day"
 msgstr "Dia"
 
-#: includes/Admin/Page.php:538 includes/Admin/Page.php:538
+#: includes/Admin/Page.php:539 includes/Admin/Page.php:539
 msgid "Month"
 msgstr "Mes"
 
-#: includes/Admin/Page.php:542 includes/Admin/Page.php:542
+#: includes/Admin/Page.php:543 includes/Admin/Page.php:543
 msgid "Year"
 msgstr "Any"
 
-#: includes/Admin/Page.php:559 includes/Admin/Page.php:670
+#: includes/Admin/Page.php:560 includes/Admin/Page.php:671
 msgid "Plan"
 msgstr "Pla"
 
-#: includes/Admin/Page.php:560
+#: includes/Admin/Page.php:561
 msgid "License key"
 msgstr "Clau de llicència"
 
-#: includes/Admin/Page.php:561
+#: includes/Admin/Page.php:562
 msgid "Shared today"
 msgstr "Compartit avui"
 
 #. translators: 1: items used, 2: daily limit
-#: includes/Admin/Page.php:564 includes/Admin/Page.php:566
+#: includes/Admin/Page.php:565 includes/Admin/Page.php:567
 #, php-format
 msgid "%1$d of %2$d items"
 msgstr "%1$d de %2$d elements"
 
-#: includes/Admin/Page.php:569
+#: includes/Admin/Page.php:570
 msgid "This site"
 msgstr "Aquest lloc web"
 
-#: includes/Admin/Page.php:574
+#: includes/Admin/Page.php:575
 msgid "Disconnect this site"
 msgstr "Desconnecta aquest lloc web"
 
-#: includes/Admin/Page.php:574
+#: includes/Admin/Page.php:575
 msgid "Disconnect this site from SmokyPost? Sharing stops until you sign in again."
 msgstr "Vols desconnectar aquest lloc web de SmokyPost? La compartició s'atura fins que tornis a iniciar la sessió."
 
-#: includes/Admin/Page.php:576
+#: includes/Admin/Page.php:577
 msgid "Yes, disconnect"
 msgstr "Sí, desconnecta"
 
-#: includes/Admin/Page.php:585
+#: includes/Admin/Page.php:586
 msgid "How Pro works"
 msgstr "Com funciona Pro"
 
-#: includes/Admin/Page.php:586
+#: includes/Admin/Page.php:587
 msgid "Pay securely through Paddle."
 msgstr "Paga de manera segura amb Paddle."
 
-#: includes/Admin/Page.php:587
+#: includes/Admin/Page.php:588
 msgid "Download SmokyPost Pro with the button below."
 msgstr "Descarrega SmokyPost Pro amb el botó de sota."
 
-#: includes/Admin/Page.php:587
+#: includes/Admin/Page.php:588
 msgid "Come back to this page. A \"Download SmokyPost Pro\" button appears, and we e-mail you the same link."
 msgstr "Torna a aquesta pàgina. Apareixerà el botó «Descarrega SmokyPost Pro» i t'enviarem el mateix enllaç per correu electrònic."
 
-#: includes/Admin/Page.php:588
+#: includes/Admin/Page.php:589
 msgid "Install it under Plugins > Add New > Upload Plugin and activate it. Your license is picked up automatically, there is no key to enter."
 msgstr "Instal·la'l a Connectors > Afegeix > Puja un connector i activa'l. La teva llicència es detecta automàticament, no cal que introdueixis cap clau."
 
-#: includes/Admin/Page.php:589
+#: includes/Admin/Page.php:590
 msgid "SmokyPost Pro is a second plugin that works together with SmokyPost: keep both active. It takes about a minute. Full refund within 14 days of your first payment."
 msgstr "SmokyPost Pro és un segon connector que funciona juntament amb SmokyPost: deixa'ls tots dos actius. Porta aproximadament un minut. Reemborsament complet en els 14 dies posteriors al primer pagament."
 
-#: includes/Admin/Page.php:603
+#: includes/Admin/Page.php:604
 msgid "Your payment is taking longer than usual to show here. Reload this page in a few minutes. If your plan is still Free after an hour, write to info@smokypost.com."
 msgstr "El teu pagament triga més del normal a aparèixer aquí. Torna a carregar la pàgina d'aquí a uns minuts. Si al cap d'una hora el teu pla continua sent Free, escriu a info@smokypost.com."
 
-#: includes/Admin/Page.php:607
+#: includes/Admin/Page.php:608
 msgid "Payment received. Your plan will be active in a moment, this page checks again by itself."
 msgstr "Pagament rebut. El teu pla s'activarà aviat i aquesta pàgina ho comprovarà sola."
 
-#: includes/Admin/Page.php:619
+#: includes/Admin/Page.php:620
 msgid "SmokyPost Pro"
 msgstr "SmokyPost Pro"
 
 #. translators: %s: version number
-#: includes/Admin/Page.php:622
+#: includes/Admin/Page.php:623
 #, php-format
 msgid "SmokyPost Pro %s is installed and active."
 msgstr "SmokyPost Pro %s està instal·lat i actiu."
 
-#: includes/Admin/Page.php:623
+#: includes/Admin/Page.php:624
 msgid "Its settings are under SmokyPost > Pro, the calendar under SmokyPost > Calendar. It updates itself."
 msgstr "La seva configuració és a SmokyPost > Pro i el calendari a SmokyPost > Calendari. S'actualitza sol."
 
-#: includes/Admin/Page.php:630
+#: includes/Admin/Page.php:631
 msgid "SmokyPost Pro is installed but not active. Activate it on the Plugins page."
 msgstr "SmokyPost Pro està instal·lat però no actiu. Activa'l a la pàgina Connectors."
 
-#: includes/Admin/Page.php:630
+#: includes/Admin/Page.php:631
 msgid "Open Plugins"
 msgstr "Obre Connectors"
 
-#: includes/Admin/Page.php:635
+#: includes/Admin/Page.php:636
 msgid "Download SmokyPost Pro"
 msgstr "Descarrega SmokyPost Pro"
 
-#: includes/Admin/Page.php:636
+#: includes/Admin/Page.php:637
 msgid "The link works for an hour. You can come back here and get a new one any time."
 msgstr "L'enllaç és vàlid durant una hora. Sempre pots tornar aquí per obtenir-ne un de nou."
 
-#: includes/Admin/Page.php:646 includes/Admin/Page.php:1266 includes/Api.php:130
+#: includes/Admin/Page.php:647 includes/Admin/Page.php:1267 includes/Api.php:130
 msgid "Something went wrong. Please try again."
 msgstr "Alguna cosa ha anat malament. Torna-ho a provar."
 
-#: includes/Admin/Page.php:665
+#: includes/Admin/Page.php:666
 msgid "Plans"
 msgstr "Plans"
 
-#: includes/Admin/Page.php:670
+#: includes/Admin/Page.php:671
 msgid "Sites"
 msgstr "Llocs web"
 
-#: includes/Admin/Page.php:670
+#: includes/Admin/Page.php:671
 msgid "Items per day"
 msgstr "Elements al dia"
 
-#: includes/Admin/Page.php:670
+#: includes/Admin/Page.php:671
 msgid "Price"
 msgstr "Preu"
 
 #. translators: %s: price, for example $39
-#: includes/Admin/Page.php:678
+#: includes/Admin/Page.php:679
 #, php-format
 msgid "%s per year"
 msgstr "%s l'any"
 
-#: includes/Admin/Page.php:680
+#: includes/Admin/Page.php:681
 msgid "Current plan"
 msgstr "Pla actual"
 
-#: includes/Admin/Page.php:683
+#: includes/Admin/Page.php:684
 msgid "Switch to this plan"
 msgstr "Canvia a aquest pla"
 
-#: includes/Admin/Page.php:683
+#: includes/Admin/Page.php:684
 msgid "Upgrade"
 msgstr "Millora"
 
-#: includes/Admin/Page.php:688
+#: includes/Admin/Page.php:689
 msgid "Payments are handled securely by Paddle. Prices are in US dollars, taxes are added at checkout where they apply."
 msgstr "Els pagaments els processa de manera segura Paddle. Els preus són en dòlars dels Estats Units i els impostos s'afegeixen en finalitzar la compra allà on s'apliquin."
 
-#: includes/Admin/Page.php:690
+#: includes/Admin/Page.php:691
 msgid "A plan change applies right away. You will see the exact amount and confirm it before anything is charged."
 msgstr "El canvi de pla s'aplica immediatament. Veuràs l'import exacte i el confirmaràs abans que es cobri res."
 
-#: includes/Admin/Page.php:692 includes/Admin/Page.php:776
+#: includes/Admin/Page.php:693 includes/Admin/Page.php:777
 msgid "Manage subscription"
 msgstr "Gestiona la subscripció"
 
-#: includes/Admin/Page.php:703
+#: includes/Admin/Page.php:704
 msgid "Cancel and refund"
 msgstr "Cancel·la i reemborsa"
 
-#: includes/Admin/Page.php:705
+#: includes/Admin/Page.php:706
 msgid "Refunds are available within 14 days of your first payment. You can stop the renewal at any time from Manage subscription."
 msgstr "El reemborsament és possible en els 14 dies posteriors al primer pagament. Pots aturar la renovació en qualsevol moment a «Gestiona la subscripció»."
 
-#: includes/Admin/Page.php:706 includes/Admin/Page.php:717
+#: includes/Admin/Page.php:707 includes/Admin/Page.php:718
 msgid "Questions about a payment? Write to info@smokypost.com."
 msgstr "Preguntes sobre el pagament? Escriu a info@smokypost.com."
 
 #. translators: %s: date
-#: includes/Admin/Page.php:712
+#: includes/Admin/Page.php:713
 #, php-format
 msgid "You can cancel and get a full refund until %s."
 msgstr "Pots cancel·lar i obtenir un reemborsament complet fins al %s."
 
-#: includes/Admin/Page.php:714
+#: includes/Admin/Page.php:715
 msgid "Cancel and get a refund"
 msgstr "Cancel·la i obtén el reemborsament"
 
-#: includes/Admin/Page.php:714
+#: includes/Admin/Page.php:715
 msgid "Cancel your subscription and get a full refund? Everything you paid is returned to the card you paid with. Nothing is deducted for the days you used. Your plan ends right away and this site goes back to Free."
 msgstr "Vols cancel·lar la subscripció i obtenir un reemborsament complet? Tot el que has pagat es tornarà a la targeta amb què has pagat. No es retén res pels dies utilitzats. El teu pla acaba immediatament i aquest lloc web torna a Free."
 
-#: includes/Admin/Page.php:716
+#: includes/Admin/Page.php:717
 msgid "Yes, cancel and refund"
 msgstr "Sí, cancel·la i reemborsa"
 
-#: includes/Admin/Page.php:730 includes/Admin/Page.php:814
+#: includes/Admin/Page.php:731 includes/Admin/Page.php:815
 msgid "Starter"
 msgstr "Starter"
 
-#: includes/Admin/Page.php:731 includes/Admin/Page.php:815
+#: includes/Admin/Page.php:732 includes/Admin/Page.php:816
 msgid "Pro"
 msgstr "Pro"
 
-#: includes/Admin/Page.php:732 includes/Admin/Page.php:816
+#: includes/Admin/Page.php:733 includes/Admin/Page.php:817
 msgid "Agency"
 msgstr "Agency"
 
 #. translators: %s: plan name
-#: includes/Admin/Page.php:741
+#: includes/Admin/Page.php:742
 #, php-format
 msgid "Switch to the %s plan"
 msgstr "Canvia a %s"
 
 #. translators: 1: amount, for example $30.00, 2: card, for example Visa ending in 4242
-#: includes/Admin/Page.php:747
+#: includes/Admin/Page.php:748
 #, php-format
 msgid "You will be charged %1$s today on the card you paid with (%2$s)."
 msgstr "Avui es cobraran %1$s (%2$s) de la targeta amb què has pagat."
 
 #. translators: %s: amount, for example $30.00
-#: includes/Admin/Page.php:750
+#: includes/Admin/Page.php:751
 #, php-format
 msgid "You will be charged %s today on the card you paid with."
 msgstr "Avui es cobraran %s de la targeta amb què has pagat."
 
 #. translators: %s: date
-#: includes/Admin/Page.php:755
+#: includes/Admin/Page.php:756
 #, php-format
 msgid "Your next renewal stays on %s."
 msgstr "La propera renovació es queda el %s."
 
-#: includes/Admin/Page.php:758
+#: includes/Admin/Page.php:759
 msgid "Nothing is charged today."
 msgstr "Avui no es cobra res."
 
 #. translators: %s: date
-#: includes/Admin/Page.php:762
+#: includes/Admin/Page.php:763
 #, php-format
 msgid "The price difference is credited at your next renewal on %s."
 msgstr "La diferència de preu s'abonarà en la propera renovació, el %s."
 
-#: includes/Admin/Page.php:764
+#: includes/Admin/Page.php:765
 msgid "The price difference is credited at your next renewal."
 msgstr "La diferència de preu s'abonarà en la propera renovació."
 
-#: includes/Admin/Page.php:767
+#: includes/Admin/Page.php:768
 msgid "Shall we continue?"
 msgstr "Vols continuar?"
 
 #. translators: %s: amount, for example $30.00
-#: includes/Admin/Page.php:770
+#: includes/Admin/Page.php:771
 #, php-format
 msgid "Yes, charge %s"
 msgstr "Sí, cobra %s"
 
-#: includes/Admin/Page.php:770
+#: includes/Admin/Page.php:771
 msgid "Yes, switch plan"
 msgstr "Sí, canvia de pla"
 
-#: includes/Admin/Page.php:774
+#: includes/Admin/Page.php:775
 msgid "Want to pay with another card? Open Manage subscription, update your payment method, then switch plans again."
 msgstr "Vols pagar amb una altra targeta? Obre «Gestiona la subscripció», actualitza el mètode de pagament i torna a canviar de pla."
 
 #. translators: %s: last four digits of a card
-#: includes/Admin/Page.php:802
+#: includes/Admin/Page.php:803
 #, php-format
 msgid "ending in %s"
 msgstr "acabada en %s"
 
 #. translators: 1: card brand, for example Visa, 2: last four digits
-#: includes/Admin/Page.php:805
+#: includes/Admin/Page.php:806
 #, php-format
 msgid "%1$s ending in %2$s"
 msgstr "%1$s, acabada en %2$s"
 
-#: includes/Admin/Page.php:813
+#: includes/Admin/Page.php:814
 msgid "Free"
 msgstr "Free"
 
-#: includes/Admin/Page.php:831
+#: includes/Admin/Page.php:832
 msgid "Sharing is paused until you confirm your e-mail address."
 msgstr "La compartició està en pausa fins que confirmis la teva adreça de correu electrònic."
 
 #. translators: %d: days left
-#: includes/Admin/Page.php:833
+#: includes/Admin/Page.php:834
 #, php-format
 msgid "Please confirm your e-mail address. Sharing pauses in %d day if you do not."
 msgid_plural "Please confirm your e-mail address. Sharing pauses in %d days if you do not."
 msgstr[0] "Confirma la teva adreça de correu electrònic. La compartició es posarà en pausa d'aquí a %d dia si no ho fas."
 msgstr[1] "Confirma la teva adreça de correu electrònic. La compartició es posarà en pausa d'aquí a %d dies si no ho fas."
 
-#: includes/Admin/Page.php:836
+#: includes/Admin/Page.php:837
 msgid "Send the link again"
 msgstr "Torna a enviar l'enllaç"
 
-#: includes/Admin/Page.php:869
+#: includes/Admin/Page.php:870
 msgid "Bluesky handle"
 msgstr "Nom d'usuari de Bluesky"
 
-#: includes/Admin/Page.php:870
+#: includes/Admin/Page.php:871
 msgid "App password"
 msgstr "Contrasenya d'aplicació"
 
-#: includes/Admin/Page.php:871
+#: includes/Admin/Page.php:872
 msgid "Use an app password, not your main Bluesky password. It can only be used by apps like this one and you can delete it in Bluesky at any time."
 msgstr "Utilitza una contrasenya d'aplicació, no la teva contrasenya principal de Bluesky. Només la poden fer servir aplicacions com aquesta, i la pots eliminar a Bluesky en qualsevol moment."
 
-#: includes/Admin/Page.php:872
+#: includes/Admin/Page.php:873
 msgid "How do I get an app password?"
 msgstr "Com obtinc una contrasenya d'aplicació?"
 
 #. translators: %s: link to the Bluesky app password page
-#: includes/Admin/Page.php:873
+#: includes/Admin/Page.php:874
 #, php-format
 msgid "Open %s (or Settings > Privacy and security > App passwords in Bluesky)."
 msgstr "Obre %s (o a Bluesky: Configuració > Privadesa i seguretat > Contrasenyes d'aplicació)."
 
-#: includes/Admin/Page.php:874
+#: includes/Admin/Page.php:875
 msgid "Click \"Add App Password\" and name it SmokyPost."
 msgstr "Fes clic a «Add App Password» i anomena-la SmokyPost."
 
-#: includes/Admin/Page.php:875
+#: includes/Admin/Page.php:876
 msgid "Copy the password Bluesky shows and paste it here."
 msgstr "Copia la contrasenya que mostra Bluesky i enganxa-la aquí."
 
-#: includes/Admin/Page.php:881
+#: includes/Admin/Page.php:882
 msgid "Your Mastodon server"
 msgstr "El teu servidor de Mastodon"
 
-#: includes/Admin/Page.php:882
+#: includes/Admin/Page.php:883
 msgid "The address of the server your account is on, for example mastodon.social, or your full name like @name@mastodon.social. You will approve SmokyPost on that server."
 msgstr "L'adreça del servidor on és el teu compte, per exemple mastodon.social, o el teu nom complet, en la forma @nom@mastodon.social. Autoritzaràs SmokyPost en aquest servidor."
 
-#: includes/Admin/Page.php:921
+#: includes/Admin/Page.php:922
 msgid "Signed in. Now choose the account this site shares to."
 msgstr "Sessió iniciada. Ara tria el compte on compartirà aquest lloc web."
 
-#: includes/Admin/Page.php:923
+#: includes/Admin/Page.php:924
 msgid "The sign-in was cancelled."
 msgstr "L'inici de sessió s'ha cancel·lat."
 
-#: includes/Admin/Page.php:924
+#: includes/Admin/Page.php:925
 msgid "The sign-in did not work. Please try again."
 msgstr "No s'ha pogut iniciar la sessió. Torna-ho a provar."
 
-#: includes/Admin/Page.php:940
+#: includes/Admin/Page.php:941
 msgid "Good to know:"
 msgstr "Bo de saber:"
 
-#: includes/Admin/Page.php:940
+#: includes/Admin/Page.php:941
 msgid "SmokyPost shares new posts automatically when they are published, including posts created by other plugins, importers or the REST API. You can turn automatic sharing on or off for each platform on its card below or under Settings."
 msgstr "SmokyPost comparteix automàticament les entrades noves en publicar-se, incloses les creades per altres connectors, importadors o l'API REST. Pots activar o desactivar la compartició automàtica per a cada plataforma a la seva targeta de sota o a Configuració."
 
-#: includes/Admin/Page.php:942
+#: includes/Admin/Page.php:943
 msgid "Got it"
 msgstr "Entesos"
 
-#: includes/Admin/Page.php:942
+#: includes/Admin/Page.php:943
 msgid "Open settings"
 msgstr "Obre la configuració"
 
-#: includes/Admin/Page.php:954
+#: includes/Admin/Page.php:955
 msgid "SmokyPost is almost ready."
 msgstr "SmokyPost gairebé està a punt."
 
-#: includes/Admin/Page.php:954
+#: includes/Admin/Page.php:955
 msgid "Connect this site"
 msgstr "Connecta aquest lloc web"
 
-#: includes/Admin/Page.php:967
+#: includes/Admin/Page.php:968
 msgid "You are not allowed to do this."
 msgstr "No tens permís per fer això."
 
-#: includes/Admin/Page.php:1013 includes/Admin/Page.php:1081
+#: includes/Admin/Page.php:1014 includes/Admin/Page.php:1082
 msgid "Please enter a valid e-mail address."
 msgstr "Introdueix una adreça de correu electrònic vàlida."
 
-#: includes/Admin/Page.php:1015
+#: includes/Admin/Page.php:1016
 msgid "Please enter your password."
 msgstr "Introdueix una contrasenya."
 
-#: includes/Admin/Page.php:1017
+#: includes/Admin/Page.php:1018
 msgid "Please use a password with at least 8 characters."
 msgstr "Utilitza una contrasenya d'almenys 8 caràcters."
 
-#: includes/Admin/Page.php:1019
+#: includes/Admin/Page.php:1020
 msgid "Please accept the Terms of Service and the Privacy Policy."
 msgstr "Accepta les Condicions d'ús i la Política de privadesa."
 
-#: includes/Admin/Page.php:1042
+#: includes/Admin/Page.php:1043
 msgid "Your account is ready and this site is connected. We sent you an e-mail to confirm your address."
 msgstr "El teu compte està a punt i aquest lloc web està connectat. T'hem enviat un correu per confirmar la teva adreça."
 
-#: includes/Admin/Page.php:1058
+#: includes/Admin/Page.php:1059
 msgid "Signed in. This site is connected."
 msgstr "Sessió iniciada. Aquest lloc web està connectat."
 
-#: includes/Admin/Page.php:1064
+#: includes/Admin/Page.php:1065
 msgid "Please enter your license key."
 msgstr "Introdueix una clau de llicència."
 
-#: includes/Admin/Page.php:1075
+#: includes/Admin/Page.php:1076
 msgid "License activated. This site is connected."
 msgstr "Llicència activada. Aquest lloc web està connectat."
 
-#: includes/Admin/Page.php:1084
+#: includes/Admin/Page.php:1085
 msgid "If an account exists for this address, we sent a link to reset the password."
 msgstr "Si hi ha un compte amb aquesta adreça, hem enviat un enllaç per restablir la contrasenya."
 
-#: includes/Admin/Page.php:1092
+#: includes/Admin/Page.php:1093
 msgid "This site is disconnected from SmokyPost."
 msgstr "Aquest lloc web s'ha desconnectat de SmokyPost."
 
-#: includes/Admin/Page.php:1117
+#: includes/Admin/Page.php:1118
 msgid "Please choose valid dates."
 msgstr "Tria dates vàlides."
 
-#: includes/Admin/Page.php:1121
+#: includes/Admin/Page.php:1122
 msgid "The first date must be before the last date."
 msgstr "La primera data ha de ser anterior a l'última."
 
 #. translators: %d: number of items
-#: includes/Admin/Page.php:1135
+#: includes/Admin/Page.php:1136
 #, php-format
 msgid "Cleared %d item from the history."
 msgid_plural "Cleared %d items from the history."
 msgstr[0] "S'ha esborrat %d element de l'historial."
 msgstr[1] "S'han esborrat %d elements de l'historial."
 
-#: includes/Admin/Page.php:1135
+#: includes/Admin/Page.php:1136
 msgid "There was nothing to clear. Items that are still being sent stay in the list."
 msgstr "No hi havia res per esborrar. Els registres que encara s'estan enviant es queden a la llista."
 
-#: includes/Admin/Page.php:1143
+#: includes/Admin/Page.php:1144
 msgid "We sent the confirmation link again."
 msgstr "Hem tornat a enviar l'enllaç de confirmació."
 
-#: includes/Admin/Page.php:1193
+#: includes/Admin/Page.php:1194
 msgid "Connected. Now choose the account this site shares to."
 msgstr "Connectat. Ara tria el compte on compartirà aquest lloc web."
 
-#: includes/Admin/Page.php:1228
+#: includes/Admin/Page.php:1229
 msgid "That plan change has expired. Please choose the plan again."
 msgstr "Aquest canvi de pla ha caducat. Torna a triar un pla."
 
-#: includes/Admin/Page.php:1240
+#: includes/Admin/Page.php:1241
 msgid "Your plan is being changed. It can take a minute to show here."
 msgstr "El teu pla s'està canviant. Pot trigar un minut a aparèixer aquí."
 
-#: includes/Admin/Page.php:1257
+#: includes/Admin/Page.php:1258
 msgid "Your refund has been requested and your subscription is cancelled. Paddle returns the money to the card you paid with; it can take a few days to show."
 msgstr "S'ha sol·licitat el reemborsament i la subscripció s'ha cancel·lat. Paddle retorna els diners a la targeta amb què has pagat; pot trigar uns dies."
 
 #. translators: 1: page name, 2: platform name
-#: includes/Admin/Page.php:1279
+#: includes/Admin/Page.php:1280
 #, php-format
 msgid "%1$s is now connected to %2$s."
 msgstr "%1$s ara està connectat a %2$s."
 
-#: includes/Admin/Page.php:1295 includes/Admin/Page.php:1305
+#: includes/Admin/Page.php:1296 includes/Admin/Page.php:1306
 msgid "Settings saved."
 msgstr "S'ha desat la configuració."
 
-#: includes/Admin/Page.php:1313
+#: includes/Admin/Page.php:1314
 msgid "SmokyPost test e-mail"
 msgstr "Correu de prova de SmokyPost"
 
-#: includes/Admin/Page.php:1314
+#: includes/Admin/Page.php:1315
 msgid "This is a test e-mail from SmokyPost. If you can read it, e-mails from SmokyPost reach you."
 msgstr "Aquest és un correu de prova de SmokyPost. Si el pots llegir, els correus de SmokyPost et arriben."
 
 #. translators: %s: e-mail addresses
-#: includes/Admin/Page.php:1318
+#: includes/Admin/Page.php:1319
 #, php-format
 msgid "The test e-mail was sent to %s. Check your inbox and spam folder."
 msgstr "El correu de prova s’ha enviat a %s. Revisa la safata d’entrada i la carpeta de correu brossa."
 
 #. translators: %s: error from the mail server
-#: includes/Admin/Page.php:1325
+#: includes/Admin/Page.php:1326
 #, php-format
 msgid "The test e-mail could not be sent: %s Check the server, port and encryption."
 msgstr "No s’ha pogut enviar el correu de prova: %s Revisa el servidor, el port i el xifratge."
 
-#: includes/Admin/Page.php:1326
+#: includes/Admin/Page.php:1327
 msgid "The test e-mail could not be sent. Check the server, port and encryption."
 msgstr "No s’ha pogut enviar el correu de prova. Revisa el servidor, el port i el xifratge."
 
 #. translators: %s: platform name
-#: includes/Admin/Page.php:1341
+#: includes/Admin/Page.php:1342
 #, php-format
 msgid "Automatic sharing to %s is on."
 msgstr "La compartició automàtica a %s està activada."
 
 #. translators: %s: platform name
-#: includes/Admin/Page.php:1343
+#: includes/Admin/Page.php:1344
 #, php-format
 msgid "Automatic sharing to %s is off."
 msgstr "La compartició automàtica a %s està desactivada."
@@ -1420,8 +1420,8 @@ msgstr "Aquesta publicació no es pot suprimir automàticament. Suprimeix-la tu 
 
 #. Name of the plugin
 #: smokypost.php:3
-msgid "SmokyPost – Social Auto Share for Posts and Pages"
-msgstr "SmokyPost – Compartició Automàtica a les Xarxes Socials per a Entrades i Pàgines"
+msgid "SmokyPost – Social Auto Share"
+msgstr "SmokyPost – Compartició Automàtica a les Xarxes Socials"
 
 #. Description of the plugin
 #: smokypost.php:5

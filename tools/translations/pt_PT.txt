@@ -283,7 +283,7 @@ bd9611|Não foi possível contactar a plataforma. O SmokyPost tentou várias vez
 c19c4c|A plataforma rejeitou a publicação.
 8a0741|A conta que publicou esta publicação já não está ligada. Elimine a publicação você mesmo na plataforma.
 ad0394|Esta publicação não pode ser eliminada automaticamente. Elimine-a você mesmo na plataforma.
-eb851e|SmokyPost – Partilha Automática nas Redes Sociais para Artigos e Páginas
+72082c|SmokyPost – Partilha Automática nas Redes Sociais
 6b6724|Partilhe automaticamente artigos e páginas novos e antigos nas suas contas de redes sociais. Não são necessárias contas de programador nem chaves de API.
 a274f4|Notificações
 777ca2|Enviar-me um e-mail quando

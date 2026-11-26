@@ -283,7 +283,7 @@ bd9611|Kunne ikke få kontakt til platformen. SmokyPost prøvede flere gange.
 c19c4c|Platformen afviste opslaget.
 8a0741|Kontoen, der udgav dette opslag, er ikke længere forbundet. Slet opslaget selv på platformen.
 ad0394|Dette opslag kan ikke slettes automatisk. Slet det selv på platformen.
-eb851e|SmokyPost – Automatisk Deling på Sociale Medier af Indlæg og Sider
+72082c|SmokyPost – Automatisk Deling på Sociale Medier
 6b6724|Del automatisk nye og gamle indlæg og sider på dine konti på sociale medier. Der kræves ingen udviklerkonti eller API-nøgler.
 a274f4|Notifikationer
 777ca2|Send mig en e-mail, når

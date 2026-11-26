@@ -283,7 +283,7 @@ bd9611|No s'ha pogut contactar amb la plataforma. SmokyPost ho ha provat diverse
 c19c4c|La plataforma ha rebutjat la publicació.
 8a0741|El compte que va publicar aquesta publicació ja no està connectat. Suprimeix la publicació tu mateix a la plataforma.
 ad0394|Aquesta publicació no es pot suprimir automàticament. Suprimeix-la tu mateix a la plataforma.
-eb851e|SmokyPost – Compartició Automàtica a les Xarxes Socials per a Entrades i Pàgines
+72082c|SmokyPost – Compartició Automàtica a les Xarxes Socials
 6b6724|Comparteix automàticament entrades i pàgines noves i antigues als teus comptes de xarxes socials. No calen comptes de desenvolupador ni claus d'API.
 a274f4|Notificacions
 777ca2|Envia’m un correu quan

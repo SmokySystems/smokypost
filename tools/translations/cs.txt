@@ -283,7 +283,7 @@ bd9611|S platformou se nepodařilo spojit. SmokyPost to zkusil několikrát.
 c19c4c|Platforma příspěvek odmítla.
 8a0741|Účet, který tento příspěvek zveřejnil, už není připojen. Smažte příspěvek sami na platformě.
 ad0394|Tento příspěvek nelze smazat automaticky. Smažte jej sami na platformě.
-eb851e|SmokyPost – Automatické Sdílení na Sociálních Sítích pro Příspěvky a Stránky
+72082c|SmokyPost – Automatické Sdílení na Sociálních Sítích
 6b6724|Automaticky sdílejte nové i staré příspěvky a stránky na své účty na sociálních sítích. Nepotřebujete vývojářské účty ani klíče API.
 a274f4|Oznámení
 777ca2|Poslat mi e-mail, když

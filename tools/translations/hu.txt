@@ -283,7 +283,7 @@ bd9611|Nem sikerült elérni a platformot. A SmokyPost többször próbálkozott
 c19c4c|A platform elutasította a postot.
 8a0741|A fiók, amely ezt a postot közzétette, már nincs összekapcsolva. Töröld a postot magad a platformon.
 ad0394|Ezt a postot nem lehet automatikusan törölni. Töröld magad a platformon.
-eb851e|SmokyPost – Automatikus Megosztás Közösségi Médiában Bejegyzésekhez és Oldalakhoz
+72082c|SmokyPost – Automatikus Megosztás Közösségi Médiában
 6b6724|Ossza meg automatikusan új és régi bejegyzéseit és oldalait közösségi média fiókjaiban. Nincs szükség fejlesztői fiókra vagy API-kulcsra.
 a274f4|Értesítések
 777ca2|E-mailt kérek, ha

@@ -18,7 +18,7 @@ msgstr "इस आइटम को साझा करने के लिए �
 msgid "Open SmokyPost"
 msgstr "SmokyPost खोलें"
 
-#: assets/js/editor.js:178 includes/Admin/Page.php:76
+#: assets/js/editor.js:178 includes/Admin/Page.php:77
 msgid "Still sending. Check the History tab in a few minutes."
 msgstr "अभी भेजा जा रहा है। कुछ मिनट बाद इतिहास टैब देखें।"
 
@@ -58,974 +58,974 @@ msgstr "प्रकाशित होने पर अपने-आप सा�
 msgid "Share now"
 msgstr "अभी साझा करें"
 
-#: includes/Admin/Page.php:43 includes/Admin/Page.php:122
+#: includes/Admin/Page.php:44 includes/Admin/Page.php:123
 msgid "Settings"
 msgstr "सेटिंग"
 
-#: includes/Admin/Page.php:74 includes/Status.php:87
+#: includes/Admin/Page.php:75 includes/Status.php:87
 msgid "Sending…"
 msgstr "भेजा जा रहा है…"
 
-#: includes/Admin/Page.php:75 includes/Editor.php:150
+#: includes/Admin/Page.php:76 includes/Editor.php:150
 msgid "Deleting…"
 msgstr "हटाया जा रहा है…"
 
-#: includes/Admin/Page.php:113
+#: includes/Admin/Page.php:114
 msgid "A newer version of SmokyPost is required. Please update the plugin."
 msgstr "SmokyPost का नया संस्करण चाहिए। प्लगइन अपडेट करें।"
 
-#: includes/Admin/Page.php:121
+#: includes/Admin/Page.php:122
 msgid "Platforms"
 msgstr "प्लेटफ़ॉर्म"
 
-#: includes/Admin/Page.php:123
+#: includes/Admin/Page.php:124
 msgid "History"
 msgstr "इतिहास"
 
-#: includes/Admin/Page.php:124
+#: includes/Admin/Page.php:125
 msgid "Notifications"
 msgstr "सूचनाएँ"
 
-#: includes/Admin/Page.php:125 includes/Admin/Page.php:558
+#: includes/Admin/Page.php:126 includes/Admin/Page.php:559
 msgid "Account"
 msgstr "खाता"
 
-#: includes/Admin/Page.php:156
+#: includes/Admin/Page.php:157
 msgid "Terms of Service"
 msgstr "सेवा की शर्तें"
 
-#: includes/Admin/Page.php:157
+#: includes/Admin/Page.php:158
 msgid "Privacy Policy"
 msgstr "गोपनीयता नीति"
 
-#: includes/Admin/Page.php:158
+#: includes/Admin/Page.php:159
 msgid "Share your posts and pages to your social media accounts automatically. Create a free account or sign in to connect this site."
 msgstr "अपनी पोस्ट और पेज सोशल मीडिया पर अपने-आप साझा करें। इस साइट को कनेक्ट करने के लिए मुफ़्त खाता बनाएँ या लॉग इन करें।"
 
-#: includes/Admin/Page.php:159
+#: includes/Admin/Page.php:160
 msgid "When you connect, this site sends its address, WordPress and PHP versions, language and time zone to the SmokyPost service (www.smokypost.com). The content of each item you share is sent when it is shared."
 msgstr "कनेक्ट करते समय यह साइट अपना पता, WordPress और PHP संस्करण, भाषा और टाइमज़ोन SmokyPost सेवा (www.smokypost.com) को भेजती है। आप जो भी आइटम साझा करते हैं, उसकी सामग्री साझा करने के समय भेजी जाती है।"
 
-#: includes/Admin/Page.php:163
+#: includes/Admin/Page.php:164
 msgid "Create a free account"
 msgstr "मुफ़्त खाता बनाएँ"
 
-#: includes/Admin/Page.php:165 includes/Admin/Page.php:174 includes/Admin/Page.php:187
+#: includes/Admin/Page.php:166 includes/Admin/Page.php:175 includes/Admin/Page.php:188
 msgid "E-mail"
 msgstr "ईमेल"
 
-#: includes/Admin/Page.php:166
+#: includes/Admin/Page.php:167
 msgid "Password (at least 8 characters)"
 msgstr "पासवर्ड (कम से कम 8 अक्षर)"
 
 #. translators: 1: Terms of Service link, 2: Privacy Policy link
-#: includes/Admin/Page.php:168
+#: includes/Admin/Page.php:169
 #, php-format
 msgid "I accept the %1$s and the %2$s."
 msgstr "मैं %1$s और %2$s से सहमत हूँ।"
 
-#: includes/Admin/Page.php:169
+#: includes/Admin/Page.php:170
 msgid "Create account and connect"
 msgstr "खाता बनाएँ और कनेक्ट करें"
 
-#: includes/Admin/Page.php:172
+#: includes/Admin/Page.php:173
 msgid "I already have an account"
 msgstr "मेरे पास पहले से खाता है"
 
-#: includes/Admin/Page.php:175 includes/Admin/Page.php:445
+#: includes/Admin/Page.php:176 includes/Admin/Page.php:446
 msgid "Password"
 msgstr "पासवर्ड"
 
-#: includes/Admin/Page.php:176
+#: includes/Admin/Page.php:177
 msgid "Sign in and connect"
 msgstr "लॉग इन करें और कनेक्ट करें"
 
-#: includes/Admin/Page.php:179
+#: includes/Admin/Page.php:180
 msgid "Use a license key instead"
 msgstr "इसके बजाय लाइसेंस कुंजी इस्तेमाल करें"
 
-#: includes/Admin/Page.php:182
+#: includes/Admin/Page.php:183
 msgid "Connect with license key"
 msgstr "लाइसेंस कुंजी से कनेक्ट करें"
 
-#: includes/Admin/Page.php:185
+#: includes/Admin/Page.php:186
 msgid "Forgot your password?"
 msgstr "पासवर्ड भूल गए?"
 
-#: includes/Admin/Page.php:188
+#: includes/Admin/Page.php:189
 msgid "Send reset link"
 msgstr "रीसेट लिंक भेजें"
 
-#: includes/Admin/Page.php:207
+#: includes/Admin/Page.php:208
 msgid "Connect each platform and choose the page or account this site shares to."
 msgstr "हर प्लेटफ़ॉर्म कनेक्ट करें और वह पेज या खाता चुनें जिस पर यह साइट साझा करेगी।"
 
-#: includes/Admin/Page.php:222
+#: includes/Admin/Page.php:223
 msgid "Not included in your plan."
 msgstr "आपके प्लान में शामिल नहीं है।"
 
-#: includes/Admin/Page.php:226
+#: includes/Admin/Page.php:227
 msgid "Temporarily unavailable. Please try again later."
 msgstr "अस्थायी रूप से उपलब्ध नहीं है। बाद में फिर कोशिश करें।"
 
-#: includes/Admin/Page.php:237
+#: includes/Admin/Page.php:238
 msgid "The connection has expired. Connect again to keep sharing."
 msgstr "कनेक्शन की अवधि समाप्त हो गई है। साझा करना जारी रखने के लिए दोबारा कनेक्ट करें।"
 
-#: includes/Admin/Page.php:238
+#: includes/Admin/Page.php:239
 msgid "Connect again"
 msgstr "दोबारा कनेक्ट करें"
 
-#: includes/Admin/Page.php:241
+#: includes/Admin/Page.php:242
 msgid "Change"
 msgstr "बदलें"
 
-#: includes/Admin/Page.php:243
+#: includes/Admin/Page.php:244
 msgid "Remove"
 msgstr "हटाएँ"
 
-#: includes/Admin/Page.php:247
+#: includes/Admin/Page.php:248
 msgid "Not connected."
 msgstr "कनेक्ट नहीं है।"
 
-#: includes/Admin/Page.php:249 includes/Admin/Page.php:341
+#: includes/Admin/Page.php:250 includes/Admin/Page.php:342
 msgid "Connect"
 msgstr "कनेक्ट करें"
 
-#: includes/Admin/Page.php:253
+#: includes/Admin/Page.php:254
 msgid "Choose from your Facebook login"
 msgstr "अपने Facebook लॉगिन से चुनें"
 
-#: includes/Admin/Page.php:277
+#: includes/Admin/Page.php:278
 msgid "Posts your text and a link to one of your Facebook Pages. You sign in with Facebook."
 msgstr "आपका टेक्स्ट और लिंक आपके किसी एक Facebook पेज पर पोस्ट करता है। आप Facebook से लॉग इन करते हैं।"
 
-#: includes/Admin/Page.php:279
+#: includes/Admin/Page.php:280
 msgid "Needs an Instagram professional account linked to a Facebook Page. You sign in with Facebook."
 msgstr "Facebook पेज से जुड़ा Instagram प्रोफ़ेशनल खाता चाहिए। आप Facebook से लॉग इन करते हैं।"
 
-#: includes/Admin/Page.php:281
+#: includes/Admin/Page.php:282
 msgid "Posts your text and a link to one of your LinkedIn company pages. You sign in with LinkedIn."
 msgstr "आपका टेक्स्ट और लिंक आपके किसी एक LinkedIn कंपनी पेज पर पोस्ट करता है। आप LinkedIn से लॉग इन करते हैं।"
 
-#: includes/Admin/Page.php:283
+#: includes/Admin/Page.php:284
 msgid "Posts your text, hashtags and a link card with the picture to your Bluesky account. You connect with your handle and an app password."
 msgstr "आपके Bluesky खाते पर टेक्स्ट, हैशटैग और इमेज वाला लिंक कार्ड पोस्ट करता है। आप यूज़रनेम और ऐप पासवर्ड से कनेक्ट करते हैं।"
 
-#: includes/Admin/Page.php:285
+#: includes/Admin/Page.php:286
 msgid "Posts your text, hashtags and a link to your Mastodon account on any Mastodon server. You approve SmokyPost on your own server."
 msgstr "किसी भी Mastodon सर्वर पर आपके Mastodon खाते में टेक्स्ट, हैशटैग और लिंक पोस्ट करता है। आप अपने सर्वर पर SmokyPost को अनुमति देते हैं।"
 
-#: includes/Admin/Page.php:287
+#: includes/Admin/Page.php:288
 msgid "Posts your text and a link card to your Threads profile. You sign in with Threads."
 msgstr "आपकी Threads प्रोफ़ाइल पर टेक्स्ट और लिंक कार्ड पोस्ट करता है। आप Threads से लॉग इन करते हैं।"
 
-#: includes/Admin/Page.php:289
+#: includes/Admin/Page.php:290
 msgid "Posts your text, tags and a link card with the picture to one of your Tumblr blogs. You sign in with Tumblr."
 msgstr "आपके किसी एक Tumblr ब्लॉग पर टेक्स्ट, टैग और इमेज वाला लिंक कार्ड पोस्ट करता है। आप Tumblr से लॉग इन करते हैं।"
 
-#: includes/Admin/Page.php:304
+#: includes/Admin/Page.php:305
 msgid "Automatic sharing:"
 msgstr "अपने-आप साझा करना:"
 
-#: includes/Admin/Page.php:304
+#: includes/Admin/Page.php:305
 msgid "On"
 msgstr "चालू"
 
-#: includes/Admin/Page.php:304
+#: includes/Admin/Page.php:305
 msgid "Off"
 msgstr "बंद"
 
-#: includes/Admin/Page.php:305
+#: includes/Admin/Page.php:306
 msgid "Turn off"
 msgstr "बंद करें"
 
-#: includes/Admin/Page.php:305
+#: includes/Admin/Page.php:306
 msgid "Turn on"
 msgstr "चालू करें"
 
-#: includes/Admin/Page.php:306
+#: includes/Admin/Page.php:307
 msgid "New items are shared here when they are published."
 msgstr "नए आइटम प्रकाशित होने पर यहाँ साझा किए जाते हैं।"
 
-#: includes/Admin/Page.php:306
+#: includes/Admin/Page.php:307
 msgid "Only shared when you click \"Share now\"."
 msgstr "सिर्फ़ तब साझा होता है जब आप \"अभी साझा करें\" पर क्लिक करते हैं।"
 
 #. translators: %s: reason
-#: includes/Admin/Page.php:322
+#: includes/Admin/Page.php:323
 #, php-format
 msgid "You are signed in, but your accounts could not be listed: %s"
 msgstr "आपने लॉग इन कर लिया, लेकिन आपके खाते नहीं दिखाए जा सके: %s"
 
-#: includes/Admin/Page.php:323
+#: includes/Admin/Page.php:324
 msgid "Try again"
 msgstr "फिर कोशिश करें"
 
-#: includes/Admin/Page.php:323 includes/Admin/Page.php:361 includes/Admin/Page.php:524 includes/Admin/Page.php:576 includes/Admin/Page.php:716 includes/Admin/Page.php:772 includes/Editor.php:149 includes/Editor.php:481
+#: includes/Admin/Page.php:324 includes/Admin/Page.php:362 includes/Admin/Page.php:525 includes/Admin/Page.php:577 includes/Admin/Page.php:717 includes/Admin/Page.php:773 includes/Editor.php:149 includes/Editor.php:481
 msgid "Cancel"
 msgstr "रद्द करें"
 
-#: includes/Admin/Page.php:328
+#: includes/Admin/Page.php:329
 msgid "Connect your account first."
 msgstr "पहले अपना खाता कनेक्ट करें।"
 
-#: includes/Admin/Page.php:328
+#: includes/Admin/Page.php:329
 msgid "Sign in first to see your pages."
 msgstr "अपने पेज देखने के लिए पहले लॉग इन करें।"
 
-#: includes/Admin/Page.php:329
+#: includes/Admin/Page.php:330
 msgid "No page or account with posting rights was found for this login."
 msgstr "इस लॉगिन से पोस्ट करने लायक कोई पेज या खाता नहीं मिला।"
 
-#: includes/Admin/Page.php:331
+#: includes/Admin/Page.php:332
 msgid "Check that your Instagram account is a professional account and is linked to one of your Facebook Pages."
 msgstr "पक्का करें कि आपका Instagram खाता प्रोफ़ेशनल है और आपके किसी Facebook पेज से जुड़ा है।"
 
 #. translators: %s: name of the person who signed in
-#: includes/Admin/Page.php:355
+#: includes/Admin/Page.php:356
 #, php-format
 msgid "(via %s)"
 msgstr "(%s के ज़रिए)"
 
-#: includes/Admin/Page.php:360
+#: includes/Admin/Page.php:361
 msgid "Use this account"
 msgstr "यह खाता इस्तेमाल करें"
 
-#: includes/Admin/Page.php:363
+#: includes/Admin/Page.php:364
 msgid "Missing a page?"
 msgstr "जो पेज चाहिए वह नहीं दिख रहा?"
 
-#: includes/Admin/Page.php:364
+#: includes/Admin/Page.php:365
 msgid "Sign in with another account"
 msgstr "किसी दूसरे खाते से लॉग इन करें"
 
-#: includes/Admin/Page.php:377
+#: includes/Admin/Page.php:378
 msgid "Content types"
 msgstr "सामग्री के प्रकार"
 
-#: includes/Admin/Page.php:381
+#: includes/Admin/Page.php:382
 msgid "Only these types are shared automatically and get the SmokyPost box in the editor."
 msgstr "सिर्फ़ यही प्रकार अपने-आप साझा होते हैं, और एडिटर में SmokyPost बॉक्स भी सिर्फ़ इन्हीं पर दिखता है।"
 
-#: includes/Admin/Page.php:383
+#: includes/Admin/Page.php:384
 msgid "Automatic sharing"
 msgstr "अपने-आप साझा करना"
 
-#: includes/Admin/Page.php:384
+#: includes/Admin/Page.php:385
 msgid "Share new items automatically when they are published to:"
 msgstr "नए आइटम प्रकाशित होने पर अपने-आप यहाँ साझा करें:"
 
-#: includes/Admin/Page.php:386
+#: includes/Admin/Page.php:387
 msgid "not connected"
 msgstr "कनेक्ट नहीं है"
 
-#: includes/Admin/Page.php:389
+#: includes/Admin/Page.php:390
 msgid "Untick a platform to stop automatic sharing to it. Untick all to turn automatic sharing off. You can still share any item yourself with \"Share now\" in the editor or the post list, and untick a platform for a single item in the editor."
 msgstr "किसी प्लेटफ़ॉर्म पर अपने-आप साझा करना रोकने के लिए उसका चयन हटाएँ। सबका चयन हटाने पर अपने-आप साझा करना बंद हो जाता है। आप एडिटर या पोस्ट सूची में \"अभी साझा करें\" बटन से किसी भी आइटम को खुद साझा कर सकते हैं, और एडिटर में किसी एक आइटम के लिए प्लेटफ़ॉर्म का चयन भी हटा सकते हैं।"
 
-#: includes/Admin/Page.php:391
+#: includes/Admin/Page.php:392
 msgid "Automatically created items"
 msgstr "अपने-आप बने आइटम"
 
-#: includes/Admin/Page.php:391
+#: includes/Admin/Page.php:392
 msgid "Also share items published by other plugins, importers, the REST API or WP-CLI"
 msgstr "दूसरे प्लगइन, इम्पोर्ट टूल, REST API या WP-CLI से प्रकाशित आइटम भी साझा करें"
 
-#: includes/Admin/Page.php:392
+#: includes/Admin/Page.php:393
 msgid "On by default. Items created by code (for example an autoblog or a feed importer) are shared to the platforms above. Turn this off if you only want to share what you publish in the editor."
 msgstr "डिफ़ॉल्ट रूप से चालू है। कोड से बने आइटम (जैसे ऑटो ब्लॉग या फ़ीड इम्पोर्ट टूल) ऊपर के प्लेटफ़ॉर्म पर साझा किए जाते हैं। अगर आप सिर्फ़ एडिटर में प्रकाशित आइटम साझा करना चाहते हैं तो इसे बंद करें।"
 
-#: includes/Admin/Page.php:393
+#: includes/Admin/Page.php:394
 msgid "Skip imported items older than"
 msgstr "इससे पुराने इम्पोर्ट किए आइटम छोड़ें:"
 
-#: includes/Admin/Page.php:393
+#: includes/Admin/Page.php:394
 msgid "hours"
 msgstr "घंटे"
 
-#: includes/Admin/Page.php:395
+#: includes/Admin/Page.php:396
 msgid "Deleting items"
 msgstr "आइटम हटाना"
 
-#: includes/Admin/Page.php:395
+#: includes/Admin/Page.php:396
 msgid "Delete the shared posts when the item is deleted"
 msgstr "आइटम हटाए जाने पर साझा की गई पोस्ट भी हटाएँ"
 
-#: includes/Admin/Page.php:396
+#: includes/Admin/Page.php:397
 msgid "Off by default. When you move an item to the trash or delete it, SmokyPost also removes its posts from Facebook, LinkedIn, Bluesky, Mastodon, Threads and Tumblr. Instagram does not allow other apps to delete posts, so those have to be deleted in the Instagram app. Restoring an item from the trash does not bring the social posts back."
 msgstr "डिफ़ॉल्ट रूप से बंद है। जब आप किसी आइटम को ट्रैश में भेजते हैं या हटाते हैं, तो SmokyPost Facebook, LinkedIn, Bluesky, Mastodon, Threads और Tumblr पर उसकी पोस्ट भी हटा देता है। Instagram दूसरे ऐप को पोस्ट हटाने की अनुमति नहीं देता, इसलिए आपको उन्हें Instagram ऐप में खुद हटाना होगा। ट्रैश से किसी आइटम को वापस लाने पर सोशल मीडिया की पोस्ट वापस नहीं आतीं।"
 
-#: includes/Admin/Page.php:398
+#: includes/Admin/Page.php:399
 msgid "Message template"
 msgstr "संदेश टेम्पलेट"
 
-#: includes/Admin/Page.php:400
+#: includes/Admin/Page.php:401
 msgid "Placeholders:"
 msgstr "प्लेसहोल्डर:"
 
-#: includes/Admin/Page.php:400
+#: includes/Admin/Page.php:401
 msgid "The link is added by each platform as a preview card; on Instagram it is added to the end of the text."
 msgstr "हर प्लेटफ़ॉर्म लिंक को प्रीव्यू कार्ड के रूप में जोड़ता है; Instagram पर लिंक टेक्स्ट के अंत में जुड़ता है।"
 
-#: includes/Admin/Page.php:401
+#: includes/Admin/Page.php:402
 msgid "Turn post tags into hashtags for {hashtags}"
 msgstr "पोस्ट के टैग को {hashtags} के लिए हैशटैग में बदलें"
 
-#: includes/Admin/Page.php:403
+#: includes/Admin/Page.php:404
 msgid "Default image"
 msgstr "डिफ़ॉल्ट इमेज"
 
-#: includes/Admin/Page.php:404
+#: includes/Admin/Page.php:405
 msgid "Used when an item has no featured image and no image in its content. Instagram always needs an image."
 msgstr "तब इस्तेमाल होती है जब आइटम में न फ़ीचर्ड इमेज हो और न सामग्री में कोई इमेज। Instagram को हमेशा इमेज चाहिए।"
 
-#: includes/Admin/Page.php:418
+#: includes/Admin/Page.php:419
 msgid "E-mail me when"
 msgstr "मुझे ईमेल भेजें जब"
 
-#: includes/Admin/Page.php:419
+#: includes/Admin/Page.php:420
 msgid "a share fails"
 msgstr "कोई शेयर विफल हो"
 
-#: includes/Admin/Page.php:420
+#: includes/Admin/Page.php:421
 msgid "an item was shared"
 msgstr "कोई सामग्री शेयर हो"
 
-#: includes/Admin/Page.php:421
+#: includes/Admin/Page.php:422
 msgid "You get one e-mail per item. A failed share is reported after SmokyPost has tried several times, and the same problem on the same platform is reported once a day. An e-mail that a connection has expired is always sent."
 msgstr "आपको हर सामग्री पर एक ईमेल मिलता है। विफल शेयर की सूचना तब दी जाती है जब SmokyPost कई बार कोशिश कर चुका हो, और उसी प्लैटफ़ॉर्म पर वही समस्या दिन में एक बार बताई जाती है। कनेक्शन की अवधि समाप्त होने का ईमेल हमेशा भेजा जाता है।"
 
-#: includes/Admin/Page.php:423
+#: includes/Admin/Page.php:424
 msgid "Send e-mails to"
 msgstr "ईमेल यहाँ भेजें"
 
 #. translators: %s: e-mail address
-#: includes/Admin/Page.php:426
+#: includes/Admin/Page.php:427
 #, php-format
 msgid "Separate several addresses with commas. Leave empty to use the administrator address of this site (%s)."
 msgstr "कई पते अल्पविराम से अलग करें। इस साइट के व्यवस्थापक का पता (%s) इस्तेमाल करने के लिए खाली छोड़ें।"
 
-#: includes/Admin/Page.php:428
+#: includes/Admin/Page.php:429
 msgid "SMTP"
 msgstr "SMTP"
 
-#: includes/Admin/Page.php:429
+#: includes/Admin/Page.php:430
 msgid "Send SmokyPost e-mails through an SMTP account"
 msgstr "SmokyPost के ईमेल SMTP खाते से भेजें"
 
-#: includes/Admin/Page.php:430
+#: includes/Admin/Page.php:431
 msgid "Use this when e-mails from your site do not arrive. Only the e-mails of SmokyPost use this account, other e-mails of your site stay as they are. You do not need a separate SMTP plugin for SmokyPost."
 msgstr "जब आपकी साइट के ईमेल न पहुँचें तब इसका उपयोग करें। इस खाते का उपयोग केवल SmokyPost के ईमेल करते हैं, साइट के बाक़ी ईमेल जैसे हैं वैसे रहते हैं। SmokyPost के लिए अलग SMTP प्लगइन की ज़रूरत नहीं है।"
 
-#: includes/Admin/Page.php:432
+#: includes/Admin/Page.php:433
 msgid "SMTP server"
 msgstr "SMTP सर्वर"
 
-#: includes/Admin/Page.php:433
+#: includes/Admin/Page.php:434
 msgid "Port"
 msgstr "पोर्ट"
 
-#: includes/Admin/Page.php:434
+#: includes/Admin/Page.php:435
 msgid "Encryption"
 msgstr "एन्क्रिप्शन"
 
-#: includes/Admin/Page.php:436
+#: includes/Admin/Page.php:437
 msgid "TLS (usually port 587)"
 msgstr "TLS (आमतौर पर पोर्ट 587)"
 
-#: includes/Admin/Page.php:437
+#: includes/Admin/Page.php:438
 msgid "SSL (usually port 465)"
 msgstr "SSL (आमतौर पर पोर्ट 465)"
 
-#: includes/Admin/Page.php:438
+#: includes/Admin/Page.php:439
 msgid "No encryption"
 msgstr "कोई एन्क्रिप्शन नहीं"
 
-#: includes/Admin/Page.php:443
+#: includes/Admin/Page.php:444
 msgid "Username"
 msgstr "उपयोगकर्ता नाम"
 
-#: includes/Admin/Page.php:447
+#: includes/Admin/Page.php:448
 msgid "The password is set in wp-config.php."
 msgstr "पासवर्ड wp-config.php में सेट है।"
 
-#: includes/Admin/Page.php:451
+#: includes/Admin/Page.php:452
 msgid "A password is saved. Leave this empty to keep it."
 msgstr "एक पासवर्ड सहेजा गया है। उसे रखने के लिए इसे खाली छोड़ें।"
 
-#: includes/Admin/Page.php:451
+#: includes/Admin/Page.php:452
 msgid "Remove the saved password"
 msgstr "सहेजा गया पासवर्ड हटाएँ"
 
-#: includes/Admin/Page.php:453
+#: includes/Admin/Page.php:454
 msgid "The password is stored encrypted and never shown again. For Gmail and Outlook use an app password."
 msgstr "पासवर्ड एन्क्रिप्ट करके रखा जाता है और दोबारा कभी नहीं दिखाया जाता। Gmail और Outlook के लिए ऐप पासवर्ड इस्तेमाल करें।"
 
-#: includes/Admin/Page.php:457
+#: includes/Admin/Page.php:458
 msgid "From e-mail"
 msgstr "भेजने वाले का ईमेल"
 
-#: includes/Admin/Page.php:458
+#: includes/Admin/Page.php:459
 msgid "Most providers only accept an address that belongs to the account."
 msgstr "ज़्यादातर प्रदाता केवल वही पता स्वीकार करते हैं जो खाते का हो।"
 
-#: includes/Admin/Page.php:459
+#: includes/Admin/Page.php:460
 msgid "From name"
 msgstr "भेजने वाले का नाम"
 
-#: includes/Admin/Page.php:462
+#: includes/Admin/Page.php:463
 msgid "Save Changes"
 msgstr "बदलाव सहेजें"
 
-#: includes/Admin/Page.php:463
+#: includes/Admin/Page.php:464
 msgid "Send a test e-mail"
 msgstr "टेस्ट ईमेल भेजें"
 
-#: includes/Admin/Page.php:464
+#: includes/Admin/Page.php:465
 msgid "The test e-mail saves the values above first and then uses them."
 msgstr "टेस्ट ईमेल पहले ऊपर के मान सहेजता है और फिर उनका उपयोग करता है।"
 
 #. translators: %d: number of days
-#: includes/Admin/Page.php:479
+#: includes/Admin/Page.php:480
 #, php-format
 msgid "Shares of the last %d day."
 msgid_plural "Shares of the last %d days."
 msgstr[0] "पिछले %d दिन में साझा किए गए आइटम।"
 msgstr[1] "पिछले %d दिनों में साझा किए गए आइटम।"
 
-#: includes/Admin/Page.php:491
+#: includes/Admin/Page.php:492
 msgid "Date"
 msgstr "तारीख़"
 
-#: includes/Admin/Page.php:491
+#: includes/Admin/Page.php:492
 msgid "Item"
 msgstr "आइटम"
 
-#: includes/Admin/Page.php:491
+#: includes/Admin/Page.php:492
 msgid "Result"
 msgstr "नतीजा"
 
-#: includes/Admin/Page.php:507
+#: includes/Admin/Page.php:508
 msgid "Nothing shared yet."
 msgstr "अभी तक कुछ भी साझा नहीं किया गया।"
 
-#: includes/Admin/Page.php:516
+#: includes/Admin/Page.php:517
 msgid "Clear history"
 msgstr "इतिहास साफ़ करें"
 
-#: includes/Admin/Page.php:516
+#: includes/Admin/Page.php:517
 msgid "Clear the history for the dates you choose, or all of it? What was already shared stays on your social accounts. Cleared items no longer show in this list."
 msgstr "कुछ तारीख़ों का इतिहास साफ़ करें या पूरा? जो पहले ही साझा हो चुका है वह आपके सोशल मीडिया पर बना रहता है। साफ़ की गई प्रविष्टियाँ इस सूची में नहीं दिखेंगी।"
 
-#: includes/Admin/Page.php:518
+#: includes/Admin/Page.php:519
 msgid "From"
 msgstr "से"
 
-#: includes/Admin/Page.php:520
+#: includes/Admin/Page.php:521
 msgid "To"
 msgstr "तक"
 
-#: includes/Admin/Page.php:523
+#: includes/Admin/Page.php:524
 msgid "Leave the date empty to start at the first item or end today."
 msgstr "पहली प्रविष्टि से शुरू करने या आज पर खत्म करने के लिए तारीख़ खाली छोड़ें।"
 
-#: includes/Admin/Page.php:524
+#: includes/Admin/Page.php:525
 msgid "Clear these dates"
 msgstr "ये तारीख़ें साफ़ करें"
 
-#: includes/Admin/Page.php:524
+#: includes/Admin/Page.php:525
 msgid "Clear all history"
 msgstr "पूरा इतिहास साफ़ करें"
 
-#: includes/Admin/Page.php:534 includes/Admin/Page.php:534
+#: includes/Admin/Page.php:535 includes/Admin/Page.php:535
 msgid "Day"
 msgstr "दिन"
 
-#: includes/Admin/Page.php:538 includes/Admin/Page.php:538
+#: includes/Admin/Page.php:539 includes/Admin/Page.php:539
 msgid "Month"
 msgstr "महीना"
 
-#: includes/Admin/Page.php:542 includes/Admin/Page.php:542
+#: includes/Admin/Page.php:543 includes/Admin/Page.php:543
 msgid "Year"
 msgstr "साल"
 
-#: includes/Admin/Page.php:559 includes/Admin/Page.php:670
+#: includes/Admin/Page.php:560 includes/Admin/Page.php:671
 msgid "Plan"
 msgstr "प्लान"
 
-#: includes/Admin/Page.php:560
+#: includes/Admin/Page.php:561
 msgid "License key"
 msgstr "लाइसेंस कुंजी"
 
-#: includes/Admin/Page.php:561
+#: includes/Admin/Page.php:562
 msgid "Shared today"
 msgstr "आज साझा किए गए"
 
 #. translators: 1: items used, 2: daily limit
-#: includes/Admin/Page.php:564 includes/Admin/Page.php:566
+#: includes/Admin/Page.php:565 includes/Admin/Page.php:567
 #, php-format
 msgid "%1$d of %2$d items"
 msgstr "%2$d में से %1$d आइटम"
 
-#: includes/Admin/Page.php:569
+#: includes/Admin/Page.php:570
 msgid "This site"
 msgstr "यह साइट"
 
-#: includes/Admin/Page.php:574
+#: includes/Admin/Page.php:575
 msgid "Disconnect this site"
 msgstr "इस साइट को डिस्कनेक्ट करें"
 
-#: includes/Admin/Page.php:574
+#: includes/Admin/Page.php:575
 msgid "Disconnect this site from SmokyPost? Sharing stops until you sign in again."
 msgstr "इस साइट को SmokyPost से डिस्कनेक्ट करें? दोबारा लॉग इन करने तक साझा करना रुक जाएगा।"
 
-#: includes/Admin/Page.php:576
+#: includes/Admin/Page.php:577
 msgid "Yes, disconnect"
 msgstr "हाँ, डिस्कनेक्ट करें"
 
-#: includes/Admin/Page.php:585
+#: includes/Admin/Page.php:586
 msgid "How Pro works"
 msgstr "Pro कैसे काम करता है"
 
-#: includes/Admin/Page.php:586
+#: includes/Admin/Page.php:587
 msgid "Pay securely through Paddle."
 msgstr "Paddle के ज़रिए सुरक्षित रूप से भुगतान करें।"
 
-#: includes/Admin/Page.php:587
+#: includes/Admin/Page.php:588
 msgid "Download SmokyPost Pro with the button below."
 msgstr "नीचे दिए बटन से SmokyPost Pro डाउनलोड करें।"
 
-#: includes/Admin/Page.php:587
+#: includes/Admin/Page.php:588
 msgid "Come back to this page. A \"Download SmokyPost Pro\" button appears, and we e-mail you the same link."
 msgstr "इस पेज पर वापस आएँ। \"SmokyPost Pro डाउनलोड करें\" बटन दिखेगा, और हम वही लिंक ईमेल से भी भेजते हैं।"
 
-#: includes/Admin/Page.php:588
+#: includes/Admin/Page.php:589
 msgid "Install it under Plugins > Add New > Upload Plugin and activate it. Your license is picked up automatically, there is no key to enter."
 msgstr "प्लगइन > नया जोड़ें > प्लगइन अपलोड करें से इंस्टॉल करें और सक्रिय करें। आपका लाइसेंस अपने-आप पहचान लिया जाता है, इसलिए कुंजी डालने की ज़रूरत नहीं।"
 
-#: includes/Admin/Page.php:589
+#: includes/Admin/Page.php:590
 msgid "SmokyPost Pro is a second plugin that works together with SmokyPost: keep both active. It takes about a minute. Full refund within 14 days of your first payment."
 msgstr "SmokyPost Pro दूसरा प्लगइन है जो SmokyPost के साथ काम करता है: दोनों को सक्रिय रखें। इसमें करीब एक मिनट लगता है। पहले भुगतान के 14 दिन के भीतर पूरा रिफ़ंड।"
 
-#: includes/Admin/Page.php:603
+#: includes/Admin/Page.php:604
 msgid "Your payment is taking longer than usual to show here. Reload this page in a few minutes. If your plan is still Free after an hour, write to info@smokypost.com."
 msgstr "आपके भुगतान को यहाँ दिखने में सामान्य से ज़्यादा समय लग रहा है। कुछ मिनट बाद पेज रीफ़्रेश करें। अगर एक घंटे बाद भी प्लान Free ही रहे, तो हमें info@smokypost.com पर लिखें।"
 
-#: includes/Admin/Page.php:607
+#: includes/Admin/Page.php:608
 msgid "Payment received. Your plan will be active in a moment, this page checks again by itself."
 msgstr "भुगतान मिल गया। आपका प्लान जल्द ही सक्रिय होगा, और यह पेज खुद जाँच करता है।"
 
-#: includes/Admin/Page.php:619
+#: includes/Admin/Page.php:620
 msgid "SmokyPost Pro"
 msgstr "SmokyPost Pro"
 
 #. translators: %s: version number
-#: includes/Admin/Page.php:622
+#: includes/Admin/Page.php:623
 #, php-format
 msgid "SmokyPost Pro %s is installed and active."
 msgstr "SmokyPost Pro %s इंस्टॉल और सक्रिय हो गया है।"
 
-#: includes/Admin/Page.php:623
+#: includes/Admin/Page.php:624
 msgid "Its settings are under SmokyPost > Pro, the calendar under SmokyPost > Calendar. It updates itself."
 msgstr "इसकी सेटिंग SmokyPost > Pro में हैं, और कैलेंडर SmokyPost > कैलेंडर में। यह अपने-आप अपडेट होता है।"
 
-#: includes/Admin/Page.php:630
+#: includes/Admin/Page.php:631
 msgid "SmokyPost Pro is installed but not active. Activate it on the Plugins page."
 msgstr "SmokyPost Pro इंस्टॉल हो गया है लेकिन सक्रिय नहीं है। इसे प्लगइन पेज पर सक्रिय करें।"
 
-#: includes/Admin/Page.php:630
+#: includes/Admin/Page.php:631
 msgid "Open Plugins"
 msgstr "प्लगइन खोलें"
 
-#: includes/Admin/Page.php:635
+#: includes/Admin/Page.php:636
 msgid "Download SmokyPost Pro"
 msgstr "SmokyPost Pro डाउनलोड करें"
 
-#: includes/Admin/Page.php:636
+#: includes/Admin/Page.php:637
 msgid "The link works for an hour. You can come back here and get a new one any time."
 msgstr "लिंक एक घंटे के लिए मान्य है। नया लिंक पाने के लिए आप कभी भी यहाँ वापस आ सकते हैं।"
 
-#: includes/Admin/Page.php:646 includes/Admin/Page.php:1266 includes/Api.php:130
+#: includes/Admin/Page.php:647 includes/Admin/Page.php:1267 includes/Api.php:130
 msgid "Something went wrong. Please try again."
 msgstr "कुछ गड़बड़ हो गई। फिर कोशिश करें।"
 
-#: includes/Admin/Page.php:665
+#: includes/Admin/Page.php:666
 msgid "Plans"
 msgstr "प्लान"
 
-#: includes/Admin/Page.php:670
+#: includes/Admin/Page.php:671
 msgid "Sites"
 msgstr "साइट"
 
-#: includes/Admin/Page.php:670
+#: includes/Admin/Page.php:671
 msgid "Items per day"
 msgstr "प्रतिदिन आइटम"
 
-#: includes/Admin/Page.php:670
+#: includes/Admin/Page.php:671
 msgid "Price"
 msgstr "कीमत"
 
 #. translators: %s: price, for example $39
-#: includes/Admin/Page.php:678
+#: includes/Admin/Page.php:679
 #, php-format
 msgid "%s per year"
 msgstr "%s प्रति वर्ष"
 
-#: includes/Admin/Page.php:680
+#: includes/Admin/Page.php:681
 msgid "Current plan"
 msgstr "मौजूदा प्लान"
 
-#: includes/Admin/Page.php:683
+#: includes/Admin/Page.php:684
 msgid "Switch to this plan"
 msgstr "इस प्लान पर जाएँ"
 
-#: includes/Admin/Page.php:683
+#: includes/Admin/Page.php:684
 msgid "Upgrade"
 msgstr "अपग्रेड करें"
 
-#: includes/Admin/Page.php:688
+#: includes/Admin/Page.php:689
 msgid "Payments are handled securely by Paddle. Prices are in US dollars, taxes are added at checkout where they apply."
 msgstr "भुगतान Paddle द्वारा सुरक्षित रूप से प्रोसेस किए जाते हैं। कीमतें अमेरिकी डॉलर में हैं, और जहाँ लागू हो वहाँ चेकआउट पर कर जुड़ता है।"
 
-#: includes/Admin/Page.php:690
+#: includes/Admin/Page.php:691
 msgid "A plan change applies right away. You will see the exact amount and confirm it before anything is charged."
 msgstr "प्लान बदलना तुरंत लागू होता है। कुछ भी चार्ज होने से पहले आप सटीक राशि देखेंगे और उसे मंज़ूर करेंगे।"
 
-#: includes/Admin/Page.php:692 includes/Admin/Page.php:776
+#: includes/Admin/Page.php:693 includes/Admin/Page.php:777
 msgid "Manage subscription"
 msgstr "सदस्यता प्रबंधित करें"
 
-#: includes/Admin/Page.php:703
+#: includes/Admin/Page.php:704
 msgid "Cancel and refund"
 msgstr "रद्द करें और रिफ़ंड पाएँ"
 
-#: includes/Admin/Page.php:705
+#: includes/Admin/Page.php:706
 msgid "Refunds are available within 14 days of your first payment. You can stop the renewal at any time from Manage subscription."
 msgstr "पहले भुगतान के 14 दिन के भीतर रिफ़ंड मिल सकता है। आप कभी भी \"सदस्यता प्रबंधित करें\" में नवीनीकरण रोक सकते हैं।"
 
-#: includes/Admin/Page.php:706 includes/Admin/Page.php:717
+#: includes/Admin/Page.php:707 includes/Admin/Page.php:718
 msgid "Questions about a payment? Write to info@smokypost.com."
 msgstr "बिलिंग के बारे में सवाल? हमें info@smokypost.com पर लिखें।"
 
 #. translators: %s: date
-#: includes/Admin/Page.php:712
+#: includes/Admin/Page.php:713
 #, php-format
 msgid "You can cancel and get a full refund until %s."
 msgstr "आप %s तक रद्द करके पूरा रिफ़ंड पा सकते हैं।"
 
-#: includes/Admin/Page.php:714
+#: includes/Admin/Page.php:715
 msgid "Cancel and get a refund"
 msgstr "रद्द करें और रिफ़ंड पाएँ"
 
-#: includes/Admin/Page.php:714
+#: includes/Admin/Page.php:715
 msgid "Cancel your subscription and get a full refund? Everything you paid is returned to the card you paid with. Nothing is deducted for the days you used. Your plan ends right away and this site goes back to Free."
 msgstr "सदस्यता रद्द करके पूरा रिफ़ंड लें? आपने जो भी भुगतान किया है वह पूरा उसी कार्ड पर लौटाया जाएगा जिससे भुगतान हुआ था। इस्तेमाल किए गए दिनों की कोई कटौती नहीं होगी। आपका प्लान तुरंत खत्म हो जाएगा और यह साइट Free पर लौट जाएगी।"
 
-#: includes/Admin/Page.php:716
+#: includes/Admin/Page.php:717
 msgid "Yes, cancel and refund"
 msgstr "हाँ, रद्द करें और रिफ़ंड दें"
 
-#: includes/Admin/Page.php:730 includes/Admin/Page.php:814
+#: includes/Admin/Page.php:731 includes/Admin/Page.php:815
 msgid "Starter"
 msgstr "Starter"
 
-#: includes/Admin/Page.php:731 includes/Admin/Page.php:815
+#: includes/Admin/Page.php:732 includes/Admin/Page.php:816
 msgid "Pro"
 msgstr "Pro"
 
-#: includes/Admin/Page.php:732 includes/Admin/Page.php:816
+#: includes/Admin/Page.php:733 includes/Admin/Page.php:817
 msgid "Agency"
 msgstr "Agency"
 
 #. translators: %s: plan name
-#: includes/Admin/Page.php:741
+#: includes/Admin/Page.php:742
 #, php-format
 msgid "Switch to the %s plan"
 msgstr "%s पर जाएँ"
 
 #. translators: 1: amount, for example $30.00, 2: card, for example Visa ending in 4242
-#: includes/Admin/Page.php:747
+#: includes/Admin/Page.php:748
 #, php-format
 msgid "You will be charged %1$s today on the card you paid with (%2$s)."
 msgstr "आज %1$s (%2$s) उसी कार्ड पर चार्ज किया जाएगा जिससे आपने भुगतान किया था।"
 
 #. translators: %s: amount, for example $30.00
-#: includes/Admin/Page.php:750
+#: includes/Admin/Page.php:751
 #, php-format
 msgid "You will be charged %s today on the card you paid with."
 msgstr "आज %s उसी कार्ड पर चार्ज किया जाएगा जिससे आपने भुगतान किया था।"
 
 #. translators: %s: date
-#: includes/Admin/Page.php:755
+#: includes/Admin/Page.php:756
 #, php-format
 msgid "Your next renewal stays on %s."
 msgstr "अगला नवीनीकरण %s को ही रहेगा।"
 
-#: includes/Admin/Page.php:758
+#: includes/Admin/Page.php:759
 msgid "Nothing is charged today."
 msgstr "आज कुछ भी चार्ज नहीं होगा।"
 
 #. translators: %s: date
-#: includes/Admin/Page.php:762
+#: includes/Admin/Page.php:763
 #, php-format
 msgid "The price difference is credited at your next renewal on %s."
 msgstr "कीमत का अंतर अगले नवीनीकरण, %s, पर जुड़ेगा।"
 
-#: includes/Admin/Page.php:764
+#: includes/Admin/Page.php:765
 msgid "The price difference is credited at your next renewal."
 msgstr "कीमत का अंतर अगले नवीनीकरण पर जुड़ेगा।"
 
-#: includes/Admin/Page.php:767
+#: includes/Admin/Page.php:768
 msgid "Shall we continue?"
 msgstr "जारी रखें?"
 
 #. translators: %s: amount, for example $30.00
-#: includes/Admin/Page.php:770
+#: includes/Admin/Page.php:771
 #, php-format
 msgid "Yes, charge %s"
 msgstr "हाँ, %s चार्ज करें"
 
-#: includes/Admin/Page.php:770
+#: includes/Admin/Page.php:771
 msgid "Yes, switch plan"
 msgstr "हाँ, प्लान बदलें"
 
-#: includes/Admin/Page.php:774
+#: includes/Admin/Page.php:775
 msgid "Want to pay with another card? Open Manage subscription, update your payment method, then switch plans again."
 msgstr "किसी दूसरे कार्ड से भुगतान करना चाहते हैं? \"सदस्यता प्रबंधित करें\" खोलें, भुगतान का तरीका अपडेट करें और फिर प्लान दोबारा बदलें।"
 
 #. translators: %s: last four digits of a card
-#: includes/Admin/Page.php:802
+#: includes/Admin/Page.php:803
 #, php-format
 msgid "ending in %s"
 msgstr "अंतिम अंक %s"
 
 #. translators: 1: card brand, for example Visa, 2: last four digits
-#: includes/Admin/Page.php:805
+#: includes/Admin/Page.php:806
 #, php-format
 msgid "%1$s ending in %2$s"
 msgstr "%1$s, अंतिम अंक %2$s"
 
-#: includes/Admin/Page.php:813
+#: includes/Admin/Page.php:814
 msgid "Free"
 msgstr "Free"
 
-#: includes/Admin/Page.php:831
+#: includes/Admin/Page.php:832
 msgid "Sharing is paused until you confirm your e-mail address."
 msgstr "आपके ईमेल पते की पुष्टि होने तक साझा करना रुका हुआ है।"
 
 #. translators: %d: days left
-#: includes/Admin/Page.php:833
+#: includes/Admin/Page.php:834
 #, php-format
 msgid "Please confirm your e-mail address. Sharing pauses in %d day if you do not."
 msgid_plural "Please confirm your e-mail address. Sharing pauses in %d days if you do not."
 msgstr[0] "अपने ईमेल पते की पुष्टि करें। ऐसा न करने पर %d दिन में साझा करना रुक जाएगा।"
 msgstr[1] "अपने ईमेल पते की पुष्टि करें। ऐसा न करने पर %d दिनों में साझा करना रुक जाएगा।"
 
-#: includes/Admin/Page.php:836
+#: includes/Admin/Page.php:837
 msgid "Send the link again"
 msgstr "लिंक दोबारा भेजें"
 
-#: includes/Admin/Page.php:869
+#: includes/Admin/Page.php:870
 msgid "Bluesky handle"
 msgstr "Bluesky यूज़रनेम"
 
-#: includes/Admin/Page.php:870
+#: includes/Admin/Page.php:871
 msgid "App password"
 msgstr "ऐप पासवर्ड"
 
-#: includes/Admin/Page.php:871
+#: includes/Admin/Page.php:872
 msgid "Use an app password, not your main Bluesky password. It can only be used by apps like this one and you can delete it in Bluesky at any time."
 msgstr "ऐप पासवर्ड इस्तेमाल करें, अपना मुख्य Bluesky पासवर्ड नहीं। इसे सिर्फ़ इस जैसे ऐप इस्तेमाल कर सकते हैं, और आप इसे Bluesky में कभी भी हटा सकते हैं।"
 
-#: includes/Admin/Page.php:872
+#: includes/Admin/Page.php:873
 msgid "How do I get an app password?"
 msgstr "ऐप पासवर्ड कैसे मिलेगा?"
 
 #. translators: %s: link to the Bluesky app password page
-#: includes/Admin/Page.php:873
+#: includes/Admin/Page.php:874
 #, php-format
 msgid "Open %s (or Settings > Privacy and security > App passwords in Bluesky)."
 msgstr "%s खोलें (या Bluesky में: सेटिंग > गोपनीयता और सुरक्षा > ऐप पासवर्ड)।"
 
-#: includes/Admin/Page.php:874
+#: includes/Admin/Page.php:875
 msgid "Click \"Add App Password\" and name it SmokyPost."
 msgstr "\"Add App Password\" पर क्लिक करें और उसका नाम SmokyPost रखें।"
 
-#: includes/Admin/Page.php:875
+#: includes/Admin/Page.php:876
 msgid "Copy the password Bluesky shows and paste it here."
 msgstr "Bluesky जो पासवर्ड दिखाए उसे कॉपी करके यहाँ चिपकाएँ।"
 
-#: includes/Admin/Page.php:881
+#: includes/Admin/Page.php:882
 msgid "Your Mastodon server"
 msgstr "आपका Mastodon सर्वर"
 
-#: includes/Admin/Page.php:882
+#: includes/Admin/Page.php:883
 msgid "The address of the server your account is on, for example mastodon.social, or your full name like @name@mastodon.social. You will approve SmokyPost on that server."
 msgstr "उस सर्वर का पता जहाँ आपका खाता है, जैसे mastodon.social, या @नाम@mastodon.social रूप में आपका पूरा नाम। आप उसी सर्वर पर SmokyPost को अनुमति देंगे।"
 
-#: includes/Admin/Page.php:921
+#: includes/Admin/Page.php:922
 msgid "Signed in. Now choose the account this site shares to."
 msgstr "आपने लॉग इन कर लिया। अब वह खाता चुनें जिस पर यह साइट साझा करेगी।"
 
-#: includes/Admin/Page.php:923
+#: includes/Admin/Page.php:924
 msgid "The sign-in was cancelled."
 msgstr "लॉगिन रद्द कर दिया गया।"
 
-#: includes/Admin/Page.php:924
+#: includes/Admin/Page.php:925
 msgid "The sign-in did not work. Please try again."
 msgstr "लॉगिन विफल रहा। फिर कोशिश करें।"
 
-#: includes/Admin/Page.php:940
+#: includes/Admin/Page.php:941
 msgid "Good to know:"
 msgstr "जानने लायक बातें:"
 
-#: includes/Admin/Page.php:940
+#: includes/Admin/Page.php:941
 msgid "SmokyPost shares new posts automatically when they are published, including posts created by other plugins, importers or the REST API. You can turn automatic sharing on or off for each platform on its card below or under Settings."
 msgstr "SmokyPost नई पोस्ट प्रकाशित होते ही उन्हें अपने-आप साझा करता है, उनमें वे भी शामिल हैं जो दूसरे प्लगइन, इम्पोर्ट टूल या REST API से बनी हों। आप नीचे हर प्लेटफ़ॉर्म के कार्ड में या सेटिंग में प्लेटफ़ॉर्म के हिसाब से अपने-आप साझा करना चालू या बंद कर सकते हैं।"
 
-#: includes/Admin/Page.php:942
+#: includes/Admin/Page.php:943
 msgid "Got it"
 msgstr "समझ गया"
 
-#: includes/Admin/Page.php:942
+#: includes/Admin/Page.php:943
 msgid "Open settings"
 msgstr "सेटिंग खोलें"
 
-#: includes/Admin/Page.php:954
+#: includes/Admin/Page.php:955
 msgid "SmokyPost is almost ready."
 msgstr "SmokyPost लगभग तैयार है।"
 
-#: includes/Admin/Page.php:954
+#: includes/Admin/Page.php:955
 msgid "Connect this site"
 msgstr "इस साइट को कनेक्ट करें"
 
-#: includes/Admin/Page.php:967
+#: includes/Admin/Page.php:968
 msgid "You are not allowed to do this."
 msgstr "आपको यह कार्रवाई करने की अनुमति नहीं है।"
 
-#: includes/Admin/Page.php:1013 includes/Admin/Page.php:1081
+#: includes/Admin/Page.php:1014 includes/Admin/Page.php:1082
 msgid "Please enter a valid e-mail address."
 msgstr "मान्य ईमेल पता दर्ज करें।"
 
-#: includes/Admin/Page.php:1015
+#: includes/Admin/Page.php:1016
 msgid "Please enter your password."
 msgstr "अपना पासवर्ड दर्ज करें।"
 
-#: includes/Admin/Page.php:1017
+#: includes/Admin/Page.php:1018
 msgid "Please use a password with at least 8 characters."
 msgstr "कम से कम 8 अक्षर का पासवर्ड इस्तेमाल करें।"
 
-#: includes/Admin/Page.php:1019
+#: includes/Admin/Page.php:1020
 msgid "Please accept the Terms of Service and the Privacy Policy."
 msgstr "सेवा की शर्तों और गोपनीयता नीति से सहमत हों।"
 
-#: includes/Admin/Page.php:1042
+#: includes/Admin/Page.php:1043
 msgid "Your account is ready and this site is connected. We sent you an e-mail to confirm your address."
 msgstr "आपका खाता तैयार है और यह साइट कनेक्ट हो गई है। आपके पते की पुष्टि के लिए हमने ईमेल भेजा है।"
 
-#: includes/Admin/Page.php:1058
+#: includes/Admin/Page.php:1059
 msgid "Signed in. This site is connected."
 msgstr "आपने लॉग इन कर लिया। यह साइट कनेक्ट हो गई है।"
 
-#: includes/Admin/Page.php:1064
+#: includes/Admin/Page.php:1065
 msgid "Please enter your license key."
 msgstr "अपनी लाइसेंस कुंजी दर्ज करें।"
 
-#: includes/Admin/Page.php:1075
+#: includes/Admin/Page.php:1076
 msgid "License activated. This site is connected."
 msgstr "लाइसेंस सक्रिय हो गया। यह साइट कनेक्ट हो गई है।"
 
-#: includes/Admin/Page.php:1084
+#: includes/Admin/Page.php:1085
 msgid "If an account exists for this address, we sent a link to reset the password."
 msgstr "अगर उस पते से कोई खाता है, तो हमने पासवर्ड रीसेट लिंक भेज दिया है।"
 
-#: includes/Admin/Page.php:1092
+#: includes/Admin/Page.php:1093
 msgid "This site is disconnected from SmokyPost."
 msgstr "यह साइट SmokyPost से डिस्कनेक्ट कर दी गई है।"
 
-#: includes/Admin/Page.php:1117
+#: includes/Admin/Page.php:1118
 msgid "Please choose valid dates."
 msgstr "मान्य तारीख़ें चुनें।"
 
-#: includes/Admin/Page.php:1121
+#: includes/Admin/Page.php:1122
 msgid "The first date must be before the last date."
 msgstr "शुरू की तारीख़ अंतिम तारीख़ से पहले होनी चाहिए।"
 
 #. translators: %d: number of items
-#: includes/Admin/Page.php:1135
+#: includes/Admin/Page.php:1136
 #, php-format
 msgid "Cleared %d item from the history."
 msgid_plural "Cleared %d items from the history."
 msgstr[0] "इतिहास से %d प्रविष्टि साफ़ की गई।"
 msgstr[1] "इतिहास से %d प्रविष्टियाँ साफ़ की गईं।"
 
-#: includes/Admin/Page.php:1135
+#: includes/Admin/Page.php:1136
 msgid "There was nothing to clear. Items that are still being sent stay in the list."
 msgstr "साफ़ करने के लिए कुछ नहीं था। जो प्रविष्टियाँ अभी भेजी जा रही हैं वे सूची में बनी रहती हैं।"
 
-#: includes/Admin/Page.php:1143
+#: includes/Admin/Page.php:1144
 msgid "We sent the confirmation link again."
 msgstr "हमने पुष्टि लिंक दोबारा भेज दिया है।"
 
-#: includes/Admin/Page.php:1193
+#: includes/Admin/Page.php:1194
 msgid "Connected. Now choose the account this site shares to."
 msgstr "कनेक्ट हो गया। अब वह खाता चुनें जिस पर यह साइट साझा करेगी।"
 
-#: includes/Admin/Page.php:1228
+#: includes/Admin/Page.php:1229
 msgid "That plan change has expired. Please choose the plan again."
 msgstr "प्लान का यह बदलाव समाप्त हो गया है। प्लान फिर से चुनें।"
 
-#: includes/Admin/Page.php:1240
+#: includes/Admin/Page.php:1241
 msgid "Your plan is being changed. It can take a minute to show here."
 msgstr "आपका प्लान बदला जा रहा है। यहाँ दिखने में एक मिनट लग सकता है।"
 
-#: includes/Admin/Page.php:1257
+#: includes/Admin/Page.php:1258
 msgid "Your refund has been requested and your subscription is cancelled. Paddle returns the money to the card you paid with; it can take a few days to show."
 msgstr "रिफ़ंड का अनुरोध किया गया और सदस्यता रद्द हो गई। Paddle पैसे उसी कार्ड पर लौटाता है जिससे आपने भुगतान किया था; इसमें कुछ दिन लग सकते हैं।"
 
 #. translators: 1: page name, 2: platform name
-#: includes/Admin/Page.php:1279
+#: includes/Admin/Page.php:1280
 #, php-format
 msgid "%1$s is now connected to %2$s."
 msgstr "%1$s अब %2$s से जुड़ गया है।"
 
-#: includes/Admin/Page.php:1295 includes/Admin/Page.php:1305
+#: includes/Admin/Page.php:1296 includes/Admin/Page.php:1306
 msgid "Settings saved."
 msgstr "सेटिंग सहेज ली गईं।"
 
-#: includes/Admin/Page.php:1313
+#: includes/Admin/Page.php:1314
 msgid "SmokyPost test e-mail"
 msgstr "SmokyPost टेस्ट ईमेल"
 
-#: includes/Admin/Page.php:1314
+#: includes/Admin/Page.php:1315
 msgid "This is a test e-mail from SmokyPost. If you can read it, e-mails from SmokyPost reach you."
 msgstr "यह SmokyPost का टेस्ट ईमेल है। अगर आप इसे पढ़ पा रहे हैं, तो SmokyPost के ईमेल आप तक पहुँचते हैं।"
 
 #. translators: %s: e-mail addresses
-#: includes/Admin/Page.php:1318
+#: includes/Admin/Page.php:1319
 #, php-format
 msgid "The test e-mail was sent to %s. Check your inbox and spam folder."
 msgstr "टेस्ट ईमेल %s पर भेजा गया। अपना इनबॉक्स और स्पैम फ़ोल्डर देखें।"
 
 #. translators: %s: error from the mail server
-#: includes/Admin/Page.php:1325
+#: includes/Admin/Page.php:1326
 #, php-format
 msgid "The test e-mail could not be sent: %s Check the server, port and encryption."
 msgstr "टेस्ट ईमेल नहीं भेजा जा सका: %s सर्वर, पोर्ट और एन्क्रिप्शन जाँचें।"
 
-#: includes/Admin/Page.php:1326
+#: includes/Admin/Page.php:1327
 msgid "The test e-mail could not be sent. Check the server, port and encryption."
 msgstr "टेस्ट ईमेल नहीं भेजा जा सका। सर्वर, पोर्ट और एन्क्रिप्शन जाँचें।"
 
 #. translators: %s: platform name
-#: includes/Admin/Page.php:1341
+#: includes/Admin/Page.php:1342
 #, php-format
 msgid "Automatic sharing to %s is on."
 msgstr "%s पर अपने-आप साझा करना चालू है।"
 
 #. translators: %s: platform name
-#: includes/Admin/Page.php:1343
+#: includes/Admin/Page.php:1344
 #, php-format
 msgid "Automatic sharing to %s is off."
 msgstr "%s पर अपने-आप साझा करना बंद है।"
@@ -1420,8 +1420,8 @@ msgstr "इस पोस्ट को अपने-आप नहीं हटा
 
 #. Name of the plugin
 #: smokypost.php:3
-msgid "SmokyPost – Social Auto Share for Posts and Pages"
-msgstr "SmokyPost – पोस्ट और पेज के लिए सोशल मीडिया ऑटो शेयर"
+msgid "SmokyPost – Social Auto Share"
+msgstr "SmokyPost – सोशल मीडिया ऑटो शेयर"
 
 #. Description of the plugin
 #: smokypost.php:5

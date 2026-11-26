@@ -283,7 +283,7 @@ bd9611|Nie udało się połączyć z platformą. SmokyPost próbował kilka razy
 c19c4c|Platforma odrzuciła post.
 8a0741|Konto, które opublikowało ten post, nie jest już połączone. Usuń post samodzielnie na platformie.
 ad0394|Tego posta nie można usunąć automatycznie. Usuń go samodzielnie na platformie.
-eb851e|SmokyPost – Automatyczne Udostępnianie w Mediach Społecznościowych dla Wpisów i Stron
+72082c|SmokyPost – Automatyczne Udostępnianie w Mediach Społecznościowych
 6b6724|Automatycznie udostępniaj nowe i stare wpisy oraz strony na swoich kontach w mediach społecznościowych. Nie potrzebujesz kont deweloperskich ani kluczy API.
 a274f4|Powiadomienia
 777ca2|Wyślij mi e-mail, gdy

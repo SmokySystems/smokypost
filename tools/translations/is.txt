@@ -283,7 +283,7 @@ bd9611|Ekki náðist samband við vettvanginn. SmokyPost reyndi nokkrum sinnum.
 c19c4c|Vettvangurinn hafnaði færslunni.
 8a0741|Aðgangurinn sem birti þessa færslu er ekki lengur tengdur. Eyddu færslunni sjálf(ur) á vettvanginum.
 ad0394|Ekki er hægt að eyða þessari færslu sjálfkrafa. Eyddu henni sjálf(ur) á vettvanginum.
-eb851e|SmokyPost – Sjálfvirk Deiling á Samfélagsmiðlum fyrir Færslur og Síður
+72082c|SmokyPost – Sjálfvirk Deiling á Samfélagsmiðlum
 6b6724|Deildu nýjum og gömlum færslum og síðum sjálfkrafa á samfélagsmiðlareikningana þína. Engir þróunaraðilareikningar eða API-lyklar nauðsynlegir.
 a274f4|Tilkynningar
 777ca2|Senda mér tölvupóst þegar

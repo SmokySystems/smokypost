@@ -1,4 +1,4 @@
-# SmokyPost – Social Auto Share for Posts and Pages
+# SmokyPost – Social Auto Share
 
 SmokyPost shares your WordPress posts and pages to your social media accounts when you publish them. Connect your accounts in a few clicks. No developer accounts or API keys needed.
 

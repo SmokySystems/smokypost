@@ -283,7 +283,7 @@ bd9611|La plateforme était injoignable. SmokyPost a réessayé plusieurs fois.
 c19c4c|La plateforme a rejeté la publication.
 8a0741|Le compte qui a publié ceci n’est plus connecté. Supprimez la publication vous-même sur la plateforme.
 ad0394|Cette publication ne peut pas être supprimée automatiquement. Supprimez-la vous-même sur la plateforme.
-eb851e|SmokyPost – Partage Automatique sur les Réseaux Sociaux pour Articles et Pages
+72082c|SmokyPost – Partage Automatique sur les Réseaux Sociaux
 6b6724|Partagez automatiquement vos articles et pages, récents et anciens, sur vos comptes de réseaux sociaux. Aucun compte développeur ni clé d'API requis.
 a274f4|Notifications
 777ca2|M’envoyer un e-mail quand

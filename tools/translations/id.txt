@@ -283,7 +283,7 @@ bd9611|Tidak dapat terhubung ke platform. SmokyPost sudah mencoba beberapa kali.
 c19c4c|Platform menolak postingan.
 8a0741|Akun yang memposting ini tidak lagi terhubung. Hapus postingan sendiri di platform.
 ad0394|Postingan ini tidak dapat dihapus otomatis. Hapus sendiri di platform.
-eb851e|SmokyPost – Berbagi Otomatis ke Media Sosial untuk Pos dan Halaman
+72082c|SmokyPost – Berbagi Otomatis ke Media Sosial
 6b6724|Bagikan pos dan halaman baru maupun lama secara otomatis ke akun media sosial Anda. Tidak perlu akun pengembang atau kunci API.
 a274f4|Notifikasi
 777ca2|Kirimi saya e-mail saat

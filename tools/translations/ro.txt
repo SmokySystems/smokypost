@@ -283,7 +283,7 @@ bd9611|Nu m-am putut conecta la platformă. SmokyPost a încercat de mai multe o
 c19c4c|Platforma a respins postarea.
 8a0741|Contul care a publicat această postare nu mai este conectat. Șterge postarea singur de pe platformă.
 ad0394|Această postare nu poate fi ștearsă automat. Șterge-o singur de pe platformă.
-eb851e|SmokyPost – Distribuire Automată pe Rețelele Sociale pentru Articole și Pagini
+72082c|SmokyPost – Distribuire Automată pe Rețelele Sociale
 6b6724|Distribuie automat articole și pagini noi și vechi în conturile tale de rețele sociale. Nu sunt necesare conturi de dezvoltator sau chei API.
 a274f4|Notificări
 777ca2|Trimite-mi un e-mail când
